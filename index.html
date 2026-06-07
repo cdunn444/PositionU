@@ -2539,8 +2539,46 @@ function renderDock() {
 // ──────────────────────────────────────────────────────────────
 let spinInterval = null;
 const SCHOOL_ABBREVS = {
-  'Miami':'MIA','Oklahoma State':'OKL ST','Nebraska':'NEB','Alabama':'ALA',
-  'Penn State':'PSU',
+  'Alabama':        'ALA',
+  'Arkansas':       'ARK',
+  'Auburn':         'AUB',
+  'Baylor':         'BAY',
+  'Clemson':        'CLEM',
+  'Colorado':       'COLO',
+  'Florida':        'UF',
+  'Florida State':  'FSU',
+  'Georgia':        'UGA',
+  'Georgia Tech':   'GT',
+  'Iowa':           'IOWA',
+  'Kansas State':   'KSU',
+  'LSU':            'LSU',
+  'Miami':          'UM',
+  'Michigan':       'MICH',
+  'Michigan State': 'MSU',
+  'Nebraska':       'NEB',
+  'Notre Dame':     'ND',
+  'Ohio State':     'OSU',
+  'Oklahoma':       'OU',
+  'Oklahoma State': 'OKST',
+  'Ole Miss':       'MISS',
+  'Oregon':         'ORE',
+  'Penn State':     'PSU',
+  'Pittsburgh':     'PITT',
+  'South Carolina': 'SC',
+  'Stanford':       'STAN',
+  'Syracuse':       'SYR',
+  'TCU':            'TCU',
+  'Tennessee':      'TENN',
+  'Texas':          'TEX',
+  'Texas A&M':      'TAMU',
+  'Texas Tech':     'TTU',
+  'UCLA':           'UCLA',
+  'USC':            'USC',
+  'Utah':           'UTAH',
+  'Virginia Tech':  'VT',
+  'Washington':     'WASH',
+  'West Virginia':  'WVU',
+  'Wisconsin':      'WISC',
 };
 
 function abbrev(school) {
@@ -2652,6 +2690,7 @@ function doSpin() {
 function doRespin(which) {
   if (!state.currentSchoolEra) return;
   const { school: curSchool, era: curEra } = parseKey(state.currentSchoolEra);
+  const curKey = state.currentSchoolEra;
 
   // Mark used immediately
   if (which === 'team') state.respinTeamUsed = true;
@@ -2661,7 +2700,6 @@ function doRespin(which) {
   showSpinScreen();
 
   if (which === 'team') {
-    // Lock era, show current era value; spin team
     document.getElementById('eraCard').className = 'spin-card locked';
     document.getElementById('eraValue').textContent = curEra;
     document.getElementById('teamCard').className = 'spin-card team-card spinning';
@@ -2672,16 +2710,15 @@ function doRespin(which) {
 
     let ticks = 0;
     spinInterval = setInterval(() => {
-      const k = randomKey();
-      document.getElementById('teamValue').textContent = abbrev(parseKey(k).school);
+      document.getElementById('teamValue').textContent = abbrev(parseKey(randomKey()).school);
       ticks++;
       if (ticks >= 18) {
         clearInterval(spinInterval);
-        let newKey = randomKey();
-        // Keep same era, get a different team
-        const pool = SPIN_POOL.filter(k => parseKey(k).era === curEra && k !== state.currentSchoolEra);
-        if (pool.length) newKey = pool[Math.floor(Math.random() * pool.length)];
-        while (!GAME_DATA[newKey]) newKey = randomKey();
+        // Pool: same era, different school/key — guaranteed different
+        const pool = SPIN_POOL.filter(k => parseKey(k).era === curEra && k !== curKey && GAME_DATA[k]);
+        const newKey = pool.length
+          ? pool[Math.floor(Math.random() * pool.length)]
+          : SPIN_POOL.filter(k => k !== curKey && GAME_DATA[k])[Math.floor(Math.random() * (SPIN_POOL.length - 1))];
         const f = parseKey(newKey);
         document.getElementById('teamCard').className = 'spin-card team-card';
         document.getElementById('teamValue').textContent = abbrev(f.school);
@@ -2693,7 +2730,6 @@ function doRespin(which) {
     }, 70);
 
   } else {
-    // Lock team, show current team value; spin era
     document.getElementById('teamCard').className = 'spin-card locked';
     document.getElementById('teamValue').textContent = abbrev(curSchool);
     document.getElementById('eraCard').className = 'spin-card era-card spinning';
@@ -2704,15 +2740,15 @@ function doRespin(which) {
 
     let ticks = 0;
     spinInterval = setInterval(() => {
-      const k = randomKey();
-      document.getElementById('eraValue').textContent = parseKey(k).era;
+      document.getElementById('eraValue').textContent = parseKey(randomKey()).era;
       ticks++;
       if (ticks >= 18) {
         clearInterval(spinInterval);
-        // Keep same school, get different era
-        const pool = SPIN_POOL.filter(k => parseKey(k).school === curSchool && k !== state.currentSchoolEra);
-        let newKey = pool.length ? pool[Math.floor(Math.random() * pool.length)] : randomKey();
-        if (!GAME_DATA[newKey]) newKey = randomKey();
+        // Pool: same school, different era/key — guaranteed different
+        const pool = SPIN_POOL.filter(k => parseKey(k).school === curSchool && k !== curKey && GAME_DATA[k]);
+        const newKey = pool.length
+          ? pool[Math.floor(Math.random() * pool.length)]
+          : SPIN_POOL.filter(k => k !== curKey && GAME_DATA[k])[Math.floor(Math.random() * (SPIN_POOL.length - 1))];
         const f = parseKey(newKey);
         document.getElementById('eraCard').className = 'spin-card era-card';
         document.getElementById('eraValue').textContent = f.era;

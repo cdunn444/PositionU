@@ -2243,22 +2243,36 @@ function scoreRoom(room) {
   return { roomScore, playerScores: scores, top3 };
 }
 
-function mapScore(total) {
+function mapScore(total, offTotal, defTotal) {
+  // Both sides must contribute — you can't go 15-0 without a real defense
+  // Offense range: 0-530 (5 rooms). Defense range: 0-360 (3 rooms)
+  // Minimum floors to reach top records
+  const offFloor = offTotal  || 0;
+  const defFloor = defTotal  || 0;
+
+  // Penalty: if defense is weak, cap the record
+  // def < 220 = can't win more than 11 games regardless of offense
+  // def < 260 = can't win more than 13 games
+  // def < 290 = can't win 15-0
+  // off < 350 = can't win more than 12 games
+  // off < 390 = can't win 15-0
+
   const t=[
-    {min:850,record:'15-0',grade:'S+',label:'Undefeated Legend'},
-    {min:800,record:'14-1',grade:'S', label:'Dynasty Level'},
-    {min:750,record:'13-2',grade:'A+',label:'Championship Contender'},
-    {min:700,record:'12-3',grade:'A', label:'Elite Program'},
-    {min:650,record:'11-4',grade:'A-',label:'Top 10 Caliber'},
-    {min:600,record:'10-5',grade:'B+',label:'Bowl Winner'},
-    {min:550,record:'9-6', grade:'B', label:'Solid Program'},
-    {min:500,record:'8-7', grade:'B-',label:'Bowl Eligible'},
-    {min:450,record:'7-8', grade:'C+',label:'Rebuilding'},
-    {min:400,record:'6-9', grade:'C', label:'Tough Season'},
-    {min:350,record:'5-10',grade:'C-',label:'Rough Year'},
-    {min:0,  record:'4-11',grade:'D', label:'Reset the Program'},
+    {min:800, offMin:390, defMin:290, record:'15-0', grade:'S+', label:'Undefeated Legend'},
+    {min:740, offMin:360, defMin:265, record:'14-1', grade:'S',  label:'Dynasty Level'},
+    {min:680, offMin:330, defMin:235, record:'13-2', grade:'A+', label:'Championship Contender'},
+    {min:630, offMin:300, defMin:210, record:'12-3', grade:'A',  label:'Elite Program'},
+    {min:580, offMin:270, defMin:185, record:'11-4', grade:'A-', label:'Top 10 Caliber'},
+    {min:530, offMin:240, defMin:160, record:'10-5', grade:'B+', label:'Bowl Winner'},
+    {min:480, offMin:210, defMin:135, record:'9-6',  grade:'B',  label:'Solid Program'},
+    {min:430, offMin:180, defMin:110, record:'8-7',  grade:'B-', label:'Bowl Eligible'},
+    {min:380, offMin:150, defMin:90,  record:'7-8',  grade:'C+', label:'Rebuilding'},
+    {min:330, offMin:120, defMin:70,  record:'6-9',  grade:'C',  label:'Tough Season'},
+    {min:280, offMin:90,  defMin:50,  record:'5-10', grade:'C-', label:'Rough Year'},
+    {min:0,   offMin:0,   defMin:0,   record:'4-11', grade:'D',  label:'Reset the Program'},
   ];
-  return t.find(x=>total>=x.min)||t[t.length-1];
+  // Find the best tier where ALL three conditions are met
+  return t.find(x => total >= x.min && offFloor >= x.offMin && defFloor >= x.defMin) || t[t.length-1];
 }
 
 // ──────────────────────────────────────────────────────────────
@@ -145765,11 +145779,11 @@ function showResults() {
     defTotal += s; total += s;
   });
 
-  const result = mapScore(total);
+  const result = mapScore(total, offTotal, defTotal);
   document.getElementById('finalRecord').textContent = result.record;
   document.getElementById('gradeDisplay').textContent = result.grade;
-  const offRating = Math.min(99, Math.max(40, Math.round((offTotal - 250) / 260 * 59 + 40)));
-  const defRating = Math.min(99, Math.max(40, Math.round((defTotal - 150) / 210 * 59 + 40)));
+  const offRating = Math.min(99, Math.max(40, Math.round((offTotal - 200) / 330 * 59 + 40)));
+  const defRating = Math.min(99, Math.max(40, Math.round((defTotal - 120) / 240 * 59 + 40)));
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

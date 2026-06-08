@@ -397,6 +397,8 @@
     text-transform: uppercase; color: var(--aged); margin-top: 8px;
   }
 
+
+
   /* Grade + ratings row */
   .grade-row, .grade-ratings-row {
     display: flex;
@@ -695,6 +697,7 @@ const GAME_DATA = {
     QB: { school:"Miami", era:"00s", pos:"QB", players:[
       { name:"Ken Dorsey",   games:14, stats:{passYds:3369,passTDs:26,intsSeason:9, qbr:158}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:188,nationalChampionship:true,collegeDominance:"elite"} },
       { name:"Brock Berlin", games:12, stats:{passYds:2506,passTDs:18,intsSeason:10,qbr:138}, bonuses:{nflDraftPick:240,collegeDominance:"veryGood"} },
+      { name:"Kyle Wright",   games:12, stats:{passYds:2109,passTDs:15,intsSeason:7, qbr:128}, bonuses:{nflDraftPick:138,collegeDominance:"veryGood"} },
     ]},
     RB: { school:"Miami", era:"00s", pos:"RB", players:[
       { name:"Willis McGahee",  games:13, stats:{rushYds:1753,rushTDs:28,ypc:6.22,recYds:355}, bonuses:{consensusAllAmerican:true,nflDraftPick:23,collegeDominance:"eraDef"} },
@@ -858,6 +861,7 @@ const GAME_DATA = {
     RB: { school:"Penn State", era:"90s", pos:"RB", players:[
       { name:"Ki-Jana Carter",  games:12, stats:{rushYds:1539,rushTDs:23,ypc:7.8,recYds:165}, bonuses:{doakWalker:true,consensusAllAmerican:true,nflDraftPick:1,collegeDominance:"allTime"} },
       { name:"Mike Archie",     games:12, stats:{rushYds:832, rushTDs:9, ypc:5.4,recYds:145}, bonuses:{nflDraftPick:120,collegeDominance:"elite"} },
+      { name:"Curtis Enis",    games:11, stats:{rushYds:1084,rushTDs:11,ypc:5.8,recYds:188}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:5,collegeDominance:"elite"} },
     ]},
     WR: { school:"Penn State", era:"90s", pos:"WR", players:[
       { name:"Bobby Engram",   games:12, stats:{rec:55,recYds:919,recTDs:10,yac:295}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:52,collegeDominance:"eraDef"} },
@@ -893,14 +897,17 @@ const GAME_DATA = {
     QB: { school:"Penn State", era:"20s", pos:"QB", players:[
       { name:"Sean Clifford",  games:13, stats:{passYds:2942,passTDs:22,intsSeason:8,qbr:148,rushYds:412,rushTDs:5}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:149,collegeDominance:"elite"} },
       { name:"Drew Allar",     games:14, stats:{passYds:3061,passTDs:24,intsSeason:6,qbr:165}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:45,collegeDominance:"elite"} },
+      { name:"Beau Pribula",   games:12, stats:{passYds:1842,passTDs:16,intsSeason:5,qbr:138}, bonuses:{collegeDominance:"veryGood"} },
     ]},
     RB: { school:"Penn State", era:"20s", pos:"RB", players:[
       { name:"Saquon Barkley", games:13, stats:{rushYds:1271,rushTDs:18,ypc:6.0,recYds:632}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:2,collegeDominance:"allTime"} },
       { name:"Nick Singleton", games:12, stats:{rushYds:898, rushTDs:11,ypc:6.4,recYds:120}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:40,collegeDominance:"elite"} },
+      { name:"Kaytron Allen",  games:14, stats:{rushYds:1108,rushTDs:8,ypc:5.0,recYds:198}, bonuses:{collegeDominance:"elite"} },
     ]},
     WR: { school:"Penn State", era:"20s", pos:"WR", players:[
       { name:"Harrison Wallace III",games:14,stats:{rec:54,recYds:808,recTDs:7,yac:268}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:60,collegeDominance:"elite"} },
       { name:"Jahan Dotson",        games:12,stats:{rec:91,recYds:1182,recTDs:12,yac:355}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:16,collegeDominance:"eraDef"} },
+      { name:"KeAndre Lambert-Smith", games:13, stats:{rec:53,recYds:673,recTDs:4,yac:228}, bonuses:{nflDraftPick:158,collegeDominance:"elite"} },
     ]},
     TE: { school:"Penn State", era:"20s", pos:"TE", players:[
       { name:"Tyler Warren",   games:15, stats:{rec:96,recYds:1233,recTDs:8,yac:412}, bonuses:{mackey:true,consensusAllAmerican:true,nflDraftPick:14,collegeDominance:"allTime"} },
@@ -1236,6 +1243,7 @@ const GAME_DATA = {
     QB: { school:"Michigan", era:"20s", pos:"QB", players:[
       { name:"J.J. McCarthy",   games:15, stats:{passYds:2991,passTDs:22,intsSeason:4,qbr:172}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:10,nationalChampionship:true,conferenceChampionship:true,collegeDominance:"elite"} },
       { name:"Cade McNamara",   games:12, stats:{passYds:2576,passTDs:15,intsSeason:6,qbr:148}, bonuses:{nflDraftPick:185,conferenceChampionship:true,collegeDominance:"veryGood"} },
+      { name:"Davis Warren",    games:12, stats:{passYds:2185,passTDs:17,intsSeason:6,qbr:138}, bonuses:{collegeDominance:"veryGood"} },
     ]},
     RB: { school:"Michigan", era:"20s", pos:"RB", players:[
       { name:"Blake Corum",     games:14, stats:{rushYds:1722,rushTDs:27,ypc:6.4,recYds:158}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:80,nationalChampionship:true,collegeDominance:"eraDef"} },
@@ -1796,6 +1804,7 @@ const GAME_DATA = {
     QB: { school:"Pittsburgh", era:"70s", pos:"QB", players:[
       { name:"Dan Marino",      games:11, stats:{passYds:2742,passTDs:22,intsSeason:14,qbr:145}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:27,collegeDominance:"allTime"} },
       { name:"Matt Cavanaugh",  games:11, stats:{passYds:1614,passTDs:14,intsSeason:9, qbr:132,rushYds:388,rushTDs:5}, bonuses:{nflDraftPick:48,nationalChampionship:true,collegeDominance:"elite"} },
+      { name:"John Congemi",   games:11, stats:{passYds:1876,passTDs:14,intsSeason:7,qbr:132}, bonuses:{nflDraftPick:192,collegeDominance:"veryGood"} },
     ]},
     RB: { school:"Pittsburgh", era:"70s", pos:"RB", players:[
       { name:"Tony Dorsett",    games:12, stats:{rushYds:1948,rushTDs:22,ypc:6.8,recYds:120}, bonuses:{heisman:true,consensusAllAmerican:true,nflDraftPick:2,nationalChampionship:true,collegeDominance:"allTime"} },
@@ -1804,7 +1813,8 @@ const GAME_DATA = {
     ]},
     WR: { school:"Pittsburgh", era:"70s", pos:"WR", players:[
       { name:"Gordon Jones",    games:11, stats:{rec:50,recYds:768,recTDs:7,yac:245}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:22,nationalChampionship:true,collegeDominance:"eraDef"} },
-      { name:"Willie Collier",  games:11, stats:{rec:38,recYds:572,recTDs:5,yac:185}, bonuses:{nflDraftPick:100,collegeDominance:"veryGood"} },
+      { name:"Randy Reutershan", games:11, stats:{rec:17,recYds:311,recTDs:3,yac:105}, bonuses:{nflDraftPick:160,nationalChampionship:true,collegeDominance:"veryGood"} },
+      { name:"Willie Taylor",     games:11, stats:{rec:14,recYds:248,recTDs:3,yac:88},  bonuses:{nationalChampionship:true,collegeDominance:"veryGood"} },
     ]},
     TE: { school:"Pittsburgh", era:"70s", pos:"TE", players:[
       { name:"Jim Corbett",     games:11, stats:{rec:24,recYds:288,recTDs:3,yac:92}, bonuses:{nflDraftPick:150,collegeDominance:"veryGood"} },
@@ -1964,6 +1974,7 @@ const GAME_DATA = {
     QB: { school:"Virginia Tech", era:"90s", pos:"QB", players:[
       { name:"Michael Vick",    games:12, stats:{passYds:1840,passTDs:22,intsSeason:6,qbr:180,rushYds:585,rushTDs:8}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:1,collegeDominance:"allTime"} },
       { name:"Al Clark",        games:11, stats:{passYds:1580,passTDs:14,intsSeason:7,qbr:142,rushYds:412,rushTDs:5}, bonuses:{nflDraftPick:180,collegeDominance:"veryGood"} },
+      { name:"Jim Druckenmiller", games:13, stats:{passYds:2730,passTDs:21,intsSeason:9,qbr:148}, bonuses:{nflDraftPick:26,collegeDominance:"elite"} },
     ]},
     RB: { school:"Virginia Tech", era:"90s", pos:"RB", players:[
       { name:"Lee Suggs",       games:12, stats:{rushYds:1176,rushTDs:14,ypc:5.8,recYds:120}, bonuses:{firstTeamAllAmerican:true,nflDraftPick:42,collegeDominance:"elite"} },

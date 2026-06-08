@@ -145783,7 +145783,7 @@ function showResults() {
   document.getElementById('finalRecord').textContent = result.record;
   document.getElementById('gradeDisplay').textContent = result.grade;
   const offRating = Math.min(99, Math.max(40, Math.round((offTotal - 200) / 330 * 59 + 40)));
-  const defRating = Math.min(99, Math.max(40, Math.round((defTotal - 120) / 240 * 59 + 40)));
+  const defRating = Math.min(99, Math.max(50, Math.round((defTotal - 125) / 190 * 49 + 50)));
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

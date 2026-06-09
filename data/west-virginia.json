@@ -241,21 +241,6 @@
             }
           },
           {
-            "name": "Dale Farley",
-            "games": 11,
-            "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 9,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Chuck Smith",
             "games": 11,
             "stats": {
@@ -267,6 +252,21 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dale Farley_DL",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -549,31 +549,31 @@
             }
           },
           {
-            "name": "Aaron Beasley",
-            "games": 11,
+            "name": "Mark Raugh_TE",
+            "games": 12,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 42
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Mark Raugh",
-            "games": 11,
+            "name": "Gary Mullen_WVU",
+            "games": 12,
             "stats": {
-              "rec": 8,
-              "recYds": 95,
-              "recTDs": 1,
-              "yac": 30
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -686,16 +686,16 @@
             }
           },
           {
-            "name": "Aaron Beasley",
-            "games": 11,
+            "name": "Gary Stills_WVU",
+            "games": 12,
             "stats": {
-              "tackles": 72,
-              "sacks": 2,
+              "tackles": 88,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 7
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -738,17 +738,17 @@
             }
           },
           {
-            "name": "Tom Pridemore",
-            "games": 11,
+            "name": "Tom Pridemore_DB",
+            "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 14,
-              "tackles": 48,
+              "pbus": 15,
+              "tackles": 46,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 91,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -761,23 +761,6 @@
         "era": "90s",
         "pos": "QB",
         "players": [
-          {
-            "name": "Major Harris",
-            "games": 12,
-            "stats": {
-              "passYds": 1688,
-              "passTDs": 14,
-              "intsSeason": 7,
-              "qbr": 148,
-              "rushYds": 712,
-              "rushTDs": 9
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 225,
-              "collegeDominance": "eraDef"
-            }
-          },
           {
             "name": "Marc Bulger",
             "games": 12,
@@ -804,6 +787,20 @@
             "bonuses": {
               "nflDraftPick": 215,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Marc Bulger_QB",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 168,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -843,16 +840,16 @@
             }
           },
           {
-            "name": "Aaron Beasley",
-            "games": 11,
+            "name": "Avon Cobourne",
+            "games": 12,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
+              "rushYds": 788,
+              "rushTDs": 7,
               "ypc": 4.9,
-              "recYds": 108
+              "recYds": 112
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -942,17 +939,17 @@
             }
           },
           {
-            "name": "Mike Collins",
-            "games": 11,
+            "name": "Aaron Beasley_TE",
+            "games": 12,
             "stats": {
-              "rec": 8,
-              "recYds": 95,
-              "recTDs": 1,
-              "yac": 30
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 84,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1014,17 +1011,17 @@
             }
           },
           {
-            "name": "Keith Lyle",
+            "name": "Mike Collins_DL",
             "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 9,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 115,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1050,21 +1047,6 @@
             }
           },
           {
-            "name": "Aaron Beasley",
-            "games": 12,
-            "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 2,
-              "tfls": 10
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 155,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Brad Kassell",
             "games": 11,
             "stats": {
@@ -1075,6 +1057,20 @@
             },
             "bonuses": {
               "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Collins_LB",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1159,20 +1155,6 @@
             }
           },
           {
-            "name": "Marc Bulger",
-            "games": 12,
-            "stats": {
-              "passYds": 2326,
-              "passTDs": 19,
-              "intsSeason": 8,
-              "qbr": 158
-            },
-            "bonuses": {
-              "nflDraftPick": 168,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Adam Bednarik",
             "games": 12,
             "stats": {
@@ -1183,6 +1165,20 @@
             },
             "bonuses": {
               "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brad Lewis_WVU",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1310,21 +1306,6 @@
             }
           },
           {
-            "name": "Jared Cook",
-            "games": 12,
-            "stats": {
-              "rec": 28,
-              "recYds": 338,
-              "recTDs": 4,
-              "yac": 110
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 89,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Tyler Urban",
             "games": 12,
             "stats": {
@@ -1335,6 +1316,20 @@
             },
             "bonuses": {
               "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jared Cook_00s",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 89,
               "collegeDominance": "elite"
             }
           }
@@ -1573,21 +1568,6 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Tavon Austin",
-            "games": 13,
-            "stats": {
-              "rushYds": 714,
-              "rushTDs": 7,
-              "ypc": 6.5,
-              "recYds": 568
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 8,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Wendell Smallwood",
             "games": 13,
             "stats": {
@@ -1612,6 +1592,20 @@
             },
             "bonuses": {
               "nflDraftPick": 69,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tavon Austin_RB",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 8,
               "collegeDominance": "elite"
             }
           }

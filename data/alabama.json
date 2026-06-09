@@ -84,23 +84,6 @@
             }
           },
           {
-            "name": "Mark Ingram",
-            "games": 14,
-            "stats": {
-              "rushYds": 1658,
-              "rushTDs": 17,
-              "ypc": 6.1,
-              "recYds": 210
-            },
-            "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 28,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Trent Richardson",
             "games": 14,
             "stats": {
@@ -116,6 +99,20 @@
               "nationalChampionship": true,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "T.J. Yeldon",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 36,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -124,24 +121,6 @@
         "era": "10s",
         "pos": "WR",
         "players": [
-          {
-            "name": "DeVonta Smith",
-            "games": 13,
-            "stats": {
-              "rec": 117,
-              "recYds": 1856,
-              "recTDs": 23,
-              "yac": 585
-            },
-            "bonuses": {
-              "heisman": true,
-              "biletnikoff": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 10,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
-            }
-          },
           {
             "name": "Amari Cooper",
             "games": 14,
@@ -160,19 +139,32 @@
             }
           },
           {
-            "name": "Julio Jones",
-            "games": 14,
+            "name": "Calvin Ridley",
+            "games": 12,
             "stats": {
-              "rec": 78,
-              "recYds": 1133,
-              "recTDs": 7,
-              "yac": 392
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 6,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 26,
+              "collegeDominance": "eraDef",
+              "firstTeamAllAmerican": true
+            }
+          },
+          {
+            "name": "Jerry Jeudy",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 36,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -298,21 +290,18 @@
             }
           },
           {
-            "name": "Marcell Dareus",
-            "games": 14,
+            "name": "Daron Payne",
+            "games": 12,
             "stats": {
-              "sacks": 5.5,
-              "tfls": 10,
-              "hurries": 21,
-              "ff": 3,
-              "dominanceGrade": "A+"
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nagurski": true,
-              "nflDraftPick": 3,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 13,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1920,22 +1909,6 @@
             }
           },
           {
-            "name": "Dont'a Hightower",
-            "games": 14,
-            "stats": {
-              "tackles": 98,
-              "sacks": 6,
-              "ints": 1,
-              "tfls": 16
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 25,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Cory Reamer",
             "games": 14,
             "stats": {
@@ -1948,6 +1921,20 @@
               "nflDraftPick": 188,
               "nationalChampionship": true,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Derrick Thomas_II",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 4,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -2036,22 +2023,6 @@
             }
           },
           {
-            "name": "Tua Tagovailoa",
-            "games": 15,
-            "stats": {
-              "passYds": 2840,
-              "passTDs": 43,
-              "intsSeason": 6,
-              "qbr": 199
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 5,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Jalen Milroe",
             "games": 14,
             "stats": {
@@ -2065,6 +2036,20 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 92,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Buchner",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 36,
               "collegeDominance": "elite"
             }
           }

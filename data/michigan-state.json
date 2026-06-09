@@ -35,6 +35,20 @@
               "nflDraftPick": 180,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Dan Enos",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -156,6 +170,34 @@
             },
             "bonuses": {
               "nflDraftPick": 165,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mike Peplowski",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 1,
+              "yac": 58
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Travis Goff",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 50
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
               "collegeDominance": "veryGood"
             }
           }
@@ -377,18 +419,16 @@
             }
           },
           {
-            "name": "Kirk Gibson",
+            "name": "Rich Baes",
             "games": 11,
             "stats": {
-              "passYds": 688,
-              "passTDs": 5,
-              "intsSeason": 4,
-              "qbr": 112,
-              "rushYds": 445,
-              "rushTDs": 5
+              "passYds": 1088,
+              "passTDs": 8,
+              "intsSeason": 6,
+              "qbr": 118
             },
             "bonuses": {
-              "nflDraftPick": 159,
+              "nflDraftPick": 202,
               "collegeDominance": "veryGood"
             }
           }
@@ -529,17 +569,17 @@
             }
           },
           {
-            "name": "Rich Baes",
+            "name": "Larry Bethea",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
+              "rec": 14,
+              "recYds": 165,
               "recTDs": 1,
-              "yac": 42
+              "yac": 50
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 25,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -675,22 +715,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Brad Van Pelt",
-            "games": 11,
-            "stats": {
-              "ints": 6,
-              "pbus": 26,
-              "tackles": 58,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 40,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Jess Phillips",
             "games": 11,
             "stats": {
@@ -717,6 +741,21 @@
             },
             "bonuses": {
               "nflDraftPick": 145,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Raymond Jarvis",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 168,
               "collegeDominance": "veryGood"
             }
           }
@@ -908,16 +947,16 @@
             }
           },
           {
-            "name": "Ike Reese",
-            "games": 11,
+            "name": "Matt Vande Boom",
+            "games": 12,
             "stats": {
-              "rec": 12,
-              "recYds": 142,
-              "recTDs": 1,
-              "yac": 44
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 140,
+              "nflDraftPick": 198,
               "collegeDominance": "veryGood"
             }
           }
@@ -981,17 +1020,17 @@
             }
           },
           {
-            "name": "Ike Reese",
-            "games": 11,
+            "name": "Josh Shaw",
+            "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 140,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -1515,17 +1554,17 @@
             }
           },
           {
-            "name": "Brian Hoyer",
-            "games": 12,
+            "name": "Tyler O'Connor",
+            "games": 13,
             "stats": {
-              "passYds": 2026,
-              "passTDs": 16,
+              "passYds": 1888,
+              "passTDs": 14,
               "intsSeason": 7,
-              "qbr": 145
+              "qbr": 138
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -2171,17 +2210,17 @@
             }
           },
           {
-            "name": "Darius Snow",
-            "games": 12,
+            "name": "Antjuan Simmons",
+            "games": 13,
             "stats": {
-              "tackles": 88,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 9
+              "tackles": 98,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
             }
           }
         ]

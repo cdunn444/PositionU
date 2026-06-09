@@ -89,17 +89,16 @@
             }
           },
           {
-            "name": "Chris Perry",
-            "games": 13,
+            "name": "Clarence Williams",
+            "games": 12,
             "stats": {
-              "rushYds": 1674,
-              "rushTDs": 18,
-              "ypc": 5.8,
-              "recYds": 285
+              "rushYds": 778,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 26,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -189,6 +188,20 @@
             },
             "bonuses": {
               "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Marcus Knight",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
           }
@@ -576,6 +589,20 @@
               "nflDraftPick": 42,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "AJ Barner",
+            "games": 13,
+            "stats": {
+              "rec": 24,
+              "recYds": 292,
+              "recTDs": 3,
+              "yac": 95
+            },
+            "bonuses": {
+              "nflDraftPick": 148,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -883,21 +910,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Anthony Carter",
-            "games": 12,
-            "stats": {
-              "rec": 55,
-              "recYds": 832,
-              "recTDs": 8,
-              "yac": 265
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 245,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Curt Stephenson",
             "games": 11,
             "stats": {
@@ -924,6 +936,20 @@
               "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Jim Smith",
+            "games": 11,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
           }
         ]
       },
@@ -947,20 +973,6 @@
             }
           },
           {
-            "name": "Craig Dunaway",
-            "games": 12,
-            "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
-            },
-            "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Norm Betts",
             "games": 11,
             "stats": {
@@ -972,6 +984,20 @@
             "bonuses": {
               "nflDraftPick": 200,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Doug Marsh",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 77,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1035,17 +1061,17 @@
             }
           },
           {
-            "name": "Ron Simpkins",
+            "name": "Bubba Paris",
             "games": 11,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 110,
+              "nflDraftPick": 64,
               "collegeDominance": "elite"
             }
           }
@@ -1454,31 +1480,30 @@
             }
           },
           {
-            "name": "Mike Hammerstein",
-            "games": 11,
+            "name": "Chris Godfrey",
+            "games": 12,
             "stats": {
-              "tackles": 95,
-              "sacks": 7,
+              "tackles": 92,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 14
+              "tfls": 11
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 27,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 178,
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Garland Rivers",
-            "games": 11,
+            "name": "Larry Ricks",
+            "games": 12,
             "stats": {
-              "tackles": 88,
+              "tackles": 92,
               "sacks": 3,
-              "ints": 2,
-              "tfls": 10
+              "ints": 1,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -1574,17 +1599,17 @@
             }
           },
           {
-            "name": "Tom Brady",
-            "games": 11,
+            "name": "Ryan Mallett",
+            "games": 12,
             "stats": {
-              "passYds": 2217,
-              "passTDs": 20,
+              "passYds": 2050,
+              "passTDs": 15,
               "intsSeason": 6,
               "qbr": 148
             },
             "bonuses": {
-              "nflDraftPick": 199,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 74,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1767,22 +1792,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "LaMarr Woodley",
-            "games": 13,
-            "stats": {
-              "sacks": 11,
-              "tfls": 14,
-              "hurries": 20,
-              "ff": 3,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 24,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Alan Branch",
             "games": 13,
             "stats": {
@@ -1812,6 +1821,22 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 65,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lamarr Woodley",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 46,
+              "collegeDominance": "eraDef"
             }
           }
         ]

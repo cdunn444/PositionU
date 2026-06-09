@@ -36,17 +36,17 @@
             }
           },
           {
-            "name": "Phil Petty",
-            "games": 11,
+            "name": "Tommy Suggs",
+            "games": 12,
             "stats": {
-              "passYds": 988,
-              "passTDs": 7,
-              "intsSeason": 5,
-              "qbr": 112
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -72,31 +72,31 @@
             }
           },
           {
-            "name": "Harold Green",
-            "games": 11,
+            "name": "Clarence Williams_SC",
+            "games": 12,
             "stats": {
               "rushYds": 788,
               "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 108
+              "ypc": 4.9,
+              "recYds": 112
             },
             "bonuses": {
-              "nflDraftPick": 115,
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Duce Staley",
-            "games": 11,
+            "name": "Clarence Williams",
+            "games": 12,
             "stats": {
-              "rushYds": 655,
-              "rushTDs": 6,
-              "ypc": 4.8,
-              "recYds": 88
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
             },
             "bonuses": {
-              "nflDraftPick": 95,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -294,20 +294,6 @@
             }
           },
           {
-            "name": "James Seawright",
-            "games": 11,
-            "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 10
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Calvin Ruff",
             "games": 11,
             "stats": {
@@ -320,6 +306,20 @@
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Johnny Robinson_SC",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -328,37 +328,6 @@
         "era": "70s",
         "pos": "DB",
         "players": [
-          {
-            "name": "Harry Carson",
-            "games": 11,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 58,
-              "ff": 1,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 53,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Brad Edwards",
-            "games": 11,
-            "stats": {
-              "ints": 3,
-              "pbus": 14,
-              "tackles": 46,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 91,
-              "collegeDominance": "elite"
-            }
-          },
           {
             "name": "Melvin Black",
             "games": 11,
@@ -372,6 +341,36 @@
             "bonuses": {
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Rick Sanford",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rex Varn",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -448,21 +447,6 @@
             }
           },
           {
-            "name": "Sterling Sharpe",
-            "games": 12,
-            "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
-              "ypc": 5.1,
-              "recYds": 245
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 7,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Warren Marshall",
             "games": 11,
             "stats": {
@@ -473,6 +457,20 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Spencer Tillman_SC",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -513,16 +511,16 @@
             }
           },
           {
-            "name": "Carl Zander",
-            "games": 11,
+            "name": "Horace Smith",
+            "games": 12,
             "stats": {
-              "rec": 28,
-              "recYds": 418,
-              "recTDs": 3,
-              "yac": 130
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
             },
             "bonuses": {
-              "nflDraftPick": 50,
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -706,21 +704,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Robert Williams",
-            "games": 11,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Brad Edwards",
             "games": 11,
             "stats": {
@@ -747,6 +730,21 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Roper",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 83,
               "collegeDominance": "elite"
             }
           }
@@ -824,20 +822,6 @@
             }
           },
           {
-            "name": "Mike Davis",
-            "games": 12,
-            "stats": {
-              "rushYds": 912,
-              "rushTDs": 9,
-              "ypc": 5.3,
-              "recYds": 120
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Chris Brown",
             "games": 11,
             "stats": {
@@ -848,6 +832,20 @@
             },
             "bonuses": {
               "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Derek Watson",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -936,17 +934,17 @@
             }
           },
           {
-            "name": "Kalimba Edwards",
-            "games": 11,
+            "name": "Rob DeBoer",
+            "games": 12,
             "stats": {
-              "rec": 8,
-              "recYds": 95,
-              "recTDs": 1,
-              "yac": 30
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 50,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1429,20 +1427,6 @@
             }
           },
           {
-            "name": "Darian Stewart",
-            "games": 13,
-            "stats": {
-              "tackles": 82,
-              "sacks": 2,
-              "ints": 3,
-              "tfls": 9
-            },
-            "bonuses": {
-              "nflDraftPick": 139,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Marcus Simmons",
             "games": 12,
             "stats": {
@@ -1453,6 +1437,20 @@
             },
             "bonuses": {
               "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darian Stewart_LB",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }

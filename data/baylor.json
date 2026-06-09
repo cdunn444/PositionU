@@ -905,20 +905,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "David Gettis",
-            "games": 12,
-            "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
-            },
-            "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Alan Risher",
             "games": 11,
             "stats": {
@@ -943,6 +929,20 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kevin Miller_BAY",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1239,21 +1239,6 @@
             }
           },
           {
-            "name": "Kendall Wright",
-            "games": 12,
-            "stats": {
-              "rec": 65,
-              "recYds": 988,
-              "recTDs": 8,
-              "yac": 312
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 20,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Trent Shelton",
             "games": 12,
             "stats": {
@@ -1264,6 +1249,20 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Dominique Zeigler",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1474,19 +1473,18 @@
             }
           },
           {
-            "name": "Ahmad Dixon",
+            "name": "Jordan Lake_BAY",
             "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 16,
-              "tackles": 55,
-              "ff": 2,
-              "coverageGrade": "A+"
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 128,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -202,6 +202,20 @@
               "nflDraftPick": 92,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Marcus Baugh",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -406,23 +420,6 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Art Schlichter",
-            "games": 12,
-            "stats": {
-              "passYds": 1816,
-              "passTDs": 14,
-              "intsSeason": 8,
-              "qbr": 138,
-              "rushYds": 412,
-              "rushTDs": 5
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 4,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Rex Kern",
             "games": 11,
             "stats": {
@@ -437,6 +434,37 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 90,
               "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Art Schlichter",
+            "games": 11,
+            "stats": {
+              "passYds": 2551,
+              "passTDs": 18,
+              "intsSeason": 10,
+              "qbr": 142
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cornelius Greene",
+            "games": 11,
+            "stats": {
+              "passYds": 1188,
+              "passTDs": 10,
+              "intsSeason": 6,
+              "qbr": 128,
+              "rushYds": 445,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -528,6 +556,20 @@
               "nflDraftPick": 130,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Gary Williams",
+            "games": 11,
+            "stats": {
+              "rec": 36,
+              "recYds": 528,
+              "recTDs": 5,
+              "yac": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -548,6 +590,34 @@
             "bonuses": {
               "nflDraftPick": 155,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Doug Donley",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 59,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Myers",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 1,
+              "yac": 58
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -750,23 +820,6 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Art Schlichter",
-            "games": 12,
-            "stats": {
-              "passYds": 1816,
-              "passTDs": 14,
-              "intsSeason": 8,
-              "qbr": 138,
-              "rushYds": 412,
-              "rushTDs": 5
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 4,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Jim Karsatos",
             "games": 11,
             "stats": {
@@ -791,6 +844,20 @@
             },
             "bonuses": {
               "nflDraftPick": 173,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Greg Frey",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -2181,44 +2248,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Nick Bosa",
-            "games": 7,
-            "stats": {
-              "sacks": 9,
-              "tfls": 12,
-              "hurries": 18,
-              "ff": 3,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "outland": true,
-              "bednarik": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 2,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Chase Young",
-            "games": 13,
-            "stats": {
-              "sacks": 16.5,
-              "tfls": 21,
-              "hurries": 34,
-              "ff": 4,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "outland": true,
-              "bednarik": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 2,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Jack Sawyer",
             "games": 16,
             "stats": {
@@ -2233,6 +2262,36 @@
               "nflDraftPick": 11,
               "nationalChampionship": true,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Zach Harrison",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 98,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jerron Cage",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
             }
           }
         ]

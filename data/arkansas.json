@@ -885,20 +885,6 @@
             }
           },
           {
-            "name": "Marcus Monk",
-            "games": 12,
-            "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Anthony Eubanks",
             "games": 11,
             "stats": {
@@ -909,6 +895,20 @@
             },
             "bonuses": {
               "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Lucas_ARK",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 87,
               "collegeDominance": "elite"
             }
           }

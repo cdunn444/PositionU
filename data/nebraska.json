@@ -121,40 +121,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Johnny Rodgers",
-            "games": 11,
-            "stats": {
-              "rec": 55,
-              "recYds": 872,
-              "recTDs": 10,
-              "yac": 310,
-              "rushYds": 336,
-              "rushTDs": 4
-            },
-            "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 25,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Irving Fryar",
-            "games": 12,
-            "stats": {
-              "rec": 40,
-              "recYds": 600,
-              "recTDs": 5,
-              "yac": 210
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 1,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Reggie Baul",
             "games": 12,
             "stats": {
@@ -166,6 +132,34 @@
             "bonuses": {
               "nflDraftPick": 180,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Abdul Muhammad",
+            "games": 13,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 6,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 162,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jon Vedral",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 528,
+              "recTDs": 4,
+              "yac": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 178,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -186,6 +180,34 @@
             },
             "bonuses": {
               "nflDraftPick": 15,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Vershan Jackson",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 168,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Gilman",
+            "games": 13,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
           }
@@ -442,23 +464,6 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Johnny Rodgers",
-            "games": 11,
-            "stats": {
-              "rushYds": 588,
-              "rushTDs": 5,
-              "ypc": 5.2,
-              "recYds": 542
-            },
-            "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 25,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "I.M. Hipp",
             "games": 11,
             "stats": {
@@ -485,6 +490,20 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tony Davis",
+            "games": 11,
+            "stats": {
+              "rushYds": 822,
+              "rushTDs": 8,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 44,
               "collegeDominance": "elite"
             }
           }
@@ -817,18 +836,18 @@
             }
           },
           {
-            "name": "Taylor Martinez",
+            "name": "Gerry Gdowski",
             "games": 12,
             "stats": {
-              "passYds": 2018,
-              "passTDs": 16,
-              "intsSeason": 7,
-              "qbr": 145,
-              "rushYds": 652,
+              "passYds": 1488,
+              "passTDs": 12,
+              "intsSeason": 5,
+              "qbr": 142,
+              "rushYds": 622,
               "rushTDs": 9
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -1227,21 +1246,6 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Ahman Green",
-            "games": 12,
-            "stats": {
-              "rushYds": 1086,
-              "rushTDs": 12,
-              "ypc": 5.8,
-              "recYds": 145
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 89,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "DeAngelo Evans",
             "games": 12,
             "stats": {
@@ -1266,6 +1270,20 @@
             },
             "bonuses": {
               "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cory Ross",
+            "games": 13,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 192,
               "collegeDominance": "elite"
             }
           }
@@ -1643,17 +1661,16 @@
             }
           },
           {
-            "name": "Roy Helu Jr.",
+            "name": "Terrell Newby",
             "games": 13,
             "stats": {
-              "rushYds": 1327,
-              "rushTDs": 13,
-              "ypc": 6.1,
-              "recYds": 185
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 108,
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }

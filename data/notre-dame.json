@@ -41,16 +41,16 @@
             }
           },
           {
-            "name": "Rick Mirer",
-            "games": 12,
+            "name": "Terry Hanratty",
+            "games": 11,
             "stats": {
-              "passYds": 2117,
-              "passTDs": 18,
-              "intsSeason": 8,
-              "qbr": 148
+              "passYds": 1428,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 132
             },
             "bonuses": {
-              "nflDraftPick": 2,
+              "nflDraftPick": 15,
               "collegeDominance": "elite"
             }
           }
@@ -114,23 +114,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Ken MacAfee",
-            "games": 11,
-            "stats": {
-              "rec": 54,
-              "recYds": 797,
-              "recTDs": 8,
-              "yac": 252
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "otherNamedCollegeAward": true,
-              "nflDraftPick": 7,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Kris Haines",
             "games": 11,
             "stats": {
@@ -157,6 +140,20 @@
               "nflDraftPick": 145,
               "nationalChampionship": true,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Dan Kelleher",
+            "games": 11,
+            "stats": {
+              "rec": 34,
+              "recYds": 498,
+              "recTDs": 5,
+              "yac": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -196,6 +193,20 @@
               "consensusAllAmerican": true,
               "nflDraftPick": 45,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Robin Weber",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 168,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 198,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -533,19 +544,17 @@
             }
           },
           {
-            "name": "Tyler Eifert",
+            "name": "DaVaris Daniels",
             "games": 13,
             "stats": {
-              "rec": 63,
-              "recYds": 714,
+              "rec": 42,
+              "recYds": 628,
               "recTDs": 6,
-              "yac": 225
+              "yac": 198
             },
             "bonuses": {
-              "mackey": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 21,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -583,6 +592,20 @@
             "bonuses": {
               "nflDraftPick": 52,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Koyack",
+            "games": 13,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -951,7 +974,22 @@
             }
           },
           {
-            "name": "Frank Stams",
+            "name": "Derek Brown",
+            "games": 12,
+            "stats": {
+              "rec": 32,
+              "recYds": 392,
+              "recTDs": 5,
+              "yac": 128
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Andy Heck",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -960,24 +998,8 @@
               "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 115,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Derek Brown",
-            "games": 12,
-            "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 14,
-              "collegeDominance": "elite"
+              "nflDraftPick": 8,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1046,19 +1068,18 @@
             "name": "Chris Zorich",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 1,
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 15,
+              "ff": 2,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "outland": true,
               "lombardiAward": true,
               "consensusAllAmerican": true,
               "nflDraftPick": 49,
               "nationalChampionship": true,
-              "collegeDominance": "allTime"
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1157,9 +1178,9 @@
             "name": "Todd Lyght",
             "games": 12,
             "stats": {
-              "ints": 4,
-              "pbus": 22,
-              "tackles": 50,
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 52,
               "ff": 2,
               "coverageGrade": "A+"
             },
@@ -1231,21 +1252,6 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Ricky Watters",
-            "games": 12,
-            "stats": {
-              "rushYds": 858,
-              "rushTDs": 8,
-              "ypc": 5.8,
-              "recYds": 265
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 45,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Ray Zellars",
             "games": 12,
             "stats": {
@@ -1273,6 +1279,20 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 82,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Robert Farmer",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1334,21 +1354,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Derek Brown",
-            "games": 12,
-            "stats": {
-              "rec": 28,
-              "recYds": 338,
-              "recTDs": 4,
-              "yac": 110
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 14,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Pete Chryplewicz",
             "games": 12,
             "stats": {
@@ -1374,6 +1379,20 @@
             "bonuses": {
               "nflDraftPick": 200,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jabari Holloway",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 108,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1404,24 +1423,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Chris Zorich",
-            "games": 12,
-            "stats": {
-              "sacks": 6,
-              "tfls": 10,
-              "hurries": 14,
-              "ff": 1,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "outland": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 49,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Bryant Young",
             "games": 12,
             "stats": {
@@ -1450,6 +1451,22 @@
             "bonuses": {
               "nflDraftPick": 115,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Justin Tuck",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 74,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1510,22 +1527,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Todd Lyght",
-            "games": 12,
-            "stats": {
-              "ints": 5,
-              "pbus": 26,
-              "tackles": 50,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 5,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Deke Cooper",
             "games": 12,
             "stats": {
@@ -1553,6 +1554,23 @@
             "bonuses": {
               "nflDraftPick": 175,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jeff Burris",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 27,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]

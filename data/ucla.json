@@ -334,22 +334,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Jerry Robinson",
-            "games": 11,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 55,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 21,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Levi Armstrong",
             "games": 11,
             "stats": {
@@ -365,17 +349,32 @@
             }
           },
           {
-            "name": "Dale Potter",
-            "games": 11,
+            "name": "Dale Potter_DB",
+            "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 14,
+              "pbus": 15,
               "tackles": 46,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 145,
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jerry Robinson_DB",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 40,
               "collegeDominance": "elite"
             }
           }
@@ -542,21 +541,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Carnell Lake",
-            "games": 11,
-            "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 34,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Rod Bernstine",
             "games": 11,
             "stats": {
@@ -571,17 +555,31 @@
             }
           },
           {
-            "name": "Darryl Henley",
-            "games": 11,
+            "name": "Mike Sherrard_TE",
+            "games": 12,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
-              "recTDs": 1,
-              "yac": 36
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 154,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 18,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Flipper Anderson_TE",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 58,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -613,22 +611,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Ken Norton Jr.",
-            "games": 11,
-            "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 11,
-              "ff": 1,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 39,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Skip McClendon",
             "games": 11,
             "stats": {
@@ -657,6 +639,21 @@
               "nflDraftPick": 53,
               "collegeDominance": "eraDef"
             }
+          },
+          {
+            "name": "Jim Wahler",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -681,21 +678,6 @@
             }
           },
           {
-            "name": "Carnell Lake",
-            "games": 11,
-            "stats": {
-              "tackles": 95,
-              "sacks": 3,
-              "ints": 2,
-              "tfls": 11
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 34,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Rory Graves",
             "games": 11,
             "stats": {
@@ -707,6 +689,21 @@
             "bonuses": {
               "nflDraftPick": 165,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ken Norton Jr._LB",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 96,
+              "collegeDominance": "eraDef",
+              "firstTeamAllAmerican": true
             }
           }
         ]
@@ -853,16 +850,16 @@
             }
           },
           {
-            "name": "DeShaun Foster",
+            "name": "Jermaine Lewis_UCLA",
             "games": 12,
             "stats": {
-              "rushYds": 1018,
-              "rushTDs": 9,
-              "ypc": 5.4,
-              "recYds": 120
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
             },
             "bonuses": {
-              "nflDraftPick": 48,
+              "nflDraftPick": 153,
               "collegeDominance": "elite"
             }
           }
@@ -938,20 +935,6 @@
             }
           },
           {
-            "name": "Brandon Manumaleuna",
-            "games": 12,
-            "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
-            },
-            "bonuses": {
-              "nflDraftPick": 160,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Dennis Doolin",
             "games": 11,
             "stats": {
@@ -963,6 +946,20 @@
             "bonuses": {
               "nflDraftPick": 200,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jarious Jackson_TE",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1787,17 +1784,17 @@
             }
           },
           {
-            "name": "Randall Goforth",
+            "name": "Kenny Easley_Jr",
             "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 9,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }

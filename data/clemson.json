@@ -27,22 +27,6 @@
             }
           },
           {
-            "name": "Trevor Lawrence",
-            "games": 15,
-            "stats": {
-              "passYds": 3153,
-              "passTDs": 24,
-              "intsSeason": 5,
-              "qbr": 182
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 1,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Kelly Bryant",
             "games": 13,
             "stats": {
@@ -58,6 +42,20 @@
               "conferenceChampionship": true,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Nick Schuessler",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -66,23 +64,6 @@
         "era": "10s",
         "pos": "RB",
         "players": [
-          {
-            "name": "Travis Etienne",
-            "games": 15,
-            "stats": {
-              "rushYds": 1658,
-              "rushTDs": 24,
-              "ypc": 8,
-              "recYds": 432
-            },
-            "bonuses": {
-              "doakWalker": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 25,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
-            }
-          },
           {
             "name": "Wayne Gallman",
             "games": 14,
@@ -111,6 +92,20 @@
             "bonuses": {
               "nflDraftPick": 235,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tavien Feaster",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -661,35 +656,32 @@
             }
           },
           {
-            "name": "William Perry",
+            "name": "Banks McFadden_DL",
             "games": 12,
             "stats": {
               "sacks": 5,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 1,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 22,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Dan Benish",
-            "games": 12,
-            "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 11,
+              "tfls": 8,
+              "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 28,
-              "nationalChampionship": true,
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Fuller_CL_DL",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -700,22 +692,6 @@
         "era": "70s",
         "pos": "LB",
         "players": [
-          {
-            "name": "Jeff Davis",
-            "games": 11,
-            "stats": {
-              "tackles": 115,
-              "sacks": 6,
-              "ints": 2,
-              "tfls": 16
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 150,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
           {
             "name": "Bubba Brown",
             "games": 11,
@@ -745,6 +721,20 @@
               "nationalChampionship": true,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Keith Adams_CL",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 47,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -753,23 +743,6 @@
         "era": "70s",
         "pos": "DB",
         "players": [
-          {
-            "name": "Terry Kinard",
-            "games": 12,
-            "stats": {
-              "ints": 6,
-              "pbus": 26,
-              "tackles": 58,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 10,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
           {
             "name": "Rex Varn",
             "games": 11,
@@ -799,6 +772,22 @@
               "nflDraftPick": 120,
               "nationalChampionship": true,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Terry Kinard_DB",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef",
+              "firstTeamAllAmerican": true
             }
           }
         ]

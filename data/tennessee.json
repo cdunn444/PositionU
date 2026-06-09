@@ -196,6 +196,20 @@
               "nflDraftPick": 250,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Jason Layman",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -448,21 +462,6 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Stanley Morgan",
-            "games": 11,
-            "stats": {
-              "rushYds": 812,
-              "rushTDs": 7,
-              "ypc": 5.2,
-              "recYds": 388
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 25,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Haskel Stanback",
             "games": 11,
             "stats": {
@@ -487,6 +486,20 @@
             },
             "bonuses": {
               "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Curt Watson",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -618,37 +631,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Reggie White",
-            "games": 11,
-            "stats": {
-              "sacks": 10,
-              "tfls": 15,
-              "hurries": 20,
-              "ff": 3,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 4,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Bill Bates",
-            "games": 11,
-            "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 225,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Mike Price",
             "games": 11,
             "stats": {
@@ -660,6 +642,36 @@
             },
             "bonuses": {
               "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bill Bates_DL",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeris White",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -751,17 +763,17 @@
             }
           },
           {
-            "name": "Mike Cofer",
-            "games": 11,
+            "name": "Bill Bates_III",
+            "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 16,
-              "tackles": 52,
+              "pbus": 15,
+              "tackles": 46,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 183,
               "collegeDominance": "elite"
             }
           }
@@ -1396,21 +1408,6 @@
             }
           },
           {
-            "name": "Kevin Simon",
-            "games": 13,
-            "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 95,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Justin Harrell",
             "games": 13,
             "stats": {
@@ -1424,6 +1421,22 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 16,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Albert Haynesworth",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef",
+              "firstTeamAllAmerican": true
             }
           }
         ]

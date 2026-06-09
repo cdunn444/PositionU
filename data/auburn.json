@@ -1034,22 +1034,6 @@
             }
           },
           {
-            "name": "Gerald Williams",
-            "games": 11,
-            "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 33,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Bob Brown",
             "games": 11,
             "stats": {
@@ -1061,6 +1045,21 @@
             },
             "bonuses": {
               "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Stula",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }

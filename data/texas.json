@@ -173,6 +173,34 @@
               "nflDraftPick": 160,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Alfred Jackson_TX",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Billy Dale",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -436,23 +464,6 @@
             }
           },
           {
-            "name": "Ricky Williams",
-            "games": 11,
-            "stats": {
-              "rushYds": 2124,
-              "rushTDs": 25,
-              "ypc": 6.2,
-              "recYds": 186
-            },
-            "bonuses": {
-              "heisman": true,
-              "doakWalker": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 5,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Jamaal Charles",
             "games": 13,
             "stats": {
@@ -466,6 +477,20 @@
               "nflDraftPick": 73,
               "nationalChampionship": true,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Domanick Williams",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -554,6 +579,20 @@
             "bonuses": {
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Bo Scaife",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 171,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -782,16 +821,16 @@
             }
           },
           {
-            "name": "Peter Gardere",
+            "name": "Bret Stafford",
             "games": 12,
             "stats": {
-              "passYds": 2054,
-              "passTDs": 17,
-              "intsSeason": 8,
-              "qbr": 148
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
             },
             "bonuses": {
-              "nflDraftPick": 180,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -987,22 +1026,6 @@
             }
           },
           {
-            "name": "Jerry Gray",
-            "games": 12,
-            "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 33,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Ty Allert",
             "games": 11,
             "stats": {
@@ -1014,6 +1037,21 @@
             },
             "bonuses": {
               "nflDraftPick": 73,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Henry Melton",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1040,31 +1078,30 @@
             }
           },
           {
-            "name": "Jerry Gray",
+            "name": "Lovie Smith_LB",
             "games": 12,
-            "stats": {
-              "tackles": 95,
-              "sacks": 3,
-              "ints": 3,
-              "tfls": 10
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 33,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Chris Carlisle",
-            "games": 11,
             "stats": {
               "tackles": 88,
               "sacks": 3,
               "ints": 1,
-              "tfls": 10
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Carlisle_LB",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1312,17 +1349,17 @@
             }
           },
           {
-            "name": "William Harris",
-            "games": 11,
+            "name": "Derek Graham",
+            "games": 12,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 42
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
               "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1473,21 +1510,6 @@
             }
           },
           {
-            "name": "Lovie Smith",
-            "games": 11,
-            "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 190,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Taje Allen",
             "games": 12,
             "stats": {
@@ -1501,6 +1523,21 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 48,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ahmad Brooks_TX",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1909,23 +1946,6 @@
             }
           },
           {
-            "name": "Sam Ehlinger",
-            "games": 13,
-            "stats": {
-              "passYds": 3663,
-              "passTDs": 32,
-              "intsSeason": 10,
-              "qbr": 168,
-              "rushYds": 588,
-              "rushTDs": 14
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 218,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Arch Manning",
             "games": 12,
             "stats": {
@@ -1940,6 +1960,20 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 1,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Hudson Card",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -2083,7 +2117,7 @@
             }
           },
           {
-            "name": "Cade Brewer",
+            "name": "Cade Brewer_TE",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -2092,8 +2126,8 @@
               "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -69,7 +69,8 @@ const ALL_SLOTS = [...OFFENSE_SLOTS, ...DEFENSE_SLOTS];
 
 let state = {
   round: 0,
-  respinUsed: false,
+  respinTeamUsed: false,
+  respinEraUsed: false,
   currentSchoolEra: null,
   selectedPos: null,
   picks: {},
@@ -89,7 +90,7 @@ function getRemainingSlots() {
 // ──────────────────────────────────────────────────────────────
 function init() {
   state = {
-    round: 0, respinUsed: false,
+    round: 0, respinTeamUsed: false, respinEraUsed: false,
     currentSchoolEra: null, selectedPos: null, picks: {}, phase: 'spin',
   };
   renderDock();
@@ -226,14 +227,23 @@ function showSpinScreen() {
 }
 
 function updateRespinBtns() {
-  const btn = document.getElementById('respinBtn');
-  if (!btn) return;
-  if (state.respinUsed) {
-    btn.className = 'respin-btn used';
-    btn.disabled = true;
+  const teamBtn = document.getElementById('respinTeamBtn');
+  const eraBtn  = document.getElementById('respinEraBtn');
+
+  if (state.respinTeamUsed) {
+    teamBtn.className = 'respin-btn used';
+    teamBtn.disabled = true;
   } else {
-    btn.className = 'respin-btn available';
-    btn.disabled = false;
+    teamBtn.className = 'respin-btn available';
+    teamBtn.disabled = false;
+  }
+
+  if (state.respinEraUsed) {
+    eraBtn.className = 'respin-btn used';
+    eraBtn.disabled = true;
+  } else {
+    eraBtn.className = 'respin-btn available';
+    eraBtn.disabled = false;
   }
 }
 
@@ -284,43 +294,67 @@ function doSpin() {
   }, 80);
 }
 
-function doRespin() {
+function doRespin(which) {
   if (!state.currentSchoolEra) return;
-  if (state.respinUsed) return;
+  const { school: curSchool, era: curEra } = parseKey(state.currentSchoolEra);
   const curKey = state.currentSchoolEra;
 
-  state.respinUsed = true;
+  if (which === 'team') state.respinTeamUsed = true;
+  else state.respinEraUsed = true;
+
   showSpinScreen();
 
-  document.getElementById('teamCard').className = 'spin-card team-card spinning';
-  document.getElementById('eraCard').className  = 'spin-card era-card spinning';
-  document.getElementById('spinStatus').textContent = 'RESPINNING...';
-  document.getElementById('spinBtn').disabled = true;
-  updateRespinBtns();
-
-  let ticks = 0;
-  spinInterval = setInterval(() => {
-    const rk = randomKey();
-    const f = parseKey(rk);
-    document.getElementById('teamValue').textContent = abbrev(f.school);
-    document.getElementById('eraValue').textContent  = f.era;
-    ticks++;
-    if (ticks >= 22) {
-      clearInterval(spinInterval);
-      // Pick any valid combo other than the current one
-      const pool = SPIN_POOL.filter(k => k !== curKey && GAME_DATA[k]);
-      const newKey = pool[Math.floor(Math.random() * pool.length)];
-      const f2 = parseKey(newKey);
-      document.getElementById('teamCard').className = 'spin-card team-card';
-      document.getElementById('eraCard').className  = 'spin-card era-card';
-      document.getElementById('teamValue').textContent = abbrev(f2.school);
-      document.getElementById('eraValue').textContent  = f2.era;
-      state.currentSchoolEra = newKey;
-      state.phase = 'spin';
-      document.getElementById('spinStatus').textContent = '';
-      setTimeout(() => { if (state.currentSchoolEra) goToRoom(); }, 1800);
-    }
-  }, 70);
+  if (which === 'team') {
+    document.getElementById('eraCard').className = 'spin-card locked';
+    document.getElementById('eraValue').textContent = curEra;
+    document.getElementById('teamCard').className = 'spin-card team-card spinning';
+    document.getElementById('teamValue').textContent = abbrev(curSchool);
+    document.getElementById('spinStatus').textContent = 'RESPINNING TEAM...';
+    document.getElementById('spinBtn').disabled = true;
+    updateRespinBtns();
+    let ticks = 0;
+    spinInterval = setInterval(() => {
+      document.getElementById('teamValue').textContent = abbrev(parseKey(randomKey()).school);
+      ticks++;
+      if (ticks >= 18) {
+        clearInterval(spinInterval);
+        const pool = SPIN_POOL.filter(k => parseKey(k).era === curEra && k !== curKey && GAME_DATA[k]);
+        const newKey = pool.length ? pool[Math.floor(Math.random() * pool.length)] : SPIN_POOL.filter(k => k !== curKey && GAME_DATA[k])[Math.floor(Math.random() * (SPIN_POOL.length - 1))];
+        const f = parseKey(newKey);
+        document.getElementById('teamCard').className = 'spin-card team-card';
+        document.getElementById('teamValue').textContent = abbrev(f.school);
+        state.currentSchoolEra = newKey;
+        state.phase = 'spin';
+        document.getElementById('spinStatus').textContent = '';
+        setTimeout(() => { if (state.currentSchoolEra) goToRoom(); }, 1800);
+      }
+    }, 70);
+  } else {
+    document.getElementById('teamCard').className = 'spin-card locked';
+    document.getElementById('teamValue').textContent = abbrev(curSchool);
+    document.getElementById('eraCard').className = 'spin-card era-card spinning';
+    document.getElementById('eraValue').textContent = curEra;
+    document.getElementById('spinStatus').textContent = 'RESPINNING ERA...';
+    document.getElementById('spinBtn').disabled = true;
+    updateRespinBtns();
+    let ticks = 0;
+    spinInterval = setInterval(() => {
+      document.getElementById('eraValue').textContent = parseKey(randomKey()).era;
+      ticks++;
+      if (ticks >= 18) {
+        clearInterval(spinInterval);
+        const pool = SPIN_POOL.filter(k => parseKey(k).school === curSchool && k !== curKey && GAME_DATA[k]);
+        const newKey = pool.length ? pool[Math.floor(Math.random() * pool.length)] : SPIN_POOL.filter(k => k !== curKey && GAME_DATA[k])[Math.floor(Math.random() * (SPIN_POOL.length - 1))];
+        const f = parseKey(newKey);
+        document.getElementById('eraCard').className = 'spin-card era-card';
+        document.getElementById('eraValue').textContent = f.era;
+        state.currentSchoolEra = newKey;
+        state.phase = 'spin';
+        document.getElementById('spinStatus').textContent = '';
+        setTimeout(() => { if (state.currentSchoolEra) goToRoom(); }, 1800);
+      }
+    }, 70);
+  }
 }
 
 // ──────────────────────────────────────────────────────────────

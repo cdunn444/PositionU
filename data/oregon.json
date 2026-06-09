@@ -910,18 +910,17 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Greg Olsen",
+            "name": "Dante Rosario",
             "games": 12,
             "stats": {
-              "rec": 38,
-              "recYds": 462,
-              "recTDs": 5,
-              "yac": 152
+              "rec": 17,
+              "recYds": 421,
+              "recTDs": 4,
+              "yac": 101
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 31,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 170,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -939,16 +938,16 @@
             }
           },
           {
-            "name": "Dante Rosario",
+            "name": "Ed Dickson",
             "games": 12,
             "stats": {
-              "rec": 24,
-              "recYds": 292,
-              "recTDs": 3,
-              "yac": 92
+              "rec": 37,
+              "recYds": 425,
+              "recTDs": 4,
+              "yac": 65
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 70,
               "collegeDominance": "elite"
             }
           }

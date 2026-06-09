@@ -176,6 +176,35 @@
               "nflDraftPick": 200,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "John Burke",
+            "games": 11,
+            "stats": {
+              "rec": 20,
+              "recYds": 220,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "nflDraftPick": 121,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bryan Jennings",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 238,
+              "recTDs": 4,
+              "yac": 75
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 240,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },

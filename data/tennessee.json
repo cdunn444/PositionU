@@ -196,6 +196,20 @@
               "nflDraftPick": 250,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "David Martin",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 290,
+              "recTDs": 2,
+              "yac": 95
+            },
+            "bonuses": {
+              "nflDraftPick": 198,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },

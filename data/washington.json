@@ -195,6 +195,20 @@
               "nflDraftPick": 30,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Rod Jones",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 360,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 213,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },

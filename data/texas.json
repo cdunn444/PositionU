@@ -173,6 +173,34 @@
               "nflDraftPick": 160,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Lawrence Sampleton",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 380,
+              "recTDs": 3,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 45,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Julius Whittier",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 150,
+              "recTDs": 5,
+              "yac": 45
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -554,6 +582,20 @@
             "bonuses": {
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jermichael Finley",
+            "games": 13,
+            "stats": {
+              "rec": 45,
+              "recYds": 575,
+              "recTDs": 2,
+              "yac": 200
+            },
+            "bonuses": {
+              "nflDraftPick": 91,
+              "collegeDominance": "eraDef"
             }
           }
         ]

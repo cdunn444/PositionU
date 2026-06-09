@@ -944,6 +944,20 @@
               "nflDraftPick": 215,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Roland Williams",
+            "games": 11,
+            "stats": {
+              "rec": 27,
+              "recYds": 360,
+              "recTDs": 5,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 98,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -1485,6 +1499,20 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 107,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Diamond Ferri",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 9,
+              "tackles": 99,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
             }
           }
         ]

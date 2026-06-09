@@ -195,6 +195,20 @@
               "nflDraftPick": 78,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Foster Moreau",
+            "games": 13,
+            "stats": {
+              "rec": 24,
+              "recYds": 272,
+              "recTDs": 2,
+              "yac": 90
+            },
+            "bonuses": {
+              "nflDraftPick": 137,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },

@@ -35,6 +35,19 @@
               "nflDraftPick": 180,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "John Leister",
+            "games": 11,
+            "stats": {
+              "passYds": 1321,
+              "passTDs": 8,
+              "intsSeason": 12,
+              "qbr": 115
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -157,6 +170,34 @@
             "bonuses": {
               "nflDraftPick": 165,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Butch Rolle",
+            "games": 11,
+            "stats": {
+              "rec": 15,
+              "recYds": 165,
+              "recTDs": 2,
+              "yac": 55
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mitch Lyons",
+            "games": 11,
+            "stats": {
+              "rec": 37,
+              "recYds": 430,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 196,
+              "collegeDominance": "elite"
             }
           }
         ]

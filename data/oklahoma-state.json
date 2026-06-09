@@ -36,6 +36,19 @@
               "nflDraftPick": 136,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Jim Traber",
+            "games": 11,
+            "stats": {
+              "passYds": 1450,
+              "passTDs": 8,
+              "intsSeason": 11,
+              "qbr": 112
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -125,6 +138,19 @@
               "nflDraftPick": 117,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Bobby Riley",
+            "games": 11,
+            "stats": {
+              "rec": 42,
+              "recYds": 659,
+              "recTDs": 4,
+              "yac": 210
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -146,6 +172,33 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 13,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Chesley",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 350,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 277,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Barry Hanna",
+            "games": 11,
+            "stats": {
+              "rec": 20,
+              "recYds": 240,
+              "recTDs": 3,
+              "yac": 80
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
             }
           }
         ]

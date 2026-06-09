@@ -194,6 +194,20 @@
               "nationalChampionship": true,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Charles Henry",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 240,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },

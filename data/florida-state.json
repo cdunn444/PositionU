@@ -191,6 +191,20 @@
               "nflDraftPick": 160,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Reggie Johnson",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 310,
+              "recTDs": 3,
+              "yac": 95
+            },
+            "bonuses": {
+              "nflDraftPick": 30,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -583,6 +597,20 @@
             "bonuses": {
               "nflDraftPick": 210,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Lonnie Johnson",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 360,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 61,
+              "collegeDominance": "elite"
             }
           }
         ]

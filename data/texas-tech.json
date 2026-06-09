@@ -361,6 +361,21 @@
               "nflDraftPick": 200,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Greg Frazier",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 12,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A-"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
           }
         ]
       }
@@ -725,6 +740,22 @@
             "bonuses": {
               "nflDraftPick": 185,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tate Randle",
+            "games": 11,
+            "stats": {
+              "ints": 6,
+              "pbus": 14,
+              "tackles": 72,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 220,
+              "collegeDominance": "eraDef"
             }
           }
         ]

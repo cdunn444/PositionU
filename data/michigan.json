@@ -191,6 +191,20 @@
               "nflDraftPick": 220,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Jay Riemersma",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 465,
+              "recTDs": 5,
+              "yac": 140
+            },
+            "bonuses": {
+              "nflDraftPick": 244,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -574,6 +588,21 @@
             },
             "bonuses": {
               "nflDraftPick": 42,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "AJ Barner",
+            "games": 15,
+            "stats": {
+              "rec": 22,
+              "recYds": 249,
+              "recTDs": 2,
+              "yac": 95
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "nflDraftPick": 121,
               "collegeDominance": "elite"
             }
           }

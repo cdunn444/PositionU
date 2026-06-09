@@ -35,6 +35,19 @@
               "nflDraftPick": 155,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Mike McQueary",
+            "games": 12,
+            "stats": {
+              "passYds": 2211,
+              "passTDs": 17,
+              "intsSeason": 7,
+              "qbr": 140
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -559,6 +572,20 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Theo Johnson",
+            "games": 13,
+            "stats": {
+              "rec": 34,
+              "recYds": 341,
+              "recTDs": 7,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 107,
               "collegeDominance": "elite"
             }
           }

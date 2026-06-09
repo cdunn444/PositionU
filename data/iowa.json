@@ -138,6 +138,20 @@
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Kevin Kasper",
+            "games": 11,
+            "stats": {
+              "rec": 82,
+              "recYds": 1010,
+              "recTDs": 7,
+              "yac": 320
+            },
+            "bonuses": {
+              "nflDraftPick": 201,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -174,6 +188,20 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 93,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Chandler",
+            "games": 13,
+            "stats": {
+              "rec": 47,
+              "recYds": 597,
+              "recTDs": 6,
+              "yac": 175
+            },
+            "bonuses": {
+              "nflDraftPick": 129,
               "collegeDominance": "elite"
             }
           }
@@ -492,6 +520,21 @@
             "bonuses": {
               "nflDraftPick": 180,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Marvin McNutt",
+            "games": 13,
+            "stats": {
+              "rec": 82,
+              "recYds": 1315,
+              "recTDs": 12,
+              "yac": 410
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 194,
+              "collegeDominance": "eraDef"
             }
           }
         ]

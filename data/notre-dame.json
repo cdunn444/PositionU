@@ -197,6 +197,20 @@
               "nflDraftPick": 45,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Robin Weber",
+            "games": 11,
+            "stats": {
+              "rec": 6,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -582,6 +596,20 @@
             },
             "bonuses": {
               "nflDraftPick": 52,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Koyack",
+            "games": 13,
+            "stats": {
+              "rec": 30,
+              "recYds": 317,
+              "recTDs": 2,
+              "yac": 105
+            },
+            "bonuses": {
+              "nflDraftPick": 229,
               "collegeDominance": "elite"
             }
           }

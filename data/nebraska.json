@@ -188,6 +188,33 @@
               "nflDraftPick": 15,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Sheldon Jackson",
+            "games": 12,
+            "stats": {
+              "rec": 19,
+              "recYds": 343,
+              "recTDs": 4,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 230,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Gerald Armstrong",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 115,
+              "recTDs": 7,
+              "yac": 40
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
           }
         ]
       },

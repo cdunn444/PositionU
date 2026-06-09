@@ -183,6 +183,35 @@
               "nflDraftPick": 180,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Al Chandler",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 354,
+              "recTDs": 4,
+              "yac": 120
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Forrest Valora",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 180,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 282,
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -579,6 +608,21 @@
             },
             "bonuses": {
               "nflDraftPick": 113,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Grant Calcaterra",
+            "games": 13,
+            "stats": {
+              "rec": 26,
+              "recYds": 396,
+              "recTDs": 6,
+              "yac": 130
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 198,
               "collegeDominance": "elite"
             }
           }

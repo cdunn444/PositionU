@@ -192,6 +192,20 @@
               "nflDraftPick": 240,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Matt Schobel",
+            "games": 12,
+            "stats": {
+              "rec": 27,
+              "recYds": 378,
+              "recTDs": 6,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 67,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },

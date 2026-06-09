@@ -196,6 +196,19 @@
               "nflDraftPick": 230,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Kirk Kirkpatrick",
+            "games": 11,
+            "stats": {
+              "rec": 55,
+              "recYds": 770,
+              "recTDs": 7,
+              "yac": 230
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -582,6 +595,20 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cornelius Ingram",
+            "games": 13,
+            "stats": {
+              "rec": 34,
+              "recYds": 392,
+              "recTDs": 3,
+              "yac": 140
+            },
+            "bonuses": {
+              "nflDraftPick": 153,
               "collegeDominance": "elite"
             }
           }

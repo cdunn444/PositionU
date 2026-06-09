@@ -1213,6 +1213,19 @@
               "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Demetris Summers",
+            "games": 11,
+            "stats": {
+              "rushYds": 638,
+              "rushTDs": 3,
+              "ypc": 5.1,
+              "recYds": 90
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -1248,6 +1261,20 @@
             "bonuses": {
               "nflDraftPick": 185,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kenny McKinley",
+            "games": 13,
+            "stats": {
+              "rec": 77,
+              "recYds": 1039,
+              "recTDs": 9,
+              "yac": 360
+            },
+            "bonuses": {
+              "nflDraftPick": 141,
+              "collegeDominance": "eraDef"
             }
           }
         ]

@@ -69,7 +69,7 @@ const ALL_SLOTS = [...OFFENSE_SLOTS, ...DEFENSE_SLOTS];
 
 let state = {
   round: 0,
-  respinUsed: false,
+  respinsUsed: 0,
   currentSchoolEra: null,
   selectedPos: null,
   picks: {},
@@ -89,7 +89,7 @@ function getRemainingSlots() {
 // ──────────────────────────────────────────────────────────────
 function init() {
   state = {
-    round: 0, respinUsed: false,
+    round: 0, respinsUsed: 0,
     currentSchoolEra: null, selectedPos: null, picks: {}, phase: 'spin',
   };
   renderDock();
@@ -228,13 +228,17 @@ function showSpinScreen() {
 function updateRespinBtns() {
   const btn = document.getElementById('respinBtn');
   if (!btn) return;
-  if (state.respinUsed) {
+  const remaining = 2 - state.respinsUsed;
+  const label = btn.querySelector('.respin-label');
+  if (state.respinsUsed >= 2) {
     btn.className = 'respin-btn used';
     btn.disabled = true;
   } else {
     btn.className = 'respin-btn available';
     btn.disabled = false;
   }
+  // Update label to show count
+  btn.innerHTML = `<span class="respin-icon">↺</span> Respin (${remaining})`;
 }
 
 function doSpin() {
@@ -286,10 +290,10 @@ function doSpin() {
 
 function doRespin() {
   if (!state.currentSchoolEra) return;
-  if (state.respinUsed) return;
+  if (state.respinsUsed >= 2) return;
   const curKey = state.currentSchoolEra;
 
-  state.respinUsed = true;
+  state.respinsUsed++;
   showSpinScreen();
 
   document.getElementById('teamCard').className = 'spin-card team-card spinning';

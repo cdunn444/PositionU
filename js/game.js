@@ -488,20 +488,21 @@ function showResults() {
   document.getElementById('gradeDisplay').textContent = result.grade;
   // Madden-style ratings — recalibrated 2026-06-09 (rules v1.4 distribution).
   // Per-axis piecewise scale; offense and defense judged independently so the
-  // offense/defense split stays honest (e.g. elite O + mid D → 13-2 shows ~98 / ~86):
+  // offense/defense split stays honest (e.g. elite O + mid D → 13-2 shows a real gap):
   //   • a weak unit (~1st pct of raw output) reads ~55
-  //   • an undefeated-caliber unit (the 15-0 entry gate) reads ~95, so a typical
-  //     undefeated team averages ~96 on each side
-  //   • the theoretical dream team — the single best room at every slot — reads 100
-  //     (offense gate/ceiling raw 226/380, defense raw 139/250)
-  const maddenRating = (raw, lo, gate, gateR, max) => {
-    const v = raw <= gate
-      ? 55 + (raw - lo) / (gate - lo) * (gateR - 55)
-      : gateR + (raw - gate) / (max - gate) * (100 - gateR);
+  //   • a typical undefeated unit (mean 15-0 raw output) reads ~98, so an undefeated
+  //     team averages ~95 on each side once lopsided champs are included
+  //   • the theoretical dream team — the single best room at every slot — reads 100,
+  //     and essentially nothing short of it does (offense knee/ceiling raw 256/380,
+  //     defense raw 165/250)
+  const maddenRating = (raw, lo, knee, kneeR, max) => {
+    const v = raw <= knee
+      ? 55 + (raw - lo) / (knee - lo) * (kneeR - 55)
+      : kneeR + (raw - knee) / (max - knee) * (100 - kneeR);
     return Math.min(100, Math.max(40, Math.round(v)));
   };
-  const offRating = maddenRating(offTotal, 174, 226, 95.4, 380);
-  const defRating = maddenRating(defTotal,  93, 139, 95.2, 250);
+  const offRating = maddenRating(offTotal, 174, 256, 98.4, 380);
+  const defRating = maddenRating(defTotal,  93, 165, 98.9, 250);
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

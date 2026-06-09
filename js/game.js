@@ -507,11 +507,21 @@ function showResults() {
   document.getElementById('defScore').textContent = defRating;
 
   let rowsHtml = '';
+  // Show surnames on the results card. Team-unit OL entries ("1996 Syracuse OL")
+  // aren't people, so keep their leading year; skip generational suffixes.
+  const lastName = (name) => {
+    const parts = name.trim().split(/\s+/);
+    if (/OL$/.test(name)) return parts[0];
+    const suffixes = new Set(['Jr.', 'Sr.', 'Jr', 'Sr', 'II', 'III', 'IV', 'V']);
+    let i = parts.length - 1;
+    while (i > 0 && suffixes.has(parts[i])) i--;
+    return parts[i];
+  };
   ALL_SLOTS.forEach(pos => {
     const pick = state.picks[pos];
     if (!pick) return;
     const isOff = OFFENSE_SLOTS.includes(pos);
-    const topNames = pick.playerScores.slice(0,3).map(p => p.name.split(' ')[0]).join(' · ');
+    const topNames = pick.playerScores.slice(0,3).map(p => lastName(p.name)).join(' · ');
     rowsHtml += `
       <div class="result-row ${isOff ? 'offense-row' : 'defense-row'}">
         <div class="pos-avatar ${isOff ? 'offense-pos' : 'defense-pos'}">${pos}</div>

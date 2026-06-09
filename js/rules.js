@@ -22,14 +22,14 @@ const RULES = Object.freeze({
     OL: 1.0, DL: 5.5, LB: 4.8, DB: 5.0
   },
 
-  // Madden rating linear scales — recalibrated 2026-06-09 (rules v1.4 distribution)
-  // Formula: raw = floor + (rawTotal - min) / range * span; displayed = 88% axis + 12% overall (clamp 45-99)
-  // Widened so elite units read ~95-99 and weak ~52, while the O/D split is preserved.
-  // Note: formula is inlined in game.js showResults() — these values document it
+  // Madden rating scales — recalibrated 2026-06-09 (rules v1.4 distribution).
+  // Per-axis piecewise map (floor -> 15-0 gate -> theoretical max):
+  //   weak unit (~1st pct) -> 55 ; 15-0 entry gate -> ~95 (undefeated avg ~96) ;
+  //   dream team (best room at every slot) -> 100. Offense and defense scored
+  //   independently so the O/D split stays honest. Inlined in game.js showResults().
   maddenScales: {
-    offense: { min: 174, range: 107, floor: 52, span: 47, ceiling: 99 },
-    defense: { min: 93,  range: 98,  floor: 52, span: 47, ceiling: 99 },
-    blendTowardOverall: 0.12
+    offense: { floor: 174, gate: 226, gateRating: 95.4, max: 380, floorRating: 55, ceiling: 100 },
+    defense: { floor:  93, gate: 139, gateRating: 95.2, max: 250, floorRating: 55, ceiling: 100 }
   },
 
   // Record tier requirements — ALL conditions must be met for the tier

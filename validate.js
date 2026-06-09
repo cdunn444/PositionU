@@ -4,12 +4,15 @@
  * Run before every push: node validate.js
  *
  * Checks:
- *  1. Every room has exactly 1–3 players
- *  2. No player appears in the wrong position room
+ *  1. Room sizes: OL rooms hold exactly 1 (a team-unit entry); every other
+ *     room holds 3 players, or 4 when the position is elite.
+ *  2. No player appears in a room whose position its stats don't fit
  *  3. Every era has all 8 position rooms (with OL exception)
  *  4. No duplicate player names within a room
  *  5. rules.js exists and has expected structure
  *  6. All school files referenced by manifest exist and parse
+ *  7. Suspicious duplicates: the same player listed in two rooms of one
+ *     school with an identical stat block (a tell-tale filler copy)
  */
 
 const fs = require('fs');
@@ -70,8 +73,26 @@ manifest.schools.forEach(s => {
 
 console.log(`\n═══ Validating ${Object.keys(ALL_DATA).length} combos ═══`);
 
+// Stat keys that mark a player as belonging at a position. A player whose
+// stat block has none of these is sitting in the wrong room.
+const POS_STATS = {
+  QB: ['passYds', 'passTDs', 'intsSeason', 'qbr'],
+  RB: ['rushYds', 'rushTDs', 'ypc'],
+  WR: ['rec', 'recYds', 'recTDs', 'yac'],
+  TE: ['rec', 'recYds', 'recTDs', 'yac'],
+  OL: ['sacksAllowedSeason', 'pancakeBlocksSeason', 'passBlockEff', 'runBlockEff'],
+  DL: ['sacks', 'tfls', 'hurries', 'dominanceGrade'],
+  LB: ['tackles', 'sacks', 'tfls', 'ints'],
+  DB: ['ints', 'pbus', 'coverageGrade', 'tackles', 'ff'],
+};
+
+// school -> playerName -> [{ where, statKey }]  (for cross-room dup detection)
+const byPlayer = {};
+
 let playerCount = 0;
 Object.entries(ALL_DATA).forEach(([combo, rooms]) => {
+  const era = combo.slice(combo.lastIndexOf(' ') + 1);
+  const school = combo.slice(0, combo.lastIndexOf(' '));
   ALL_SLOTS.forEach(pos => {
     if (!rooms[pos]) {
       err(`${combo} ${pos}: MISSING room`);
@@ -79,24 +100,65 @@ Object.entries(ALL_DATA).forEach(([combo, rooms]) => {
     }
     const players = rooms[pos].players || [];
 
-    if (players.length === 0) err(`${combo} ${pos}: 0 players`);
-    else if (players.length > 3) err(`${combo} ${pos}: ${players.length} players (max 3)`);
+    // 1. Room sizes — OL is a single team-unit entry; every other room is 3,
+    //    or 4 when the position is elite.
+    if (pos === 'OL') {
+      if (players.length !== 1) err(`${combo} OL: ${players.length} entries (must be exactly 1 team unit)`);
+    } else if (players.length < 3) {
+      err(`${combo} ${pos}: ${players.length} player(s) (need 3, occasionally 4)`);
+    } else if (players.length > 4) {
+      err(`${combo} ${pos}: ${players.length} players (max 4 — only for elite rooms)`);
+    }
 
+    // 4. No duplicate player names within a room
     const names = players.map(p => p.name);
     const dupes = names.filter((n, i) => names.indexOf(n) !== i);
     if (dupes.length) err(`${combo} ${pos}: duplicate(s) — ${[...new Set(dupes)].join(', ')}`);
 
+    // 4b. Filler-copy tell: a player name ending in a bare " 2"/" 3" suffix.
+    //     (OL team units like "1996 Syracuse OL" carry their year up front, so
+    //     they're unaffected.) This is the exact signature of a copied entry.
+    players.forEach(p => {
+      if (pos !== 'OL' && /\s\d+$/.test(p.name || '')) {
+        err(`${combo} ${pos}: "${p.name}" has a numeric name suffix — leftover filler copy?`);
+      }
+    });
+
+    // 2. Stats must fit the position room they sit in
+    const want = POS_STATS[pos] || [];
     players.forEach(p => {
       if (!p || !p.stats) return;
       const s = p.stats;
-      if (pos === 'QB' && (s.passYds === 0 || s.passYds === undefined)) {
-        err(`${combo} QB: "${p.name}" has no passing stats — wrong position?`);
+      if (want.length && !want.some(k => s[k] !== undefined && s[k] !== 0 && s[k] !== '')) {
+        err(`${combo} ${pos}: "${p.name}" has no ${pos} stats (${want.join('/')}) — wrong position?`);
       }
-      if (pos === 'RB' && !s.rushYds) warn(`${combo} RB: "${p.name}" has no rushYds`);
-      if (pos === 'WR' && !s.recYds) warn(`${combo} WR: "${p.name}" has no recYds`);
+      // 7. Track for cross-room identical-stat detection
+      (byPlayer[school] ||= {});
+      (byPlayer[school][p.name] ||= []).push({ where: `${era}/${pos}`, stats: JSON.stringify(s) });
     });
 
     playerCount += players.length;
+  });
+});
+
+// 7. Suspicious duplicate (advisory): same player in two rooms of one school
+//    with an identical stat block. NOTE: this is intentionally a *warning*, not
+//    an error — the dataset deliberately reuses era-spanning legends (Deion
+//    Sanders, Herschel Walker, Tua…) across adjacent decades with their career
+//    line, which is structurally indistinguishable from an accidental filler
+//    copy. The hard gate against filler is the numeric-suffix check above; this
+//    list is here to eyeball periodically for genuine misplacements.
+Object.entries(byPlayer).forEach(([school, players]) => {
+  Object.entries(players).forEach(([name, entries]) => {
+    if (entries.length < 2) return;
+    const seen = new Map();
+    entries.forEach(e => {
+      if (seen.has(e.stats)) {
+        warn(`${school}: "${name}" appears with identical stats in ${seen.get(e.stats)} and ${e.where} (era-spanning reuse — verify intentional)`);
+      } else {
+        seen.set(e.stats, e.where);
+      }
+    });
   });
 });
 

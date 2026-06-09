@@ -1187,21 +1187,6 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Marcus Lattimore",
-            "games": 12,
-            "stats": {
-              "rushYds": 1197,
-              "rushTDs": 14,
-              "ypc": 5.8,
-              "recYds": 165
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 131,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Mike Davis",
             "games": 12,
             "stats": {
@@ -1236,22 +1221,6 @@
         "era": "00s",
         "pos": "WR",
         "players": [
-          {
-            "name": "Alshon Jeffery",
-            "games": 13,
-            "stats": {
-              "rec": 88,
-              "recYds": 1517,
-              "recTDs": 9,
-              "yac": 478
-            },
-            "bonuses": {
-              "biletnikoff": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 45,
-              "collegeDominance": "allTime"
-            }
-          },
           {
             "name": "Sidney Rice",
             "games": 13,
@@ -1571,7 +1540,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Marcus Lattimore 2",
+            "name": "Marcus Lattimore",
             "games": 13,
             "stats": {
               "rushYds": 1153,
@@ -1621,7 +1590,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Alshon Jeffery 2",
+            "name": "Alshon Jeffery",
             "games": 13,
             "stats": {
               "rec": 88,

@@ -918,21 +918,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Marvin Harrison",
-            "games": 12,
-            "stats": {
-              "rec": 38,
-              "recYds": 568,
-              "recTDs": 5,
-              "yac": 178
-            },
-            "bonuses": {
-              "biletnikoff": true,
-              "nflDraftPick": 19,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Chris Gedney",
             "games": 12,
             "stats": {
@@ -1471,22 +1456,6 @@
         "era": "00s",
         "pos": "DB",
         "players": [
-          {
-            "name": "Donovin Darius 2",
-            "games": 12,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 60,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 25,
-              "collegeDominance": "eraDef"
-            }
-          },
           {
             "name": "Steve Gregory",
             "games": 12,

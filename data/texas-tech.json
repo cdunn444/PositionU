@@ -333,22 +333,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Marcus Coleman",
-            "games": 11,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 50,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Rickey Green",
             "games": 11,
             "stats": {
@@ -742,22 +726,6 @@
               "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
-          },
-          {
-            "name": "Marcus Coleman",
-            "games": 11,
-            "stats": {
-              "ints": 3,
-              "pbus": 16,
-              "tackles": 48,
-              "ff": 1,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 50,
-              "collegeDominance": "eraDef"
-            }
           }
         ]
       }
@@ -1093,7 +1061,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Marcus Coleman 2",
+            "name": "Marcus Coleman",
             "games": 12,
             "stats": {
               "ints": 6,

@@ -444,7 +444,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -491,7 +494,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -537,7 +543,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -583,7 +592,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -601,7 +613,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -650,7 +665,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -696,7 +714,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -745,7 +766,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "80s",
+        "pos": "DB"
       }
     },
     "90s": {
@@ -793,7 +817,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -839,7 +866,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -885,7 +915,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -931,7 +964,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -949,7 +985,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -998,7 +1037,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -1044,7 +1086,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -1093,7 +1138,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "90s",
+        "pos": "DB"
       }
     },
     "00s": {
@@ -1141,7 +1189,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -1179,7 +1230,7 @@
             "stats": {
               "rushYds": 1136,
               "rushTDs": 6,
-              "ypc": 6.0,
+              "ypc": 6,
               "recYds": 96
             },
             "bonuses": {
@@ -1187,7 +1238,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -1233,7 +1287,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -1279,7 +1336,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -1297,7 +1357,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -1346,7 +1409,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -1392,7 +1458,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -1441,7 +1510,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "00s",
+        "pos": "DB"
       }
     },
     "10s": {
@@ -1489,7 +1561,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -1536,7 +1611,10 @@
               "collegeDominance": "eraDef"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -1582,7 +1660,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -1628,7 +1709,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -1646,7 +1730,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -1697,7 +1784,10 @@
               "collegeDominance": "allTime"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -1743,7 +1833,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -1792,7 +1885,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "10s",
+        "pos": "DB"
       }
     },
     "20s": {
@@ -1841,7 +1937,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -1887,7 +1986,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -1935,7 +2037,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -1981,7 +2086,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -1999,7 +2107,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -2049,7 +2160,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -2095,7 +2209,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -2144,7 +2261,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Pittsburgh",
+        "era": "20s",
+        "pos": "DB"
       }
     }
   }

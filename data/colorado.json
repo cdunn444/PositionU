@@ -437,7 +437,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -483,7 +486,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -529,7 +535,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -575,7 +584,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -593,7 +605,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -601,7 +616,7 @@
             "name": "Herb Orvis",
             "games": 12,
             "stats": {
-              "sacks": 6.0,
+              "sacks": 6,
               "tfls": 14,
               "hurries": 10,
               "ff": 2,
@@ -642,7 +657,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -688,7 +706,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -737,7 +758,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "70s",
+        "pos": "DB"
       }
     },
     "80s": {
@@ -785,7 +809,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -823,7 +850,7 @@
             "stats": {
               "rushYds": 906,
               "rushTDs": 8,
-              "ypc": 5.0,
+              "ypc": 5,
               "recYds": 266
             },
             "bonuses": {
@@ -831,7 +858,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -877,7 +907,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -923,7 +956,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -941,7 +977,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -990,7 +1029,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -1036,7 +1078,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -1085,7 +1130,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "80s",
+        "pos": "DB"
       }
     },
     "00s": {
@@ -1133,7 +1181,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -1179,7 +1230,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -1225,7 +1279,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -1271,7 +1328,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -1289,7 +1349,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -1338,7 +1401,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -1384,7 +1450,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -1433,7 +1502,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "00s",
+        "pos": "DB"
       }
     },
     "10s": {
@@ -1481,7 +1553,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -1527,7 +1602,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -1573,7 +1651,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -1619,7 +1700,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -1637,7 +1721,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -1686,7 +1773,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -1732,7 +1822,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -1781,7 +1874,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "10s",
+        "pos": "DB"
       }
     },
     "20s": {
@@ -1829,7 +1925,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "QB"
       },
       "RB": {
         "players": [
@@ -1875,7 +1974,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "RB"
       },
       "WR": {
         "players": [
@@ -1921,7 +2023,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "WR"
       },
       "TE": {
         "players": [
@@ -1967,7 +2072,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "TE"
       },
       "OL": {
         "players": [
@@ -1985,7 +2093,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "OL"
       },
       "DL": {
         "players": [
@@ -2034,7 +2145,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "DL"
       },
       "LB": {
         "players": [
@@ -2080,7 +2194,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "LB"
       },
       "DB": {
         "players": [
@@ -2129,7 +2246,10 @@
               "collegeDominance": "elite"
             }
           }
-        ]
+        ],
+        "school": "Colorado",
+        "era": "20s",
+        "pos": "DB"
       }
     }
   }

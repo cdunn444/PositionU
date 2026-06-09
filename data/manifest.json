@@ -1,0 +1,469 @@
+{
+  "schools": [
+    {
+      "name": "Alabama",
+      "file": "alabama.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "file": "arkansas.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Auburn",
+      "file": "auburn.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Baylor",
+      "file": "baylor.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Clemson",
+      "file": "clemson.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Colorado",
+      "file": "colorado.json",
+      "eras": [
+        "90s"
+      ]
+    },
+    {
+      "name": "Florida",
+      "file": "florida.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Florida State",
+      "file": "florida-state.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Georgia",
+      "file": "georgia.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Georgia Tech",
+      "file": "georgia-tech.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Iowa",
+      "file": "iowa.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Kansas State",
+      "file": "kansas-state.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "LSU",
+      "file": "lsu.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Miami",
+      "file": "miami.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Michigan",
+      "file": "michigan.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Michigan State",
+      "file": "michigan-state.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "file": "nebraska.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Notre Dame",
+      "file": "notre-dame.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Ohio State",
+      "file": "ohio-state.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "file": "oklahoma.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Oklahoma State",
+      "file": "oklahoma-state.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Ole Miss",
+      "file": "ole-miss.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Oregon",
+      "file": "oregon.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Penn State",
+      "file": "penn-state.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Pittsburgh",
+      "file": "pittsburgh.json",
+      "eras": [
+        "70s"
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "file": "south-carolina.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Stanford",
+      "file": "stanford.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Syracuse",
+      "file": "syracuse.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "TCU",
+      "file": "tcu.json",
+      "eras": [
+        "00s"
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "file": "tennessee.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Texas",
+      "file": "texas.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Texas A&M",
+      "file": "texas-a-m.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Texas Tech",
+      "file": "texas-tech.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "UCLA",
+      "file": "ucla.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "USC",
+      "file": "usc.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Utah",
+      "file": "utah.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Virginia Tech",
+      "file": "virginia-tech.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Washington",
+      "file": "washington.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "file": "west-virginia.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "file": "wisconsin.json",
+      "eras": [
+        "00s",
+        "10s",
+        "20s",
+        "70s",
+        "80s",
+        "90s"
+      ]
+    }
+  ],
+  "totalCombos": 223,
+  "generated": "2026-06-08T22:08:34.670Z"
+}

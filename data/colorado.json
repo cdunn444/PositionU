@@ -1,0 +1,388 @@
+{
+  "school": "Colorado",
+  "eras": {
+    "90s": {
+      "QB": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Kordell Stewart",
+            "games": 12,
+            "stats": {
+              "passYds": 2304,
+              "passTDs": 22,
+              "intsSeason": 7,
+              "qbr": 158,
+              "rushYds": 660,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 60,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darian Hagan",
+            "games": 11,
+            "stats": {
+              "passYds": 848,
+              "passTDs": 10,
+              "intsSeason": 5,
+              "qbr": 118,
+              "rushYds": 1004,
+              "rushTDs": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Hessler",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 12,
+              "intsSeason": 8,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Rashaan Salaam",
+            "games": 11,
+            "stats": {
+              "rushYds": 2055,
+              "rushTDs": 24,
+              "ypc": 6,
+              "recYds": 131
+            },
+            "bonuses": {
+              "heisman": true,
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Eric Bieniemy",
+            "games": 11,
+            "stats": {
+              "rushYds": 1418,
+              "rushTDs": 14,
+              "ypc": 5.8,
+              "recYds": 156
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lamont Warren",
+            "games": 11,
+            "stats": {
+              "rushYds": 815,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Westbrook",
+            "games": 11,
+            "stats": {
+              "rec": 60,
+              "recYds": 934,
+              "recTDs": 8,
+              "yac": 298
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Charles Johnson",
+            "games": 11,
+            "stats": {
+              "rec": 54,
+              "recYds": 840,
+              "recTDs": 7,
+              "yac": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Blake Anderson",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 548,
+              "recTDs": 4,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Christian Fauria",
+            "games": 11,
+            "stats": {
+              "rec": 34,
+              "recYds": 432,
+              "recTDs": 4,
+              "yac": 142
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "James Kidd",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 212,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1990 Colorado OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 150,
+              "passBlockEff": 90,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Alfred Williams",
+            "games": 11,
+            "stats": {
+              "sacks": 12,
+              "tfls": 18,
+              "hurries": 24,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 18,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Joel Steed",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 78,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ted Johnson",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Kanavis McGhee",
+            "games": 11,
+            "stats": {
+              "tackles": 102,
+              "sacks": 9,
+              "ints": 1,
+              "tfls": 18
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Matt Russell",
+            "games": 11,
+            "stats": {
+              "tackles": 110,
+              "sacks": 5,
+              "ints": 1,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ted Johnson",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Colorado",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Deon Figures",
+            "games": 11,
+            "stats": {
+              "ints": 7,
+              "pbus": 36,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 23,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darius Johnson",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 80,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Greg Jones",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

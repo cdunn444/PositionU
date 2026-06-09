@@ -1,0 +1,2352 @@
+{
+  "school": "Ohio State",
+  "eras": {
+    "10s": {
+      "QB": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Braxton Miller",
+            "games": 12,
+            "stats": {
+              "passYds": 2039,
+              "passTDs": 15,
+              "intsSeason": 7,
+              "qbr": 158,
+              "rushYds": 1068,
+              "rushTDs": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "J.T. Barrett",
+            "games": 14,
+            "stats": {
+              "passYds": 2555,
+              "passTDs": 35,
+              "intsSeason": 5,
+              "qbr": 182,
+              "rushYds": 938,
+              "rushTDs": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 233,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cardale Jones",
+            "games": 4,
+            "stats": {
+              "passYds": 569,
+              "passTDs": 5,
+              "intsSeason": 0,
+              "qbr": 172
+            },
+            "bonuses": {
+              "nflDraftPick": 139,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ezekiel Elliott",
+            "games": 15,
+            "stats": {
+              "rushYds": 1878,
+              "rushTDs": 23,
+              "ypc": 6.6,
+              "recYds": 314
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Carlos Hyde",
+            "games": 13,
+            "stats": {
+              "rushYds": 1521,
+              "rushTDs": 15,
+              "ypc": 5.5,
+              "recYds": 169
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 57,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Curtis Samuel",
+            "games": 14,
+            "stats": {
+              "rushYds": 771,
+              "rushTDs": 7,
+              "ypc": 8,
+              "recYds": 547
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Thomas",
+            "games": 14,
+            "stats": {
+              "rec": 78,
+              "recYds": 1258,
+              "recTDs": 9,
+              "yac": 388
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 47,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Corey Coleman",
+            "games": 13,
+            "stats": {
+              "rec": 74,
+              "recYds": 1214,
+              "recTDs": 20,
+              "yac": 420
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Terry McLaurin",
+            "games": 14,
+            "stats": {
+              "rec": 35,
+              "recYds": 701,
+              "recTDs": 11,
+              "yac": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 76,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jake Stoneburner",
+            "games": 13,
+            "stats": {
+              "rec": 30,
+              "recYds": 435,
+              "recTDs": 7,
+              "yac": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeff Heuerman",
+            "games": 13,
+            "stats": {
+              "rec": 27,
+              "recYds": 340,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 92,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2014 Ohio State OL",
+            "games": 15,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 195,
+              "passBlockEff": 93,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "outland": true,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Chase Young",
+            "games": 10,
+            "stats": {
+              "sacks": 16.5,
+              "tfls": 21,
+              "hurries": 38,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Nick Bosa",
+            "games": 3,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Joey Bosa",
+            "games": 14,
+            "stats": {
+              "sacks": 13.5,
+              "tfls": 21,
+              "hurries": 30,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Ryan Shazier",
+            "games": 13,
+            "stats": {
+              "tackles": 134,
+              "sacks": 9,
+              "ints": 2,
+              "tfls": 22
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darron Lee",
+            "games": 14,
+            "stats": {
+              "tackles": 83,
+              "sacks": 7,
+              "ints": 1,
+              "tfls": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joshua Perry",
+            "games": 14,
+            "stats": {
+              "tackles": 109,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 109,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ohio State",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Marshon Lattimore",
+            "games": 12,
+            "stats": {
+              "ints": 8,
+              "pbus": 33,
+              "tackles": 38,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 11,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Malik Hooker",
+            "games": 12,
+            "stats": {
+              "ints": 7,
+              "pbus": 15,
+              "tackles": 42,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Doran Grant",
+            "games": 14,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Art Schlichter",
+            "games": 12,
+            "stats": {
+              "passYds": 1816,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 138,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rex Kern",
+            "games": 11,
+            "stats": {
+              "passYds": 1052,
+              "passTDs": 8,
+              "intsSeason": 5,
+              "qbr": 122,
+              "rushYds": 520,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 90,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Archie Griffin",
+            "games": 12,
+            "stats": {
+              "rushYds": 1695,
+              "rushTDs": 12,
+              "ypc": 6,
+              "recYds": 88
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 24,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Pete Johnson",
+            "games": 11,
+            "stats": {
+              "rushYds": 1059,
+              "rushTDs": 25,
+              "ypc": 4.8,
+              "recYds": 88
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jim Otis",
+            "games": 11,
+            "stats": {
+              "rushYds": 985,
+              "rushTDs": 12,
+              "ypc": 4.5,
+              "recYds": 75
+            },
+            "bonuses": {
+              "nflDraftPick": 92,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Lenny Willis",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 438,
+              "recTDs": 5,
+              "yac": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 80,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jim Harrell",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 368,
+              "recTDs": 3,
+              "yac": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 130,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jim Cordle",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1973-75 Ohio State OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 180,
+              "passBlockEff": 91,
+              "runBlockEff": 76
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jim Stillwagon",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 98,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Van DeCree",
+            "games": 11,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mark Sullivan",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Randy Gradishar",
+            "games": 11,
+            "stats": {
+              "tackles": 122,
+              "sacks": 6,
+              "ints": 3,
+              "tfls": 18
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tom Cousineau",
+            "games": 12,
+            "stats": {
+              "tackles": 141,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Arnie Jones",
+            "games": 11,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ohio State",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Neal Colzie",
+            "games": 11,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 60,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 20,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jack Tatum",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 32,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 19,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tim Fox",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Art Schlichter",
+            "games": 12,
+            "stats": {
+              "passYds": 1816,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 138,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jim Karsatos",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mike Tomczak",
+            "games": 12,
+            "stats": {
+              "passYds": 1758,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 173,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Keith Byars",
+            "games": 12,
+            "stats": {
+              "rushYds": 1764,
+              "rushTDs": 22,
+              "ypc": 5.9,
+              "recYds": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 10,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Vince Workman",
+            "games": 11,
+            "stats": {
+              "rushYds": 1066,
+              "rushTDs": 10,
+              "ypc": 5.2,
+              "recYds": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "George Cooper",
+            "games": 11,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Cris Carter",
+            "games": 12,
+            "stats": {
+              "rec": 69,
+              "recYds": 1127,
+              "recTDs": 11,
+              "yac": 358
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Doug Smith",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Lanese",
+            "games": 12,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "John Frank",
+            "games": 12,
+            "stats": {
+              "rec": 35,
+              "recYds": 428,
+              "recTDs": 5,
+              "yac": 138
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 59,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ed Taggart",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jeff Ellis",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1984 Ohio State OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Reggie White",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eric Kumerow",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 46,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Zimmers",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Chris Spielman",
+            "games": 12,
+            "stats": {
+              "tackles": 158,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 20
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Pepper Johnson",
+            "games": 12,
+            "stats": {
+              "tackles": 118,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marcus Marek",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 75,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ohio State",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "William White",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 129,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Terry White",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sonny Gordon",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Bobby Hoying",
+            "games": 12,
+            "stats": {
+              "passYds": 2245,
+              "passTDs": 20,
+              "intsSeason": 8,
+              "qbr": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Joe Germaine",
+            "games": 13,
+            "stats": {
+              "passYds": 2597,
+              "passTDs": 25,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 172,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Stanley Jackson",
+            "games": 12,
+            "stats": {
+              "passYds": 1388,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 132,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Eddie George",
+            "games": 12,
+            "stats": {
+              "rushYds": 1826,
+              "rushTDs": 24,
+              "ypc": 5.6,
+              "recYds": 265
+            },
+            "bonuses": {
+              "heisman": true,
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Raymont Harris",
+            "games": 12,
+            "stats": {
+              "rushYds": 1122,
+              "rushTDs": 13,
+              "ypc": 5.3,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Pepe Pearson",
+            "games": 13,
+            "stats": {
+              "rushYds": 1484,
+              "rushTDs": 16,
+              "ypc": 5.8,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 98,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Terry Glenn",
+            "games": 12,
+            "stats": {
+              "rec": 64,
+              "recYds": 1411,
+              "recTDs": 17,
+              "yac": 445
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dimitrious Stanley",
+            "games": 12,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 130,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "David Boston",
+            "games": 13,
+            "stats": {
+              "rec": 85,
+              "recYds": 1435,
+              "recTDs": 13,
+              "yac": 455
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "conferenceChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Rickey Dudley",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John Lumpkin",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Darnell Sanders",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1996-98 Ohio State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 182,
+              "passBlockEff": 92,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Mike Vrabel",
+            "games": 12,
+            "stats": {
+              "sacks": 11,
+              "tfls": 15,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 91,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Luke Fickell",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Finkes",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Andy Katzenmoyer",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 8,
+              "ints": 2,
+              "tfls": 18
+            },
+            "bonuses": {
+              "butkus": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Greg Bellisari",
+            "games": 13,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 3,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 130,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Na'il Diggs",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 42,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ohio State",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Shawn Springs",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 32,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Damon Moore",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 20,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 44,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Antoine Winfield",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 28,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 23,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Troy Smith",
+            "games": 13,
+            "stats": {
+              "passYds": 2542,
+              "passTDs": 30,
+              "intsSeason": 6,
+              "qbr": 178
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 174,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Craig Krenzel",
+            "games": 14,
+            "stats": {
+              "passYds": 1632,
+              "passTDs": 16,
+              "intsSeason": 6,
+              "qbr": 142,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Justin Zwick",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 12,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Lydell Ross",
+            "games": 13,
+            "stats": {
+              "rushYds": 1179,
+              "rushTDs": 12,
+              "ypc": 5.2,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Maurice Hall",
+            "games": 14,
+            "stats": {
+              "rushYds": 1066,
+              "rushTDs": 10,
+              "ypc": 5.4,
+              "recYds": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Wells",
+            "games": 12,
+            "stats": {
+              "rushYds": 1197,
+              "rushTDs": 13,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Santonio Holmes",
+            "games": 13,
+            "stats": {
+              "rec": 54,
+              "recYds": 970,
+              "recTDs": 12,
+              "yac": 308
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ted Ginn Jr.",
+            "games": 13,
+            "stats": {
+              "rec": 59,
+              "recYds": 781,
+              "recTDs": 10,
+              "yac": 248
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Anthony Gonzalez",
+            "games": 13,
+            "stats": {
+              "rec": 53,
+              "recYds": 782,
+              "recTDs": 5,
+              "yac": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 32,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ben Hartsock",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rory Nicol",
+            "games": 14,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jake Ballard",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2002 Ohio State OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 185,
+              "passBlockEff": 93,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Will Smith",
+            "games": 13,
+            "stats": {
+              "sacks": 13,
+              "tfls": 16,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 18,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Simon Fraser",
+            "games": 14,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vernon Gholston",
+            "games": 13,
+            "stats": {
+              "sacks": 14,
+              "tfls": 17,
+              "hurries": 24,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 6,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "James Laurinaitis",
+            "games": 13,
+            "stats": {
+              "tackles": 118,
+              "sacks": 7,
+              "ints": 3,
+              "tfls": 18
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "A.J. Hawk",
+            "games": 14,
+            "stats": {
+              "tackles": 121,
+              "sacks": 7,
+              "ints": 2,
+              "tfls": 18
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bobby Carpenter",
+            "games": 14,
+            "stats": {
+              "tackles": 105,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ohio State",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Malcolm Jenkins",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 28,
+              "tackles": 58,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Nate Salley",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 68,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "EJ Underwood",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 168,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Justin Fields",
+            "games": 8,
+            "stats": {
+              "passYds": 2953,
+              "passTDs": 41,
+              "intsSeason": 3,
+              "qbr": 212,
+              "rushYds": 383,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 11,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "C.J. Stroud",
+            "games": 13,
+            "stats": {
+              "passYds": 4435,
+              "passTDs": 41,
+              "intsSeason": 6,
+              "qbr": 192
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Will Howard",
+            "games": 16,
+            "stats": {
+              "passYds": 4010,
+              "passTDs": 33,
+              "intsSeason": 10,
+              "qbr": 172
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 110,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "TreVeyon Henderson",
+            "games": 14,
+            "stats": {
+              "rushYds": 1248,
+              "rushTDs": 15,
+              "ypc": 6.8,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Miyan Williams",
+            "games": 14,
+            "stats": {
+              "rushYds": 1068,
+              "rushTDs": 14,
+              "ypc": 5.9,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chip Trayanum",
+            "games": 13,
+            "stats": {
+              "rushYds": 758,
+              "rushTDs": 8,
+              "ypc": 5.5,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Garrett Wilson",
+            "games": 12,
+            "stats": {
+              "rec": 70,
+              "recYds": 1058,
+              "recTDs": 12,
+              "yac": 335
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jaxon Smith-Njigba",
+            "games": 13,
+            "stats": {
+              "rec": 95,
+              "recYds": 1606,
+              "recTDs": 9,
+              "yac": 505
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Marvin Harrison Jr.",
+            "games": 16,
+            "stats": {
+              "rec": 67,
+              "recYds": 1211,
+              "recTDs": 14,
+              "yac": 382
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Cade Stover",
+            "games": 15,
+            "stats": {
+              "rec": 48,
+              "recYds": 576,
+              "recTDs": 5,
+              "yac": 202
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeremy Ruckert",
+            "games": 12,
+            "stats": {
+              "rec": 26,
+              "recYds": 309,
+              "recTDs": 5,
+              "yac": 105
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Gee Scott Jr.",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2024 Ohio State OL",
+            "games": 16,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 195,
+              "passBlockEff": 93,
+              "runBlockEff": 74
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Nick Bosa",
+            "games": 7,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Chase Young",
+            "games": 13,
+            "stats": {
+              "sacks": 16.5,
+              "tfls": 21,
+              "hurries": 34,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jack Sawyer",
+            "games": 16,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 11,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Pete Werner",
+            "games": 14,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 34,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Steele Chambers",
+            "games": 14,
+            "stats": {
+              "tackles": 102,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tommy Eichenberg",
+            "games": 16,
+            "stats": {
+              "tackles": 122,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ohio State",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Denzel Ward",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 28,
+              "tackles": 46,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lathan Ransom",
+            "games": 16,
+            "stats": {
+              "ints": 5,
+              "pbus": 20,
+              "tackles": 72,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 75,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Caleb Downs",
+            "games": 16,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 88,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

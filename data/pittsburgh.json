@@ -1,0 +1,375 @@
+{
+  "school": "Pittsburgh",
+  "eras": {
+    "70s": {
+      "QB": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Dan Marino",
+            "games": 11,
+            "stats": {
+              "passYds": 2742,
+              "passTDs": 22,
+              "intsSeason": 14,
+              "qbr": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Matt Cavanaugh",
+            "games": 11,
+            "stats": {
+              "passYds": 1614,
+              "passTDs": 14,
+              "intsSeason": 9,
+              "qbr": 132,
+              "rushYds": 388,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 48,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Congemi",
+            "games": 11,
+            "stats": {
+              "passYds": 1876,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 192,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Tony Dorsett",
+            "games": 12,
+            "stats": {
+              "rushYds": 1948,
+              "rushTDs": 22,
+              "ypc": 6.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Elliott Walker",
+            "games": 11,
+            "stats": {
+              "rushYds": 838,
+              "rushTDs": 8,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 112,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Gordon Jones",
+            "games": 11,
+            "stats": {
+              "rushYds": 662,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 188
+            },
+            "bonuses": {
+              "nflDraftPick": 22,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Gordon Jones",
+            "games": 11,
+            "stats": {
+              "rec": 50,
+              "recYds": 768,
+              "recTDs": 7,
+              "yac": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 22,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Randy Reutershan",
+            "games": 11,
+            "stats": {
+              "rec": 17,
+              "recYds": 311,
+              "recTDs": 3,
+              "yac": 105
+            },
+            "bonuses": {
+              "nflDraftPick": 160,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Willie Taylor",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 248,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jim Corbett",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 288,
+              "recTDs": 3,
+              "yac": 92
+            },
+            "bonuses": {
+              "nflDraftPick": 150,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1976 Pittsburgh OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 90,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Hugh Green",
+            "games": 12,
+            "stats": {
+              "sacks": 12,
+              "tfls": 22,
+              "hurries": 26,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 7,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Randy Holloway",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Don Parrish",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "A.J. Duhe",
+            "games": 11,
+            "stats": {
+              "tackles": 108,
+              "sacks": 7,
+              "ints": 1,
+              "tfls": 18
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 13,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Russ Grimm",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 69,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jerry Boyarsky",
+            "games": 11,
+            "stats": {
+              "tackles": 86,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Pittsburgh",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ray Ellis",
+            "games": 11,
+            "stats": {
+              "ints": 6,
+              "pbus": 26,
+              "tackles": 60,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 32,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lynn Thomas",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tom Pridemore",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

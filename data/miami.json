@@ -1,0 +1,2313 @@
+{
+  "school": "Miami",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Vinny Testaverde",
+            "games": 11,
+            "stats": {
+              "passYds": 2557,
+              "passTDs": 26,
+              "intsSeason": 9,
+              "qbr": 153
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jim Kelly",
+            "games": 9,
+            "stats": {
+              "passYds": 2403,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bernie Kosar",
+            "games": 12,
+            "stats": {
+              "passYds": 2329,
+              "passTDs": 15,
+              "intsSeason": 8,
+              "qbr": 136
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Alonzo Highsmith",
+            "games": 12,
+            "stats": {
+              "rushYds": 830,
+              "rushTDs": 11,
+              "ypc": 5.5,
+              "recYds": 220
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Melvin Bratton",
+            "games": 12,
+            "stats": {
+              "rushYds": 864,
+              "rushTDs": 12,
+              "ypc": 5.2,
+              "recYds": 180
+            },
+            "bonuses": {
+              "nflDraftPick": 75,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Cleveland Gary",
+            "games": 11,
+            "stats": {
+              "rushYds": 858,
+              "rushTDs": 9,
+              "ypc": 5.8,
+              "recYds": 231
+            },
+            "bonuses": {
+              "nflDraftPick": 26,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Irvin",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 810,
+              "recTDs": 11,
+              "yac": 264
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 11,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eddie Brown",
+            "games": 11,
+            "stats": {
+              "rec": 46,
+              "recYds": 781,
+              "recTDs": 8,
+              "yac": 275
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brian Blades",
+            "games": 12,
+            "stats": {
+              "rec": 46,
+              "recYds": 648,
+              "recTDs": 6,
+              "yac": 216
+            },
+            "bonuses": {
+              "nflDraftPick": 49,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Willie Smith",
+            "games": 11,
+            "stats": {
+              "rec": 48,
+              "recYds": 669,
+              "recTDs": 1,
+              "yac": 198
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 78,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Alfredo Roberts",
+            "games": 12,
+            "stats": {
+              "rec": 34,
+              "recYds": 408,
+              "recTDs": 4,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 55,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1987 Miami OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 140,
+              "passBlockEff": 91,
+              "runBlockEff": 60
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jerome Brown",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cortez Kennedy",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 8,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Daniel Stubbs",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 33,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "George Mira Jr.",
+            "games": 12,
+            "stats": {
+              "tackles": 114,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 18
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 150,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Winston Moss",
+            "games": 12,
+            "stats": {
+              "tackles": 96,
+              "sacks": 8,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "nflDraftPick": 42,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Maurice Crum",
+            "games": 12,
+            "stats": {
+              "tackles": 102,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 96,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Miami",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Bennie Blades",
+            "games": 12,
+            "stats": {
+              "ints": 10,
+              "pbus": 42,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bubba McDowell",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 34,
+              "tackles": 70,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 76,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Donald Ellis",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Gino Torretta",
+            "games": 12,
+            "stats": {
+              "passYds": 3268,
+              "passTDs": 19,
+              "intsSeason": 12,
+              "qbr": 138
+            },
+            "bonuses": {
+              "heisman": true,
+              "nflDraftPick": 192,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Ken Dorsey",
+            "games": 14,
+            "stats": {
+              "passYds": 3369,
+              "passTDs": 26,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 188,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Craig Erickson",
+            "games": 11,
+            "stats": {
+              "passYds": 2393,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 135
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Edgerrin James",
+            "games": 12,
+            "stats": {
+              "rushYds": 1416,
+              "rushTDs": 17,
+              "ypc": 6.1,
+              "recYds": 180
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Jackson",
+            "games": 11,
+            "stats": {
+              "rushYds": 1006,
+              "rushTDs": 11,
+              "ypc": 5.8,
+              "recYds": 160
+            },
+            "bonuses": {
+              "nflDraftPick": 69,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Clinton Portis",
+            "games": 12,
+            "stats": {
+              "rushYds": 838,
+              "rushTDs": 8,
+              "ypc": 6,
+              "recYds": 147
+            },
+            "bonuses": {
+              "nflDraftPick": 51,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Santana Moss",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 862,
+              "recTDs": 9,
+              "yac": 310
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Reggie Wayne",
+            "games": 12,
+            "stats": {
+              "rec": 67,
+              "recYds": 920,
+              "recTDs": 7,
+              "yac": 285
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lamar Thomas",
+            "games": 12,
+            "stats": {
+              "rec": 48,
+              "recYds": 694,
+              "recTDs": 6,
+              "yac": 220
+            },
+            "bonuses": {
+              "nflDraftPick": 91,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Bubba Franks",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 442,
+              "recTDs": 5,
+              "yac": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John Burke",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 3,
+              "yac": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Martez Harrison",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 215,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1992-99 Miami OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 91,
+              "runBlockEff": 62
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Warren Sapp",
+            "games": 12,
+            "stats": {
+              "sacks": 10.5,
+              "tfls": 9,
+              "hurries": 25,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "lombardiAward": true,
+              "nagurski": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Kenard Lang",
+            "games": 12,
+            "stats": {
+              "sacks": 7.5,
+              "tfls": 10,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kenny Holmes",
+            "games": 11,
+            "stats": {
+              "sacks": 8,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Ray Lewis",
+            "games": 10,
+            "stats": {
+              "tackles": 84,
+              "sacks": 9,
+              "ints": 3,
+              "tfls": 22
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 26,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Daryl Jones",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Greg Myers",
+            "games": 11,
+            "stats": {
+              "tackles": 79,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Miami",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Devin Bush",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 28,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 26,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ryan McNeil",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 24,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 66,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tremain Mack",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 99,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Ken Dorsey",
+            "games": 14,
+            "stats": {
+              "passYds": 3369,
+              "passTDs": 26,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 188,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brock Berlin",
+            "games": 12,
+            "stats": {
+              "passYds": 2506,
+              "passTDs": 18,
+              "intsSeason": 10,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 240,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kyle Wright",
+            "games": 12,
+            "stats": {
+              "passYds": 2109,
+              "passTDs": 15,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 138,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Willis McGahee",
+            "games": 13,
+            "stats": {
+              "rushYds": 1753,
+              "rushTDs": 28,
+              "ypc": 6.22,
+              "recYds": 355
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Clinton Portis",
+            "games": 11,
+            "stats": {
+              "rushYds": 1200,
+              "rushTDs": 10,
+              "ypc": 5.5,
+              "recYds": 247
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 51,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Frank Gore",
+            "games": 10,
+            "stats": {
+              "rushYds": 945,
+              "rushTDs": 9,
+              "ypc": 6.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 65,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Andre Johnson",
+            "games": 13,
+            "stats": {
+              "rec": 73,
+              "recYds": 1092,
+              "recTDs": 7,
+              "yac": 338
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Santana Moss",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 862,
+              "recTDs": 9,
+              "yac": 310
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Reggie Wayne",
+            "games": 12,
+            "stats": {
+              "rec": 67,
+              "recYds": 920,
+              "recTDs": 7,
+              "yac": 285
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jeremy Shockey",
+            "games": 13,
+            "stats": {
+              "rec": 58,
+              "recYds": 792,
+              "recTDs": 8,
+              "yac": 262
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kellen Winslow Jr.",
+            "games": 12,
+            "stats": {
+              "rec": 43,
+              "recYds": 605,
+              "recTDs": 5,
+              "yac": 195
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 6,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Greg Olsen",
+            "games": 13,
+            "stats": {
+              "rec": 35,
+              "recYds": 462,
+              "recTDs": 4,
+              "yac": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2001 Miami OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 165,
+              "passBlockEff": 92,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Vince Wilfork",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 21,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jerome McDougle",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 9,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Roth",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jonathan Vilma",
+            "games": 14,
+            "stats": {
+              "tackles": 120,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "D.J. Williams",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lemar Marshall",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Miami",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Sean Taylor",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 9,
+              "tackles": 69,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Antrel Rolle",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 26,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kelly Jennings",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 32,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 31,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Mark Richt",
+            "games": 11,
+            "stats": {
+              "passYds": 988,
+              "passTDs": 8,
+              "intsSeason": 5,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jim Kelly",
+            "games": 11,
+            "stats": {
+              "passYds": 2403,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Vinny Testaverde",
+            "games": 11,
+            "stats": {
+              "passYds": 2557,
+              "passTDs": 26,
+              "intsSeason": 9,
+              "qbr": 168
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ottis Anderson",
+            "games": 11,
+            "stats": {
+              "rushYds": 1266,
+              "rushTDs": 11,
+              "ypc": 5.4,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eddie Brown",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Hubert Oliver",
+            "games": 11,
+            "stats": {
+              "rushYds": 688,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Eddie Brown",
+            "games": 11,
+            "stats": {
+              "rec": 52,
+              "recYds": 812,
+              "recTDs": 7,
+              "yac": 258
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Larry Brodsky",
+            "games": 11,
+            "stats": {
+              "rec": 34,
+              "recYds": 512,
+              "recTDs": 4,
+              "yac": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Barry Grad",
+            "games": 11,
+            "stats": {
+              "rec": 26,
+              "recYds": 388,
+              "recTDs": 3,
+              "yac": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Bruce Hardy",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 295,
+              "recTDs": 3,
+              "yac": 95
+            },
+            "bonuses": {
+              "nflDraftPick": 176,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tim Flanagan",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Don Latimer",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1983 Miami OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 158,
+              "passBlockEff": 89,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Don Latimer",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jim Burt",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ted Hendricks",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 33,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Ted Hendricks",
+            "games": 11,
+            "stats": {
+              "tackles": 105,
+              "sacks": 7,
+              "ints": 3,
+              "tfls": 16
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 33,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Mike Garrity",
+            "games": 11,
+            "stats": {
+              "tackles": 92,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pat Venditti",
+            "games": 11,
+            "stats": {
+              "tackles": 85,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Miami",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Gary Gaines",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Reggie Blount",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ken Calhoun",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Stephen Morris",
+            "games": 13,
+            "stats": {
+              "passYds": 2989,
+              "passTDs": 22,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jacory Harris",
+            "games": 12,
+            "stats": {
+              "passYds": 2930,
+              "passTDs": 23,
+              "intsSeason": 9,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brad Kaaya",
+            "games": 13,
+            "stats": {
+              "passYds": 3595,
+              "passTDs": 27,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 209,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Duke Johnson",
+            "games": 13,
+            "stats": {
+              "rushYds": 1652,
+              "rushTDs": 16,
+              "ypc": 6.4,
+              "recYds": 415
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 79,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lamar Miller",
+            "games": 13,
+            "stats": {
+              "rushYds": 1272,
+              "rushTDs": 12,
+              "ypc": 6.2,
+              "recYds": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 97,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Graig Cooper",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5.4,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Phillip Dorsett",
+            "games": 13,
+            "stats": {
+              "rec": 59,
+              "recYds": 1003,
+              "recTDs": 10,
+              "yac": 318
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Allen Hurns",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 842,
+              "recTDs": 8,
+              "yac": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Davon Johnson",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 608,
+              "recTDs": 5,
+              "yac": 192
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Clive Walford",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 468,
+              "recTDs": 6,
+              "yac": 162
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 68,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Njoku",
+            "games": 13,
+            "stats": {
+              "rec": 43,
+              "recYds": 698,
+              "recTDs": 8,
+              "yac": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Michael Irvin II",
+            "games": 12,
+            "stats": {
+              "rec": 24,
+              "recYds": 292,
+              "recTDs": 3,
+              "yac": 92
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2017 Miami OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 89,
+              "runBlockEff": 63
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Olivier Vernon",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 13,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 72,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dion Jordan",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marcus Forston",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Denzel Perryman",
+            "games": 13,
+            "stats": {
+              "tackles": 115,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Raphael Kirby",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Thurston Armbrister",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Miami",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Tracy Howard",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 48,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 98,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Corn Elder",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rayshawn Jenkins",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "D'Eriq King",
+            "games": 9,
+            "stats": {
+              "passYds": 2686,
+              "passTDs": 23,
+              "intsSeason": 5,
+              "qbr": 172,
+              "rushYds": 538,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 220,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tyler Van Dyke",
+            "games": 13,
+            "stats": {
+              "passYds": 3231,
+              "passTDs": 25,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cam Ward",
+            "games": 13,
+            "stats": {
+              "passYds": 4313,
+              "passTDs": 39,
+              "intsSeason": 7,
+              "qbr": 182
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Jaylan Knighton",
+            "games": 13,
+            "stats": {
+              "rushYds": 842,
+              "rushTDs": 8,
+              "ypc": 5.8,
+              "recYds": 245
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Henry Parrish Jr.",
+            "games": 13,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5.4,
+              "recYds": 188
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Thaddius Franklin",
+            "games": 12,
+            "stats": {
+              "rushYds": 588,
+              "rushTDs": 6,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Key'Shawn Smith",
+            "games": 13,
+            "stats": {
+              "rec": 50,
+              "recYds": 748,
+              "recTDs": 6,
+              "yac": 235
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Xavier Restrepo",
+            "games": 13,
+            "stats": {
+              "rec": 67,
+              "recYds": 868,
+              "recTDs": 7,
+              "yac": 272
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 158,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jacolby George",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Will Mallory",
+            "games": 13,
+            "stats": {
+              "rec": 32,
+              "recYds": 388,
+              "recTDs": 4,
+              "yac": 128
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Elijah Arroyo",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kahleal McKinney",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2024 Miami OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 90,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Akheem Mesidor",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 11,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 98,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Leonard Taylor III",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 68,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rueben Bain Jr.",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Corey Flagg Jr.",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Allston Johnson",
+            "games": 13,
+            "stats": {
+              "tackles": 92,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Francisco Mauigoa",
+            "games": 13,
+            "stats": {
+              "tackles": 85,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Miami",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "James Williams",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 118,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kamren Kinchens",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 60,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 128,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Te'Cory Couch",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

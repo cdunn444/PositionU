@@ -1,0 +1,2285 @@
+{
+  "school": "South Carolina",
+  "eras": {
+    "70s": {
+      "QB": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jeff Grantz",
+            "games": 11,
+            "stats": {
+              "passYds": 1388,
+              "passTDs": 11,
+              "intsSeason": 6,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ron Bass",
+            "games": 11,
+            "stats": {
+              "passYds": 1188,
+              "passTDs": 9,
+              "intsSeason": 6,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Phil Petty",
+            "games": 11,
+            "stats": {
+              "passYds": 988,
+              "passTDs": 7,
+              "intsSeason": 5,
+              "qbr": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Kevin Long",
+            "games": 11,
+            "stats": {
+              "rushYds": 955,
+              "rushTDs": 9,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 65,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Harold Green SC",
+            "games": 11,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Duce Staley SC",
+            "games": 11,
+            "stats": {
+              "rushYds": 655,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 95,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Charles Joiner SC",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 6,
+              "yac": 208
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Phil Logan",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joe White",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 328,
+              "recTDs": 3,
+              "yac": 102
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Bryan Fortay",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mike Jordan",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tommy Earhart",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1979 South Carolina OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 152,
+              "passBlockEff": 88,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Michael Dean Perry SC",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Seawright",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chester Brantley",
+            "games": 11,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Harry Carson",
+            "games": 11,
+            "stats": {
+              "tackles": 118,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Seawright LB",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Calvin Ruff",
+            "games": 11,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "South Carolina",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Harry Carson DB",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brad Edwards SC",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 91,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Melvin Black",
+            "games": 11,
+            "stats": {
+              "ints": 2,
+              "pbus": 11,
+              "tackles": 42,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Todd Ellis",
+            "games": 11,
+            "stats": {
+              "passYds": 2019,
+              "passTDs": 15,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Allen Mitchell",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bryant Gilliard",
+            "games": 11,
+            "stats": {
+              "passYds": 1188,
+              "passTDs": 9,
+              "intsSeason": 6,
+              "qbr": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Harold Green",
+            "games": 12,
+            "stats": {
+              "rushYds": 1109,
+              "rushTDs": 11,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Sterling Sharpe RB",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 6,
+              "ypc": 5.1,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Warren Marshall",
+            "games": 11,
+            "stats": {
+              "rushYds": 622,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Sterling Sharpe",
+            "games": 12,
+            "stats": {
+              "rec": 74,
+              "recYds": 1106,
+              "recTDs": 9,
+              "yac": 348
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Price SC",
+            "games": 11,
+            "stats": {
+              "rec": 40,
+              "recYds": 598,
+              "recTDs": 5,
+              "yac": 188
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Carl Zander WR",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 418,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 50,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Kirk Doll",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Bruce Sternberg",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Damien Lide",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 South Carolina OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 88,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Andrew Provence",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 46,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Henry Brown SC",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Travis Jervey DL",
+            "games": 11,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 140,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Carl Zander LB",
+            "games": 11,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Sheldon Gantt",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Todd Doxzon",
+            "games": 11,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "South Carolina",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Robert Williams SC",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brad Edwards",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 91,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Johnny Johnson SC",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Steve Taneyhill",
+            "games": 12,
+            "stats": {
+              "passYds": 2415,
+              "passTDs": 20,
+              "intsSeason": 8,
+              "qbr": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Erik Kimrey",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Phil Petty QB",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 6,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Duce Staley",
+            "games": 12,
+            "stats": {
+              "rushYds": 1116,
+              "rushTDs": 11,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Davis SC",
+            "games": 12,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Brown SC",
+            "games": 11,
+            "stats": {
+              "rushYds": 655,
+              "rushTDs": 6,
+              "ypc": 5,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Zola Davis",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jack Tocho",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Aaron Bates",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 418,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Gary Barnidge SC",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eric Norris SC",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kalimba Edwards SC",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nflDraftPick": 50,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1994 South Carolina OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 88,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Larry Chester",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 59,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kalimba Edwards",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Melvin White SC",
+            "games": 12,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Tommy Moody",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Roger Caron",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Washington SC",
+            "games": 11,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "South Carolina",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Arturo Freeman",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 78,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Sheldon Brown",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 59,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Robert Williams SC2",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Syvelle Newton",
+            "games": 12,
+            "stats": {
+              "passYds": 1788,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 138,
+              "rushYds": 612,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Stephen Garcia",
+            "games": 13,
+            "stats": {
+              "passYds": 2748,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Smelley",
+            "games": 12,
+            "stats": {
+              "passYds": 2088,
+              "passTDs": 16,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Marcus Lattimore",
+            "games": 12,
+            "stats": {
+              "rushYds": 1197,
+              "rushTDs": 14,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 131,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Davis SC2",
+            "games": 12,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cory Boyd",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Alshon Jeffery",
+            "games": 13,
+            "stats": {
+              "rec": 88,
+              "recYds": 1517,
+              "recTDs": 9,
+              "yac": 478
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Sidney Rice",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Moe Brown SC",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Weslye Saunders",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jim Gronkowski",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Nathan Andrews SC",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2010 South Carolina OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Melvin Ingram",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Devin Taylor SC",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 101,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Travian Robertson",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Shaq Wilson",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darian Stewart LB",
+            "games": 13,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 3,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 139,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Marcus Simmons",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "South Carolina",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Stephon Gilmore",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darian Stewart DB",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 139,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Culliver",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 129,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Connor Shaw",
+            "games": 13,
+            "stats": {
+              "passYds": 2585,
+              "passTDs": 23,
+              "intsSeason": 3,
+              "qbr": 178,
+              "rushYds": 488,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dylan Thompson SC",
+            "games": 12,
+            "stats": {
+              "passYds": 2259,
+              "passTDs": 16,
+              "intsSeason": 5,
+              "qbr": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Perry Orth",
+            "games": 12,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 14,
+              "intsSeason": 6,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Marcus Lattimore 2",
+            "games": 13,
+            "stats": {
+              "rushYds": 1153,
+              "rushTDs": 13,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 131,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brandon Wilds",
+            "games": 12,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "A.J. Turner SC",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 6,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Alshon Jeffery 2",
+            "games": 13,
+            "stats": {
+              "rec": 88,
+              "recYds": 1517,
+              "recTDs": 9,
+              "yac": 478
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Pharoh Cooper",
+            "games": 13,
+            "stats": {
+              "rec": 73,
+              "recYds": 1136,
+              "recTDs": 8,
+              "yac": 358
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 114,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Damiere Byrd",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 171,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Hayden Hurst",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kyle Ohrnberger",
+            "games": 13,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Randolph Holt SC",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2013 South Carolina OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jadeveon Clowney",
+            "games": 13,
+            "stats": {
+              "sacks": 13,
+              "tfls": 23,
+              "hurries": 30,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Gerald Dixon Jr.",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 92,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kelcy Quarles",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Skai Moore",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dylan Hendrix SC",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "T.J. Gurley SC",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "South Carolina",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "D.J. Swearinger",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 62,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 57,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Victor Hampton",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brison Mack",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Spencer Rattler SC",
+            "games": 12,
+            "stats": {
+              "passYds": 3026,
+              "passTDs": 24,
+              "intsSeason": 7,
+              "qbr": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Luke Doty",
+            "games": 12,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 14,
+              "intsSeason": 5,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "LaNorris Sellers",
+            "games": 12,
+            "stats": {
+              "passYds": 2188,
+              "passTDs": 17,
+              "intsSeason": 5,
+              "qbr": 162,
+              "rushYds": 512,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Kevin Harris SC",
+            "games": 12,
+            "stats": {
+              "rushYds": 1138,
+              "rushTDs": 15,
+              "ypc": 5.6,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "MarShawn Lloyd SC",
+            "games": 12,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5.5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rashad Amos SC",
+            "games": 12,
+            "stats": {
+              "rushYds": 622,
+              "rushTDs": 5,
+              "ypc": 5,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Xavier Legette",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 32,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Josh Vann",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Shi Smith SC",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 4,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jaheim Bell",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Austin Stogner SC",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tanner Koziol SC",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2022 South Carolina OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 89,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Zacch Pickens",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 64,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tonka Hemingway",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rick Sandidge SC",
+            "games": 12,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Sherrod Greene SC",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brad Johnson SC",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Debo Williams SC",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "South Carolina",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Darius Rush",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Nick Emmanwori",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marcellas Dial SC",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

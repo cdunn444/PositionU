@@ -1,0 +1,2347 @@
+{
+  "school": "Florida State",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Charlie Ward",
+            "games": 12,
+            "stats": {
+              "passYds": 2647,
+              "passTDs": 27,
+              "intsSeason": 4,
+              "qbr": 188,
+              "rushYds": 340,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 999,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Peter Tom Willis",
+            "games": 11,
+            "stats": {
+              "passYds": 2654,
+              "passTDs": 20,
+              "intsSeason": 8,
+              "qbr": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 97,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Danny McManus",
+            "games": 11,
+            "stats": {
+              "passYds": 1889,
+              "passTDs": 14,
+              "intsSeason": 9,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 140,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Sammie Smith",
+            "games": 12,
+            "stats": {
+              "rushYds": 1230,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Amp Lee",
+            "games": 12,
+            "stats": {
+              "rushYds": 908,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 320
+            },
+            "bonuses": {
+              "nflDraftPick": 44,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Edgar Bennett",
+            "games": 12,
+            "stats": {
+              "rushYds": 820,
+              "rushTDs": 9,
+              "ypc": 4.8,
+              "recYds": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 99,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Ron Sellers",
+            "games": 11,
+            "stats": {
+              "rec": 62,
+              "recYds": 988,
+              "recTDs": 9,
+              "yac": 310
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Hassan Jones",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 810,
+              "recTDs": 7,
+              "yac": 260
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 70,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pat Carter",
+            "games": 11,
+            "stats": {
+              "rec": 40,
+              "recYds": 588,
+              "recTDs": 5,
+              "yac": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Pat Carter",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 412,
+              "recTDs": 5,
+              "yac": 135
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rod Jones",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 2,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 160,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1993 FSU OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 92,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Peter Boulware",
+            "games": 12,
+            "stats": {
+              "sacks": 14,
+              "tfls": 18,
+              "hurries": 28,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Reinard Wilson",
+            "games": 12,
+            "stats": {
+              "sacks": 10,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Andre Wadsworth",
+            "games": 12,
+            "stats": {
+              "sacks": 11,
+              "tfls": 15,
+              "hurries": 22,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Derrick Brooks",
+            "games": 12,
+            "stats": {
+              "tackles": 106,
+              "sacks": 7,
+              "ints": 3,
+              "tfls": 18
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Marvin Jones",
+            "games": 12,
+            "stats": {
+              "tackles": 92,
+              "sacks": 9,
+              "ints": 1,
+              "tfls": 16
+            },
+            "bonuses": {
+              "butkus": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Kirk Carruth",
+            "games": 11,
+            "stats": {
+              "tackles": 84,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 140,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Florida State",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Deion Sanders",
+            "games": 12,
+            "stats": {
+              "ints": 11,
+              "pbus": 48,
+              "tackles": 54,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "LeRoy Butler",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 28,
+              "tackles": 68,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dedrick Dodge",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 37,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Charlie Ward",
+            "games": 12,
+            "stats": {
+              "passYds": 2647,
+              "passTDs": 27,
+              "intsSeason": 4,
+              "qbr": 188,
+              "rushYds": 340,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 999,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Thad Busby",
+            "games": 12,
+            "stats": {
+              "passYds": 2428,
+              "passTDs": 17,
+              "intsSeason": 9,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Chris Weinke",
+            "games": 13,
+            "stats": {
+              "passYds": 3103,
+              "passTDs": 25,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "heisman": true,
+              "nflDraftPick": 106,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Warrick Dunn",
+            "games": 12,
+            "stats": {
+              "rushYds": 1242,
+              "rushTDs": 9,
+              "ypc": 5.6,
+              "recYds": 462
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "William Floyd",
+            "games": 12,
+            "stats": {
+              "rushYds": 832,
+              "rushTDs": 14,
+              "ypc": 4.8,
+              "recYds": 208
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Travis Minor",
+            "games": 13,
+            "stats": {
+              "rushYds": 894,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 195
+            },
+            "bonuses": {
+              "nflDraftPick": 77,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Peter Warrick",
+            "games": 13,
+            "stats": {
+              "rec": 71,
+              "recYds": 1081,
+              "recTDs": 13,
+              "yac": 355
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "E.G. Green",
+            "games": 12,
+            "stats": {
+              "rec": 60,
+              "recYds": 876,
+              "recTDs": 8,
+              "yac": 275
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 33,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tamarick Vanover",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 620,
+              "recTDs": 6,
+              "yac": 210
+            },
+            "bonuses": {
+              "nflDraftPick": 99,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Melvin Pearsall",
+            "games": 12,
+            "stats": {
+              "rec": 32,
+              "recYds": 385,
+              "recTDs": 4,
+              "yac": 125
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ryan Sprague",
+            "games": 12,
+            "stats": {
+              "rec": 24,
+              "recYds": 288,
+              "recTDs": 3,
+              "yac": 90
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1999 FSU OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 175,
+              "passBlockEff": 92,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Peter Boulware",
+            "games": 12,
+            "stats": {
+              "sacks": 14,
+              "tfls": 18,
+              "hurries": 28,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Reinard Wilson",
+            "games": 12,
+            "stats": {
+              "sacks": 10,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Andre Wadsworth",
+            "games": 12,
+            "stats": {
+              "sacks": 11,
+              "tfls": 15,
+              "hurries": 22,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Derrick Brooks",
+            "games": 12,
+            "stats": {
+              "tackles": 106,
+              "sacks": 7,
+              "ints": 3,
+              "tfls": 18
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Marvin Jones",
+            "games": 12,
+            "stats": {
+              "tackles": 92,
+              "sacks": 9,
+              "ints": 1,
+              "tfls": 16
+            },
+            "bonuses": {
+              "butkus": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Sam Cowart",
+            "games": 12,
+            "stats": {
+              "tackles": 98,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 36,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Florida State",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Deion Sanders",
+            "games": 12,
+            "stats": {
+              "ints": 11,
+              "pbus": 48,
+              "tackles": 54,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "LeRoy Butler",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 28,
+              "tackles": 68,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Samari Rolle",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 56,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 46,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Gary Huff",
+            "games": 11,
+            "stats": {
+              "passYds": 2187,
+              "passTDs": 18,
+              "intsSeason": 10,
+              "qbr": 138
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 51,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jimmy Jordan",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Wally Woodham",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 12,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Larry Key",
+            "games": 11,
+            "stats": {
+              "rushYds": 958,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Leon Bright",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5.4,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rudy Thomas",
+            "games": 11,
+            "stats": {
+              "rushYds": 688,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Ron Sellers",
+            "games": 11,
+            "stats": {
+              "rec": 62,
+              "recYds": 988,
+              "recTDs": 9,
+              "yac": 310
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Barry Smith",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 6,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 12,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Johnny Rodgers",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 548,
+              "recTDs": 5,
+              "yac": 175
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Dennis Schuler",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jim Melton",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Steve Corbett",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 235,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1979 FSU OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 148,
+              "passBlockEff": 89,
+              "runBlockEff": 63
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ron Simmons",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Randy Coffield",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Warren",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Ron Simmons",
+            "games": 11,
+            "stats": {
+              "tackles": 105,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 15
+            },
+            "bonuses": {
+              "outland": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bobby Butler",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dennis McKinnon",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Florida State",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Bobby Butler",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Gary Henry",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 105,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Monk Bonasorte",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Chris Weinke",
+            "games": 13,
+            "stats": {
+              "passYds": 3103,
+              "passTDs": 25,
+              "intsSeason": 9,
+              "qbr": 158
+            },
+            "bonuses": {
+              "heisman": true,
+              "nflDraftPick": 106,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Adrian McPherson",
+            "games": 10,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 148,
+              "rushYds": 445,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Drew Weatherford",
+            "games": 12,
+            "stats": {
+              "passYds": 2244,
+              "passTDs": 17,
+              "intsSeason": 9,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Warrick Dunn",
+            "games": 12,
+            "stats": {
+              "rushYds": 1242,
+              "rushTDs": 9,
+              "ypc": 5.6,
+              "recYds": 462
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Leon Washington",
+            "games": 13,
+            "stats": {
+              "rushYds": 1128,
+              "rushTDs": 12,
+              "ypc": 6.2,
+              "recYds": 295
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 117,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lorenzo Booker",
+            "games": 13,
+            "stats": {
+              "rushYds": 1044,
+              "rushTDs": 11,
+              "ypc": 5.6,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 77,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Peter Warrick",
+            "games": 13,
+            "stats": {
+              "rec": 71,
+              "recYds": 1081,
+              "recTDs": 13,
+              "yac": 355
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Anquan Boldin",
+            "games": 13,
+            "stats": {
+              "rec": 79,
+              "recYds": 1011,
+              "recTDs": 10,
+              "yac": 318
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 54,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Javon Walker",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 8,
+              "yac": 248
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Stephen Thomas",
+            "games": 13,
+            "stats": {
+              "rec": 24,
+              "recYds": 295,
+              "recTDs": 3,
+              "yac": 95
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ralph Stringer",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kris O'Dowd",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 235,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2000 FSU OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 91,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Travis Johnson",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darnell Dockett",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 97,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kevin Emanuel",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Kendyll Pope",
+            "games": 13,
+            "stats": {
+              "tackles": 105,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 68,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Daryl Smith",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Michael Boulware",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 4,
+              "ints": 3,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Florida State",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Derrick Gibson",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Hope",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 81,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Stanford Samuels",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jameis Winston",
+            "games": 14,
+            "stats": {
+              "passYds": 4058,
+              "passTDs": 40,
+              "intsSeason": 10,
+              "qbr": 188
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 1,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "EJ Manuel",
+            "games": 13,
+            "stats": {
+              "passYds": 2666,
+              "passTDs": 19,
+              "intsSeason": 5,
+              "qbr": 158,
+              "rushYds": 472,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Deondre Francois",
+            "games": 13,
+            "stats": {
+              "passYds": 2802,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Dalvin Cook",
+            "games": 13,
+            "stats": {
+              "rushYds": 1765,
+              "rushTDs": 19,
+              "ypc": 6.9,
+              "recYds": 488
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Devonta Freeman",
+            "games": 13,
+            "stats": {
+              "rushYds": 1016,
+              "rushTDs": 12,
+              "ypc": 5.8,
+              "recYds": 285
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 103,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Wilder Jr.",
+            "games": 13,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 173,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Rashad Greene",
+            "games": 14,
+            "stats": {
+              "rec": 79,
+              "recYds": 1042,
+              "recTDs": 11,
+              "yac": 328
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 176,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kelvin Benjamin",
+            "games": 13,
+            "stats": {
+              "rec": 54,
+              "recYds": 1011,
+              "recTDs": 15,
+              "yac": 325
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Travis Rudolph",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 798,
+              "recTDs": 5,
+              "yac": 252
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 197,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Nick O'Leary",
+            "games": 14,
+            "stats": {
+              "rec": 38,
+              "recYds": 478,
+              "recTDs": 8,
+              "yac": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 180,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mavin Saunders",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jesus Wilson",
+            "games": 13,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 230,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2013 FSU OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 92,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Mario Edwards Jr.",
+            "games": 14,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Timmy Jernigan",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eddie Goldman",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 37,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Telvin Smith",
+            "games": 14,
+            "stats": {
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 144,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Nigel Bradham",
+            "games": 13,
+            "stats": {
+              "tackles": 98,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 118,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Reggie Northrup",
+            "games": 14,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Florida State",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "P.J. Williams",
+            "games": 14,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 48,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 78,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lamarcus Joyner",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 24,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Terrence Brooks",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 73,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jordan Travis",
+            "games": 14,
+            "stats": {
+              "passYds": 3717,
+              "passTDs": 30,
+              "intsSeason": 6,
+              "qbr": 172,
+              "rushYds": 515,
+              "rushTDs": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 137,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "DJ Uiagalelei",
+            "games": 13,
+            "stats": {
+              "passYds": 2665,
+              "passTDs": 22,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tate Rodemaker",
+            "games": 8,
+            "stats": {
+              "passYds": 1288,
+              "passTDs": 10,
+              "intsSeason": 5,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Trey Benson",
+            "games": 14,
+            "stats": {
+              "rushYds": 1402,
+              "rushTDs": 14,
+              "ypc": 6.1,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 67,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lawrance Toafili",
+            "games": 13,
+            "stats": {
+              "rushYds": 652,
+              "rushTDs": 9,
+              "ypc": 7.2,
+              "recYds": 188
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rodney Hill",
+            "games": 13,
+            "stats": {
+              "rushYds": 545,
+              "rushTDs": 6,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Keon Coleman",
+            "games": 14,
+            "stats": {
+              "rec": 61,
+              "recYds": 950,
+              "recTDs": 11,
+              "yac": 298
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 33,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Johnny Wilson",
+            "games": 14,
+            "stats": {
+              "rec": 65,
+              "recYds": 920,
+              "recTDs": 9,
+              "yac": 288
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 105,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darion Williamson",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 555,
+              "recTDs": 5,
+              "yac": 175
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Camren McDonald",
+            "games": 14,
+            "stats": {
+              "rec": 28,
+              "recYds": 342,
+              "recTDs": 4,
+              "yac": 115
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Maurice Smith",
+            "games": 13,
+            "stats": {
+              "rec": 20,
+              "recYds": 242,
+              "recTDs": 2,
+              "yac": 78
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kyle Morlock",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 230,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2023 FSU OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 92,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jared Verse",
+            "games": 14,
+            "stats": {
+              "sacks": 11.5,
+              "tfls": 15,
+              "hurries": 24,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 19,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Myles Murphy",
+            "games": 14,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Braden Fiske",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Tatum Bethune",
+            "games": 14,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "DJ Lundy",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Omar Graham Jr.",
+            "games": 13,
+            "stats": {
+              "tackles": 78,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Florida State",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Renardo Green",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Akeem Dent",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Shyheim Brown",
+            "games": 14,
+            "stats": {
+              "ints": 2,
+              "pbus": 16,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -510,7 +510,7 @@
             }
           },
           {
-            "name": "Sirr Parker WR",
+            "name": "Sirr Parker",
             "games": 12,
             "stats": {
               "rec": 44,
@@ -1063,7 +1063,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Von Miller LB",
+            "name": "Von Miller",
             "games": 13,
             "stats": {
               "tackles": 78,

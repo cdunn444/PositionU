@@ -196,6 +196,19 @@
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Sean Brown",
+            "games": 11,
+            "stats": {
+              "recYds": 225,
+              "recTDs": 3,
+              "rec": 18,
+              "yac": 50
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -261,18 +274,17 @@
             }
           },
           {
-            "name": "Ted Johnson",
+            "name": "Shannon Clavelle",
             "games": 11,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "tackles": 55
             },
             "bonuses": {
-              "nflDraftPick": 55,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]

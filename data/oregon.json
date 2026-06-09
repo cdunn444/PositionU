@@ -328,7 +328,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Vince Williams DB",
+            "name": "Vince Williams",
             "games": 11,
             "stats": {
               "ints": 4,
@@ -531,7 +531,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Ed Dickson TE",
+            "name": "Ed Dickson",
             "games": 12,
             "stats": {
               "rec": 28,
@@ -733,7 +733,7 @@
             }
           },
           {
-            "name": "Chris Oldham DB",
+            "name": "Chris Oldham",
             "games": 11,
             "stats": {
               "ints": 3,

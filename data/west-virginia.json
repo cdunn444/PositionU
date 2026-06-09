@@ -278,7 +278,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Dale Farley LB",
+            "name": "Dale Farley",
             "games": 11,
             "stats": {
               "tackles": 108,
@@ -549,7 +549,7 @@
             }
           },
           {
-            "name": "Aaron Beasley TE",
+            "name": "Aaron Beasley",
             "games": 11,
             "stats": {
               "rec": 12,
@@ -563,7 +563,7 @@
             }
           },
           {
-            "name": "Mark Raugh TE",
+            "name": "Mark Raugh",
             "games": 11,
             "stats": {
               "rec": 8,
@@ -686,7 +686,7 @@
             }
           },
           {
-            "name": "Aaron Beasley LB",
+            "name": "Aaron Beasley",
             "games": 11,
             "stats": {
               "tackles": 72,
@@ -738,7 +738,7 @@
             }
           },
           {
-            "name": "Tom Pridemore DB",
+            "name": "Tom Pridemore",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -814,7 +814,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Charles Woodson RB",
+            "name": "Charles Woodson",
             "games": 12,
             "stats": {
               "rushYds": 988,
@@ -843,7 +843,7 @@
             }
           },
           {
-            "name": "Aaron Beasley RB",
+            "name": "Aaron Beasley",
             "games": 11,
             "stats": {
               "rushYds": 712,
@@ -983,7 +983,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Mike Collins DL",
+            "name": "Mike Collins",
             "games": 12,
             "stats": {
               "sacks": 7,
@@ -1050,7 +1050,7 @@
             }
           },
           {
-            "name": "Aaron Beasley LB2",
+            "name": "Aaron Beasley",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -1086,7 +1086,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Aaron Beasley DB",
+            "name": "Aaron Beasley",
             "games": 12,
             "stats": {
               "ints": 5,
@@ -1102,7 +1102,7 @@
             }
           },
           {
-            "name": "Keith Lyle DB",
+            "name": "Keith Lyle",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -1260,7 +1260,7 @@
             }
           },
           {
-            "name": "Chris Henry WVU",
+            "name": "Chris Henry",
             "games": 13,
             "stats": {
               "rec": 48,
@@ -1310,7 +1310,7 @@
             }
           },
           {
-            "name": "Jared Cook WVU",
+            "name": "Jared Cook",
             "games": 12,
             "stats": {
               "rec": 28,
@@ -1573,7 +1573,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Tavon Austin RB",
+            "name": "Tavon Austin",
             "games": 13,
             "stats": {
               "rushYds": 714,
@@ -1653,7 +1653,7 @@
             }
           },
           {
-            "name": "Kevin White WVU",
+            "name": "Kevin White",
             "games": 13,
             "stats": {
               "rec": 109,
@@ -1676,7 +1676,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jared Cook WVU2",
+            "name": "Jared Cook",
             "games": 13,
             "stats": {
               "rec": 38,
@@ -1919,7 +1919,7 @@
             }
           },
           {
-            "name": "Graham Harrell WVU",
+            "name": "Graham Harrell",
             "games": 12,
             "stats": {
               "passYds": 2488,

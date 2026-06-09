@@ -334,7 +334,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Jerry Robinson DB",
+            "name": "Jerry Robinson",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -365,7 +365,7 @@
             }
           },
           {
-            "name": "Dale Potter DB",
+            "name": "Dale Potter",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -542,7 +542,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Carnell Lake TE",
+            "name": "Carnell Lake",
             "games": 11,
             "stats": {
               "rec": 18,
@@ -557,7 +557,7 @@
             }
           },
           {
-            "name": "Rod Bernstine TE",
+            "name": "Rod Bernstine",
             "games": 11,
             "stats": {
               "rec": 14,
@@ -571,7 +571,7 @@
             }
           },
           {
-            "name": "Darryl Henley TE",
+            "name": "Darryl Henley",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -613,7 +613,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Ken Norton Jr. DL",
+            "name": "Ken Norton Jr.",
             "games": 11,
             "stats": {
               "sacks": 5,
@@ -681,7 +681,7 @@
             }
           },
           {
-            "name": "Carnell Lake LB",
+            "name": "Carnell Lake",
             "games": 11,
             "stats": {
               "tackles": 95,
@@ -717,7 +717,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Carnell Lake DB",
+            "name": "Carnell Lake",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -733,7 +733,7 @@
             }
           },
           {
-            "name": "Darryl Henley DB",
+            "name": "Darryl Henley",
             "games": 11,
             "stats": {
               "ints": 4,
@@ -749,7 +749,7 @@
             }
           },
           {
-            "name": "James Washington DB",
+            "name": "James Washington",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1330,7 +1330,7 @@
             }
           },
           {
-            "name": "Brandon Manumaleuna TE",
+            "name": "Brandon Manumaleuna",
             "games": 12,
             "stats": {
               "rec": 14,
@@ -1893,7 +1893,7 @@
             }
           },
           {
-            "name": "Randall Goforth DB",
+            "name": "Randall Goforth",
             "games": 13,
             "stats": {
               "ints": 3,
@@ -2140,7 +2140,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Myles Murphy UCLA",
+            "name": "Myles Murphy",
             "games": 13,
             "stats": {
               "sacks": 7,

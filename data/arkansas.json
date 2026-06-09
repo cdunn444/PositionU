@@ -542,21 +542,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Billy Ray Smith Jr.",
-            "games": 11,
-            "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 5,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Kerry Marbury",
             "games": 11,
             "stats": {
@@ -581,6 +566,20 @@
             },
             "bonuses": {
               "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Theo Young",
+            "games": 11,
+            "stats": {
+              "recYds": 320,
+              "recTDs": 4,
+              "rec": 22,
+              "yac": 80
+            },
+            "bonuses": {
+              "nflDraftPick": 317,
               "collegeDominance": "veryGood"
             }
           }
@@ -668,21 +667,6 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Steve Atwater LB",
-            "games": 11,
-            "stats": {
-              "tackles": 108,
-              "sacks": 4,
-              "ints": 3,
-              "tfls": 13
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 20,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Aaron Johnson",
             "games": 11,
             "stats": {
@@ -707,6 +691,22 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ravin Caldwell",
+            "games": 11,
+            "stats": {
+              "tackles": 105,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 113,
+              "conferenceChampionship": true,
               "collegeDominance": "elite"
             }
           }
@@ -801,16 +801,15 @@
             }
           },
           {
-            "name": "Gus Malzahn",
+            "name": "Robert Reed",
             "games": 11,
             "stats": {
-              "passYds": 1488,
+              "passYds": 1850,
               "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 132
+              "intsSeason": 9,
+              "qbr": 122
             },
             "bonuses": {
-              "nflDraftPick": 210,
               "collegeDominance": "veryGood"
             }
           }
@@ -851,17 +850,16 @@
             }
           },
           {
-            "name": "Cedric Cobbs",
-            "games": 12,
+            "name": "Oscar Malone",
+            "games": 11,
             "stats": {
-              "rushYds": 1012,
-              "rushTDs": 10,
-              "ypc": 5.5,
-              "recYds": 145
+              "rushYds": 685,
+              "rushTDs": 6,
+              "ypc": 4.3,
+              "recYds": 95
             },
             "bonuses": {
-              "nflDraftPick": 113,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1405,7 +1403,7 @@
             }
           },
           {
-            "name": "Keith Jackson DL",
+            "name": "Keith Jackson",
             "games": 13,
             "stats": {
               "sacks": 4,

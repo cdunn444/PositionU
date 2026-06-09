@@ -626,7 +626,7 @@
             }
           },
           {
-            "name": "Ron Howard DL",
+            "name": "Ron Howard",
             "games": 11,
             "stats": {
               "sacks": 4,
@@ -925,7 +925,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Eric Bjornson TE",
+            "name": "Eric Bjornson",
             "games": 12,
             "stats": {
               "rec": 34,
@@ -1494,7 +1494,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Marcus Tubbs DB",
+            "name": "Marcus Tubbs",
             "games": 13,
             "stats": {
               "ints": 5,

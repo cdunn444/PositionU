@@ -212,6 +212,20 @@
               "nflDraftPick": 50,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Brian Vogler",
+            "games": 14,
+            "stats": {
+              "recYds": 245,
+              "recTDs": 3,
+              "rec": 18,
+              "yac": 60
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -537,22 +551,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Ozzie Newsome",
-            "games": 12,
-            "stats": {
-              "rec": 55,
-              "recYds": 858,
-              "recTDs": 7,
-              "yac": 268
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 23,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Wayne Wheeler",
             "games": 11,
             "stats": {
@@ -578,6 +576,20 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Bruce Bolton",
+            "games": 11,
+            "stats": {
+              "recYds": 472,
+              "recTDs": 4,
+              "rec": 28,
+              "yac": 110
+            },
+            "bonuses": {
+              "nationalChampionship": true,
               "collegeDominance": "veryGood"
             }
           }
@@ -1342,17 +1354,19 @@
             }
           },
           {
-            "name": "Dennis Riddle",
-            "games": 12,
+            "name": "David Palmer",
+            "games": 11,
             "stats": {
-              "rec": 30,
-              "recYds": 395,
-              "recTDs": 3,
-              "yac": 122
+              "recYds": 1000,
+              "recTDs": 7,
+              "rec": 61,
+              "yac": 350
             },
             "bonuses": {
-              "nflDraftPick": 120,
-              "collegeDominance": "veryGood"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 40,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -2243,25 +2257,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Will Anderson Jr.",
-            "games": 15,
-            "stats": {
-              "sacks": 17.5,
-              "tfls": 20,
-              "hurries": 38,
-              "ff": 4,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "outland": true,
-              "bednarik": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 3,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Byron Young",
             "games": 14,
             "stats": {
@@ -2289,6 +2284,23 @@
             },
             "bonuses": {
               "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Christian Barmore",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 9.5,
+              "hurries": 18,
+              "ff": 3,
+              "tackles": 37
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "nationalChampionship": true,
               "collegeDominance": "elite"
             }
           }

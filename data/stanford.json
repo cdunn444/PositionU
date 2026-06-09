@@ -405,7 +405,7 @@
             }
           },
           {
-            "name": "Brad Muster QB",
+            "name": "Brad Muster",
             "games": 11,
             "stats": {
               "passYds": 1488,
@@ -440,7 +440,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Brad Muster RB",
+            "name": "Brad Muster",
             "games": 11,
             "stats": {
               "rushYds": 1198,
@@ -627,7 +627,7 @@
             }
           },
           {
-            "name": "Dave Wyman DL",
+            "name": "Dave Wyman",
             "games": 11,
             "stats": {
               "sacks": 4,
@@ -664,7 +664,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Dave Wyman LB",
+            "name": "Dave Wyman",
             "games": 11,
             "stats": {
               "tackles": 112,
@@ -714,7 +714,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Kevin Scott DB",
+            "name": "Kevin Scott",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -868,7 +868,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Troy Walters WR",
+            "name": "Troy Walters",
             "games": 13,
             "stats": {
               "rec": 86,
@@ -934,7 +934,7 @@
             }
           },
           {
-            "name": "Damon Dunn TE",
+            "name": "Damon Dunn",
             "games": 11,
             "stats": {
               "rec": 16,
@@ -1043,7 +1043,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Kailee Wong LB",
+            "name": "Kailee Wong",
             "games": 12,
             "stats": {
               "tackles": 108,
@@ -1093,7 +1093,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Darrien Gordon DB",
+            "name": "Darrien Gordon",
             "games": 12,
             "stats": {
               "ints": 6,
@@ -1202,7 +1202,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Toby Gerhart RB",
+            "name": "Toby Gerhart",
             "games": 13,
             "stats": {
               "rushYds": 1736,
@@ -1443,7 +1443,7 @@
             }
           },
           {
-            "name": "Owen Marecic LB",
+            "name": "Owen Marecic",
             "games": 13,
             "stats": {
               "tackles": 88,
@@ -1478,7 +1478,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Richard Sherman DB",
+            "name": "Richard Sherman",
             "games": 13,
             "stats": {
               "ints": 5,
@@ -1814,7 +1814,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Chase Thomas LB",
+            "name": "Chase Thomas",
             "games": 14,
             "stats": {
               "tackles": 95,
@@ -1829,7 +1829,7 @@
             }
           },
           {
-            "name": "Shayne Skov LB",
+            "name": "Shayne Skov",
             "games": 14,
             "stats": {
               "tackles": 112,
@@ -2072,7 +2072,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Benjamin Yurosek TE",
+            "name": "Benjamin Yurosek",
             "games": 12,
             "stats": {
               "rec": 44,

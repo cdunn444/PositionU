@@ -332,7 +332,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Randy Rhino DB",
+            "name": "Randy Rhino",
             "games": 11,
             "stats": {
               "ints": 6,
@@ -348,7 +348,7 @@
             }
           },
           {
-            "name": "Mike Jolly DB",
+            "name": "Mike Jolly",
             "games": 11,
             "stats": {
               "ints": 4,
@@ -1835,7 +1835,7 @@
             }
           },
           {
-            "name": "Jabari Hunt-Days LB",
+            "name": "Jabari Hunt-Days",
             "games": 13,
             "stats": {
               "tackles": 88,

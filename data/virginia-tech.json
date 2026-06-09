@@ -516,7 +516,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Don Strock TE",
+            "name": "Don Strock",
             "games": 11,
             "stats": {
               "rec": 14,
@@ -530,7 +530,7 @@
             }
           },
           {
-            "name": "Ricky Scales TE",
+            "name": "Ricky Scales",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -1029,7 +1029,7 @@
             }
           },
           {
-            "name": "Mike Johnson LB",
+            "name": "Mike Johnson",
             "games": 11,
             "stats": {
               "tackles": 95,

@@ -8,22 +8,6 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Pat Sullivan",
-            "games": 11,
-            "stats": {
-              "passYds": 1824,
-              "passTDs": 20,
-              "intsSeason": 8,
-              "qbr": 152
-            },
-            "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 27,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "Jeff Burger",
             "games": 11,
             "stats": {
@@ -50,6 +34,20 @@
               "nflDraftPick": 165,
               "collegeDominance": "veryGood"
             }
+          },
+          {
+            "name": "Randy Campbell",
+            "games": 11,
+            "stats": {
+              "passYds": 1200,
+              "passTDs": 10,
+              "intsSeason": 5,
+              "qbr": 138
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -75,21 +73,6 @@
             }
           },
           {
-            "name": "James Brooks",
-            "games": 11,
-            "stats": {
-              "rushYds": 1266,
-              "rushTDs": 10,
-              "ypc": 5.8,
-              "recYds": 220
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 28,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Lionel James",
             "games": 11,
             "stats": {
@@ -101,6 +84,21 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 37,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brent Fullwood",
+            "games": 11,
+            "stats": {
+              "rushYds": 1391,
+              "rushTDs": 12,
+              "ypc": 6.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
               "collegeDominance": "elite"
             }
           }
@@ -141,18 +139,19 @@
             }
           },
           {
-            "name": "Terry Beasley",
+            "name": "Lawyer Tillman",
             "games": 11,
             "stats": {
-              "rec": 50,
-              "recYds": 825,
-              "recTDs": 9,
-              "yac": 268
+              "recYds": 765,
+              "recTDs": 8,
+              "rec": 38,
+              "yac": 280
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 32,
-              "collegeDominance": "eraDef"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -188,6 +187,22 @@
             "bonuses": {
               "nflDraftPick": 200,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Walter Reeves",
+            "games": 11,
+            "stats": {
+              "recYds": 360,
+              "recTDs": 4,
+              "rec": 28,
+              "yac": 90
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -568,6 +583,19 @@
             },
             "bonuses": {
               "nflDraftPick": 152,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Brandon Fulse",
+            "games": 13,
+            "stats": {
+              "recYds": 220,
+              "recTDs": 3,
+              "rec": 18,
+              "yac": 60
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }
@@ -1328,16 +1356,15 @@
             }
           },
           {
-            "name": "Willie Anderson",
+            "name": "Lonnie Smith",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 142,
-              "recTDs": 1,
-              "yac": 44
+              "recYds": 175,
+              "recTDs": 2,
+              "rec": 14,
+              "yac": 40
             },
             "bonuses": {
-              "nflDraftPick": 10,
               "collegeDominance": "veryGood"
             }
           }
@@ -1385,34 +1412,32 @@
             }
           },
           {
-            "name": "Takeo Spikes",
-            "games": 12,
+            "name": "Jimmy Brumbaugh",
+            "games": 11,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 6,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "tackles": 52
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 13,
-              "collegeDominance": "elite"
+              "nflDraftPick": 250,
+              "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Carl Lawson",
+            "name": "Reggie Torbor",
             "games": 11,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
+              "tfls": 9,
               "hurries": 12,
               "ff": 1,
-              "dominanceGrade": "A"
+              "tackles": 48
             },
             "bonuses": {
-              "nflDraftPick": 116,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1473,22 +1498,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Carlos Rogers",
-            "games": 12,
-            "stats": {
-              "ints": 5,
-              "pbus": 28,
-              "tackles": 52,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 9,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Martavius Houston",
             "games": 12,
             "stats": {
@@ -1515,6 +1524,20 @@
             },
             "bonuses": {
               "nflDraftPick": 160,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Brad Ware",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 12,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }
@@ -1754,23 +1777,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Marcus Spears",
-            "games": 13,
-            "stats": {
-              "sacks": 8,
-              "tfls": 12,
-              "hurries": 18,
-              "ff": 2,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 20,
-              "conferenceChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Jay Ratliff",
             "games": 13,
             "stats": {
@@ -1800,6 +1806,20 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 37,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "DeMarco McNeil",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 14,
+              "ff": 1,
+              "tackles": 45
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
             }
           }
         ]

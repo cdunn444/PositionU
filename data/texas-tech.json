@@ -607,7 +607,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Gabriel Rivera DL",
+            "name": "Gabriel Rivera",
             "games": 11,
             "stats": {
               "sacks": 9,
@@ -662,7 +662,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Tracy Simien LB",
+            "name": "Tracy Simien",
             "games": 11,
             "stats": {
               "tackles": 108,
@@ -676,7 +676,7 @@
             }
           },
           {
-            "name": "Zach Thomas LB",
+            "name": "Zach Thomas",
             "games": 12,
             "stats": {
               "tackles": 138,
@@ -713,7 +713,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Lloyd Burruss DB",
+            "name": "Lloyd Burruss",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -744,7 +744,7 @@
             }
           },
           {
-            "name": "Marcus Coleman DB",
+            "name": "Marcus Coleman",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -820,7 +820,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Byron Morris RB",
+            "name": "Byron Morris",
             "games": 12,
             "stats": {
               "rushYds": 1367,
@@ -920,7 +920,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Shaud Williams TE",
+            "name": "Shaud Williams",
             "games": 12,
             "stats": {
               "rec": 22,
@@ -1042,7 +1042,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Zach Thomas LB2",
+            "name": "Zach Thomas",
             "games": 12,
             "stats": {
               "tackles": 148,
@@ -1370,7 +1370,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Darcel McBath DL",
+            "name": "Darcel McBath",
             "games": 13,
             "stats": {
               "sacks": 6,
@@ -1503,7 +1503,7 @@
             }
           },
           {
-            "name": "Dorin Dickerson DB",
+            "name": "Dorin Dickerson",
             "games": 13,
             "stats": {
               "ints": 3,
@@ -1593,7 +1593,7 @@
             }
           },
           {
-            "name": "Jakeem Grant RB",
+            "name": "Jakeem Grant",
             "games": 13,
             "stats": {
               "rushYds": 712,
@@ -1628,7 +1628,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Jace Amaro WR",
+            "name": "Jace Amaro",
             "games": 13,
             "stats": {
               "rec": 106,
@@ -1679,7 +1679,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jace Amaro TE2",
+            "name": "Jace Amaro",
             "games": 13,
             "stats": {
               "rec": 106,
@@ -1695,7 +1695,7 @@
             }
           },
           {
-            "name": "Reginald Davis TE",
+            "name": "Reginald Davis",
             "games": 13,
             "stats": {
               "rec": 28,
@@ -1709,7 +1709,7 @@
             }
           },
           {
-            "name": "Eric Ward TE",
+            "name": "Eric Ward",
             "games": 13,
             "stats": {
               "rec": 22,
@@ -2087,7 +2087,7 @@
             }
           },
           {
-            "name": "Gabe Rivera TE",
+            "name": "Gabe Rivera",
             "games": 12,
             "stats": {
               "rec": 12,

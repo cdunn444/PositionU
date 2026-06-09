@@ -8,7 +8,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Robin Earl UTH",
+            "name": "Robin Earl",
             "games": 11,
             "stats": {
               "passYds": 1088,
@@ -73,7 +73,7 @@
             }
           },
           {
-            "name": "Jay Miller UTH",
+            "name": "Jay Miller",
             "games": 11,
             "stats": {
               "rushYds": 788,
@@ -108,7 +108,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Tom Ramsey UTH",
+            "name": "Tom Ramsey",
             "games": 11,
             "stats": {
               "rec": 36,
@@ -136,7 +136,7 @@
             }
           },
           {
-            "name": "Ted Hendricks UTH",
+            "name": "Ted Hendricks",
             "games": 11,
             "stats": {
               "rec": 22,
@@ -157,7 +157,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Dave Casper UTH",
+            "name": "Dave Casper",
             "games": 11,
             "stats": {
               "rec": 16,
@@ -171,7 +171,7 @@
             }
           },
           {
-            "name": "Ron Coleman UTH",
+            "name": "Ron Coleman",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -241,7 +241,7 @@
             }
           },
           {
-            "name": "Don Brallier DL",
+            "name": "Don Brallier",
             "games": 11,
             "stats": {
               "sacks": 3,
@@ -256,7 +256,7 @@
             }
           },
           {
-            "name": "Ron Coleman DL",
+            "name": "Ron Coleman",
             "games": 11,
             "stats": {
               "sacks": 3,
@@ -278,7 +278,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Craig Bingham LB",
+            "name": "Craig Bingham",
             "games": 11,
             "stats": {
               "tackles": 95,
@@ -306,7 +306,7 @@
             }
           },
           {
-            "name": "Kevin Gogan UTH",
+            "name": "Kevin Gogan",
             "games": 11,
             "stats": {
               "tackles": 65,
@@ -342,7 +342,7 @@
             }
           },
           {
-            "name": "Jay Miller DB UTH",
+            "name": "Jay Miller",
             "games": 11,
             "stats": {
               "ints": 2,
@@ -381,7 +381,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Lew Barnes UTH",
+            "name": "Lew Barnes",
             "games": 11,
             "stats": {
               "passYds": 1488,
@@ -481,7 +481,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Steve Smith UTH",
+            "name": "Steve Smith",
             "games": 12,
             "stats": {
               "rec": 52,
@@ -496,7 +496,7 @@
             }
           },
           {
-            "name": "Mike Byrd UTH",
+            "name": "Mike Byrd",
             "games": 11,
             "stats": {
               "rec": 36,
@@ -531,7 +531,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Brad Muster UTH",
+            "name": "Brad Muster",
             "games": 11,
             "stats": {
               "rec": 20,
@@ -545,7 +545,7 @@
             }
           },
           {
-            "name": "Chris Cook UTH",
+            "name": "Chris Cook",
             "games": 11,
             "stats": {
               "rec": 12,
@@ -616,7 +616,7 @@
             }
           },
           {
-            "name": "Steve Young DL UTH",
+            "name": "Steve Young",
             "games": 11,
             "stats": {
               "sacks": 4,
@@ -631,7 +631,7 @@
             }
           },
           {
-            "name": "Kevin Mitchell UTH",
+            "name": "Kevin Mitchell",
             "games": 11,
             "stats": {
               "sacks": 3,
@@ -703,7 +703,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Tom Holmoe DB",
+            "name": "Tom Holmoe",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -734,7 +734,7 @@
             }
           },
           {
-            "name": "David Sims UTH",
+            "name": "David Sims",
             "games": 11,
             "stats": {
               "ints": 2,
@@ -758,7 +758,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Mike McCoy UTH",
+            "name": "Mike McCoy",
             "games": 11,
             "stats": {
               "passYds": 1888,
@@ -824,7 +824,7 @@
             }
           },
           {
-            "name": "Norm Chow RB",
+            "name": "Norm Chow",
             "games": 11,
             "stats": {
               "rushYds": 855,
@@ -909,7 +909,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Kevin McMahon UTH",
+            "name": "Kevin McMahon",
             "games": 12,
             "stats": {
               "rec": 22,
@@ -978,7 +978,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Luther Ellis 90s",
+            "name": "Luther Ellis",
             "games": 12,
             "stats": {
               "sacks": 9,
@@ -994,7 +994,7 @@
             }
           },
           {
-            "name": "Kevin Mitchell UTH2",
+            "name": "Kevin Mitchell",
             "games": 11,
             "stats": {
               "sacks": 5,
@@ -1031,7 +1031,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Tom Barndt UTH",
+            "name": "Tom Barndt",
             "games": 12,
             "stats": {
               "tackles": 108,
@@ -1045,7 +1045,7 @@
             }
           },
           {
-            "name": "Eric Weddle LB",
+            "name": "Eric Weddle",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -1060,7 +1060,7 @@
             }
           },
           {
-            "name": "Nate Williams UTH",
+            "name": "Nate Williams",
             "games": 11,
             "stats": {
               "tackles": 75,
@@ -1081,7 +1081,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Deke Cooper DB",
+            "name": "Deke Cooper",
             "games": 12,
             "stats": {
               "ints": 5,
@@ -1097,7 +1097,7 @@
             }
           },
           {
-            "name": "Will Price UTH",
+            "name": "Will Price",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1112,7 +1112,7 @@
             }
           },
           {
-            "name": "Allen Iverson UTH",
+            "name": "Allen Iverson",
             "games": 11,
             "stats": {
               "ints": 2,
@@ -1136,7 +1136,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Alex Smith UTH",
+            "name": "Alex Smith",
             "games": 13,
             "stats": {
               "passYds": 2952,
@@ -1155,7 +1155,7 @@
             }
           },
           {
-            "name": "Brian Johnson UTH",
+            "name": "Brian Johnson",
             "games": 13,
             "stats": {
               "passYds": 2336,
@@ -1207,7 +1207,7 @@
             }
           },
           {
-            "name": "Eddie Wide UTH",
+            "name": "Eddie Wide",
             "games": 13,
             "stats": {
               "rushYds": 812,
@@ -1221,7 +1221,7 @@
             }
           },
           {
-            "name": "Darrell Mack UTH",
+            "name": "Darrell Mack",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -1257,7 +1257,7 @@
             }
           },
           {
-            "name": "Derek Hagen UTH",
+            "name": "Derek Hagen",
             "games": 12,
             "stats": {
               "rec": 44,
@@ -1271,7 +1271,7 @@
             }
           },
           {
-            "name": "Brice Butler UTH",
+            "name": "Brice Butler",
             "games": 13,
             "stats": {
               "rec": 36,
@@ -1321,7 +1321,7 @@
             }
           },
           {
-            "name": "Freddie Brown UTH",
+            "name": "Freddie Brown",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -1363,7 +1363,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Paul Kruger UTH",
+            "name": "Paul Kruger",
             "games": 13,
             "stats": {
               "sacks": 9,
@@ -1416,7 +1416,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Eric Weddle LB2",
+            "name": "Eric Weddle",
             "games": 13,
             "stats": {
               "tackles": 112,
@@ -1431,7 +1431,7 @@
             }
           },
           {
-            "name": "Stevenson Sylvester LB",
+            "name": "Stevenson Sylvester",
             "games": 13,
             "stats": {
               "tackles": 88,
@@ -1467,7 +1467,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Eric Weddle DB",
+            "name": "Eric Weddle",
             "games": 13,
             "stats": {
               "ints": 6,
@@ -1483,7 +1483,7 @@
             }
           },
           {
-            "name": "Darrell Cox UTH",
+            "name": "Darrell Cox",
             "games": 13,
             "stats": {
               "ints": 4,
@@ -1498,7 +1498,7 @@
             }
           },
           {
-            "name": "David Nixon UTH",
+            "name": "David Nixon",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -1536,7 +1536,7 @@
             }
           },
           {
-            "name": "Travis Wilson UTH",
+            "name": "Travis Wilson",
             "games": 12,
             "stats": {
               "passYds": 1888,
@@ -1605,7 +1605,7 @@
             }
           },
           {
-            "name": "Zack Moss UTH",
+            "name": "Zack Moss",
             "games": 12,
             "stats": {
               "rushYds": 1375,
@@ -1642,7 +1642,7 @@
             }
           },
           {
-            "name": "Siale Fakailoatonga UTH",
+            "name": "Siale Fakailoatonga",
             "games": 12,
             "stats": {
               "rec": 38,
@@ -1656,7 +1656,7 @@
             }
           },
           {
-            "name": "Britain Covey UTH",
+            "name": "Britain Covey",
             "games": 12,
             "stats": {
               "rec": 44,
@@ -1677,7 +1677,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jake Murphy UTH",
+            "name": "Jake Murphy",
             "games": 12,
             "stats": {
               "rec": 22,
@@ -1780,7 +1780,7 @@
             }
           },
           {
-            "name": "Leki Fotu UTH",
+            "name": "Leki Fotu",
             "games": 12,
             "stats": {
               "sacks": 4,
@@ -1803,7 +1803,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Cody Barton UTH",
+            "name": "Cody Barton",
             "games": 13,
             "stats": {
               "tackles": 112,
@@ -1853,7 +1853,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Marcus Williams UTH",
+            "name": "Marcus Williams",
             "games": 13,
             "stats": {
               "ints": 5,
@@ -1869,7 +1869,7 @@
             }
           },
           {
-            "name": "Julian Blackmon UTH",
+            "name": "Julian Blackmon",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -1926,7 +1926,7 @@
             }
           },
           {
-            "name": "Tyler Huntley 20s",
+            "name": "Tyler Huntley",
             "games": 11,
             "stats": {
               "passYds": 2107,
@@ -1942,7 +1942,7 @@
             }
           },
           {
-            "name": "Nate Johnson UTH",
+            "name": "Nate Johnson",
             "games": 12,
             "stats": {
               "passYds": 2186,
@@ -1965,7 +1965,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Zack Moss 20s",
+            "name": "Zack Moss",
             "games": 12,
             "stats": {
               "rushYds": 1416,
@@ -1980,7 +1980,7 @@
             }
           },
           {
-            "name": "Tavion Thomas UTH",
+            "name": "Tavion Thomas",
             "games": 12,
             "stats": {
               "rushYds": 1042,
@@ -1995,7 +1995,7 @@
             }
           },
           {
-            "name": "Charlie Brewer UTH RB",
+            "name": "Charlie Brewer",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -2031,7 +2031,7 @@
             }
           },
           {
-            "name": "Brant Kuithe UTH",
+            "name": "Brant Kuithe",
             "games": 12,
             "stats": {
               "rec": 44,
@@ -2046,7 +2046,7 @@
             }
           },
           {
-            "name": "Money Parks UTH",
+            "name": "Money Parks",
             "games": 12,
             "stats": {
               "rec": 36,
@@ -2067,7 +2067,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Brant Kuithe TE",
+            "name": "Brant Kuithe",
             "games": 12,
             "stats": {
               "rec": 52,
@@ -2096,7 +2096,7 @@
             }
           },
           {
-            "name": "Thomas Yassmin UTH",
+            "name": "Thomas Yassmin",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -2139,7 +2139,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Mika Tafua UTH",
+            "name": "Mika Tafua",
             "games": 12,
             "stats": {
               "sacks": 8,
@@ -2155,7 +2155,7 @@
             }
           },
           {
-            "name": "Jonah Elliss UTH",
+            "name": "Jonah Elliss",
             "games": 12,
             "stats": {
               "sacks": 7,
@@ -2171,7 +2171,7 @@
             }
           },
           {
-            "name": "Leki Fotu 20s",
+            "name": "Leki Fotu",
             "games": 12,
             "stats": {
               "sacks": 4,
@@ -2193,7 +2193,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Devin Lloyd UTH",
+            "name": "Devin Lloyd",
             "games": 12,
             "stats": {
               "tackles": 112,
@@ -2224,7 +2224,7 @@
             }
           },
           {
-            "name": "Karene Reid UTH",
+            "name": "Karene Reid",
             "games": 12,
             "stats": {
               "tackles": 78,
@@ -2261,7 +2261,7 @@
             }
           },
           {
-            "name": "Brandon McKinney UTH",
+            "name": "Brandon McKinney",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -2276,7 +2276,7 @@
             }
           },
           {
-            "name": "R.J. Hubert UTH",
+            "name": "R.J. Hubert",
             "games": 12,
             "stats": {
               "ints": 3,

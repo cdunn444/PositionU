@@ -157,7 +157,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Dave Casper TE",
+            "name": "Dave Casper",
             "games": 11,
             "stats": {
               "rec": 24,
@@ -227,7 +227,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Tim Krumrie DL",
+            "name": "Tim Krumrie",
             "games": 11,
             "stats": {
               "sacks": 6,
@@ -345,7 +345,7 @@
             }
           },
           {
-            "name": "Randy Wright DB",
+            "name": "Randy Wright",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -603,7 +603,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Tim Krumrie DL2",
+            "name": "Tim Krumrie",
             "games": 11,
             "stats": {
               "sacks": 7,
@@ -706,7 +706,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Tim Hauck DB",
+            "name": "Tim Hauck",
             "games": 11,
             "stats": {
               "ints": 4,
@@ -1251,7 +1251,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Lee Evans WR",
+            "name": "Lee Evans",
             "games": 13,
             "stats": {
               "rec": 64,
@@ -1389,7 +1389,7 @@
             }
           },
           {
-            "name": "Wendell Bryant DL",
+            "name": "Wendell Bryant",
             "games": 13,
             "stats": {
               "sacks": 6,
@@ -1455,7 +1455,7 @@
             }
           },
           {
-            "name": "Marcus Tubbs LB",
+            "name": "Marcus Tubbs",
             "games": 13,
             "stats": {
               "tackles": 75,
@@ -1476,7 +1476,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Aaron Rouse DB",
+            "name": "Aaron Rouse",
             "games": 13,
             "stats": {
               "ints": 5,
@@ -2272,7 +2272,7 @@
             }
           },
           {
-            "name": "Jay Shaw WI",
+            "name": "Jay Shaw",
             "games": 12,
             "stats": {
               "ints": 2,

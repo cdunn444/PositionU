@@ -205,6 +205,20 @@
               "nflDraftPick": 64,
               "collegeDominance": "eraDef"
             }
+          },
+          {
+            "name": "Stanton Seckinger",
+            "games": 13,
+            "stats": {
+              "recYds": 425,
+              "recTDs": 5,
+              "rec": 32,
+              "yac": 105
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -425,23 +439,6 @@
             }
           },
           {
-            "name": "Homer Jordan",
-            "games": 12,
-            "stats": {
-              "passYds": 1630,
-              "passTDs": 14,
-              "intsSeason": 8,
-              "qbr": 142,
-              "rushYds": 388,
-              "rushTDs": 5
-            },
-            "bonuses": {
-              "nflDraftPick": 88,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Mike O'Cain",
             "games": 11,
             "stats": {
@@ -452,6 +449,19 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mark Fellers",
+            "games": 11,
+            "stats": {
+              "passYds": 1450,
+              "passTDs": 10,
+              "intsSeason": 9,
+              "qbr": 118
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }
@@ -529,22 +539,6 @@
             }
           },
           {
-            "name": "Perry Tuttle",
-            "games": 11,
-            "stats": {
-              "rec": 32,
-              "recYds": 488,
-              "recTDs": 5,
-              "yac": 155
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 19,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Dwight Clark",
             "games": 11,
             "stats": {
@@ -558,6 +552,20 @@
               "nationalChampionship": true,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Joey Walters",
+            "games": 11,
+            "stats": {
+              "recYds": 822,
+              "recTDs": 6,
+              "rec": 52,
+              "yac": 220
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -566,35 +574,6 @@
         "era": "70s",
         "pos": "TE",
         "players": [
-          {
-            "name": "Jim Stuckey",
-            "games": 11,
-            "stats": {
-              "rec": 14,
-              "recYds": 168,
-              "recTDs": 2,
-              "yac": 52
-            },
-            "bonuses": {
-              "nflDraftPick": 20,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Bubba Brown",
-            "games": 11,
-            "stats": {
-              "rec": 12,
-              "recYds": 142,
-              "recTDs": 1,
-              "yac": 44
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "nationalChampionship": true,
-              "collegeDominance": "veryGood"
-            }
-          },
           {
             "name": "Tim Brown",
             "games": 11,
@@ -606,6 +585,34 @@
             },
             "bonuses": {
               "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Bennie Cunningham",
+            "games": 11,
+            "stats": {
+              "recYds": 1044,
+              "recTDs": 11,
+              "rec": 64,
+              "yac": 270
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lin Dawson",
+            "games": 11,
+            "stats": {
+              "recYds": 425,
+              "recTDs": 4,
+              "rec": 28,
+              "yac": 95
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }
@@ -909,22 +916,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Perry Tuttle",
-            "games": 11,
-            "stats": {
-              "rec": 32,
-              "recYds": 488,
-              "recTDs": 5,
-              "yac": 155
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 19,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Mark Dixon",
             "games": 12,
             "stats": {
@@ -950,6 +941,22 @@
             "bonuses": {
               "nflDraftPick": 185,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Perry Tuttle",
+            "games": 11,
+            "stats": {
+              "recYds": 1395,
+              "recTDs": 14,
+              "rec": 88,
+              "yac": 380
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1062,19 +1069,18 @@
             }
           },
           {
-            "name": "Chester McGlockton",
+            "name": "Dan Benish",
             "games": 11,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 1,
-              "dominanceGrade": "A+"
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "tackles": 58
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 7,
-              "collegeDominance": "elite"
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1101,34 +1107,30 @@
             }
           },
           {
-            "name": "Anthony Simmons",
-            "games": 12,
+            "name": "Henry Walls",
+            "games": 11,
             "stats": {
-              "tackles": 108,
+              "tackles": 92,
               "sacks": 4,
               "ints": 2,
-              "tfls": 14
+              "tfls": 10
             },
             "bonuses": {
-              "butkus": true,
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 15,
-              "collegeDominance": "eraDef"
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Levon Kirkland",
-            "games": 12,
+            "name": "Keith Williams",
+            "games": 11,
             "stats": {
-              "tackles": 95,
-              "sacks": 5,
+              "tackles": 85,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 12
+              "tfls": 9
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 38,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1432,34 +1434,33 @@
             }
           },
           {
-            "name": "Ed McDaniel",
-            "games": 12,
+            "name": "Trevor Pryce",
+            "games": 11,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 17,
+              "ff": 2,
+              "tackles": 60
             },
             "bonuses": {
-              "nflDraftPick": 92,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Brian Dawkins",
+            "name": "Raymond White",
             "games": 11,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 11,
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
               "ff": 1,
-              "dominanceGrade": "A"
+              "tackles": 55
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 61,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1553,18 +1554,17 @@
             }
           },
           {
-            "name": "Chris Gardocki",
+            "name": "Robert Carswell",
             "games": 11,
             "stats": {
-              "ints": 3,
-              "pbus": 16,
-              "tackles": 50,
-              "ff": 1,
-              "coverageGrade": "A"
+              "ints": 4,
+              "pbus": 11,
+              "tackles": 68,
+              "ff": 2,
+              "coverageGrade": "A-"
             },
             "bonuses": {
-              "nflDraftPick": 68,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1728,22 +1728,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Dwayne Allen",
-            "games": 13,
-            "stats": {
-              "rec": 48,
-              "recYds": 598,
-              "recTDs": 8,
-              "yac": 198
-            },
-            "bonuses": {
-              "mackey": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 64,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Daniel Albright",
             "games": 13,
             "stats": {
@@ -1768,6 +1752,19 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Thomas Hunter",
+            "games": 12,
+            "stats": {
+              "recYds": 285,
+              "recTDs": 3,
+              "rec": 22,
+              "yac": 65
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }
@@ -1855,21 +1852,6 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Justin Miller",
-            "games": 13,
-            "stats": {
-              "tackles": 95,
-              "sacks": 5,
-              "ints": 3,
-              "tfls": 12
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 21,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Spencer Bockwoldt",
             "games": 13,
             "stats": {
@@ -1884,16 +1866,29 @@
             }
           },
           {
-            "name": "Michael Hamlin",
-            "games": 13,
+            "name": "Anthony Waters",
+            "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 3,
-              "tfls": 10
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 13
             },
             "bonuses": {
-              "nflDraftPick": 165,
+              "nflDraftPick": 88,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tramaine Billie",
+            "games": 12,
+            "stats": {
+              "tackles": 85,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }

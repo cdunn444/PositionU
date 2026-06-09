@@ -72,7 +72,7 @@
             }
           },
           {
-            "name": "Harold Green SC",
+            "name": "Harold Green",
             "games": 11,
             "stats": {
               "rushYds": 788,
@@ -86,7 +86,7 @@
             }
           },
           {
-            "name": "Duce Staley SC",
+            "name": "Duce Staley",
             "games": 11,
             "stats": {
               "rushYds": 655,
@@ -107,7 +107,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Charles Joiner SC",
+            "name": "Charles Joiner",
             "games": 11,
             "stats": {
               "rec": 44,
@@ -226,7 +226,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Michael Dean Perry SC",
+            "name": "Michael Dean Perry",
             "games": 11,
             "stats": {
               "sacks": 6,
@@ -294,7 +294,7 @@
             }
           },
           {
-            "name": "James Seawright LB",
+            "name": "James Seawright",
             "games": 11,
             "stats": {
               "tackles": 88,
@@ -329,7 +329,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Harry Carson DB",
+            "name": "Harry Carson",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -345,7 +345,7 @@
             }
           },
           {
-            "name": "Brad Edwards SC",
+            "name": "Brad Edwards",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -448,7 +448,7 @@
             }
           },
           {
-            "name": "Sterling Sharpe RB",
+            "name": "Sterling Sharpe",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -499,7 +499,7 @@
             }
           },
           {
-            "name": "Chris Price SC",
+            "name": "Chris Price",
             "games": 11,
             "stats": {
               "rec": 40,
@@ -513,7 +513,7 @@
             }
           },
           {
-            "name": "Carl Zander WR",
+            "name": "Carl Zander",
             "games": 11,
             "stats": {
               "rec": 28,
@@ -619,7 +619,7 @@
             }
           },
           {
-            "name": "Henry Brown SC",
+            "name": "Henry Brown",
             "games": 11,
             "stats": {
               "sacks": 4,
@@ -634,7 +634,7 @@
             }
           },
           {
-            "name": "Travis Jervey DL",
+            "name": "Travis Jervey",
             "games": 11,
             "stats": {
               "sacks": 3,
@@ -656,7 +656,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Carl Zander LB",
+            "name": "Carl Zander",
             "games": 11,
             "stats": {
               "tackles": 108,
@@ -706,7 +706,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Robert Williams SC",
+            "name": "Robert Williams",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -736,7 +736,7 @@
             }
           },
           {
-            "name": "Johnny Johnson SC",
+            "name": "Johnny Johnson",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -788,7 +788,7 @@
             }
           },
           {
-            "name": "Phil Petty QB",
+            "name": "Phil Petty",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -824,7 +824,7 @@
             }
           },
           {
-            "name": "Mike Davis SC",
+            "name": "Mike Davis",
             "games": 12,
             "stats": {
               "rushYds": 912,
@@ -838,7 +838,7 @@
             }
           },
           {
-            "name": "Chris Brown SC",
+            "name": "Chris Brown",
             "games": 11,
             "stats": {
               "rushYds": 655,
@@ -908,7 +908,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Gary Barnidge SC",
+            "name": "Gary Barnidge",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -922,7 +922,7 @@
             }
           },
           {
-            "name": "Eric Norris SC",
+            "name": "Eric Norris",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -936,7 +936,7 @@
             }
           },
           {
-            "name": "Kalimba Edwards SC",
+            "name": "Kalimba Edwards",
             "games": 11,
             "stats": {
               "rec": 8,
@@ -1009,7 +1009,7 @@
             }
           },
           {
-            "name": "Melvin White SC",
+            "name": "Melvin White",
             "games": 12,
             "stats": {
               "sacks": 3,
@@ -1059,7 +1059,7 @@
             }
           },
           {
-            "name": "Chris Washington SC",
+            "name": "Chris Washington",
             "games": 11,
             "stats": {
               "tackles": 75,
@@ -1112,7 +1112,7 @@
             }
           },
           {
-            "name": "Robert Williams SC2",
+            "name": "Robert Williams",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1202,7 +1202,7 @@
             }
           },
           {
-            "name": "Mike Davis SC2",
+            "name": "Mike Davis",
             "games": 12,
             "stats": {
               "rushYds": 912,
@@ -1268,7 +1268,7 @@
             }
           },
           {
-            "name": "Moe Brown SC",
+            "name": "Moe Brown",
             "games": 12,
             "stats": {
               "rec": 36,
@@ -1317,7 +1317,7 @@
             }
           },
           {
-            "name": "Nathan Andrews SC",
+            "name": "Nathan Andrews",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -1377,7 +1377,7 @@
             }
           },
           {
-            "name": "Devin Taylor SC",
+            "name": "Devin Taylor",
             "games": 13,
             "stats": {
               "sacks": 6,
@@ -1429,7 +1429,7 @@
             }
           },
           {
-            "name": "Darian Stewart LB",
+            "name": "Darian Stewart",
             "games": 13,
             "stats": {
               "tackles": 82,
@@ -1480,7 +1480,7 @@
             }
           },
           {
-            "name": "Darian Stewart DB",
+            "name": "Darian Stewart",
             "games": 13,
             "stats": {
               "ints": 4,
@@ -1536,7 +1536,7 @@
             }
           },
           {
-            "name": "Dylan Thompson SC",
+            "name": "Dylan Thompson",
             "games": 12,
             "stats": {
               "passYds": 2259,
@@ -1600,7 +1600,7 @@
             }
           },
           {
-            "name": "A.J. Turner SC",
+            "name": "A.J. Turner",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -1702,7 +1702,7 @@
             }
           },
           {
-            "name": "Randolph Holt SC",
+            "name": "Randolph Holt",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -1815,7 +1815,7 @@
             }
           },
           {
-            "name": "Dylan Hendrix SC",
+            "name": "Dylan Hendrix",
             "games": 13,
             "stats": {
               "tackles": 88,
@@ -1829,7 +1829,7 @@
             }
           },
           {
-            "name": "T.J. Gurley SC",
+            "name": "T.J. Gurley",
             "games": 12,
             "stats": {
               "tackles": 75,
@@ -1906,7 +1906,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Spencer Rattler SC",
+            "name": "Spencer Rattler",
             "games": 12,
             "stats": {
               "passYds": 3026,
@@ -1958,7 +1958,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Kevin Harris SC",
+            "name": "Kevin Harris",
             "games": 12,
             "stats": {
               "rushYds": 1138,
@@ -1973,7 +1973,7 @@
             }
           },
           {
-            "name": "MarShawn Lloyd SC",
+            "name": "MarShawn Lloyd",
             "games": 12,
             "stats": {
               "rushYds": 812,
@@ -1987,7 +1987,7 @@
             }
           },
           {
-            "name": "Rashad Amos SC",
+            "name": "Rashad Amos",
             "games": 12,
             "stats": {
               "rushYds": 622,
@@ -2038,7 +2038,7 @@
             }
           },
           {
-            "name": "Shi Smith SC",
+            "name": "Shi Smith",
             "games": 12,
             "stats": {
               "rec": 38,
@@ -2074,7 +2074,7 @@
             }
           },
           {
-            "name": "Austin Stogner SC",
+            "name": "Austin Stogner",
             "games": 12,
             "stats": {
               "rec": 14,
@@ -2088,7 +2088,7 @@
             }
           },
           {
-            "name": "Tanner Koziol SC",
+            "name": "Tanner Koziol",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -2160,7 +2160,7 @@
             }
           },
           {
-            "name": "Rick Sandidge SC",
+            "name": "Rick Sandidge",
             "games": 12,
             "stats": {
               "sacks": 3,
@@ -2182,7 +2182,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Sherrod Greene SC",
+            "name": "Sherrod Greene",
             "games": 12,
             "stats": {
               "tackles": 112,
@@ -2197,7 +2197,7 @@
             }
           },
           {
-            "name": "Brad Johnson SC",
+            "name": "Brad Johnson",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -2211,7 +2211,7 @@
             }
           },
           {
-            "name": "Debo Williams SC",
+            "name": "Debo Williams",
             "games": 12,
             "stats": {
               "tackles": 75,
@@ -2264,7 +2264,7 @@
             }
           },
           {
-            "name": "Marcellas Dial SC",
+            "name": "Marcellas Dial",
             "games": 12,
             "stats": {
               "ints": 3,

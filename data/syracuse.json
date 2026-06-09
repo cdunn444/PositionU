@@ -72,7 +72,7 @@
             }
           },
           {
-            "name": "Art Monk SYR",
+            "name": "Art Monk",
             "games": 11,
             "stats": {
               "rushYds": 712,
@@ -123,7 +123,7 @@
             }
           },
           {
-            "name": "Rob Carpenter SYR",
+            "name": "Rob Carpenter",
             "games": 11,
             "stats": {
               "rec": 32,
@@ -227,7 +227,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Bill Armstrong SYR",
+            "name": "Bill Armstrong",
             "games": 11,
             "stats": {
               "sacks": 6,
@@ -295,7 +295,7 @@
             }
           },
           {
-            "name": "Tom Ruud SYR",
+            "name": "Tom Ruud",
             "games": 11,
             "stats": {
               "tackles": 88,
@@ -345,7 +345,7 @@
             }
           },
           {
-            "name": "Marvin Powell SYR",
+            "name": "Marvin Powell",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -436,7 +436,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Joe Morris 80s",
+            "name": "Joe Morris",
             "games": 11,
             "stats": {
               "rushYds": 1372,
@@ -451,7 +451,7 @@
             }
           },
           {
-            "name": "Michael Owens SYR",
+            "name": "Michael Owens",
             "games": 11,
             "stats": {
               "rushYds": 988,
@@ -486,7 +486,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Rob Moore SYR",
+            "name": "Rob Moore",
             "games": 11,
             "stats": {
               "rec": 52,
@@ -501,7 +501,7 @@
             }
           },
           {
-            "name": "Dwayne Simmons SYR",
+            "name": "Dwayne Simmons",
             "games": 11,
             "stats": {
               "rec": 36,
@@ -565,7 +565,7 @@
             }
           },
           {
-            "name": "Derek Brown SYR TE",
+            "name": "Derek Brown",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -606,7 +606,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Tim Green SYR",
+            "name": "Tim Green",
             "games": 11,
             "stats": {
               "sacks": 8,
@@ -637,7 +637,7 @@
             }
           },
           {
-            "name": "Pat Kelly SYR",
+            "name": "Pat Kelly",
             "games": 11,
             "stats": {
               "sacks": 3,
@@ -674,7 +674,7 @@
             }
           },
           {
-            "name": "Tony Tuiasosopo SYR",
+            "name": "Tony Tuiasosopo",
             "games": 11,
             "stats": {
               "tackles": 88,
@@ -688,7 +688,7 @@
             }
           },
           {
-            "name": "Dom Forrest SYR",
+            "name": "Dom Forrest",
             "games": 11,
             "stats": {
               "tackles": 75,
@@ -709,7 +709,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Dale Dawkins SYR",
+            "name": "Dale Dawkins",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -725,7 +725,7 @@
             }
           },
           {
-            "name": "Markus Paul DB",
+            "name": "Markus Paul",
             "games": 11,
             "stats": {
               "ints": 4,
@@ -741,7 +741,7 @@
             }
           },
           {
-            "name": "Conrad Goode SYR",
+            "name": "Conrad Goode",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -765,7 +765,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Marvin Graves 90s",
+            "name": "Marvin Graves",
             "games": 12,
             "stats": {
               "passYds": 2380,
@@ -781,7 +781,7 @@
             }
           },
           {
-            "name": "Kevin Mason SYR",
+            "name": "Kevin Mason",
             "games": 12,
             "stats": {
               "passYds": 1888,
@@ -795,7 +795,7 @@
             }
           },
           {
-            "name": "Keith Downing SYR",
+            "name": "Keith Downing",
             "games": 12,
             "stats": {
               "passYds": 1588,
@@ -816,7 +816,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Daryl Johnston SYR",
+            "name": "Daryl Johnston",
             "games": 12,
             "stats": {
               "rushYds": 1188,
@@ -831,7 +831,7 @@
             }
           },
           {
-            "name": "Malcolm Thomas SYR",
+            "name": "Malcolm Thomas",
             "games": 12,
             "stats": {
               "rushYds": 855,
@@ -845,7 +845,7 @@
             }
           },
           {
-            "name": "Dorsey Levens SYR",
+            "name": "Dorsey Levens",
             "games": 11,
             "stats": {
               "rushYds": 712,
@@ -866,7 +866,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Marvin Harrison SYR",
+            "name": "Marvin Harrison",
             "games": 12,
             "stats": {
               "rec": 65,
@@ -882,7 +882,7 @@
             }
           },
           {
-            "name": "Kevin Johnson SYR",
+            "name": "Kevin Johnson",
             "games": 12,
             "stats": {
               "rec": 48,
@@ -897,7 +897,7 @@
             }
           },
           {
-            "name": "Mitch Anderson SYR",
+            "name": "Mitch Anderson",
             "games": 12,
             "stats": {
               "rec": 34,
@@ -918,7 +918,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Marvin Harrison TE",
+            "name": "Marvin Harrison",
             "games": 12,
             "stats": {
               "rec": 38,
@@ -933,7 +933,7 @@
             }
           },
           {
-            "name": "Chris Gedney 90s",
+            "name": "Chris Gedney",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -947,7 +947,7 @@
             }
           },
           {
-            "name": "Matt Stark SYR",
+            "name": "Matt Stark",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -988,7 +988,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Kevin Mitchell SYR",
+            "name": "Kevin Mitchell",
             "games": 12,
             "stats": {
               "sacks": 8,
@@ -1041,7 +1041,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Dwight Freeney SYR LB",
+            "name": "Dwight Freeney",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -1056,7 +1056,7 @@
             }
           },
           {
-            "name": "Pat Williams SYR",
+            "name": "Pat Williams",
             "games": 12,
             "stats": {
               "tackles": 105,
@@ -1070,7 +1070,7 @@
             }
           },
           {
-            "name": "Dan Conley SYR",
+            "name": "Dan Conley",
             "games": 12,
             "stats": {
               "tackles": 75,
@@ -1107,7 +1107,7 @@
             }
           },
           {
-            "name": "Keith Bulluck SYR DB",
+            "name": "Keith Bulluck",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -1123,7 +1123,7 @@
             }
           },
           {
-            "name": "Tony Lippett SYR",
+            "name": "Tony Lippett",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1147,7 +1147,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Perry Patterson SYR",
+            "name": "Perry Patterson",
             "games": 12,
             "stats": {
               "passYds": 1788,
@@ -1161,7 +1161,7 @@
             }
           },
           {
-            "name": "Marques Tuiasosopo SYR",
+            "name": "Marques Tuiasosopo",
             "games": 12,
             "stats": {
               "passYds": 1488,
@@ -1175,7 +1175,7 @@
             }
           },
           {
-            "name": "Andrew Robinson SYR",
+            "name": "Andrew Robinson",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -1198,7 +1198,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Curtis Brinkley SYR",
+            "name": "Curtis Brinkley",
             "games": 12,
             "stats": {
               "rushYds": 988,
@@ -1212,7 +1212,7 @@
             }
           },
           {
-            "name": "Delone Carter SYR",
+            "name": "Delone Carter",
             "games": 12,
             "stats": {
               "rushYds": 1079,
@@ -1227,7 +1227,7 @@
             }
           },
           {
-            "name": "Michael Robinson SYR",
+            "name": "Michael Robinson",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -1248,7 +1248,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Van Chew SYR",
+            "name": "Van Chew",
             "games": 12,
             "stats": {
               "rec": 44,
@@ -1262,7 +1262,7 @@
             }
           },
           {
-            "name": "Taj Smith SYR",
+            "name": "Taj Smith",
             "games": 12,
             "stats": {
               "rec": 36,
@@ -1276,7 +1276,7 @@
             }
           },
           {
-            "name": "Marcus Sales SYR",
+            "name": "Marcus Sales",
             "games": 12,
             "stats": {
               "rec": 28,
@@ -1297,7 +1297,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Steve Gregory SYR",
+            "name": "Steve Gregory",
             "games": 12,
             "stats": {
               "rec": 16,
@@ -1311,7 +1311,7 @@
             }
           },
           {
-            "name": "Allen Johnson SYR",
+            "name": "Allen Johnson",
             "games": 12,
             "stats": {
               "rec": 12,
@@ -1325,7 +1325,7 @@
             }
           },
           {
-            "name": "Rich Scanlan SYR",
+            "name": "Rich Scanlan",
             "games": 11,
             "stats": {
               "rec": 8,
@@ -1385,7 +1385,7 @@
             }
           },
           {
-            "name": "Cory Rucker SYR",
+            "name": "Cory Rucker",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -1400,7 +1400,7 @@
             }
           },
           {
-            "name": "Deon Glover SYR",
+            "name": "Deon Glover",
             "games": 12,
             "stats": {
               "sacks": 4,
@@ -1437,7 +1437,7 @@
             }
           },
           {
-            "name": "Jameel McCIain SYR",
+            "name": "Jameel McCIain",
             "games": 12,
             "stats": {
               "tackles": 95,
@@ -1451,7 +1451,7 @@
             }
           },
           {
-            "name": "Dan Conley SYR2",
+            "name": "Dan Conley",
             "games": 12,
             "stats": {
               "tackles": 75,
@@ -1488,7 +1488,7 @@
             }
           },
           {
-            "name": "Steve Gregory DB",
+            "name": "Steve Gregory",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -1503,7 +1503,7 @@
             }
           },
           {
-            "name": "Tanard Jackson SYR",
+            "name": "Tanard Jackson",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -1528,7 +1528,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Ryan Nassib SYR",
+            "name": "Ryan Nassib",
             "games": 12,
             "stats": {
               "passYds": 3727,
@@ -1543,7 +1543,7 @@
             }
           },
           {
-            "name": "Terrel Hunt SYR",
+            "name": "Terrel Hunt",
             "games": 12,
             "stats": {
               "passYds": 1888,
@@ -1559,7 +1559,7 @@
             }
           },
           {
-            "name": "Eric Dungey SYR",
+            "name": "Eric Dungey",
             "games": 12,
             "stats": {
               "passYds": 2706,
@@ -1596,7 +1596,7 @@
             }
           },
           {
-            "name": "Jerome Smith SYR",
+            "name": "Jerome Smith",
             "games": 12,
             "stats": {
               "rushYds": 988,
@@ -1611,7 +1611,7 @@
             }
           },
           {
-            "name": "Moe Neal SYR",
+            "name": "Moe Neal",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -1632,7 +1632,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Alec Lemon SYR",
+            "name": "Alec Lemon",
             "games": 12,
             "stats": {
               "rec": 52,
@@ -1647,7 +1647,7 @@
             }
           },
           {
-            "name": "Ashton Driscoll SYR",
+            "name": "Ashton Driscoll",
             "games": 12,
             "stats": {
               "rec": 38,
@@ -1661,7 +1661,7 @@
             }
           },
           {
-            "name": "Steve Ishmael SYR",
+            "name": "Steve Ishmael",
             "games": 12,
             "stats": {
               "rec": 44,
@@ -1682,7 +1682,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Nick Provo SYR",
+            "name": "Nick Provo",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -1696,7 +1696,7 @@
             }
           },
           {
-            "name": "Beckett Wales SYR",
+            "name": "Beckett Wales",
             "games": 12,
             "stats": {
               "rec": 14,
@@ -1710,7 +1710,7 @@
             }
           },
           {
-            "name": "Evan Austrie SYR",
+            "name": "Evan Austrie",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -1751,7 +1751,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Chandler Jones SYR",
+            "name": "Chandler Jones",
             "games": 12,
             "stats": {
               "sacks": 8,
@@ -1767,7 +1767,7 @@
             }
           },
           {
-            "name": "Brandon Sharpe SYR",
+            "name": "Brandon Sharpe",
             "games": 12,
             "stats": {
               "sacks": 6,
@@ -1782,7 +1782,7 @@
             }
           },
           {
-            "name": "Eric Bromley SYR",
+            "name": "Eric Bromley",
             "games": 12,
             "stats": {
               "sacks": 4,
@@ -1804,7 +1804,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Marquis Spruill SYR",
+            "name": "Marquis Spruill",
             "games": 12,
             "stats": {
               "tackles": 108,
@@ -1819,7 +1819,7 @@
             }
           },
           {
-            "name": "Cory Roberson SYR",
+            "name": "Cory Roberson",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -1833,7 +1833,7 @@
             }
           },
           {
-            "name": "Miles Hooker SYR",
+            "name": "Miles Hooker",
             "games": 12,
             "stats": {
               "tackles": 75,
@@ -1854,7 +1854,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Antone Exum SYR",
+            "name": "Antone Exum",
             "games": 12,
             "stats": {
               "ints": 5,
@@ -1870,7 +1870,7 @@
             }
           },
           {
-            "name": "Jeremi Wilkes SYR",
+            "name": "Jeremi Wilkes",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -1885,7 +1885,7 @@
             }
           },
           {
-            "name": "Wayne Morgan SYR",
+            "name": "Wayne Morgan",
             "games": 12,
             "stats": {
               "ints": 2,
@@ -1909,7 +1909,7 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Tommy DeVito SYR",
+            "name": "Tommy DeVito",
             "games": 12,
             "stats": {
               "passYds": 2762,
@@ -1923,7 +1923,7 @@
             }
           },
           {
-            "name": "Garrett Shrader SYR",
+            "name": "Garrett Shrader",
             "games": 12,
             "stats": {
               "passYds": 2385,
@@ -1939,7 +1939,7 @@
             }
           },
           {
-            "name": "Kyle McCord SYR",
+            "name": "Kyle McCord",
             "games": 12,
             "stats": {
               "passYds": 3246,
@@ -1961,7 +1961,7 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Sean Tucker SYR",
+            "name": "Sean Tucker",
             "games": 13,
             "stats": {
               "rushYds": 1496,
@@ -1976,7 +1976,7 @@
             }
           },
           {
-            "name": "LeQuint Allen SYR",
+            "name": "LeQuint Allen",
             "games": 12,
             "stats": {
               "rushYds": 1054,
@@ -1991,7 +1991,7 @@
             }
           },
           {
-            "name": "E.J. Warner SYR",
+            "name": "E.J. Warner",
             "games": 12,
             "stats": {
               "rushYds": 712,
@@ -2012,7 +2012,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Trebor Pena SYR",
+            "name": "Trebor Pena",
             "games": 12,
             "stats": {
               "rec": 52,
@@ -2042,7 +2042,7 @@
             }
           },
           {
-            "name": "Anthony Queeley SYR",
+            "name": "Anthony Queeley",
             "games": 12,
             "stats": {
               "rec": 32,
@@ -2063,7 +2063,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Luke Benson SYR",
+            "name": "Luke Benson",
             "games": 12,
             "stats": {
               "rec": 22,
@@ -2077,7 +2077,7 @@
             }
           },
           {
-            "name": "Ryan Barber SYR",
+            "name": "Ryan Barber",
             "games": 12,
             "stats": {
               "rec": 14,
@@ -2091,7 +2091,7 @@
             }
           },
           {
-            "name": "Josh Ilaoa SYR",
+            "name": "Josh Ilaoa",
             "games": 12,
             "stats": {
               "rec": 10,
@@ -2132,7 +2132,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Kingsley Jonathan SYR",
+            "name": "Kingsley Jonathan",
             "games": 12,
             "stats": {
               "sacks": 8,
@@ -2148,7 +2148,7 @@
             }
           },
           {
-            "name": "Caleb Eldridge SYR",
+            "name": "Caleb Eldridge",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -2163,7 +2163,7 @@
             }
           },
           {
-            "name": "Darius Dabney SYR",
+            "name": "Darius Dabney",
             "games": 12,
             "stats": {
               "sacks": 4,
@@ -2185,7 +2185,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Leon Lowery SYR",
+            "name": "Leon Lowery",
             "games": 12,
             "stats": {
               "tackles": 108,
@@ -2200,7 +2200,7 @@
             }
           },
           {
-            "name": "Marlowe Wax SYR",
+            "name": "Marlowe Wax",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -2214,7 +2214,7 @@
             }
           },
           {
-            "name": "Derek McDonald SYR",
+            "name": "Derek McDonald",
             "games": 12,
             "stats": {
               "tackles": 75,
@@ -2235,7 +2235,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Garrett Williams SYR",
+            "name": "Garrett Williams",
             "games": 12,
             "stats": {
               "ints": 5,
@@ -2251,7 +2251,7 @@
             }
           },
           {
-            "name": "Duce Chestnut SYR",
+            "name": "Duce Chestnut",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -2266,7 +2266,7 @@
             }
           },
           {
-            "name": "Ja'Had Carter SYR",
+            "name": "Ja'Had Carter",
             "games": 12,
             "stats": {
               "ints": 3,

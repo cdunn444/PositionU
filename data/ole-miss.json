@@ -229,7 +229,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Ben Williams DL",
+            "name": "Ben Williams",
             "games": 11,
             "stats": {
               "sacks": 8,
@@ -484,7 +484,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Wesley Walls WR",
+            "name": "Wesley Walls",
             "games": 11,
             "stats": {
               "rec": 38,
@@ -534,7 +534,7 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Wesley Walls TE",
+            "name": "Wesley Walls",
             "games": 11,
             "stats": {
               "rec": 28,
@@ -563,7 +563,7 @@
             }
           },
           {
-            "name": "Freddie Joe Nunn TE",
+            "name": "Freddie Joe Nunn",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -604,7 +604,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Freddie Joe Nunn DL",
+            "name": "Freddie Joe Nunn",
             "games": 11,
             "stats": {
               "sacks": 8,
@@ -738,7 +738,7 @@
             }
           },
           {
-            "name": "Jim Heidel DB",
+            "name": "Jim Heidel",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -862,7 +862,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Wesley Walls WR",
+            "name": "Wesley Walls",
             "games": 12,
             "stats": {
               "rec": 48,
@@ -981,7 +981,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Chris Mims DL",
+            "name": "Chris Mims",
             "games": 12,
             "stats": {
               "sacks": 8,
@@ -997,7 +997,7 @@
             }
           },
           {
-            "name": "Nate Wayne DL",
+            "name": "Nate Wayne",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -1034,7 +1034,7 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Nate Wayne LB",
+            "name": "Nate Wayne",
             "games": 12,
             "stats": {
               "tackles": 118,
@@ -1049,7 +1049,7 @@
             }
           },
           {
-            "name": "David Harris LB",
+            "name": "David Harris",
             "games": 12,
             "stats": {
               "tackles": 95,
@@ -1084,7 +1084,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Ken Lucas DB",
+            "name": "Ken Lucas",
             "games": 12,
             "stats": {
               "ints": 6,
@@ -1115,7 +1115,7 @@
             }
           },
           {
-            "name": "Moe Williams DB",
+            "name": "Moe Williams",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1875,7 +1875,7 @@
             }
           },
           {
-            "name": "Trae Elmore DB",
+            "name": "Trae Elmore",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -2125,7 +2125,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Sam Williams DL",
+            "name": "Sam Williams",
             "games": 13,
             "stats": {
               "sacks": 9,

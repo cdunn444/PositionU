@@ -280,7 +280,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Thurman Thomas DB",
+            "name": "Thurman Thomas",
             "games": 12,
             "stats": {
               "ints": 4,
@@ -310,7 +310,7 @@
             }
           },
           {
-            "name": "Barry Sanders DB",
+            "name": "Barry Sanders",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -686,7 +686,7 @@
             }
           },
           {
-            "name": "Mike Gundy DB",
+            "name": "Mike Gundy",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1019,7 +1019,7 @@
             }
           },
           {
-            "name": "Thurman Thomas LB",
+            "name": "Thurman Thomas",
             "games": 11,
             "stats": {
               "tackles": 85,
@@ -1040,7 +1040,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Thurman Thomas DB",
+            "name": "Thurman Thomas",
             "games": 11,
             "stats": {
               "ints": 5,
@@ -1070,7 +1070,7 @@
             }
           },
           {
-            "name": "Barry Sanders DB",
+            "name": "Barry Sanders",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -1423,7 +1423,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Dez Bryant DB",
+            "name": "Dez Bryant",
             "games": 13,
             "stats": {
               "ints": 3,

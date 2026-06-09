@@ -164,20 +164,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Brian Edmonds",
-            "games": 12,
-            "stats": {
-              "rec": 22,
-              "recYds": 268,
-              "recTDs": 2,
-              "yac": 85
-            },
-            "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
             "name": "John Burke",
             "games": 11,
             "stats": {
@@ -203,6 +189,20 @@
             "bonuses": {
               "firstTeamAllConference": true,
               "nflDraftPick": 240,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Browning Wynn",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 260,
+              "recTDs": 2,
+              "yac": 80
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }

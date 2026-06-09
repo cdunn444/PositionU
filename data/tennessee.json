@@ -170,34 +170,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jeff Hall",
-            "games": 12,
-            "stats": {
-              "rec": 24,
-              "recYds": 296,
-              "recTDs": 3,
-              "yac": 95
-            },
-            "bonuses": {
-              "nflDraftPick": 220,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Bubba Miller",
-            "games": 12,
-            "stats": {
-              "rec": 18,
-              "recYds": 210,
-              "recTDs": 2,
-              "yac": 68
-            },
-            "bonuses": {
-              "nflDraftPick": 250,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
             "name": "David Martin",
             "games": 11,
             "stats": {
@@ -209,6 +181,33 @@
             "bonuses": {
               "nflDraftPick": 198,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Adams",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 217,
+              "recTDs": 1,
+              "yac": 70
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Pfeiffer",
+            "games": 11,
+            "stats": {
+              "rec": 13,
+              "recYds": 82,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
             }
           }
         ]

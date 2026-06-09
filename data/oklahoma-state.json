@@ -126,20 +126,6 @@
             }
           },
           {
-            "name": "Steve Largent",
-            "games": 12,
-            "stats": {
-              "rec": 44,
-              "recYds": 672,
-              "recTDs": 6,
-              "yac": 210
-            },
-            "bonuses": {
-              "nflDraftPick": 117,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Bobby Riley",
             "games": 11,
             "stats": {
@@ -150,6 +136,20 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Curtis Mayfield",
+            "games": 11,
+            "stats": {
+              "rec": 45,
+              "recYds": 879,
+              "recTDs": 4,
+              "yac": 280
+            },
+            "bonuses": {
+              "nflDraftPick": 270,
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -333,36 +333,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Rickey Green",
-            "games": 11,
-            "stats": {
-              "ints": 3,
-              "pbus": 14,
-              "tackles": 46,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 78,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Tracy Simien",
-            "games": 11,
-            "stats": {
-              "ints": 2,
-              "pbus": 11,
-              "tackles": 42,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
             "name": "Greg Frazier",
             "games": 11,
             "stats": {
@@ -374,6 +344,38 @@
             },
             "bonuses": {
               "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ted Watts",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 11,
+              "tackles": 70,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Larry Flowers",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 9,
+              "tackles": 75,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 102,
               "collegeDominance": "elite"
             }
           }
@@ -712,22 +714,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Lloyd Burruss",
-            "games": 11,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 135,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Dalton Smith",
             "games": 11,
             "stats": {
@@ -756,6 +742,21 @@
               "firstTeamAllConference": true,
               "nflDraftPick": 220,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Roland Mitchell",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 12,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 33,
+              "collegeDominance": "elite"
             }
           }
         ]

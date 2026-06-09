@@ -22,12 +22,14 @@ const RULES = Object.freeze({
     OL: 1.0, DL: 5.5, LB: 4.8, DB: 5.0
   },
 
-  // Madden rating linear scales — recalibrated 2026-06-09 against scoring engine v1.3
-  // Formula: rating = floor + (raw - min) / range * 40   (clamp 45-99)
-  // Note: formula is currently inlined in game.js renderResults() — these values document it
+  // Madden rating linear scales — recalibrated 2026-06-09 (rules v1.4 distribution)
+  // Formula: raw = floor + (rawTotal - min) / range * span; displayed = 88% axis + 12% overall (clamp 45-99)
+  // Widened so elite units read ~95-99 and weak ~52, while the O/D split is preserved.
+  // Note: formula is inlined in game.js showResults() — these values document it
   maddenScales: {
-    offense: { min: 172, range: 107, floor: 55, ceiling: 99 },
-    defense: { min: 98,  range: 102, floor: 55, ceiling: 99 }
+    offense: { min: 174, range: 107, floor: 52, span: 47, ceiling: 99 },
+    defense: { min: 93,  range: 98,  floor: 52, span: 47, ceiling: 99 },
+    blendTowardOverall: 0.12
   },
 
   // Record tier requirements — ALL conditions must be met for the tier

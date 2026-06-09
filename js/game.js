@@ -486,12 +486,15 @@ function showResults() {
   const result = mapScore(total, offTotal, defTotal, roomScores);
   document.getElementById('finalRecord').textContent = result.record;
   document.getElementById('gradeDisplay').textContent = result.grade;
-  // Madden-style ratings — recalibrated 2026-06-09 against actual score distribution
-  // Linear mapping: p1 raw total → 55, p99 raw total → 95, clamped [45, 99]
-  // Offense: 55 + (offTotal - 172) / 107 * 40
-  // Defense: 55 + (defTotal - 98)  / 102 * 40
-  const offRating = Math.min(99, Math.max(45, Math.round(55 + (offTotal - 172) / 107 * 40)));
-  const defRating = Math.min(99, Math.max(45, Math.round(55 + (defTotal - 98)  / 102 * 40)));
+  // Madden-style ratings — recalibrated 2026-06-09 (rules v1.4 distribution).
+  // Per-unit linear map widened to p1≈52 / p99≈99, then a gentle 12% pull toward the
+  // team's overall so a strong record reads as strong numbers while preserving the
+  // offense/defense split (e.g. elite O + mid D → 13-2 shows ~90 / ~70).
+  const offRaw = 52 + (offTotal - 174) / 107 * 47;
+  const defRaw = 52 + (defTotal - 93)  / 98  * 47;
+  const overallRaw = (offRaw + defRaw) / 2;
+  const offRating = Math.min(99, Math.max(45, Math.round(offRaw * 0.88 + overallRaw * 0.12)));
+  const defRating = Math.min(99, Math.max(45, Math.round(defRaw * 0.88 + overallRaw * 0.12)));
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

@@ -22,10 +22,12 @@ const RULES = Object.freeze({
     OL: 1.0, DL: 5.5, LB: 4.8, DB: 5.0
   },
 
-  // Madden rating linear scales — calibrated against full roster distribution
+  // Madden rating linear scales — recalibrated 2026-06-09 against scoring engine v1.3
+  // Formula: rating = floor + (raw - min) / range * 40   (clamp 45-99)
+  // Note: formula is currently inlined in game.js renderResults() — these values document it
   maddenScales: {
-    offense: { min: 315, range: 281, floor: 55, ceiling: 44 },
-    defense: { min: 125, range: 190, floor: 50, ceiling: 49 }
+    offense: { min: 172, range: 107, floor: 55, ceiling: 99 },
+    defense: { min: 98,  range: 102, floor: 55, ceiling: 99 }
   },
 
   // Record tier requirements — ALL conditions must be met for the tier

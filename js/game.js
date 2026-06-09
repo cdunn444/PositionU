@@ -486,8 +486,12 @@ function showResults() {
   const result = mapScore(total, offTotal, defTotal, roomScores);
   document.getElementById('finalRecord').textContent = result.record;
   document.getElementById('gradeDisplay').textContent = result.grade;
-  const offRating = Math.min(99, Math.max(55, Math.round((offTotal - 315) / 281 * 44 + 55)));
-  const defRating = Math.min(99, Math.max(50, Math.round((defTotal - 125) / 190 * 49 + 50)));
+  // Madden-style ratings — recalibrated 2026-06-09 against actual score distribution
+  // Linear mapping: p1 raw total → 55, p99 raw total → 95, clamped [45, 99]
+  // Offense: 55 + (offTotal - 172) / 107 * 40
+  // Defense: 55 + (defTotal - 98)  / 102 * 40
+  const offRating = Math.min(99, Math.max(45, Math.round(55 + (offTotal - 172) / 107 * 40)));
+  const defRating = Math.min(99, Math.max(45, Math.round(55 + (defTotal - 98)  / 102 * 40)));
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

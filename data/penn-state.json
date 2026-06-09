@@ -1,0 +1,2308 @@
+{
+  "school": "Penn State",
+  "eras": {
+    "90s": {
+      "QB": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Kerry Collins",
+            "games": 12,
+            "stats": {
+              "passYds": 2679,
+              "passTDs": 21,
+              "intsSeason": 7,
+              "qbr": 158
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Wally Richardson",
+            "games": 11,
+            "stats": {
+              "passYds": 2110,
+              "passTDs": 15,
+              "intsSeason": 9,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ki-Jana Carter",
+            "games": 12,
+            "stats": {
+              "rushYds": 1539,
+              "rushTDs": 23,
+              "ypc": 7.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Mike Archie",
+            "games": 12,
+            "stats": {
+              "rushYds": 832,
+              "rushTDs": 9,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Curtis Enis",
+            "games": 11,
+            "stats": {
+              "rushYds": 1084,
+              "rushTDs": 11,
+              "ypc": 5.8,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Bobby Engram",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 919,
+              "recTDs": 10,
+              "yac": 295
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Joe Jurevicius",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 640,
+              "recTDs": 5,
+              "yac": 210
+            },
+            "bonuses": {
+              "nflDraftPick": 79,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Freddie Scott",
+            "games": 12,
+            "stats": {
+              "rec": 35,
+              "recYds": 498,
+              "recTDs": 4,
+              "yac": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Kyle Brady",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 480,
+              "recTDs": 5,
+              "yac": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brian Milne",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 148,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Keith Olsommer",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 195,
+              "recTDs": 2,
+              "yac": 62
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1994-95 PSU OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 165,
+              "passBlockEff": 92,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Courtney Brown",
+            "games": 12,
+            "stats": {
+              "sacks": 12,
+              "tfls": 14,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Mike Mamula",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 11,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brandon Noble",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 100,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "LaVar Arrington",
+            "games": 11,
+            "stats": {
+              "tackles": 74,
+              "sacks": 7,
+              "ints": 1,
+              "tfls": 20
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Brandon Short",
+            "games": 11,
+            "stats": {
+              "tackles": 94,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 17
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Aaron Harris",
+            "games": 11,
+            "stats": {
+              "tackles": 86,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Penn State",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Derek Bochna",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 100,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Tate",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 150,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kim Herring",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Sean Clifford",
+            "games": 13,
+            "stats": {
+              "passYds": 2942,
+              "passTDs": 22,
+              "intsSeason": 8,
+              "qbr": 148,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 149,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Drew Allar",
+            "games": 14,
+            "stats": {
+              "passYds": 3061,
+              "passTDs": 24,
+              "intsSeason": 6,
+              "qbr": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Beau Pribula",
+            "games": 12,
+            "stats": {
+              "passYds": 1842,
+              "passTDs": 16,
+              "intsSeason": 5,
+              "qbr": 138
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Saquon Barkley",
+            "games": 13,
+            "stats": {
+              "rushYds": 1271,
+              "rushTDs": 18,
+              "ypc": 6,
+              "recYds": 632
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Nick Singleton",
+            "games": 12,
+            "stats": {
+              "rushYds": 898,
+              "rushTDs": 11,
+              "ypc": 6.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kaytron Allen",
+            "games": 14,
+            "stats": {
+              "rushYds": 1108,
+              "rushTDs": 8,
+              "ypc": 5,
+              "recYds": 198
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Harrison Wallace III",
+            "games": 14,
+            "stats": {
+              "rec": 54,
+              "recYds": 808,
+              "recTDs": 7,
+              "yac": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jahan Dotson",
+            "games": 12,
+            "stats": {
+              "rec": 91,
+              "recYds": 1182,
+              "recTDs": 12,
+              "yac": 355
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "KeAndre Lambert-Smith",
+            "games": 13,
+            "stats": {
+              "rec": 53,
+              "recYds": 673,
+              "recTDs": 4,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 158,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Tyler Warren",
+            "games": 15,
+            "stats": {
+              "rec": 96,
+              "recYds": 1233,
+              "recTDs": 8,
+              "yac": 412
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Pat Freiermuth",
+            "games": 11,
+            "stats": {
+              "rec": 43,
+              "recYds": 507,
+              "recTDs": 7,
+              "yac": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2024 Penn State OL",
+            "games": 15,
+            "stats": {
+              "sacksAllowedSeason": 12,
+              "pancakeBlocksSeason": 190,
+              "passBlockEff": 94,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Chop Robinson",
+            "games": 14,
+            "stats": {
+              "sacks": 9.5,
+              "tfls": 11,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Zane Durant",
+            "games": 14,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dani Dennis-Sutton",
+            "games": 15,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Micah Parsons",
+            "games": 9,
+            "stats": {
+              "tackles": 41,
+              "sacks": 1,
+              "ints": 1,
+              "tfls": 5
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Abdul Carter",
+            "games": 15,
+            "stats": {
+              "tackles": 78,
+              "sacks": 12,
+              "ints": 1,
+              "tfls": 17.5
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Curtis Jacobs",
+            "games": 13,
+            "stats": {
+              "tackles": 101,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Penn State",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Kalen King",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 28,
+              "tackles": 46,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Johnny Dixon",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 90,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jaylen Reed",
+            "games": 14,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Chuck Fusina",
+            "games": 12,
+            "stats": {
+              "passYds": 1928,
+              "passTDs": 18,
+              "intsSeason": 7,
+              "qbr": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 107,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tom Shuman",
+            "games": 11,
+            "stats": {
+              "passYds": 1388,
+              "passTDs": 11,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Hufnagel",
+            "games": 11,
+            "stats": {
+              "passYds": 1288,
+              "passTDs": 10,
+              "intsSeason": 6,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Lydell Mitchell",
+            "games": 11,
+            "stats": {
+              "rushYds": 1567,
+              "rushTDs": 26,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Curt Warner",
+            "games": 12,
+            "stats": {
+              "rushYds": 1044,
+              "rushTDs": 9,
+              "ypc": 5.6,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Matt Suhey",
+            "games": 12,
+            "stats": {
+              "rushYds": 858,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 86,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jimmy Cefalo",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 47,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Fitzkee",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 6,
+              "yac": 208
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 88,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bob Bassett",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 412,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Mickey Shuler",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brad Scovill",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Steve Geise",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1977-78 Penn State OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Bruce Clark",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Matt Millen",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Larry Kubin",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Matt Millen",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rich Milot",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lance Mehl",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 3,
+              "tfls": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 108,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Penn State",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Pete Harris",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 52,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Gary Gray",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Karl McCoy",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Todd Blackledge",
+            "games": 12,
+            "stats": {
+              "passYds": 2218,
+              "passTDs": 22,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John Shaffer",
+            "games": 12,
+            "stats": {
+              "passYds": 1280,
+              "passTDs": 10,
+              "intsSeason": 5,
+              "qbr": 132,
+              "rushYds": 412,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tom Bill",
+            "games": 11,
+            "stats": {
+              "passYds": 1188,
+              "passTDs": 9,
+              "intsSeason": 6,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Curt Warner",
+            "games": 12,
+            "stats": {
+              "rushYds": 1044,
+              "rushTDs": 9,
+              "ypc": 5.6,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "D.J. Dozier",
+            "games": 12,
+            "stats": {
+              "rushYds": 1085,
+              "rushTDs": 13,
+              "ypc": 5.3,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Blair Thomas",
+            "games": 12,
+            "stats": {
+              "rushYds": 1414,
+              "rushTDs": 13,
+              "ypc": 6,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kenny Jackson",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Michael Timpson",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 5,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 52,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eric Hamilton",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Brian Siverling",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dean DiMidio",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mike McCloskey",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 110,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1982 Penn State OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Bruce Clark",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tim Johnson",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 65,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Pete Curkendall",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Shane Conlan",
+            "games": 12,
+            "stats": {
+              "tackles": 115,
+              "sacks": 6,
+              "ints": 3,
+              "tfls": 16
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Trey Bauer",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Larry Station",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 75,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Penn State",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Darrell Williams",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ray Isom",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Gary Brown",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Kerry Collins",
+            "games": 12,
+            "stats": {
+              "passYds": 2679,
+              "passTDs": 21,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Zack Mills",
+            "games": 12,
+            "stats": {
+              "passYds": 1858,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Morelli",
+            "games": 13,
+            "stats": {
+              "passYds": 2147,
+              "passTDs": 15,
+              "intsSeason": 9,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Larry Johnson",
+            "games": 13,
+            "stats": {
+              "rushYds": 2087,
+              "rushTDs": 20,
+              "ypc": 6.3,
+              "recYds": 225
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tony Hunt",
+            "games": 13,
+            "stats": {
+              "rushYds": 1386,
+              "rushTDs": 14,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 74,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Austin Scott",
+            "games": 13,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Bobby Engram",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 798,
+              "recTDs": 7,
+              "yac": 252
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Deon Butler",
+            "games": 13,
+            "stats": {
+              "rec": 57,
+              "recYds": 878,
+              "recTDs": 10,
+              "yac": 278
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 126,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jordan Norwood",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Andrew Quarless",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 128,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Isaac Smolko",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mickey Shuler Jr.",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2005 Penn State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Tamba Hali",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jay Alford",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 90,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jerome Hayes",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Paul Posluszny",
+            "games": 13,
+            "stats": {
+              "tackles": 118,
+              "sacks": 4,
+              "ints": 3,
+              "tfls": 14
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 36,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dan Connor",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "butkus": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 74,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tim Shaw",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Penn State",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Alan Zemaitis",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 210,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Anwar Phillips",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Harrell",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Christian Hackenberg",
+            "games": 13,
+            "stats": {
+              "passYds": 2977,
+              "passTDs": 20,
+              "intsSeason": 7,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 51,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt McGloin",
+            "games": 13,
+            "stats": {
+              "passYds": 2861,
+              "passTDs": 24,
+              "intsSeason": 6,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Trace McSorley",
+            "games": 13,
+            "stats": {
+              "passYds": 3570,
+              "passTDs": 28,
+              "intsSeason": 10,
+              "qbr": 162,
+              "rushYds": 656,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 197,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Saquon Barkley",
+            "games": 13,
+            "stats": {
+              "rushYds": 1134,
+              "rushTDs": 18,
+              "ypc": 5.9,
+              "recYds": 632
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Miles Sanders",
+            "games": 13,
+            "stats": {
+              "rushYds": 1274,
+              "rushTDs": 9,
+              "ypc": 6.1,
+              "recYds": 139
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bill Belton",
+            "games": 13,
+            "stats": {
+              "rushYds": 858,
+              "rushTDs": 8,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Allen Robinson",
+            "games": 13,
+            "stats": {
+              "rec": 97,
+              "recYds": 1432,
+              "recTDs": 13,
+              "yac": 452
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 61,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "DaeSean Hamilton",
+            "games": 14,
+            "stats": {
+              "rec": 74,
+              "recYds": 858,
+              "recTDs": 9,
+              "yac": 272
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 113,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Godwin",
+            "games": 13,
+            "stats": {
+              "rec": 59,
+              "recYds": 982,
+              "recTDs": 7,
+              "yac": 308
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 84,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Mike Gesicki",
+            "games": 13,
+            "stats": {
+              "rec": 57,
+              "recYds": 679,
+              "recTDs": 7,
+              "yac": 238
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jesse James",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 138,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kyle Carter",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2016 Penn State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Carl Nassib",
+            "games": 13,
+            "stats": {
+              "sacks": 15.5,
+              "tfls": 18,
+              "hurries": 26,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 65,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Deion Barnes",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 99,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kevin Givens",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Brandon Bell",
+            "games": 13,
+            "stats": {
+              "tackles": 105,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 158,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jason Cabinda",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Manny Bowen",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Penn State",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Marcus Allen",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 82,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 139,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Grant Haley",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Reid",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

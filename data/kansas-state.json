@@ -1,0 +1,2285 @@
+{
+  "school": "Kansas State",
+  "eras": {
+    "70s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Steve Grogan",
+            "games": 11,
+            "stats": {
+              "passYds": 1612,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 138,
+              "rushYds": 588,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 116,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lynn Dickey",
+            "games": 11,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 16,
+              "intsSeason": 9,
+              "qbr": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Gary Spani",
+            "games": 11,
+            "stats": {
+              "passYds": 888,
+              "passTDs": 7,
+              "intsSeason": 5,
+              "qbr": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Mack Herron",
+            "games": 11,
+            "stats": {
+              "rushYds": 1066,
+              "rushTDs": 11,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Larry Brown",
+            "games": 11,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Montgomery",
+            "games": 11,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Isaac Curtis",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 6,
+              "yac": 208
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Clarence Scott",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bob Golic",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 355,
+              "recTDs": 3,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 54,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Gary Spani",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tom Dougherty",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Randy Hartfiel",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1975 Kansas State OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 20,
+              "pancakeBlocksSeason": 138,
+              "passBlockEff": 86,
+              "runBlockEff": 60
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Gary Spani",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bob Golic",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 54,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jack Vognild",
+            "games": 11,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 8,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Gary Spani",
+            "games": 11,
+            "stats": {
+              "tackles": 128,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bob Golic",
+            "games": 11,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 54,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Martin Brison",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Clarence Scott",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Kenney",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tom Dougherty",
+            "games": 11,
+            "stats": {
+              "ints": 2,
+              "pbus": 12,
+              "tackles": 45,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Carl Straw",
+            "games": 11,
+            "stats": {
+              "passYds": 1288,
+              "passTDs": 10,
+              "intsSeason": 7,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Kevin Ingram",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Paul Watson",
+            "games": 11,
+            "stats": {
+              "passYds": 1188,
+              "passTDs": 9,
+              "intsSeason": 6,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Eric Gallon",
+            "games": 11,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "David Verser",
+            "games": 11,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 6,
+              "ypc": 4.9,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 36,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Barry Word",
+            "games": 11,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 200,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "David Verser",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 36,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dennis Poppe",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darren Anderson",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 355,
+              "recTDs": 3,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Darren Davis",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tim Collie",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mike Perez",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 Kansas State OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 20,
+              "pancakeBlocksSeason": 138,
+              "passBlockEff": 86,
+              "runBlockEff": 59
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Chris White",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Nelson",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeff Robinson",
+            "games": 11,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Darren Anderson",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pat Beach",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tom Caughlin",
+            "games": 11,
+            "stats": {
+              "tackles": 72,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Darren Anderson",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Wayne Simmons",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 5,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tim Collie",
+            "games": 11,
+            "stats": {
+              "ints": 2,
+              "pbus": 11,
+              "tackles": 42,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Michael Bishop",
+            "games": 12,
+            "stats": {
+              "passYds": 2844,
+              "passTDs": 27,
+              "intsSeason": 7,
+              "qbr": 178,
+              "rushYds": 1112,
+              "rushTDs": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 227,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chad May",
+            "games": 12,
+            "stats": {
+              "passYds": 2845,
+              "passTDs": 21,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Miller",
+            "games": 12,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 16,
+              "intsSeason": 7,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Eric Hickson",
+            "games": 12,
+            "stats": {
+              "rushYds": 1266,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Allen",
+            "games": 12,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Travis Ochs",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kevin Lockett",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 91,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darnell McDonald",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Everett Burnett",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Matt Huggins",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeff Kelly",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mark Simoneau",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1998 Kansas State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Tim Collie",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Percell Gaskins",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Simoneau",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Mark Simoneau",
+            "games": 13,
+            "stats": {
+              "tackles": 128,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Travis Ochs",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Fuchs",
+            "games": 12,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Jarrod Cooper",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mario Smith",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Forbes",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Ell Roberson",
+            "games": 13,
+            "stats": {
+              "passYds": 2241,
+              "passTDs": 19,
+              "intsSeason": 7,
+              "qbr": 158,
+              "rushYds": 812,
+              "rushTDs": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 190,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dylan Meier",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Josh Freeman",
+            "games": 12,
+            "stats": {
+              "passYds": 2536,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Thomas Clayton",
+            "games": 13,
+            "stats": {
+              "rushYds": 1177,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Johnson",
+            "games": 12,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darren Sproles",
+            "games": 13,
+            "stats": {
+              "rushYds": 1986,
+              "rushTDs": 16,
+              "ypc": 6.5,
+              "recYds": 485
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jordy Nelson",
+            "games": 13,
+            "stats": {
+              "rec": 122,
+              "recYds": 1606,
+              "recTDs": 11,
+              "yac": 508
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 36,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Brandon Banks",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Yamon Figurs",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 128,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "David Martin",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 78,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Sheridan",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Michael Cooney",
+            "games": 12,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2003 Kansas State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ian Campbell",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Derrick Jones",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Reggie Walker",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jermaine Berry",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brandon Archer",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Justin Kurpeikis",
+            "games": 12,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Chris Webb",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Terence Newman",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rashaad Barker",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Collin Klein",
+            "games": 13,
+            "stats": {
+              "passYds": 2510,
+              "passTDs": 23,
+              "intsSeason": 5,
+              "qbr": 172,
+              "rushYds": 890,
+              "rushTDs": 22
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jake Waters",
+            "games": 13,
+            "stats": {
+              "passYds": 3093,
+              "passTDs": 27,
+              "intsSeason": 7,
+              "qbr": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jesse Ertz",
+            "games": 13,
+            "stats": {
+              "passYds": 2939,
+              "passTDs": 22,
+              "intsSeason": 6,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "John Hubert",
+            "games": 13,
+            "stats": {
+              "rushYds": 1012,
+              "rushTDs": 12,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Charles Jones",
+            "games": 13,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 9,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Alex Barnes",
+            "games": 13,
+            "stats": {
+              "rushYds": 1355,
+              "rushTDs": 13,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 215,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Chris Harper",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Lockett",
+            "games": 13,
+            "stats": {
+              "rec": 89,
+              "recYds": 1326,
+              "recTDs": 11,
+              "yac": 420
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 69,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Byron Pringle",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "nflDraftPick": 231,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Tramaine Thompson",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Evan Frierson",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Orion Celestin",
+            "games": 12,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2012 Kansas State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ryan Mueller",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jordan Willis",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 17,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Travis Britz",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Arthur Brown",
+            "games": 13,
+            "stats": {
+              "tackles": 122,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Elijah Lee",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 208,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Charmeachealle Moore",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Tre Walker",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Danzel McDaniel",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Morgan Burns",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Skylar Thompson",
+            "games": 12,
+            "stats": {
+              "passYds": 2186,
+              "passTDs": 16,
+              "intsSeason": 5,
+              "qbr": 152,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 237,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Will Howard",
+            "games": 13,
+            "stats": {
+              "passYds": 2949,
+              "passTDs": 24,
+              "intsSeason": 8,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Avery Johnson",
+            "games": 13,
+            "stats": {
+              "passYds": 2388,
+              "passTDs": 19,
+              "intsSeason": 7,
+              "qbr": 155,
+              "rushYds": 612,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Deuce Vaughn",
+            "games": 13,
+            "stats": {
+              "rushYds": 1404,
+              "rushTDs": 18,
+              "ypc": 5.8,
+              "recYds": 445
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 212,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "DJ Reed",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5.5,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Treshaun Ward",
+            "games": 13,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 8,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Malik Knowles",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 8,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kade Warner",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jadon Jackson",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Daniel Imatorbhebhe",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Sinnott",
+            "games": 13,
+            "stats": {
+              "rec": 32,
+              "recYds": 388,
+              "recTDs": 4,
+              "yac": 128
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Phillip Brooks",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2022 Kansas State OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 175,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Felix Anudike-Uzomah",
+            "games": 13,
+            "stats": {
+              "sacks": 12,
+              "tfls": 15,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brendan Mott",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nate Matlack",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Daniel Green",
+            "games": 14,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cody Fletcher",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Austin Moore",
+            "games": 13,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Julius Brents",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 24,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kobe Savage",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ekow Boye-Doe",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

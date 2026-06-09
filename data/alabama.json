@@ -1,0 +1,2423 @@
+{
+  "school": "Alabama",
+  "eras": {
+    "10s": {
+      "QB": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "AJ McCarron",
+            "games": 14,
+            "stats": {
+              "passYds": 2993,
+              "passTDs": 30,
+              "intsSeason": 7,
+              "qbr": 175
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 164,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tua Tagovailoa",
+            "games": 15,
+            "stats": {
+              "passYds": 2840,
+              "passTDs": 43,
+              "intsSeason": 6,
+              "qbr": 199
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jalen Hurts",
+            "games": 15,
+            "stats": {
+              "passYds": 1953,
+              "passTDs": 23,
+              "intsSeason": 6,
+              "qbr": 163,
+              "rushYds": 855,
+              "rushTDs": 12
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Derrick Henry",
+            "games": 15,
+            "stats": {
+              "rushYds": 1986,
+              "rushTDs": 28,
+              "ypc": 5.8,
+              "recYds": 135
+            },
+            "bonuses": {
+              "heisman": true,
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 45,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mark Ingram",
+            "games": 14,
+            "stats": {
+              "rushYds": 1658,
+              "rushTDs": 17,
+              "ypc": 6.1,
+              "recYds": 210
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Trent Richardson",
+            "games": 14,
+            "stats": {
+              "rushYds": 1679,
+              "rushTDs": 21,
+              "ypc": 5.9,
+              "recYds": 266
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "DeVonta Smith",
+            "games": 13,
+            "stats": {
+              "rec": 117,
+              "recYds": 1856,
+              "recTDs": 23,
+              "yac": 585
+            },
+            "bonuses": {
+              "heisman": true,
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Amari Cooper",
+            "games": 14,
+            "stats": {
+              "rec": 124,
+              "recYds": 1727,
+              "recTDs": 16,
+              "yac": 532
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Julio Jones",
+            "games": 14,
+            "stats": {
+              "rec": 78,
+              "recYds": 1133,
+              "recTDs": 7,
+              "yac": 392
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 6,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "O.J. Howard",
+            "games": 14,
+            "stats": {
+              "rec": 45,
+              "recYds": 595,
+              "recTDs": 7,
+              "yac": 220
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Irv Smith Jr.",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 710,
+              "recTDs": 7,
+              "yac": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brian Vogler",
+            "games": 14,
+            "stats": {
+              "recYds": 245,
+              "recTDs": 3,
+              "rec": 18,
+              "yac": 60
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2012-15 Alabama OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 195,
+              "passBlockEff": 93,
+              "runBlockEff": 74
+            },
+            "bonuses": {
+              "outland": true,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Quinnen Williams",
+            "games": 15,
+            "stats": {
+              "sacks": 8,
+              "tfls": 19.5,
+              "hurries": 37,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jonathan Allen",
+            "games": 15,
+            "stats": {
+              "sacks": 10.5,
+              "tfls": 15,
+              "hurries": 30,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "lombardiAward": true,
+              "outland": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 17,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marcell Dareus",
+            "games": 14,
+            "stats": {
+              "sacks": 5.5,
+              "tfls": 10,
+              "hurries": 21,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nagurski": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Dont'a Hightower",
+            "games": 14,
+            "stats": {
+              "tackles": 123,
+              "sacks": 10,
+              "ints": 1,
+              "tfls": 25
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "C.J. Mosley",
+            "games": 14,
+            "stats": {
+              "tackles": 100,
+              "sacks": 1,
+              "ints": 2,
+              "tfls": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Reuben Foster",
+            "games": 11,
+            "stats": {
+              "tackles": 67,
+              "sacks": 2,
+              "ints": 0,
+              "tfls": 9
+            },
+            "bonuses": {
+              "butkus": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Alabama",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Minkah Fitzpatrick",
+            "games": 15,
+            "stats": {
+              "ints": 3,
+              "pbus": 11,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "nagurski": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 11,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ha Ha Clinton-Dix",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 20,
+              "tackles": 75,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dre Kirkpatrick",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 31,
+              "tackles": 53,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Richard Todd",
+            "games": 11,
+            "stats": {
+              "passYds": 1227,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 138,
+              "rushYds": 388,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 6,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Gary Rutledge",
+            "games": 11,
+            "stats": {
+              "passYds": 790,
+              "passTDs": 8,
+              "intsSeason": 4,
+              "qbr": 128,
+              "rushYds": 312,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeff Rutledge",
+            "games": 12,
+            "stats": {
+              "passYds": 1148,
+              "passTDs": 10,
+              "intsSeason": 6,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 192,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Johnny Musso",
+            "games": 11,
+            "stats": {
+              "rushYds": 1088,
+              "rushTDs": 12,
+              "ypc": 5.3,
+              "recYds": 88
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 65,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tony Nathan",
+            "games": 12,
+            "stats": {
+              "rushYds": 899,
+              "rushTDs": 9,
+              "ypc": 5.6,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Willie Shelby",
+            "games": 12,
+            "stats": {
+              "rushYds": 768,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Wayne Wheeler",
+            "games": 11,
+            "stats": {
+              "rec": 34,
+              "recYds": 510,
+              "recTDs": 4,
+              "yac": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 105,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bill Davis",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 388,
+              "recTDs": 3,
+              "yac": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Bruce Bolton",
+            "games": 11,
+            "stats": {
+              "recYds": 472,
+              "recTDs": 4,
+              "rec": 28,
+              "yac": 110
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ozzie Newsome",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 858,
+              "recTDs": 7,
+              "yac": 268
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 23,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jim Bunch",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 2,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Buddy Brown",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1973-79 Alabama OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 12,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 76
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Marty Lyons",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bob Baumhower",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Wayne Hamilton",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Woodrow Lowe",
+            "games": 11,
+            "stats": {
+              "tackles": 118,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 59,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Barry Krauss",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 6,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rickey Gilliard",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Alabama",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Don McNeal",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Washington",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 52,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ricky Tucker",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Walter Lewis",
+            "games": 12,
+            "stats": {
+              "passYds": 1582,
+              "passTDs": 12,
+              "intsSeason": 7,
+              "qbr": 138,
+              "rushYds": 445,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 159,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Shula",
+            "games": 11,
+            "stats": {
+              "passYds": 1388,
+              "passTDs": 10,
+              "intsSeason": 8,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Vince Sutton",
+            "games": 11,
+            "stats": {
+              "passYds": 988,
+              "passTDs": 7,
+              "intsSeason": 6,
+              "qbr": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Bobby Humphrey",
+            "games": 12,
+            "stats": {
+              "rushYds": 1471,
+              "rushTDs": 12,
+              "ypc": 6.1,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Gene Jelks",
+            "games": 12,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 9,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kerry Goode",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Al Bell",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 688,
+              "recTDs": 6,
+              "yac": 218
+            },
+            "bonuses": {
+              "nflDraftPick": 90,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Greg Richardson",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 4,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 148,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Clay Whitehurst",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 422,
+              "recTDs": 3,
+              "yac": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Howard Cross",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 342,
+              "recTDs": 4,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 64,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bart Krout",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 2,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mickey Cobb",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1986 Alabama OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 158,
+              "passBlockEff": 89,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jon Hand",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Curt Jarvis",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 148,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Thomas Rayam",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Cornelius Bennett",
+            "games": 12,
+            "stats": {
+              "tackles": 97,
+              "sacks": 16,
+              "ints": 1,
+              "tfls": 24
+            },
+            "bonuses": {
+              "butkus": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Derrick Thomas",
+            "games": 12,
+            "stats": {
+              "tackles": 78,
+              "sacks": 18,
+              "ints": 1,
+              "tfls": 22
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Emanuel King",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 7,
+              "ints": 1,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Alabama",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Antonio London",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 92,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Randy Edwards",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kermit Kendrick",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jay Barker",
+            "games": 13,
+            "stats": {
+              "passYds": 1905,
+              "passTDs": 14,
+              "intsSeason": 5,
+              "qbr": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 180,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Andrew Zow",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Freddie Kitchens",
+            "games": 11,
+            "stats": {
+              "passYds": 1568,
+              "passTDs": 11,
+              "intsSeason": 6,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Shaun Alexander",
+            "games": 12,
+            "stats": {
+              "rushYds": 1383,
+              "rushTDs": 19,
+              "ypc": 5.5,
+              "recYds": 218
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Sherman Williams",
+            "games": 13,
+            "stats": {
+              "rushYds": 1165,
+              "rushTDs": 12,
+              "ypc": 5.4,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 68,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dennis Riddle",
+            "games": 12,
+            "stats": {
+              "rushYds": 958,
+              "rushTDs": 10,
+              "ypc": 5.1,
+              "recYds": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Vaughn",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 768,
+              "recTDs": 6,
+              "yac": 242
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dabo Swinney",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 545,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "David Palmer",
+            "games": 11,
+            "stats": {
+              "recYds": 1000,
+              "recTDs": 7,
+              "rec": 61,
+              "yac": 350
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 40,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Marco Battle",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jarret Johnson",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 168,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tim Irvin",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1992-94 Alabama OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "John Copeland",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 7,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eric Curry",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 6,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Michael Myers",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 128,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Lemanski Hall",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dwayne Rudd",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Michael Rogers",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Alabama",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Antonio Langham",
+            "games": 13,
+            "stats": {
+              "ints": 7,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 9,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tommy Johnson",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 75,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Donnelly",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 128,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Brodie Croyle",
+            "games": 12,
+            "stats": {
+              "passYds": 2457,
+              "passTDs": 19,
+              "intsSeason": 8,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 86,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Parker Wilson",
+            "games": 14,
+            "stats": {
+              "passYds": 2412,
+              "passTDs": 17,
+              "intsSeason": 9,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Greg McElroy",
+            "games": 14,
+            "stats": {
+              "passYds": 2408,
+              "passTDs": 20,
+              "intsSeason": 5,
+              "qbr": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 194,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Mark Ingram",
+            "games": 14,
+            "stats": {
+              "rushYds": 1658,
+              "rushTDs": 17,
+              "ypc": 6.1,
+              "recYds": 210
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Glen Coffee",
+            "games": 12,
+            "stats": {
+              "rushYds": 1383,
+              "rushTDs": 9,
+              "ypc": 5.6,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 74,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Roy Upchurch",
+            "games": 14,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 10,
+              "ypc": 5.2,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "D.J. Hall",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 828,
+              "recTDs": 7,
+              "yac": 258
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 148,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Julio Jones",
+            "games": 13,
+            "stats": {
+              "rec": 58,
+              "recYds": 924,
+              "recTDs": 4,
+              "yac": 288
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 6,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darius Hanks",
+            "games": 14,
+            "stats": {
+              "rec": 48,
+              "recYds": 688,
+              "recTDs": 5,
+              "yac": 215
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Colin Peek",
+            "games": 14,
+            "stats": {
+              "rec": 26,
+              "recYds": 318,
+              "recTDs": 4,
+              "yac": 105
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Travis McCall",
+            "games": 12,
+            "stats": {
+              "rec": 20,
+              "recYds": 242,
+              "recTDs": 2,
+              "yac": 78
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Brad Smelley",
+            "games": 14,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2009 Alabama OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 185,
+              "passBlockEff": 92,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Marcell Dareus",
+            "games": 14,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nagurski": true,
+              "nflDraftPick": 3,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Terrence Cody",
+            "games": 14,
+            "stats": {
+              "sacks": 3,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 57,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brandon Deaderick",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 62,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Rolando McClain",
+            "games": 14,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dont'a Hightower",
+            "games": 14,
+            "stats": {
+              "tackles": 98,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cory Reamer",
+            "games": 14,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Alabama",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Kareem Jackson",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 26,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Javier Arenas",
+            "games": 14,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Barron",
+            "games": 14,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 68,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Bryce Young",
+            "games": 15,
+            "stats": {
+              "passYds": 4872,
+              "passTDs": 47,
+              "intsSeason": 7,
+              "qbr": 199
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 1,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tua Tagovailoa",
+            "games": 15,
+            "stats": {
+              "passYds": 2840,
+              "passTDs": 43,
+              "intsSeason": 6,
+              "qbr": 199
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jalen Milroe",
+            "games": 14,
+            "stats": {
+              "passYds": 2839,
+              "passTDs": 23,
+              "intsSeason": 7,
+              "qbr": 158,
+              "rushYds": 754,
+              "rushTDs": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 92,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Najee Harris",
+            "games": 13,
+            "stats": {
+              "rushYds": 1466,
+              "rushTDs": 26,
+              "ypc": 5.9,
+              "recYds": 467
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 24,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jahmyr Gibbs",
+            "games": 14,
+            "stats": {
+              "rushYds": 926,
+              "rushTDs": 7,
+              "ypc": 5.8,
+              "recYds": 444
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Roydell Williams",
+            "games": 14,
+            "stats": {
+              "rushYds": 1167,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 122,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "DeVonta Smith",
+            "games": 13,
+            "stats": {
+              "rec": 117,
+              "recYds": 1856,
+              "recTDs": 23,
+              "yac": 585
+            },
+            "bonuses": {
+              "heisman": true,
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jameson Williams",
+            "games": 13,
+            "stats": {
+              "rec": 79,
+              "recYds": 1572,
+              "recTDs": 15,
+              "yac": 488
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John Metchie III",
+            "games": 15,
+            "stats": {
+              "rec": 96,
+              "recYds": 1142,
+              "recTDs": 8,
+              "yac": 355
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Cam Latu",
+            "games": 14,
+            "stats": {
+              "rec": 38,
+              "recYds": 478,
+              "recTDs": 7,
+              "yac": 168
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jahleel Billingsley",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 365,
+              "recTDs": 4,
+              "yac": 125
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kyle Pettway",
+            "games": 14,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2021 Alabama OL",
+            "games": 15,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 192,
+              "passBlockEff": 93,
+              "runBlockEff": 73
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Byron Young",
+            "games": 14,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Justin Eboigbe",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Christian Barmore",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 9.5,
+              "hurries": 18,
+              "ff": 3,
+              "tackles": 37
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Will Anderson Jr.",
+            "games": 15,
+            "stats": {
+              "tackles": 82,
+              "sacks": 17,
+              "ints": 0,
+              "tfls": 24
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dallas Turner",
+            "games": 14,
+            "stats": {
+              "tackles": 58,
+              "sacks": 10,
+              "ints": 0,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Christian Harris",
+            "games": 14,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 75,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Alabama",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Patrick Surtain II",
+            "games": 14,
+            "stats": {
+              "ints": 3,
+              "pbus": 22,
+              "tackles": 44,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jordan Battle",
+            "games": 15,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 78,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Malachi Moore",
+            "games": 14,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

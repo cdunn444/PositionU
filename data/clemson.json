@@ -1,0 +1,2346 @@
+{
+  "school": "Clemson",
+  "eras": {
+    "10s": {
+      "QB": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Deshaun Watson",
+            "games": 15,
+            "stats": {
+              "passYds": 4593,
+              "passTDs": 41,
+              "intsSeason": 17,
+              "qbr": 175,
+              "rushYds": 629,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 12,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Trevor Lawrence",
+            "games": 15,
+            "stats": {
+              "passYds": 3153,
+              "passTDs": 24,
+              "intsSeason": 5,
+              "qbr": 182
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kelly Bryant",
+            "games": 13,
+            "stats": {
+              "passYds": 2802,
+              "passTDs": 13,
+              "intsSeason": 6,
+              "qbr": 148,
+              "rushYds": 665,
+              "rushTDs": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 230,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Travis Etienne",
+            "games": 15,
+            "stats": {
+              "rushYds": 1658,
+              "rushTDs": 24,
+              "ypc": 8,
+              "recYds": 432
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Wayne Gallman",
+            "games": 14,
+            "stats": {
+              "rushYds": 1527,
+              "rushTDs": 16,
+              "ypc": 5.2,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 140,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "C.J. Fuller",
+            "games": 13,
+            "stats": {
+              "rushYds": 701,
+              "rushTDs": 8,
+              "ypc": 5.5,
+              "recYds": 124
+            },
+            "bonuses": {
+              "nflDraftPick": 235,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "DeAndre Hopkins",
+            "games": 14,
+            "stats": {
+              "rec": 82,
+              "recYds": 1405,
+              "recTDs": 18,
+              "yac": 455
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Sammy Watkins",
+            "games": 14,
+            "stats": {
+              "rec": 101,
+              "recYds": 1464,
+              "recTDs": 12,
+              "yac": 478
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tee Higgins",
+            "games": 12,
+            "stats": {
+              "rec": 59,
+              "recYds": 1167,
+              "recTDs": 13,
+              "yac": 385
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 33,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jordan Leggett",
+            "games": 14,
+            "stats": {
+              "rec": 39,
+              "recYds": 544,
+              "recTDs": 8,
+              "yac": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 150,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dwayne Allen",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 598,
+              "recTDs": 8,
+              "yac": 198
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 64,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Stanton Seckinger",
+            "games": 13,
+            "stats": {
+              "recYds": 425,
+              "recTDs": 5,
+              "rec": 32,
+              "yac": 105
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2018 Clemson OL",
+            "games": 15,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 182,
+              "passBlockEff": 93,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Christian Wilkins",
+            "games": 15,
+            "stats": {
+              "sacks": 9,
+              "tfls": 17,
+              "hurries": 22,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 13,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Clelin Ferrell",
+            "games": 15,
+            "stats": {
+              "sacks": 11.5,
+              "tfls": 17,
+              "hurries": 26,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dexter Lawrence",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 10,
+              "hurries": 16,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Isaiah Simmons",
+            "games": 15,
+            "stats": {
+              "tackles": 104,
+              "sacks": 8,
+              "ints": 3,
+              "tfls": 16
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Shaq Lawson",
+            "games": 14,
+            "stats": {
+              "tackles": 62,
+              "sacks": 12,
+              "ints": 0,
+              "tfls": 18
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dorian O'Daniel",
+            "games": 15,
+            "stats": {
+              "tackles": 88,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 105,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Clemson",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Trayvon Mullen",
+            "games": 15,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 44,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mackensie Alexander",
+            "games": 14,
+            "stats": {
+              "ints": 1,
+              "pbus": 32,
+              "tackles": 38,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 54,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Adrian Baker",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Steve Fuller",
+            "games": 11,
+            "stats": {
+              "passYds": 1517,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138,
+              "rushYds": 512,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike O'Cain",
+            "games": 11,
+            "stats": {
+              "passYds": 892,
+              "passTDs": 7,
+              "intsSeason": 5,
+              "qbr": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mark Fellers",
+            "games": 11,
+            "stats": {
+              "passYds": 1450,
+              "passTDs": 10,
+              "intsSeason": 9,
+              "qbr": 118
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Lester Brown",
+            "games": 11,
+            "stats": {
+              "rushYds": 1022,
+              "rushTDs": 11,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chuck McSwain",
+            "games": 11,
+            "stats": {
+              "rushYds": 852,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Marvin Sims",
+            "games": 11,
+            "stats": {
+              "rushYds": 722,
+              "rushTDs": 7,
+              "ypc": 4.8,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 130,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jerry Butler",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 698,
+              "recTDs": 6,
+              "yac": 222
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dwight Clark",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 412,
+              "recTDs": 4,
+              "yac": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 212,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joey Walters",
+            "games": 11,
+            "stats": {
+              "recYds": 822,
+              "recTDs": 6,
+              "rec": 52,
+              "yac": 220
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Tim Brown",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Bennie Cunningham",
+            "games": 11,
+            "stats": {
+              "recYds": 1044,
+              "recTDs": 11,
+              "rec": 64,
+              "yac": 270
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lin Dawson",
+            "games": 11,
+            "stats": {
+              "recYds": 425,
+              "recTDs": 4,
+              "rec": 28,
+              "yac": 95
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1981 Clemson OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 90,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jim Stuckey",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "William Perry",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 22,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dan Benish",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 28,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jeff Davis",
+            "games": 11,
+            "stats": {
+              "tackles": 115,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 150,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bubba Brown",
+            "games": 11,
+            "stats": {
+              "tackles": 98,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Andy Headen",
+            "games": 11,
+            "stats": {
+              "tackles": 85,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Clemson",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Terry Kinard",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 26,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rex Varn",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 56,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Billy Davis",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Homer Jordan",
+            "games": 12,
+            "stats": {
+              "passYds": 1630,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 142,
+              "rushYds": 388,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rodney Williams",
+            "games": 12,
+            "stats": {
+              "passYds": 1665,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 138,
+              "rushYds": 445,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Randy Anderson",
+            "games": 11,
+            "stats": {
+              "passYds": 1288,
+              "passTDs": 10,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Kenny Flowers",
+            "games": 12,
+            "stats": {
+              "rushYds": 935,
+              "rushTDs": 9,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Terry Allen",
+            "games": 11,
+            "stats": {
+              "rushYds": 1088,
+              "rushTDs": 11,
+              "ypc": 5.4,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 170,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Stacy Driver",
+            "games": 11,
+            "stats": {
+              "rushYds": 768,
+              "rushTDs": 7,
+              "ypc": 4.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 150,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Mark Dixon",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ray Williams",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Perry Tuttle",
+            "games": 11,
+            "stats": {
+              "recYds": 1395,
+              "recTDs": 14,
+              "rec": 88,
+              "yac": 380
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 19,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jim Riggs",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 58,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pat Carter",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 215,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jay Richardson",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 Clemson OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 89,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "William Perry",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 22,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Michael Dean Perry",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 14,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dan Benish",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "tackles": 58
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jeff Davis",
+            "games": 11,
+            "stats": {
+              "tackles": 115,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 150,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Henry Walls",
+            "games": 11,
+            "stats": {
+              "tackles": 92,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Keith Williams",
+            "games": 11,
+            "stats": {
+              "tackles": 85,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Clemson",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Terry Kinard",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 26,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Lott",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Robert O'Neal",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 17,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Nealon Greene",
+            "games": 12,
+            "stats": {
+              "passYds": 2022,
+              "passTDs": 16,
+              "intsSeason": 8,
+              "qbr": 138,
+              "rushYds": 488,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Patrick Sapp",
+            "games": 11,
+            "stats": {
+              "passYds": 1788,
+              "passTDs": 14,
+              "intsSeason": 9,
+              "qbr": 132,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brandon Streeter",
+            "games": 11,
+            "stats": {
+              "passYds": 1655,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Raymond Priester",
+            "games": 11,
+            "stats": {
+              "rushYds": 1345,
+              "rushTDs": 11,
+              "ypc": 5.6,
+              "recYds": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Emory Smith",
+            "games": 12,
+            "stats": {
+              "rushYds": 992,
+              "rushTDs": 9,
+              "ypc": 5.1,
+              "recYds": 135
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Travis Zachery",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Andre Humphrey",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rick Stockstill",
+            "games": 11,
+            "stats": {
+              "rec": 36,
+              "recYds": 522,
+              "recTDs": 4,
+              "yac": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Chanel Williams",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 445,
+              "recTDs": 3,
+              "yac": 140
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Brian Wofford",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Glenn Rountree",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tony Hartley",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 240,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1998 Clemson OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 148,
+              "passBlockEff": 88,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Chester McGlockton",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Trevor Pryce",
+            "games": 11,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 17,
+              "ff": 2,
+              "tackles": 60
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Raymond White",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
+              "tackles": 55
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Anthony Simmons",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "butkus": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Levon Kirkland",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 7,
+              "ints": 1,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ed McDaniel",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 5,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 92,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Clemson",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Brian Dawkins",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 62,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 61,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dexter McCleon",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 45,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Robert Carswell",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 11,
+              "tackles": 68,
+              "ff": 2,
+              "coverageGrade": "A-"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Charlie Whitehurst",
+            "games": 13,
+            "stats": {
+              "passYds": 3561,
+              "passTDs": 24,
+              "intsSeason": 12,
+              "qbr": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 81,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cullen Harper",
+            "games": 13,
+            "stats": {
+              "passYds": 2922,
+              "passTDs": 26,
+              "intsSeason": 9,
+              "qbr": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Will Proctor",
+            "games": 12,
+            "stats": {
+              "passYds": 2568,
+              "passTDs": 19,
+              "intsSeason": 10,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "C.J. Spiller",
+            "games": 13,
+            "stats": {
+              "rushYds": 1212,
+              "rushTDs": 11,
+              "ypc": 6.8,
+              "recYds": 342
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Davis",
+            "games": 13,
+            "stats": {
+              "rushYds": 1129,
+              "rushTDs": 12,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 141,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jad Dean",
+            "games": 12,
+            "stats": {
+              "rushYds": 768,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Aaron Kelly",
+            "games": 13,
+            "stats": {
+              "rec": 78,
+              "recYds": 1081,
+              "recTDs": 10,
+              "yac": 335
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 196,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Xavier Dye",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 742,
+              "recTDs": 6,
+              "yac": 232
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Grisham",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 608,
+              "recTDs": 5,
+              "yac": 190
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Daniel Albright",
+            "games": 13,
+            "stats": {
+              "rec": 20,
+              "recYds": 242,
+              "recTDs": 3,
+              "yac": 78
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Michael Palmer",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Thomas Hunter",
+            "games": 12,
+            "stats": {
+              "recYds": 285,
+              "recTDs": 3,
+              "rec": 22,
+              "yac": 65
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2009 Clemson OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 160,
+              "passBlockEff": 90,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Da'Quan Bowers",
+            "games": 13,
+            "stats": {
+              "sacks": 15.5,
+              "tfls": 22,
+              "hurries": 28,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 51,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Gaines Adams",
+            "games": 13,
+            "stats": {
+              "sacks": 12,
+              "tfls": 16,
+              "hurries": 24,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Ricky Sapp",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Spencer Bockwoldt",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Waters",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tramaine Billie",
+            "games": 12,
+            "stats": {
+              "tackles": 85,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Clemson",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Justin Miller",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Michael Hamlin",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chris Chancellor",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 148,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Trevor Lawrence",
+            "games": 11,
+            "stats": {
+              "passYds": 3153,
+              "passTDs": 24,
+              "intsSeason": 5,
+              "qbr": 182
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cade Klubnik",
+            "games": 14,
+            "stats": {
+              "passYds": 3639,
+              "passTDs": 36,
+              "intsSeason": 9,
+              "qbr": 168
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 24,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "D.J. Uiagalelei",
+            "games": 13,
+            "stats": {
+              "passYds": 2902,
+              "passTDs": 24,
+              "intsSeason": 11,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 65,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Travis Etienne",
+            "games": 15,
+            "stats": {
+              "rushYds": 1658,
+              "rushTDs": 24,
+              "ypc": 8,
+              "recYds": 432
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Will Shipley",
+            "games": 13,
+            "stats": {
+              "rushYds": 1182,
+              "rushTDs": 13,
+              "ypc": 5.8,
+              "recYds": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 37,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Phil Mafah",
+            "games": 14,
+            "stats": {
+              "rushYds": 1345,
+              "rushTDs": 15,
+              "ypc": 6.1,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 188,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Justyn Ross",
+            "games": 11,
+            "stats": {
+              "rec": 46,
+              "recYds": 712,
+              "recTDs": 8,
+              "yac": 225
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 195,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Antonio Williams",
+            "games": 13,
+            "stats": {
+              "rec": 42,
+              "recYds": 618,
+              "recTDs": 5,
+              "yac": 195
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joseph Ngata",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Davis Allen",
+            "games": 14,
+            "stats": {
+              "rec": 42,
+              "recYds": 544,
+              "recTDs": 6,
+              "yac": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 105,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jake Briningstool",
+            "games": 13,
+            "stats": {
+              "rec": 35,
+              "recYds": 445,
+              "recTDs": 5,
+              "yac": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 65,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sage Ennis",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2020 Clemson OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 175,
+              "passBlockEff": 92,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Myles Murphy",
+            "games": 14,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bryan Bresee",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 10,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Xavier Thomas",
+            "games": 13,
+            "stats": {
+              "sacks": 7.5,
+              "tfls": 11,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Trenton Simpson",
+            "games": 14,
+            "stats": {
+              "tackles": 78,
+              "sacks": 5,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 80,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Barrett Carter",
+            "games": 14,
+            "stats": {
+              "tackles": 92,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 114,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "James Skalski",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Clemson",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "A.J. Terrell",
+            "games": 15,
+            "stats": {
+              "ints": 3,
+              "pbus": 24,
+              "tackles": 44,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 16,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Andrew Mukuba",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mario Goodrich",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

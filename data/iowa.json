@@ -1,0 +1,2256 @@
+{
+  "school": "Iowa",
+  "eras": {
+    "00s": {
+      "QB": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Brad Banks",
+            "games": 13,
+            "stats": {
+              "passYds": 2508,
+              "passTDs": 26,
+              "intsSeason": 6,
+              "qbr": 162,
+              "rushYds": 336,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Drew Tate",
+            "games": 13,
+            "stats": {
+              "passYds": 2527,
+              "passTDs": 21,
+              "intsSeason": 8,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 105,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chuck Long",
+            "games": 12,
+            "stats": {
+              "passYds": 2978,
+              "passTDs": 27,
+              "intsSeason": 8,
+              "qbr": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Albert Young",
+            "games": 13,
+            "stats": {
+              "rushYds": 1021,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 144
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Shonn Greene",
+            "games": 13,
+            "stats": {
+              "rushYds": 1850,
+              "rushTDs": 20,
+              "ypc": 5.7,
+              "recYds": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 67,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Fred Russell",
+            "games": 12,
+            "stats": {
+              "rushYds": 868,
+              "rushTDs": 7,
+              "ypc": 5.5,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Ed Hinkel",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 698,
+              "recTDs": 6,
+              "yac": 222
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Clinton Solomon",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 566,
+              "recTDs": 4,
+              "yac": 180
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Dallas Clark",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 742,
+              "recTDs": 6,
+              "yac": 265
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 24,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tony Moeaki",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 552,
+              "recTDs": 5,
+              "yac": 192
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 93,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2002 Iowa OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 92,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "outland": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jared DeVries",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 79,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Roth",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tyler Luber",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Abdul Hodge",
+            "games": 13,
+            "stats": {
+              "tackles": 118,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 67,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chad Greenway",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kevin Worthy",
+            "games": 13,
+            "stats": {
+              "tackles": 102,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Iowa",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Bob Sanders",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 30,
+              "tackles": 82,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Antwan Allen",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jovon Johnson",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Ricky Stanzi",
+            "games": 13,
+            "stats": {
+              "passYds": 2503,
+              "passTDs": 18,
+              "intsSeason": 7,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "James Vandenberg",
+            "games": 13,
+            "stats": {
+              "passYds": 2557,
+              "passTDs": 21,
+              "intsSeason": 10,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Nate Stanley",
+            "games": 13,
+            "stats": {
+              "passYds": 2514,
+              "passTDs": 19,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 193,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Akrum Wadley",
+            "games": 13,
+            "stats": {
+              "rushYds": 1081,
+              "rushTDs": 10,
+              "ypc": 5.9,
+              "recYds": 255
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jordan Canzeri",
+            "games": 10,
+            "stats": {
+              "rushYds": 745,
+              "rushTDs": 8,
+              "ypc": 6.2,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Shonn Greene",
+            "games": 13,
+            "stats": {
+              "rushYds": 1850,
+              "rushTDs": 20,
+              "ypc": 5.7,
+              "recYds": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 67,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Keenan Davis",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 526,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Brandon Myers",
+            "games": 13,
+            "stats": {
+              "rec": 36,
+              "recYds": 488,
+              "recTDs": 3,
+              "yac": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "T.J. Hockenson",
+            "games": 13,
+            "stats": {
+              "rec": 49,
+              "recYds": 760,
+              "recTDs": 6,
+              "yac": 272
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Noah Fant",
+            "games": 13,
+            "stats": {
+              "rec": 39,
+              "recYds": 519,
+              "recTDs": 7,
+              "yac": 192
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "George Kittle",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 314,
+              "recTDs": 2,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 146,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2015 Iowa OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 91,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Carl Davis",
+            "games": 14,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 77,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jaleel Johnson",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Anthony Nelson",
+            "games": 14,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Josey Jewell",
+            "games": 13,
+            "stats": {
+              "tackles": 128,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 112,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ben Niemann",
+            "games": 14,
+            "stats": {
+              "tackles": 102,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bo Bower",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Iowa",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Desmond King",
+            "games": 14,
+            "stats": {
+              "ints": 8,
+              "pbus": 34,
+              "tackles": 60,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 151,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Josh Jackson",
+            "games": 14,
+            "stats": {
+              "ints": 8,
+              "pbus": 22,
+              "tackles": 48,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Amani Hooker",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 119,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Randy Duncan",
+            "games": 10,
+            "stats": {
+              "passYds": 1397,
+              "passTDs": 11,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chuck Long",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tom McLaughlin",
+            "games": 10,
+            "stats": {
+              "passYds": 788,
+              "passTDs": 6,
+              "intsSeason": 5,
+              "qbr": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ronnie Harmon",
+            "games": 11,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 345
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eddie Vincent",
+            "games": 10,
+            "stats": {
+              "rushYds": 688,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Hughes",
+            "games": 10,
+            "stats": {
+              "rushYds": 612,
+              "rushTDs": 5,
+              "ypc": 4.5,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Keith Krepfle",
+            "games": 10,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 180
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Gene Washington",
+            "games": 10,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bill Schultz",
+            "games": 10,
+            "stats": {
+              "rec": 28,
+              "recYds": 415,
+              "recTDs": 3,
+              "yac": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jim Jensen",
+            "games": 10,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Ed Donovan",
+            "games": 10,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Dave Moritz",
+            "games": 10,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1985 Iowa OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 90,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Andre Tippett",
+            "games": 11,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mark Thomas",
+            "games": 10,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Leroy Smith",
+            "games": 10,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Andre Tippett",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 8,
+              "ints": 1,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Larry Station",
+            "games": 11,
+            "stats": {
+              "tackles": 112,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 75,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Karl Kramer",
+            "games": 10,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Iowa",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Craig Clemons",
+            "games": 10,
+            "stats": {
+              "ints": 6,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dave Browning",
+            "games": 10,
+            "stats": {
+              "ints": 5,
+              "pbus": 20,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 95,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Reilly",
+            "games": 10,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Chuck Long",
+            "games": 12,
+            "stats": {
+              "passYds": 2978,
+              "passTDs": 27,
+              "intsSeason": 8,
+              "qbr": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mark Vlasic",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 178,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tom Nichol",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ronnie Harmon",
+            "games": 12,
+            "stats": {
+              "rushYds": 1012,
+              "rushTDs": 9,
+              "ypc": 5.5,
+              "recYds": 388
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Hudson",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Marv Cook",
+            "games": 11,
+            "stats": {
+              "rushYds": 488,
+              "rushTDs": 4,
+              "ypc": 4.5,
+              "recYds": 412
+            },
+            "bonuses": {
+              "nflDraftPick": 65,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Bill Happel",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 612,
+              "recTDs": 5,
+              "yac": 192
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Quinn Early",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 64,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Helverson",
+            "games": 11,
+            "stats": {
+              "rec": 35,
+              "recYds": 515,
+              "recTDs": 4,
+              "yac": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Marv Cook",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 458,
+              "recTDs": 5,
+              "yac": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 65,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Flagge",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Richard Bass",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1985 Iowa OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Andre Tippett",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Wells",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 108,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Leroy Smith",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Larry Station",
+            "games": 12,
+            "stats": {
+              "tackles": 122,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 16
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 75,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "George Davis",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kevin Spann",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Iowa",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Craig Clemons",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 24,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Devon Mitchell",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 20,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 48,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nate Creer",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Matt Sherman",
+            "games": 12,
+            "stats": {
+              "passYds": 2288,
+              "passTDs": 18,
+              "intsSeason": 9,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Paul Burmeister",
+            "games": 11,
+            "stats": {
+              "passYds": 1788,
+              "passTDs": 14,
+              "intsSeason": 8,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tim Dwight",
+            "games": 11,
+            "stats": {
+              "passYds": 488,
+              "passTDs": 4,
+              "intsSeason": 3,
+              "qbr": 125,
+              "rushYds": 612,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 114,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Tavian Banks",
+            "games": 12,
+            "stats": {
+              "rushYds": 1415,
+              "rushTDs": 16,
+              "ypc": 6.2,
+              "recYds": 175
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 73,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Sedrick Shaw",
+            "games": 12,
+            "stats": {
+              "rushYds": 1477,
+              "rushTDs": 14,
+              "ypc": 5.6,
+              "recYds": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Saunders",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Tim Dwight",
+            "games": 11,
+            "stats": {
+              "rec": 55,
+              "recYds": 832,
+              "recTDs": 8,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 114,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Demo Odems",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 608,
+              "recTDs": 5,
+              "yac": 192
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tony Collins",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 468,
+              "recTDs": 4,
+              "yac": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Scott Slutzker",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 362,
+              "recTDs": 4,
+              "yac": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 90,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Dean",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Damon Gibson",
+            "games": 11,
+            "stats": {
+              "rec": 15,
+              "recYds": 178,
+              "recTDs": 2,
+              "yac": 56
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1997 Iowa OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 160,
+              "passBlockEff": 89,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jared DeVries",
+            "games": 11,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 79,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "LeVar Woods",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ron Geater",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "LeVar Woods",
+            "games": 12,
+            "stats": {
+              "tackles": 118,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Matt Hughes",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dustin Lyman",
+            "games": 11,
+            "stats": {
+              "tackles": 85,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 160,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Iowa",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Tim Dwight",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 114,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kerry Cooks",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lenny Letter",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Spencer Petras",
+            "games": 12,
+            "stats": {
+              "passYds": 2086,
+              "passTDs": 14,
+              "intsSeason": 9,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Cade McNamara",
+            "games": 12,
+            "stats": {
+              "passYds": 2278,
+              "passTDs": 16,
+              "intsSeason": 6,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nate Stanley",
+            "games": 13,
+            "stats": {
+              "passYds": 2514,
+              "passTDs": 19,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 193,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Gavin Williams",
+            "games": 13,
+            "stats": {
+              "rushYds": 1144,
+              "rushTDs": 13,
+              "ypc": 5.9,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tyler Goodson",
+            "games": 12,
+            "stats": {
+              "rushYds": 958,
+              "rushTDs": 9,
+              "ypc": 5.5,
+              "recYds": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Leshon Williams",
+            "games": 12,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Nico Ragaini",
+            "games": 13,
+            "stats": {
+              "rec": 58,
+              "recYds": 728,
+              "recTDs": 5,
+              "yac": 228
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 178,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Arland Bruce IV",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 588,
+              "recTDs": 4,
+              "yac": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 192,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Diante Vines",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 508,
+              "recTDs": 4,
+              "yac": 160
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Sam LaPorta",
+            "games": 13,
+            "stats": {
+              "rec": 53,
+              "recYds": 601,
+              "recTDs": 5,
+              "yac": 210
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 34,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Luke Lachey",
+            "games": 13,
+            "stats": {
+              "rec": 35,
+              "recYds": 422,
+              "recTDs": 4,
+              "yac": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Erick All",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 3,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2021-23 Iowa OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Joe Evans",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 108,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Logan Lee",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Yahya Black",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jack Campbell",
+            "games": 14,
+            "stats": {
+              "tackles": 152,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jay Higgins",
+            "games": 14,
+            "stats": {
+              "tackles": 165,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Seth Benson",
+            "games": 14,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Iowa",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Riley Moss",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 82,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Terry Roberts",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kaevon Merriweather",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

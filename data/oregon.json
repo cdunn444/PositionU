@@ -1177,17 +1177,20 @@
             }
           },
           {
-            "name": "Vernon Adams Jr.",
+            "name": "Justin Herbert",
             "games": 14,
             "stats": {
-              "passYds": 2895,
-              "passTDs": 30,
-              "intsSeason": 7,
-              "qbr": 175
+              "passYds": 3471,
+              "passTDs": 32,
+              "intsSeason": 6,
+              "qbr": 185,
+              "rushYds": 60,
+              "rushTDs": 4
             },
             "bonuses": {
-              "nflDraftPick": 225,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 6,
+              "collegeDominance": "eraDef"
             }
           }
         ]

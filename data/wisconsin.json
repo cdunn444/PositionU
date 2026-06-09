@@ -135,16 +135,16 @@
             }
           },
           {
-            "name": "Dave Casper_WR",
+            "name": "Al Hunter",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 63,
+              "recYds": 869,
+              "recTDs": 5,
+              "yac": 169
             },
             "bonuses": {
-              "nflDraftPick": 45,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -185,7 +185,7 @@
             }
           },
           {
-            "name": "Dave Casper_TE",
+            "name": "Mike Webster",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -257,17 +257,17 @@
             }
           },
           {
-            "name": "Tim Krumrie_DL",
+            "name": "Dave Crossen",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
+              "sacks": 6.4,
+              "tfls": 7,
+              "hurries": 18,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 146,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -462,13 +462,13 @@
             }
           },
           {
-            "name": "Marques Anderson_WIS",
+            "name": "Gary Ellerson",
             "games": 12,
             "stats": {
-              "rushYds": 788,
+              "rushYds": 1025,
               "rushTDs": 7,
               "ypc": 4.9,
-              "recYds": 112
+              "recYds": 185
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -512,16 +512,16 @@
             }
           },
           {
-            "name": "Tim Hauck_WR",
+            "name": "Marvin Artley",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
+              "rec": 50,
+              "recYds": 888,
               "recTDs": 6,
-              "yac": 198
+              "yac": 168
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "nflDraftPick": 10,
               "collegeDominance": "elite"
             }
           }
@@ -892,16 +892,16 @@
             }
           },
           {
-            "name": "Lee Evans_90s",
+            "name": "Tony Simmons",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 45,
+              "recYds": 851,
+              "recTDs": 5,
+              "yac": 271
             },
             "bonuses": {
-              "nflDraftPick": 13,
+              "nflDraftPick": 52,
               "collegeDominance": "elite"
             }
           }
@@ -1015,17 +1015,17 @@
             }
           },
           {
-            "name": "Wendell Bryant_90s",
+            "name": "Tarek Saleh",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 7.4,
+              "tfls": 11,
+              "hurries": 10,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 12,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1171,13 +1171,13 @@
             }
           },
           {
-            "name": "Brooks Bollinger_QB",
+            "name": "Tyler Donovan",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 138
+              "passYds": 2402,
+              "passTDs": 15,
+              "intsSeason": 10,
+              "qbr": 137
             },
             "bonuses": {
               "nflDraftPick": 210,

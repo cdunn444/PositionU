@@ -1978,16 +1978,15 @@
             "name": "Jahmyr Gibbs",
             "games": 12,
             "stats": {
-              "rushYds": 1803,
-              "rushTDs": 10,
-              "ypc": 7.1,
+              "rushYds": 746,
+              "rushTDs": 9,
+              "ypc": 6.9,
               "recYds": 465
             },
             "bonuses": {
-              "doakWalker": true,
-              "consensusAllAmerican": true,
+              "firstTeamAllACC": true,
               "nflDraftPick": 12,
-              "collegeDominance": "allTime"
+              "collegeDominance": "eraDef"
             }
           },
           {

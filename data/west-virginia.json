@@ -256,7 +256,7 @@
             }
           },
           {
-            "name": "Dale Farley_DL",
+            "name": "Carl Crennel",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -549,7 +549,7 @@
             }
           },
           {
-            "name": "Mark Raugh_TE",
+            "name": "Mike Fox",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -563,7 +563,7 @@
             }
           },
           {
-            "name": "Gary Mullen_WVU",
+            "name": "Rob Bennett",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -604,14 +604,14 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Mike Fox",
+            "name": "Gary Stills",
             "games": 12,
             "stats": {
-              "sacks": 7,
-              "tfls": 11,
-              "hurries": 14,
+              "sacks": 4.7,
+              "tfls": 14,
+              "hurries": 19,
               "ff": 2,
-              "dominanceGrade": "A+"
+              "dominanceGrade": "A"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
@@ -686,7 +686,7 @@
             }
           },
           {
-            "name": "Gary Stills_WVU",
+            "name": "Darrell Miller",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -723,13 +723,13 @@
             }
           },
           {
-            "name": "Darrell Miller",
+            "name": "Mike Logan",
             "games": 11,
             "stats": {
-              "ints": 3,
-              "pbus": 14,
-              "tackles": 46,
-              "ff": 1,
+              "ints": 4,
+              "pbus": 17,
+              "tackles": 44,
+              "ff": 2,
               "coverageGrade": "A"
             },
             "bonuses": {
@@ -738,7 +738,7 @@
             }
           },
           {
-            "name": "Tom Pridemore_DB",
+            "name": "Bo Orlando",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -790,7 +790,7 @@
             }
           },
           {
-            "name": "Marc Bulger_QB",
+            "name": "Darren Studstill",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -939,7 +939,7 @@
             }
           },
           {
-            "name": "Aaron Beasley_TE",
+            "name": "James Jett",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -1011,7 +1011,7 @@
             }
           },
           {
-            "name": "Mike Collins_DL",
+            "name": "Renaldo Turnbull",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -1061,7 +1061,7 @@
             }
           },
           {
-            "name": "Mike Collins_LB",
+            "name": "Steve Grant",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -1169,7 +1169,7 @@
             }
           },
           {
-            "name": "Brad Lewis_WVU",
+            "name": "Rasheed Marshall",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -1320,7 +1320,7 @@
             }
           },
           {
-            "name": "Jared Cook_00s",
+            "name": "Tito Gonzales",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -1596,7 +1596,7 @@
             }
           },
           {
-            "name": "Tavon Austin_RB",
+            "name": "Andrew Buie",
             "games": 12,
             "stats": {
               "rushYds": 788,

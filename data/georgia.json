@@ -61,19 +61,17 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Najee Harris",
-            "games": 13,
+            "name": "Zamir White",
+            "games": 12,
             "stats": {
-              "rushYds": 1466,
-              "rushTDs": 26,
-              "ypc": 5.9,
-              "recYds": 467
+              "rushYds": 1100,
+              "rushTDs": 11,
+              "ypc": 5.3,
+              "recYds": 85
             },
             "bonuses": {
-              "doakWalker": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 24,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 122,
+              "collegeDominance": "elite"
             }
           },
           {

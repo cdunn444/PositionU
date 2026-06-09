@@ -38,13 +38,13 @@
             }
           },
           {
-            "name": "Grant Noel",
+            "name": "Dave Meyer",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 138
+              "passYds": 2434,
+              "passTDs": 19,
+              "intsSeason": 7,
+              "qbr": 134
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -88,13 +88,13 @@
             }
           },
           {
-            "name": "Dwayne Thomas_VT",
+            "name": "Dwayne Thomas",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 846,
+              "rushTDs": 12,
+              "ypc": 5.0,
+              "recYds": 206
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -174,13 +174,13 @@
             }
           },
           {
-            "name": "Ron Moore_VT",
+            "name": "Bryan Still",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 16,
+              "recYds": 372,
+              "recTDs": 3,
+              "yac": 52
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -188,13 +188,13 @@
             }
           },
           {
-            "name": "Jeff King_VT",
+            "name": "Browning Nagle",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
+              "rec": 23,
+              "recYds": 403,
               "recTDs": 2,
-              "yac": 68
+              "yac": 123
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -366,17 +366,17 @@
             }
           },
           {
-            "name": "DeAngelo Hall_90s",
+            "name": "Antonio Banks",
             "games": 12,
             "stats": {
-              "ints": 3,
+              "ints": 4,
               "pbus": 15,
-              "tackles": 46,
-              "ff": 1,
+              "tackles": 56,
+              "ff": 0,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 8,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -517,13 +517,13 @@
             }
           },
           {
-            "name": "Tom Beasley_WR",
+            "name": "Ron Davidson",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 49,
+              "recYds": 695,
+              "recTDs": 5,
+              "yac": 155
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -638,17 +638,17 @@
             }
           },
           {
-            "name": "Tom Beasley_DL",
+            "name": "Robert Brown",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 7.6,
+              "tfls": 6,
+              "hurries": 8,
+              "ff": 0,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 21,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -724,12 +724,12 @@
             }
           },
           {
-            "name": "Phil Rogers_DB",
+            "name": "Don Wade",
             "games": 12,
             "stats": {
-              "ints": 3,
-              "pbus": 15,
-              "tackles": 46,
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 49,
               "ff": 1,
               "coverageGrade": "A"
             },
@@ -841,13 +841,13 @@
             }
           },
           {
-            "name": "Mike Johnson_RB",
+            "name": "Tony Paige",
             "games": 12,
             "stats": {
-              "rushYds": 788,
+              "rushYds": 801,
               "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "ypc": 4.5,
+              "recYds": 161
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -890,16 +890,16 @@
             }
           },
           {
-            "name": "Antonio Freeman_80s",
+            "name": "Donald Wells",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
+              "rec": 48,
+              "recYds": 822,
               "recTDs": 6,
-              "yac": 198
+              "yac": 262
             },
             "bonuses": {
-              "nflDraftPick": 86,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1174,18 +1174,17 @@
             }
           },
           {
-            "name": "Michael Vick_QB",
+            "name": "Grant Noel",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 138
+              "passYds": 3050,
+              "passTDs": 19,
+              "intsSeason": 7,
+              "qbr": 155
             },
             "bonuses": {
-              "nflDraftPick": 1,
-              "collegeDominance": "allTime",
-              "firstTeamAllAmerican": true
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1326,13 +1325,13 @@
             }
           },
           {
-            "name": "Dwayne Thomas",
+            "name": "John Engelberger",
             "games": 13,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
-              "yac": 60
+              "rec": 21,
+              "recYds": 233,
+              "recTDs": 4,
+              "yac": 73
             },
             "bonuses": {
               "nflDraftPick": 200,

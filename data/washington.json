@@ -88,13 +88,13 @@
             }
           },
           {
-            "name": "Mario Bailey_RB",
+            "name": "Jacque Robinson",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 1134,
+              "rushTDs": 12,
+              "ypc": 5.8,
+              "recYds": 94
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -175,7 +175,7 @@
             }
           },
           {
-            "name": "Aaron Pierce_TE",
+            "name": "Rod Jones",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -262,7 +262,7 @@
             }
           },
           {
-            "name": "Steve Emtman_80s",
+            "name": "Ron Holmes",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -313,7 +313,7 @@
             }
           },
           {
-            "name": "Dave Hoffmann_80s",
+            "name": "Joe Kelly",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -350,7 +350,7 @@
             }
           },
           {
-            "name": "Dana Hall_80s",
+            "name": "Tcommy Sims",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -365,7 +365,7 @@
             }
           },
           {
-            "name": "Anthony Allen_UW",
+            "name": "Vince Newsome",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -566,7 +566,7 @@
             }
           },
           {
-            "name": "Ron Howard_TE",
+            "name": "Robert Coons",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -638,7 +638,7 @@
             }
           },
           {
-            "name": "Dave Pear_DL",
+            "name": "Doug Martin",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -950,13 +950,13 @@
             }
           },
           {
-            "name": "Eric Bjornson_TE",
+            "name": "Cam Cleeland",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 33,
+              "recYds": 325,
+              "recTDs": 4,
+              "yac": 85
             },
             "bonuses": {
               "nflDraftPick": 32,

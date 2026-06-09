@@ -262,7 +262,7 @@
             }
           },
           {
-            "name": "Jacob Green_80s",
+            "name": "Sammy Smith",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -366,7 +366,7 @@
             }
           },
           {
-            "name": "Aaron Wallace_DB",
+            "name": "Chet Brooks",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -471,7 +471,7 @@
             }
           },
           {
-            "name": "Rodney Thomas_TAM",
+            "name": "Leeland McElroy",
             "games": 12,
             "stats": {
               "rushYds": 788,
@@ -627,7 +627,7 @@
             }
           },
           {
-            "name": "Sam Adams_TAM",
+            "name": "Brandon Mitchell",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -642,7 +642,7 @@
             }
           },
           {
-            "name": "Leslie Frazier_TAM",
+            "name": "Eric England",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -857,16 +857,16 @@
             }
           },
           {
-            "name": "Ryan Tannehill",
+            "name": "Mike Goodson",
             "games": 12,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 120
+              "rushYds": 847,
+              "rushTDs": 8,
+              "ypc": 5.5,
+              "recYds": 210
             },
             "bonuses": {
-              "nflDraftPick": 8,
+              "nflDraftPick": 111,
               "collegeDominance": "elite"
             }
           }
@@ -1930,9 +1930,9 @@
             "name": "Edd Hargett",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
+              "passYds": 1948,
+              "passTDs": 17,
+              "intsSeason": 11,
               "qbr": 138
             },
             "bonuses": {
@@ -1944,10 +1944,10 @@
             "name": "Mike Hankamer",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 138
+              "passYds": 3044,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 149
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -1955,13 +1955,13 @@
             }
           },
           {
-            "name": "David Walker_TAM",
+            "name": "Mike Mosley",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 138
+              "passYds": 2008,
+              "passTDs": 17,
+              "intsSeason": 8,
+              "qbr": 128
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -1976,10 +1976,10 @@
             "name": "Carl Roaches",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 1074,
+              "rushTDs": 8,
+              "ypc": 5.8,
+              "recYds": 234
             },
             "bonuses": {
               "nflDraftPick": 195,
@@ -1990,10 +1990,10 @@
             "name": "Bubba Bean",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 904,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 264
             },
             "bonuses": {
               "nflDraftPick": 110,
@@ -2004,10 +2004,10 @@
             "name": "George Woodard",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 812,
+              "rushTDs": 10,
+              "ypc": 5.6,
+              "recYds": 172
             },
             "bonuses": {
               "nflDraftPick": 195,
@@ -2022,10 +2022,10 @@
             "name": "Richard Osborne",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 51,
+              "recYds": 761,
+              "recTDs": 5,
+              "yac": 241
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2036,10 +2036,10 @@
             "name": "Steve Endicott",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 57,
+              "recYds": 959,
+              "recTDs": 5,
+              "yac": 199
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2047,13 +2047,13 @@
             }
           },
           {
-            "name": "Sammy White_TAM",
+            "name": "Mike Whitwell",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 37,
+              "recYds": 875,
+              "recTDs": 5,
+              "yac": 215
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2065,13 +2065,13 @@
       "TE": {
         "players": [
           {
-            "name": "Pat Thomas_TE",
+            "name": "Frank Bonzagni",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 32,
+              "recYds": 212,
+              "recTDs": 3,
+              "yac": 52
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2079,13 +2079,13 @@
             }
           },
           {
-            "name": "Richard Osborne_TE",
+            "name": "Glenn Bujnoch",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 30,
+              "recYds": 186,
+              "recTDs": 1,
+              "yac": 106
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2096,10 +2096,10 @@
             "name": "Larry Stegent",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 33,
+              "recYds": 229,
+              "recTDs": 4,
+              "yac": 69
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2114,10 +2114,10 @@
             "name": "1975 TAM OL",
             "games": 12,
             "stats": {
-              "sacksAllowedSeason": 18,
-              "pancakeBlocksSeason": 145,
+              "sacksAllowedSeason": 20,
+              "pancakeBlocksSeason": 150,
               "passBlockEff": 88,
-              "runBlockEff": 60
+              "runBlockEff": 65
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2132,10 +2132,10 @@
             "name": "Jacob Green",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 5.1,
+              "tfls": 14,
+              "hurries": 13,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
@@ -2144,12 +2144,12 @@
             }
           },
           {
-            "name": "Ray Childress_Jr",
+            "name": "Jimmy Dean",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
+              "sacks": 5.1,
+              "tfls": 10,
+              "hurries": 15,
               "ff": 1,
               "dominanceGrade": "A"
             },
@@ -2162,9 +2162,9 @@
             "name": "Ed Simonini",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
+              "sacks": 6.4,
+              "tfls": 10,
+              "hurries": 18,
               "ff": 1,
               "dominanceGrade": "A"
             },
@@ -2178,13 +2178,13 @@
       "LB": {
         "players": [
           {
-            "name": "Ed Simonini_LB",
+            "name": "Garth Ten Napel",
             "games": 12,
             "stats": {
-              "tackles": 88,
+              "tackles": 87,
               "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "ints": 2,
+              "tfls": 15
             },
             "bonuses": {
               "nflDraftPick": 95,
@@ -2192,13 +2192,13 @@
             }
           },
           {
-            "name": "Robert Jackson_TAM",
+            "name": "Cody Risien",
             "games": 12,
             "stats": {
-              "tackles": 88,
+              "tackles": 102,
               "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "ints": 2,
+              "tfls": 15
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -2209,10 +2209,10 @@
             "name": "Billy Hobbs",
             "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 83,
+              "sacks": 4,
               "ints": 1,
-              "tfls": 11
+              "tfls": 14
             },
             "bonuses": {
               "nflDraftPick": 195,
@@ -2227,10 +2227,10 @@
             "name": "Pat Thomas",
             "games": 12,
             "stats": {
-              "ints": 3,
+              "ints": 2,
               "pbus": 15,
-              "tackles": 46,
-              "ff": 1,
+              "tackles": 42,
+              "ff": 2,
               "coverageGrade": "A"
             },
             "bonuses": {
@@ -2239,12 +2239,12 @@
             }
           },
           {
-            "name": "Jake Scott_TAM",
+            "name": "Lester Hayes",
             "games": 12,
             "stats": {
-              "ints": 3,
+              "ints": 4,
               "pbus": 15,
-              "tackles": 46,
+              "tackles": 56,
               "ff": 1,
               "coverageGrade": "A"
             },
@@ -2258,8 +2258,8 @@
             "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 15,
-              "tackles": 46,
+              "pbus": 14,
+              "tackles": 55,
               "ff": 1,
               "coverageGrade": "A"
             },

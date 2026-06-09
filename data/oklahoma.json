@@ -655,10 +655,10 @@
             "name": "Dillon Faamatau",
             "games": 13,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
+              "sacks": 9.6,
+              "tfls": 6,
               "hurries": 14,
-              "ff": 1,
+              "ff": 0,
               "dominanceGrade": "A"
             },
             "bonuses": {
@@ -670,11 +670,11 @@
             "name": "Jordan Phillips",
             "games": 14,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
-              "hurries": 14,
-              "ff": 1,
-              "dominanceGrade": "A+"
+              "sacks": 4.3,
+              "tfls": 6,
+              "hurries": 17,
+              "ff": 0,
+              "dominanceGrade": "A"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
@@ -686,10 +686,10 @@
             "name": "Stacy McGee",
             "games": 13,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 4.1,
+              "tfls": 11,
+              "hurries": 13,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {

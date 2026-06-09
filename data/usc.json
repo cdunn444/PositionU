@@ -201,16 +201,16 @@
             }
           },
           {
-            "name": "Fred Davis_USC",
+            "name": "Alex Holmes",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 33,
+              "recYds": 181,
+              "recTDs": 4,
+              "yac": 101
             },
             "bonuses": {
-              "nflDraftPick": 48,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -442,16 +442,16 @@
             }
           },
           {
-            "name": "Rob Johnson_USC",
+            "name": "Rob Hertel",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
+              "passYds": 2118,
+              "passTDs": 15,
               "intsSeason": 6,
-              "qbr": 138
+              "qbr": 133
             },
             "bonuses": {
-              "nflDraftPick": 10,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -600,16 +600,16 @@
             }
           },
           {
-            "name": "Hoby Brenner_TE",
+            "name": "Marvin Cobb",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
+              "rec": 35,
+              "recYds": 231,
               "recTDs": 2,
-              "yac": 68
+              "yac": 71
             },
             "bonuses": {
-              "nflDraftPick": 89,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -675,17 +675,17 @@
             }
           },
           {
-            "name": "Artimus Parker_DL",
+            "name": "Dale Mitchell",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 3.5,
+              "tfls": 6,
+              "hurries": 17,
+              "ff": 0,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "nflDraftPick": 5,
               "collegeDominance": "elite"
             }
           }
@@ -728,16 +728,16 @@
             }
           },
           {
-            "name": "Jack Youngblood_USC",
+            "name": "Dennis Johnson",
             "games": 12,
             "stats": {
-              "tackles": 88,
+              "tackles": 112,
               "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "ints": 0,
+              "tfls": 7
             },
             "bonuses": {
-              "nflDraftPick": 10,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -891,16 +891,16 @@
             }
           },
           {
-            "name": "Charles White_80s",
+            "name": "Fred Crutcher",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 1050,
+              "rushTDs": 8,
+              "ypc": 5.4,
+              "recYds": 210
             },
             "bonuses": {
-              "nflDraftPick": 62,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1168,17 +1168,17 @@
             }
           },
           {
-            "name": "Mark Carrier_80s",
+            "name": "Jeff Fisher",
             "games": 12,
             "stats": {
-              "ints": 3,
-              "pbus": 15,
-              "tackles": 46,
+              "ints": 4,
+              "pbus": 21,
+              "tackles": 48,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 6,
+              "nflDraftPick": 19,
               "collegeDominance": "elite"
             }
           }
@@ -1273,13 +1273,13 @@
             }
           },
           {
-            "name": "Reggie Bush_10s",
+            "name": "Stafon Johnson",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 1008,
+              "rushTDs": 6,
+              "ypc": 5.2,
+              "recYds": 168
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -1991,16 +1991,16 @@
             }
           },
           {
-            "name": "Carson Palmer_90s",
+            "name": "Brad Otton",
             "games": 12,
             "stats": {
-              "passYds": 1688,
-              "passTDs": 12,
-              "intsSeason": 6,
+              "passYds": 1948,
+              "passTDs": 13,
+              "intsSeason": 11,
               "qbr": 138
             },
             "bonuses": {
-              "nflDraftPick": 1,
+              "nflDraftPick": 99,
               "collegeDominance": "elite"
             }
           }
@@ -2142,16 +2142,16 @@
             }
           },
           {
-            "name": "Dominique Byrd_TE",
+            "name": "Johnny McWilliams",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 28,
+              "recYds": 384,
+              "recTDs": 3,
+              "yac": 64
             },
             "bonuses": {
-              "nflDraftPick": 52,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -2265,18 +2265,17 @@
             }
           },
           {
-            "name": "Junior Seau_USC",
+            "name": "Chris Claiborne",
             "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "tackles": 102,
+              "sacks": 1,
+              "ints": 0,
+              "tfls": 13
             },
             "bonuses": {
-              "nflDraftPick": 5,
-              "collegeDominance": "allTime",
-              "firstTeamAllAmerican": true
+              "nflDraftPick": 9,
+              "collegeDominance": "elite"
             }
           }
         ]

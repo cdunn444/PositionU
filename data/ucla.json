@@ -349,7 +349,7 @@
             }
           },
           {
-            "name": "Dale Potter_DB",
+            "name": "Oscar Edwards",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -364,7 +364,7 @@
             }
           },
           {
-            "name": "Jerry Robinson_DB",
+            "name": "Johnny Lynn",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -555,7 +555,7 @@
             }
           },
           {
-            "name": "Mike Sherrard_TE",
+            "name": "Tim Wrightman",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -569,7 +569,7 @@
             }
           },
           {
-            "name": "Flipper Anderson_TE",
+            "name": "Paul Bergmann",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -692,7 +692,7 @@
             }
           },
           {
-            "name": "Ken Norton Jr._LB",
+            "name": "Fred Strickland",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -850,13 +850,13 @@
             }
           },
           {
-            "name": "Jermaine Lewis_UCLA",
+            "name": "Sharmon Shah",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 994,
+              "rushTDs": 8,
+              "ypc": 5.8,
+              "recYds": 154
             },
             "bonuses": {
               "nflDraftPick": 153,
@@ -949,7 +949,7 @@
             }
           },
           {
-            "name": "Jarious Jackson_TE",
+            "name": "Mike Grieb",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -1784,7 +1784,7 @@
             }
           },
           {
-            "name": "Kenny Easley_Jr",
+            "name": "Datone Jones",
             "games": 12,
             "stats": {
               "sacks": 5,

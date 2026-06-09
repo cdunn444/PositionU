@@ -259,7 +259,7 @@
             }
           },
           {
-            "name": "Gabriel Rivera_DL",
+            "name": "Eugene Williams",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -345,7 +345,7 @@
             }
           },
           {
-            "name": "Donnie Anderson_TTU",
+            "name": "Greg Frazier",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -360,7 +360,7 @@
             }
           },
           {
-            "name": "Marcus Coleman_II",
+            "name": "Ron Reeves",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -413,7 +413,7 @@
             }
           },
           {
-            "name": "Mark Malone_TTU",
+            "name": "Aaron Keesee",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -462,7 +462,7 @@
             }
           },
           {
-            "name": "Eric Morris_TTU",
+            "name": "Timmy Smith",
             "games": 12,
             "stats": {
               "rushYds": 788,
@@ -685,13 +685,13 @@
             }
           },
           {
-            "name": "Tracy Simien_LB",
+            "name": "Dave Kingsbury",
             "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "tackles": 78,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 15
             },
             "bonuses": {
               "nflDraftPick": 75,
@@ -737,7 +737,7 @@
             }
           },
           {
-            "name": "Lloyd Burruss_DB",
+            "name": "Carl Carter",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -1085,7 +1085,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Marcus Coleman 2",
+            "name": "Tony Rogers",
             "games": 12,
             "stats": {
               "ints": 6,
@@ -1648,13 +1648,13 @@
             }
           },
           {
-            "name": "Jakeem Grant_WR",
+            "name": "Dylan Cantrell",
             "games": 12,
             "stats": {
               "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "recYds": 976,
+              "recTDs": 4,
+              "yac": 236
             },
             "bonuses": {
               "nflDraftPick": 186,

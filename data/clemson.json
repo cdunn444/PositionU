@@ -640,7 +640,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Jim Stuckey",
+            "name": "Steve Durham",
             "games": 11,
             "stats": {
               "sacks": 7,
@@ -656,7 +656,7 @@
             }
           },
           {
-            "name": "Banks McFadden_DL",
+            "name": "Jonathan Brooks",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -671,7 +671,7 @@
             }
           },
           {
-            "name": "Steve Fuller_CL_DL",
+            "name": "Jim Stuckey",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -723,7 +723,7 @@
             }
           },
           {
-            "name": "Keith Adams_CL",
+            "name": "Randy Scott",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -775,7 +775,7 @@
             }
           },
           {
-            "name": "Terry Kinard_DB",
+            "name": "Eddie Geathers",
             "games": 12,
             "stats": {
               "ints": 3,

@@ -71,13 +71,13 @@
             }
           },
           {
-            "name": "Joe Morris_Jr",
+            "name": "Dave Jacobs",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 880,
+              "rushTDs": 6,
+              "ypc": 4.4,
+              "recYds": 240
             },
             "bonuses": {
               "nflDraftPick": 58,
@@ -411,7 +411,7 @@
             }
           },
           {
-            "name": "Don McPherson_QB",
+            "name": "Dave Warner",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -560,7 +560,7 @@
             }
           },
           {
-            "name": "Chris Gedney_TE",
+            "name": "Pat Kelly",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -632,13 +632,13 @@
             }
           },
           {
-            "name": "Pat Kelly",
+            "name": "Ted Gregory",
             "games": 11,
             "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
-              "ff": 1,
+              "sacks": 6.4,
+              "tfls": 14,
+              "hurries": 16,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
@@ -682,7 +682,7 @@
             }
           },
           {
-            "name": "Tim Green_SYR",
+            "name": "Shelby Hill",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -941,7 +941,7 @@
             }
           },
           {
-            "name": "Steve Gregory_TE",
+            "name": "Roland Williams",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -1049,7 +1049,7 @@
             }
           },
           {
-            "name": "Dan Conley_LB",
+            "name": "Kevin Mathis",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -1115,7 +1115,7 @@
             }
           },
           {
-            "name": "Keith Bulluck_DB",
+            "name": "Will Allen",
             "games": 12,
             "stats": {
               "ints": 3,
@@ -1317,7 +1317,7 @@
             }
           },
           {
-            "name": "Allen Johnson_SYR",
+            "name": "Daniel Bailey",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -1464,7 +1464,7 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Donovin Darius 2",
+            "name": "Diamond Ferri",
             "games": 12,
             "stats": {
               "ints": 5,

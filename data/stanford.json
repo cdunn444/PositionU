@@ -469,13 +469,13 @@
             }
           },
           {
-            "name": "Darrin Nelson_Jr",
+            "name": "Charlie Young",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 996,
+              "rushTDs": 10,
+              "ypc": 6.0,
+              "recYds": 156
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -567,7 +567,7 @@
             }
           },
           {
-            "name": "Brad Muster_TE",
+            "name": "Cliff McCrath",
             "games": 12,
             "stats": {
               "rec": 18,
@@ -639,7 +639,7 @@
             }
           },
           {
-            "name": "John Lynch_DL",
+            "name": "Pete Kmetovic",
             "games": 12,
             "stats": {
               "sacks": 5,
@@ -690,7 +690,7 @@
             }
           },
           {
-            "name": "Dave Wyman_LB",
+            "name": "Tom Briehl",
             "games": 12,
             "stats": {
               "tackles": 88,
@@ -843,7 +843,7 @@
             }
           },
           {
-            "name": "Charlie Young_STF",
+            "name": "Jon Volpe",
             "games": 12,
             "stats": {
               "rushYds": 788,
@@ -1157,7 +1157,7 @@
             }
           },
           {
-            "name": "Chris Lewis_STF",
+            "name": "Trent Edwards",
             "games": 12,
             "stats": {
               "passYds": 1688,
@@ -1321,7 +1321,7 @@
             }
           },
           {
-            "name": "Coby Fleener_TE",
+            "name": "Alex Smith",
             "games": 12,
             "stats": {
               "rec": 18,

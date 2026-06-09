@@ -185,13 +185,13 @@
             }
           },
           {
-            "name": "Ron Coleman_TE",
+            "name": "Steve Odom",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 37,
+              "recYds": 401,
+              "recTDs": 4,
+              "yac": 81
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -241,11 +241,11 @@
             }
           },
           {
-            "name": "Don Brallier_DL",
+            "name": "Gordon Hudson",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
+              "sacks": 4.0,
+              "tfls": 7,
               "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
@@ -357,13 +357,13 @@
             }
           },
           {
-            "name": "Jay Miller_DB",
+            "name": "Norm Thompson",
             "games": 12,
             "stats": {
-              "ints": 3,
-              "pbus": 15,
-              "tackles": 46,
-              "ff": 1,
+              "ints": 5,
+              "pbus": 12,
+              "tackles": 53,
+              "ff": 2,
               "coverageGrade": "A"
             },
             "bonuses": {
@@ -615,29 +615,28 @@
             }
           },
           {
-            "name": "Luther Ellis_80s",
+            "name": "Bart Reall",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
+              "sacks": 9.4,
+              "tfls": 10,
               "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 20,
-              "collegeDominance": "eraDef",
-              "firstTeamAllAmerican": true
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Kevin Mitchell_80s",
+            "name": "Pita Tonga",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 8.2,
+              "tfls": 11,
+              "hurries": 16,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
@@ -681,13 +680,13 @@
             }
           },
           {
-            "name": "Tom Holmoe_LB",
+            "name": "Erroll Tucker",
             "games": 12,
             "stats": {
-              "tackles": 88,
+              "tackles": 102,
               "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "ints": 2,
+              "tfls": 12
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -837,16 +836,16 @@
             }
           },
           {
-            "name": "Deke Cooper_RB",
+            "name": "Charlie Brown",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 1064,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 224
             },
             "bonuses": {
-              "nflDraftPick": 165,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1058,11 +1057,11 @@
             }
           },
           {
-            "name": "Eric Weddle_LB",
+            "name": "Spencer Reid",
             "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 98,
+              "sacks": 4,
               "ints": 1,
               "tfls": 11
             },
@@ -1392,17 +1391,17 @@
             }
           },
           {
-            "name": "Dave Ball_UTAH",
-            "games": 13,
+            "name": "Martail Burnett",
+            "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
+              "sacks": 4.9,
+              "tfls": 10,
+              "hurries": 9,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 58,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1443,13 +1442,13 @@
             }
           },
           {
-            "name": "Stevenson Sylvester_LB",
+            "name": "Joe Jiannoni",
             "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "tackles": 109,
+              "sacks": 5,
+              "ints": 0,
+              "tfls": 7
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -1653,16 +1652,16 @@
             }
           },
           {
-            "name": "Britain Covey_WR",
+            "name": "DeVonte Christopher",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 53,
+              "recYds": 955,
+              "recTDs": 7,
+              "yac": 155
             },
             "bonuses": {
-              "nflDraftPick": 181,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1777,17 +1776,17 @@
             }
           },
           {
-            "name": "Leki Fotu_10s",
+            "name": "Hunter Dimick",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 5.2,
+              "tfls": 9,
+              "hurries": 8,
+              "ff": 0,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 140,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -1988,16 +1987,16 @@
             }
           },
           {
-            "name": "Zack Moss_20s",
+            "name": "Micah Bernard",
             "games": 12,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 112
+              "rushYds": 1029,
+              "rushTDs": 11,
+              "ypc": 5.3,
+              "recYds": 189
             },
             "bonuses": {
-              "nflDraftPick": 86,
+              "nflDraftPick": 210,
               "collegeDominance": "elite"
             }
           }
@@ -2038,13 +2037,13 @@
             }
           },
           {
-            "name": "Devontae Booker_WR",
+            "name": "Devaughn Vele",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
-              "recTDs": 6,
-              "yac": 198
+              "rec": 47,
+              "recYds": 661,
+              "recTDs": 7,
+              "yac": 141
             },
             "bonuses": {
               "nflDraftPick": 210,

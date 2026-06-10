@@ -1611,16 +1611,15 @@
             }
           },
           {
-            "name": "Dontae Smith",
+            "name": "Jamal Haynes",
             "games": 12,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.2,
-              "recYds": 108
+              "rushYds": 944,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 166
             },
             "bonuses": {
-              "nflDraftPick": 225,
               "collegeDominance": "elite"
             }
           }

@@ -1825,19 +1825,19 @@
             }
           },
           {
-            "name": "Xavier Thomas",
-            "games": 13,
+            "name": "T.J. Parker",
+            "games": 14,
             "stats": {
-              "sacks": 7.5,
-              "tfls": 11,
-              "hurries": 16,
-              "ff": 2,
-              "dominanceGrade": "A"
+              "sacks": 11,
+              "tfls": 19.5,
+              "hurries": 22,
+              "ff": 6,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "nflDraftPick": 35,
+              "collegeDominance": "eraDef"
             }
           }
         ]

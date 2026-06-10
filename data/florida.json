@@ -1654,17 +1654,16 @@
             }
           },
           {
-            "name": "Nay'Quan Wright",
+            "name": "Jadan Baugh",
             "games": 12,
             "stats": {
-              "rushYds": 452,
-              "rushTDs": 5,
-              "ypc": 5.2,
-              "recYds": 112
+              "rushYds": 1170,
+              "rushTDs": 8,
+              "ypc": 5.3,
+              "recYds": 185
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -1512,22 +1512,6 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Charlie Brewer",
-            "games": 11,
-            "stats": {
-              "passYds": 2291,
-              "passTDs": 16,
-              "intsSeason": 7,
-              "qbr": 148,
-              "rushYds": 365,
-              "rushTDs": 5
-            },
-            "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Gerry Bohanon",
             "games": 11,
             "stats": {
@@ -1556,6 +1540,22 @@
               "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Sawyer Robertson",
+            "games": 13,
+            "stats": {
+              "passYds": 3681,
+              "passTDs": 31,
+              "intsSeason": 12,
+              "qbr": 156,
+              "rushYds": 230,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "nflDraftPick": 150,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -1564,20 +1564,6 @@
         "era": "20s",
         "pos": "RB",
         "players": [
-          {
-            "name": "Trestan Ebner",
-            "games": 13,
-            "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.5,
-              "recYds": 265
-            },
-            "bonuses": {
-              "nflDraftPick": 182,
-              "collegeDominance": "elite"
-            }
-          },
           {
             "name": "Abram Smith",
             "games": 13,
@@ -1608,6 +1594,20 @@
               "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Bryson Washington",
+            "games": 11,
+            "stats": {
+              "rushYds": 1004,
+              "rushTDs": 12,
+              "ypc": 5.9,
+              "recYds": 217
+            },
+            "bonuses": {
+              "freshmanAllAmerican": true,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -1632,20 +1632,6 @@
             }
           },
           {
-            "name": "Josh Fleeks",
-            "games": 13,
-            "stats": {
-              "rec": 36,
-              "recYds": 538,
-              "recTDs": 4,
-              "yac": 168
-            },
-            "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Monaray Baldwin",
             "games": 13,
             "stats": {
@@ -1656,6 +1642,21 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Josh Cameron",
+            "games": 13,
+            "stats": {
+              "rec": 69,
+              "recYds": 872,
+              "recTDs": 10,
+              "yac": 290
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 191,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1694,17 +1695,17 @@
             }
           },
           {
-            "name": "Drake Dabney",
+            "name": "Michael Trigg",
             "games": 12,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 42
+              "rec": 50,
+              "recYds": 694,
+              "recTDs": 6,
+              "yac": 230
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1819,16 +1820,17 @@
             }
           },
           {
-            "name": "Garmon Randolph",
+            "name": "Matt Jones",
             "games": 13,
             "stats": {
-              "tackles": 78,
-              "sacks": 2,
+              "tackles": 113,
+              "sacks": 4,
               "ints": 1,
-              "tfls": 8
+              "tfls": 10
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 220,
               "collegeDominance": "elite"
             }
           }

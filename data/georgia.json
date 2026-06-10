@@ -40,17 +40,18 @@
             }
           },
           {
-            "name": "JT Daniels",
-            "games": 9,
+            "name": "Gunner Stockton",
+            "games": 14,
             "stats": {
-              "passYds": 2338,
-              "passTDs": 19,
-              "intsSeason": 8,
-              "qbr": 168
+              "passYds": 2894,
+              "passTDs": 24,
+              "intsSeason": 5,
+              "qbr": 158,
+              "rushYds": 462,
+              "rushTDs": 10
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -334,18 +335,20 @@
             }
           },
           {
-            "name": "Channing Tindall",
+            "name": "Jalon Walker",
             "games": 14,
             "stats": {
-              "tackles": 65,
-              "sacks": 4,
-              "ints": 1,
-              "tfls": 9
+              "tackles": 60,
+              "sacks": 6.5,
+              "ints": 0,
+              "tfls": 10.5
             },
             "bonuses": {
-              "nflDraftPick": 98,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 15,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]

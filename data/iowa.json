@@ -1554,16 +1554,18 @@
             }
           },
           {
-            "name": "Deacon Hill",
-            "games": 12,
+            "name": "Mark Gronowski",
+            "games": 13,
             "stats": {
-              "passYds": 1100,
-              "passTDs": 5,
-              "intsSeason": 6,
-              "qbr": 110
+              "passYds": 1450,
+              "passTDs": 10,
+              "intsSeason": 7,
+              "qbr": 138,
+              "rushYds": 545,
+              "rushTDs": 16
             },
             "bonuses": {
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1604,17 +1606,18 @@
             }
           },
           {
-            "name": "Leshon Williams",
+            "name": "Kaleb Johnson",
             "games": 12,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 7,
-              "ypc": 5.4,
-              "recYds": 145
+              "rushYds": 1537,
+              "rushTDs": 21,
+              "ypc": 6.4,
+              "recYds": 188
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 83,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1885,18 +1888,19 @@
             }
           },
           {
-            "name": "Kaevon Merriweather",
+            "name": "Sebastian Castro",
             "games": 13,
             "stats": {
               "ints": 3,
-              "pbus": 16,
-              "tackles": 62,
-              "ff": 2,
-              "coverageGrade": "A"
+              "pbus": 8,
+              "tackles": 67,
+              "ff": 1,
+              "coverageGrade": "A+"
             },
             "bonuses": {
+              "firstTeamAllAmerican": true,
               "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           }
         ]

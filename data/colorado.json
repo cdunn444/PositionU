@@ -1607,6 +1607,37 @@
       "WR": {
         "players": [
           {
+            "name": "Travis Hunter",
+            "games": 13,
+            "stats": {
+              "rec": 96,
+              "recYds": 1258,
+              "recTDs": 15,
+              "yac": 412
+            },
+            "bonuses": {
+              "heisman": true,
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "LaJohntay Wester",
+            "games": 13,
+            "stats": {
+              "rec": 74,
+              "recYds": 931,
+              "recTDs": 10,
+              "yac": 358
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
             "name": "Brenden Rice",
             "games": 12,
             "stats": {
@@ -1614,34 +1645,6 @@
               "recYds": 979,
               "recTDs": 7,
               "yac": 199
-            },
-            "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Dimitri Stanley",
-            "games": 12,
-            "stats": {
-              "rec": 65,
-              "recYds": 743,
-              "recTDs": 5,
-              "yac": 223
-            },
-            "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Jimmy Horn Jr.",
-            "games": 12,
-            "stats": {
-              "rec": 35,
-              "recYds": 841,
-              "recTDs": 7,
-              "yac": 141
             },
             "bonuses": {
               "nflDraftPick": 210,
@@ -1828,17 +1831,19 @@
         "players": [
           {
             "name": "Travis Hunter",
-            "games": 12,
+            "games": 13,
             "stats": {
-              "ints": 2,
-              "pbus": 17,
-              "tackles": 58,
-              "ff": 0,
+              "ints": 4,
+              "pbus": 11,
+              "tackles": 36,
+              "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
               "nflDraftPick": 2,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           },
           {

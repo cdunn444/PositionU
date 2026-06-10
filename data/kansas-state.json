@@ -1562,16 +1562,16 @@
             "name": "Avery Johnson",
             "games": 13,
             "stats": {
-              "passYds": 2388,
-              "passTDs": 19,
-              "intsSeason": 7,
-              "qbr": 155,
-              "rushYds": 612,
-              "rushTDs": 8
+              "passYds": 2712,
+              "passTDs": 25,
+              "intsSeason": 10,
+              "qbr": 156,
+              "rushYds": 605,
+              "rushTDs": 7
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real K-State QB 2023-25; school single-season record 25 passing TDs in 2024; dual-threat starter."
             }
           }
         ]
@@ -1663,17 +1663,17 @@
             }
           },
           {
-            "name": "Jadon Jackson",
+            "name": "Jayce Brown",
             "games": 13,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
+              "rec": 47,
+              "recYds": 823,
               "recTDs": 5,
-              "yac": 208
+              "yac": 250
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real K-State WR 2023-25; 823 yds in 2024 (most by a Wildcat since Tyler Lockett 2014, school record for a sophomore)."
             }
           }
         ]
@@ -1713,17 +1713,17 @@
             }
           },
           {
-            "name": "Sammy Wheeler",
-            "games": 14,
+            "name": "Garrett Oakley",
+            "games": 13,
             "stats": {
-              "rec": 15,
-              "recYds": 151,
-              "recTDs": 2,
-              "yac": 50
+              "rec": 22,
+              "recYds": 236,
+              "recTDs": 5,
+              "yac": 90
             },
             "bonuses": {
-              "collegeDominance": "good",
-              "note": "Real K-State TE (2019-22); converted QB; multi-TE-set contributor."
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE 2024-25; All-Big 12 2nd Team 2024; broke school career receiving-TD record for a tight end (13) in 2025."
             }
           }
         ]
@@ -1774,15 +1774,15 @@
             "name": "Brendan Mott",
             "games": 13,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 11,
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 14,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real K-State DE; 2024 Big 12 Defensive Lineman of the Year, All-Big 12 1st Team (8.5 sacks, 11.5 TFL)."
             }
           },
           {
@@ -1837,17 +1837,17 @@
             }
           },
           {
-            "name": "Austin Moore",
+            "name": "Austin Romaine",
             "games": 13,
             "stats": {
-              "tackles": 82,
+              "tackles": 96,
               "sacks": 2,
-              "ints": 1,
+              "ints": 0,
               "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 205,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real K-State LB 2023-25; team-leading tackler; All-Big 12 2nd Team 2024 (96 tackles, 7.5 TFL, 3 FF)."
             }
           }
         ]
@@ -1889,18 +1889,19 @@
             }
           },
           {
-            "name": "Ekow Boye-Doe",
-            "games": 12,
+            "name": "VJ Payne",
+            "games": 13,
             "stats": {
-              "ints": 3,
-              "pbus": 15,
-              "tackles": 48,
-              "ff": 1,
+              "ints": 2,
+              "pbus": 6,
+              "tackles": 64,
+              "ff": 2,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
+              "nflDraftPick": 0,
+              "collegeDominance": "elite",
+              "note": "Real K-State safety 2023-25; multi-year starter, All-Big 12 Honorable Mention 2024-25; 2026 NFL Draft pick (NY Jets)."
             }
           }
         ]

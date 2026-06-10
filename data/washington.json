@@ -565,31 +565,31 @@
             }
           },
           {
-            "name": "Ron Howard",
+            "name": "John Brady",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
+              "rec": 18,
+              "recYds": 232,
               "recTDs": 2,
-              "yac": 60
+              "yac": 74
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Dave Pear",
+            "name": "Robin Earl",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
+              "rec": 14,
+              "recYds": 178,
               "recTDs": 1,
-              "yac": 36
+              "yac": 58
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 85,
+              "collegeDominance": "veryGood",
+              "note": "Primarily a RB/FB; played TE early in his UW career before moving to fullback"
             }
           }
         ]
@@ -636,18 +636,18 @@
             }
           },
           {
-            "name": "Ron Howard",
+            "name": "Doug Martin",
             "games": 11,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "nflDraftPick": 9,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -935,16 +935,16 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Eric Bjornson",
+            "name": "Mark Bruener",
             "games": 12,
             "stats": {
-              "rec": 34,
-              "recYds": 412,
-              "recTDs": 5,
-              "yac": 132
+              "rec": 30,
+              "recYds": 384,
+              "recTDs": 4,
+              "yac": 118
             },
             "bonuses": {
-              "nflDraftPick": 103,
+              "nflDraftPick": 27,
               "nationalChampionship": true,
               "collegeDominance": "elite"
             }
@@ -964,17 +964,17 @@
             }
           },
           {
-            "name": "Jim Ballard",
+            "name": "Ernie Conwell",
             "games": 11,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 24,
+              "recYds": 343,
+              "recTDs": 2,
+              "yac": 108
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 46,
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -2032,17 +2032,17 @@
             }
           },
           {
-            "name": "Roschon Johnson",
-            "games": 13,
+            "name": "Quintrevion Wisner",
+            "games": 16,
             "stats": {
-              "rushYds": 855,
-              "rushTDs": 9,
-              "ypc": 5.5,
-              "recYds": 145
+              "rushYds": 1064,
+              "rushTDs": 5,
+              "ypc": 4.7,
+              "recYds": 311
             },
             "bonuses": {
-              "nflDraftPick": 115,
-              "collegeDominance": "eraDef"
+              "allConferenceFirstTeam": true,
+              "collegeDominance": "elite"
             }
           }
         ]

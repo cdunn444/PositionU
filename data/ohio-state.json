@@ -2138,18 +2138,17 @@
             }
           },
           {
-            "name": "Garrett Wilson",
-            "games": 12,
+            "name": "Jeremiah Smith",
+            "games": 16,
             "stats": {
-              "rec": 70,
-              "recYds": 1058,
-              "recTDs": 12,
-              "yac": 335
+              "rec": 76,
+              "recYds": 1315,
+              "recTDs": 15,
+              "yac": 430
             },
             "bonuses": {
-              "biletnikoff": true,
               "consensusAllAmerican": true,
-              "nflDraftPick": 10,
+              "nationalChampionship": true,
               "collegeDominance": "allTime"
             }
           },

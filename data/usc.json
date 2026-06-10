@@ -1624,16 +1624,17 @@
             }
           },
           {
-            "name": "Miller Moss",
+            "name": "Jayden Maiava",
             "games": 13,
             "stats": {
-              "passYds": 3149,
-              "passTDs": 26,
-              "intsSeason": 7,
-              "qbr": 165
+              "passYds": 3711,
+              "passTDs": 24,
+              "intsSeason": 10,
+              "qbr": 162,
+              "rushYds": 157,
+              "rushTDs": 6
             },
             "bonuses": {
-              "nflDraftPick": 165,
               "collegeDominance": "elite"
             }
           }
@@ -1659,17 +1660,17 @@
             }
           },
           {
-            "name": "Austin Jones",
-            "games": 13,
+            "name": "Woody Marks",
+            "games": 12,
             "stats": {
-              "rushYds": 688,
-              "rushTDs": 7,
-              "ypc": 5.2,
-              "recYds": 145
+              "rushYds": 1133,
+              "rushTDs": 9,
+              "ypc": 5.7,
+              "recYds": 321
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
+              "nflDraftPick": 116,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1725,17 +1726,19 @@
             }
           },
           {
-            "name": "Brenden Rice",
+            "name": "Makai Lemon",
             "games": 13,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 6,
-              "yac": 208
+              "rec": 79,
+              "recYds": 1156,
+              "recTDs": 11,
+              "yac": 365
             },
             "bonuses": {
-              "nflDraftPick": 230,
-              "collegeDominance": "elite"
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "eraDef"
             }
           }
         ]

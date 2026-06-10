@@ -1782,18 +1782,17 @@
             }
           },
           {
-            "name": "Kyle Efford",
-            "games": 12,
+            "name": "Zeek Biggers",
+            "games": 13,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 2,
+              "tfls": 5,
+              "hurries": 8,
+              "ff": 0,
+              "dominanceGrade": "A-"
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]

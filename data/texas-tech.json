@@ -644,19 +644,17 @@
             }
           },
           {
-            "name": "Marcus Coleman",
+            "name": "Kris Kocurek",
             "games": 12,
             "stats": {
-              "sacks": 3,
-              "tfls": 6,
-              "hurries": 8,
+              "sacks": 6,
+              "tfls": 12,
+              "hurries": 14,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllConference": true,
-              "collegeDominance": "elite",
-              "note": "All-American DB/Raider hybrid of era listed on DL"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -683,33 +681,31 @@
             }
           },
           {
-            "name": "Marcus Coleman",
-            "games": 12,
+            "name": "Matt Wingo",
+            "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 2,
-              "ints": 4,
-              "tfls": 10
+              "tackles": 130,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 9
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "collegeDominance": "elite",
-              "note": "Played hybrid OLB/strong-safety 'Raider' position (1992-95)"
+              "collegeDominance": "veryGood",
+              "note": "All-SWC LB 1990 & 1991"
             }
           },
           {
-            "name": "Dane Johnson",
-            "games": 12,
+            "name": "Shawn Banks",
+            "games": 11,
             "stats": {
-              "tackles": 78,
-              "sacks": 1,
-              "ints": 3,
-              "tfls": 8
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 7
             },
             "bonuses": {
-              "firstTeamAllConference": true,
-              "collegeDominance": "elite",
-              "note": "All-Big 12 safety (1997) listed at LB as era teammate"
+              "collegeDominance": "veryGood",
+              "note": "early-90s starting LB alongside Zach Thomas"
             }
           }
         ]

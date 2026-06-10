@@ -475,13 +475,13 @@
             }
           },
           {
-            "name": "Vaughn Hebron",
+            "name": "Cyrus Lawrence",
             "games": 11,
             "stats": {
-              "rushYds": 640,
-              "rushTDs": 3,
-              "ypc": 4.8,
-              "recYds": 196
+              "rushYds": 1221,
+              "rushTDs": 8,
+              "ypc": 4.6,
+              "recYds": 90
             },
             "bonuses": {
               "collegeDominance": "elite"
@@ -522,17 +522,17 @@
             }
           },
           {
-            "name": "David Everett",
+            "name": "Vaughn Hebron",
             "games": 11,
             "stats": {
-              "rec": 24,
-              "recYds": 348,
-              "recTDs": 3,
-              "yac": 110
+              "rec": 18,
+              "recYds": 220,
+              "recTDs": 1,
+              "yac": 90
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "VT wingback/receiver on the 1986 Peach Bowl team"
+              "note": "RB/kick returner; last-resort fill for thin VT 80s receiver depth"
             }
           }
         ]
@@ -557,31 +557,31 @@
             }
           },
           {
-            "name": "David Everett",
+            "name": "Joe Jones",
             "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 232,
-              "recTDs": 2,
-              "yac": 74
+              "rec": 39,
+              "recYds": 452,
+              "recTDs": 1,
+              "yac": 198
             },
             "bonuses": {
-              "collegeDominance": "veryGood",
-              "note": "VT wingback/TE-type of the era; depth fill"
+              "nflDraftPick": 270,
+              "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Myron Richardson",
+            "name": "David Everett",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 156,
-              "recTDs": 1,
-              "yac": 50
+              "rec": 22,
+              "recYds": 300,
+              "recTDs": 2,
+              "yac": 110
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "VT receiver of the era used inline; depth fill"
+              "note": "wingback/TE-type of the era"
             }
           }
         ]
@@ -750,18 +750,18 @@
             }
           },
           {
-            "name": "David Everett",
-            "games": 11,
+            "name": "Billy Myers",
+            "games": 12,
             "stats": {
-              "ints": 2,
-              "pbus": 12,
-              "tackles": 44,
+              "ints": 3,
+              "pbus": 7,
+              "tackles": 48,
               "ff": 1,
               "coverageGrade": "B+"
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "VT defensive back/wingback of the era; depth fill"
+              "note": "1986 Peach Bowl team CB"
             }
           }
         ]

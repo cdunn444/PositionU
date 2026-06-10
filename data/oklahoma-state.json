@@ -868,21 +868,6 @@
             }
           },
           {
-            "name": "Brandon Pettigrew",
-            "games": 13,
-            "stats": {
-              "rec": 42,
-              "recYds": 688,
-              "recTDs": 7,
-              "yac": 218
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 20,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Adarius Bowman",
             "games": 13,
             "stats": {
@@ -894,6 +879,22 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 209,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rashaun Woods",
+            "games": 13,
+            "stats": {
+              "rec": 89,
+              "recYds": 1367,
+              "recTDs": 17,
+              "yac": 400
+            },
+            "bonuses": {
+              "biletnikoff": false,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 31,
               "collegeDominance": "eraDef"
             }
           }
@@ -1078,36 +1079,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Dez Bryant",
-            "games": 13,
-            "stats": {
-              "ints": 3,
-              "pbus": 18,
-              "tackles": 42,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 24,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Bo Bowling",
-            "games": 13,
-            "stats": {
-              "ints": 4,
-              "pbus": 20,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Lucien Antoine",
             "games": 12,
             "stats": {
@@ -1120,6 +1091,37 @@
             "bonuses": {
               "nflDraftPick": 195,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Darrent Williams",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 14,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Perrish Cox",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 137,
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -1878,6 +1878,21 @@
             }
           },
           {
+            "name": "Eli Holstein",
+            "games": 10,
+            "stats": {
+              "passYds": 2228,
+              "passTDs": 17,
+              "intsSeason": 7,
+              "qbr": 140,
+              "rushYds": 328,
+              "rushTDs": 3
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
             "name": "Davis Beville",
             "games": 12,
             "stats": {
@@ -1888,20 +1903,6 @@
             },
             "bonuses": {
               "nflDraftPick": 210,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Nate Yarnell",
-            "games": 12,
-            "stats": {
-              "passYds": 1918,
-              "passTDs": 15,
-              "intsSeason": 9,
-              "qbr": 143
-            },
-            "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "elite"
             }
           }
@@ -1941,17 +1942,17 @@
             }
           },
           {
-            "name": "Daniel Carter",
-            "games": 12,
+            "name": "Desmond Reid",
+            "games": 13,
             "stats": {
-              "rushYds": 1085,
-              "rushTDs": 11,
-              "ypc": 4.9,
-              "recYds": 245
+              "rushYds": 962,
+              "rushTDs": 5,
+              "ypc": 5.3,
+              "recYds": 579
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
+              "consensusAllAmerican": true,
+              "collegeDominance": "eraDef"
             }
           }
         ],
@@ -1992,16 +1993,16 @@
             }
           },
           {
-            "name": "Shocky Jacques-Louis",
+            "name": "Konata Mumpfield",
             "games": 12,
             "stats": {
-              "rec": 34,
-              "recYds": 872,
-              "recTDs": 8,
-              "yac": 232
+              "rec": 52,
+              "recYds": 813,
+              "recTDs": 5,
+              "yac": 260
             },
             "bonuses": {
-              "nflDraftPick": 215,
+              "nflDraftPick": 172,
               "collegeDominance": "elite"
             }
           }
@@ -2213,17 +2214,17 @@
             }
           },
           {
-            "name": "M.J. Devonshire",
-            "games": 12,
+            "name": "Donovan McMillon",
+            "games": 13,
             "stats": {
-              "ints": 2,
-              "pbus": 15,
-              "tackles": 42,
+              "ints": 1,
+              "pbus": 9,
+              "tackles": 115,
               "ff": 2,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "allConference": true,
               "collegeDominance": "elite"
             }
           }

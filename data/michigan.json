@@ -89,17 +89,15 @@
             }
           },
           {
-            "name": "Chris Perry",
-            "games": 13,
+            "name": "Ricky Powers",
+            "games": 12,
             "stats": {
-              "rushYds": 1674,
-              "rushTDs": 18,
-              "ypc": 5.8,
-              "recYds": 285
+              "rushYds": 1251,
+              "rushTDs": 9,
+              "ypc": 4.9,
+              "recYds": 110
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 26,
               "collegeDominance": "elite"
             }
           }
@@ -179,16 +177,16 @@
             }
           },
           {
-            "name": "Shawn Thompson",
+            "name": "Mark Campbell",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 224,
-              "recTDs": 2,
-              "yac": 72
+              "rec": 24,
+              "recYds": 278,
+              "recTDs": 3,
+              "yac": 90
             },
             "bonuses": {
-              "nflDraftPick": 220,
+              "nationalChampionship": true,
               "collegeDominance": "veryGood"
             }
           },
@@ -912,17 +910,17 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Anthony Carter",
+            "name": "Jim Smith",
             "games": 12,
             "stats": {
-              "rec": 55,
-              "recYds": 832,
-              "recTDs": 8,
-              "yac": 265
+              "rec": 31,
+              "recYds": 752,
+              "recTDs": 7,
+              "yac": 245
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 245,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 75,
               "collegeDominance": "eraDef"
             }
           },
@@ -1032,7 +1030,7 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Mark Donahue",
+            "name": "Greg Morton",
             "games": 11,
             "stats": {
               "sacks": 6,
@@ -1043,7 +1041,7 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 55,
+              "nflDraftPick": 85,
               "collegeDominance": "eraDef"
             }
           },
@@ -1064,7 +1062,7 @@
             }
           },
           {
-            "name": "Ron Simpkins",
+            "name": "Walt Williamson",
             "games": 11,
             "stats": {
               "sacks": 4,
@@ -1074,7 +1072,6 @@
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 110,
               "collegeDominance": "elite"
             }
           }
@@ -1483,18 +1480,18 @@
             }
           },
           {
-            "name": "Mike Hammerstein",
+            "name": "Mike Mallory",
             "games": 11,
             "stats": {
-              "tackles": 95,
-              "sacks": 7,
-              "ints": 1,
-              "tfls": 14
+              "tackles": 98,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 27,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 280,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -1603,17 +1600,17 @@
             }
           },
           {
-            "name": "Tom Brady",
+            "name": "Drew Henson",
             "games": 11,
             "stats": {
-              "passYds": 2217,
-              "passTDs": 20,
-              "intsSeason": 6,
-              "qbr": 148
+              "passYds": 2146,
+              "passTDs": 18,
+              "intsSeason": 4,
+              "qbr": 159
             },
             "bonuses": {
-              "nflDraftPick": 199,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 192,
+              "collegeDominance": "elite"
             }
           }
         ]

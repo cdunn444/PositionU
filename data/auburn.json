@@ -125,16 +125,15 @@
             }
           },
           {
-            "name": "Dowe Aughtman",
+            "name": "Freddy Weygand",
             "games": 11,
             "stats": {
-              "rec": 34,
-              "recYds": 522,
-              "recTDs": 5,
-              "yac": 175
+              "rec": 32,
+              "recYds": 796,
+              "recTDs": 3,
+              "yac": 255
             },
             "bonuses": {
-              "nflDraftPick": 100,
               "collegeDominance": "elite"
             }
           },
@@ -176,16 +175,15 @@
             }
           },
           {
-            "name": "Duke Donaldson",
+            "name": "Jeff Parks",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 195,
+              "rec": 18,
+              "recYds": 210,
               "recTDs": 2,
-              "yac": 60
+              "yac": 65
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "veryGood"
             }
           },
@@ -826,16 +824,17 @@
             }
           },
           {
-            "name": "James Owens",
+            "name": "Wade Whatley",
             "games": 11,
             "stats": {
-              "passYds": 748,
+              "passYds": 720,
               "passTDs": 5,
-              "intsSeason": 5,
-              "qbr": 115
+              "intsSeason": 6,
+              "qbr": 116,
+              "rushYds": 240,
+              "rushTDs": 3
             },
             "bonuses": {
-              "nflDraftPick": 190,
               "collegeDominance": "veryGood"
             }
           }
@@ -949,45 +948,45 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Norm Byrd",
+            "name": "Dan Nugent",
             "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
+              "rec": 16,
+              "recYds": 190,
               "recTDs": 2,
-              "yac": 68
+              "yac": 60
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "nflDraftPick": 75,
               "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Keith Uecker",
+            "name": "Rusty Byrd",
             "games": 11,
             "stats": {
               "rec": 14,
-              "recYds": 165,
+              "recYds": 175,
               "recTDs": 1,
-              "yac": 52
+              "yac": 55
             },
             "bonuses": {
-              "nflDraftPick": 220,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "1970s Auburn wishbone offense rarely used a true receiving TE; Rusty Byrd was a real Auburn split end/receiver (1977) used as an adjacent-position fill."
             }
           },
           {
-            "name": "Randy Walls",
+            "name": "Sherman Moon",
             "games": 11,
             "stats": {
               "rec": 12,
-              "recYds": 138,
+              "recYds": 140,
               "recTDs": 1,
-              "yac": 42
+              "yac": 45
             },
             "bonuses": {
-              "nflDraftPick": 240,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "1970s Auburn TE production is largely undocumented; Sherman Moon was a real Auburn end/receiver (1972-74) used as an adjacent-position fill."
             }
           }
         ]

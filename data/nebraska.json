@@ -575,17 +575,16 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Keith McKnight",
+            "name": "Ken Spaeth",
             "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
+              "rec": 16,
+              "recYds": 196,
               "recTDs": 2,
-              "yac": 68
+              "yac": 60
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {
@@ -604,17 +603,16 @@
             }
           },
           {
-            "name": "Tracy Voss",
+            "name": "Larry Mushinskie",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
+              "rec": 11,
+              "recYds": 124,
               "recTDs": 1,
-              "yac": 42
+              "yac": 40
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "good"
             }
           }
         ]
@@ -844,19 +842,18 @@
             }
           },
           {
-            "name": "Taylor Martinez",
-            "games": 12,
+            "name": "Travis Turner",
+            "games": 11,
             "stats": {
-              "passYds": 2018,
-              "passTDs": 16,
-              "intsSeason": 7,
-              "qbr": 145,
-              "rushYds": 652,
-              "rushTDs": 9
+              "passYds": 740,
+              "passTDs": 5,
+              "intsSeason": 4,
+              "qbr": 120,
+              "rushYds": 210,
+              "rushTDs": 3
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "collegeDominance": "good"
             }
           }
         ]
@@ -984,30 +981,32 @@
             }
           },
           {
-            "name": "Tom Rathman",
+            "name": "Jamie Williams",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 21,
+              "recYds": 247,
+              "recTDs": 3,
+              "yac": 78
             },
             "bonuses": {
-              "nflDraftPick": 100,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 64,
+              "conferenceChampionship": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Mitch Hjelm",
+            "name": "Mitch Krenk",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 42
+              "rec": 13,
+              "recYds": 162,
+              "recTDs": 2,
+              "yac": 48
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "conferenceChampionship": true,
               "collegeDominance": "veryGood"
             }
           }
@@ -1269,16 +1268,16 @@
             }
           },
           {
-            "name": "DeAngelo Evans",
+            "name": "Dahrran Diedrick",
             "games": 12,
             "stats": {
-              "rushYds": 855,
-              "rushTDs": 9,
-              "ypc": 5.2,
-              "recYds": 120
+              "rushYds": 1299,
+              "rushTDs": 15,
+              "ypc": 5.6,
+              "recYds": 90
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "nflDraftPick": 235,
               "collegeDominance": "elite"
             }
           },
@@ -1770,17 +1769,16 @@
             }
           },
           {
-            "name": "Tyler Wullenwaber",
-            "games": 12,
+            "name": "Kyler Reed",
+            "games": 13,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 22,
+              "recYds": 395,
+              "recTDs": 8,
+              "yac": 140
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -2244,17 +2242,16 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Tate Vedral",
+            "name": "Nick Henrich",
             "games": 12,
             "stats": {
-              "tackles": 95,
-              "sacks": 3,
+              "tackles": 90,
+              "sacks": 1,
               "ints": 1,
-              "tfls": 11
+              "tfls": 5
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {

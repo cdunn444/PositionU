@@ -384,6 +384,15 @@
 
 
 
+  /* Centered header above the OFF/DEF ratings */
+  .ratings-header {
+    text-align: center;
+    background: var(--felt);
+    padding: 14px 16px 6px;
+    font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600;
+    letter-spacing: 5px; text-transform: uppercase; color: var(--aged);
+  }
+
   /* Grade + ratings row */
   .grade-row, .grade-ratings-row {
     display: flex;

@@ -39,21 +39,22 @@ const RULES = Object.freeze({
   // were tuned to optimistic totals, so 15-0 (old min 403) sat ABOVE the 99th
   // percentile of achievable totals and was effectively impossible. New tiers are
   // anchored to the same realistic distribution as the Madden scales so record and
-  // rating agree: median ~10-5/11-4, 15-0 ~2-3% (great draft + respin luck), and a
-  // 15-0 team reads high-80s+ on both sides. offMin/defMin keep lopsided teams
-  // (great O, weak D) out of the top tiers.
+  // rating agree but with headroom: median ~11-4, 15-0 ~6-7% (hard but a real,
+  // brag-worthy goal). A 15-0 team reads only ~82 overall, leaving the 90s/100
+  // Madden ratings as a separate, rarer chase (90+ overall ~1%, 100 = dream team).
+  // offMin/defMin keep lopsided teams (great O, weak D) out of the top tiers.
   recordTiers: [
-    { min: 356, offMin: 224, defMin: 136, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
-    { min: 347, offMin: 217, defMin: 129, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
-    { min: 338, offMin: 210, defMin: 122, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
-    { min: 327, offMin: 201, defMin: 113, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
-    { min: 316, offMin: 190, defMin: 104, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
-    { min: 306, offMin: 179, defMin:  94, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
-    { min: 296, offMin: 166, defMin:  84, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
-    { min: 286, offMin: 153, defMin:  73, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
-    { min: 276, offMin: 140, defMin:  62, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
+    { min: 347, offMin: 215, defMin: 128, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
+    { min: 339, offMin: 208, defMin: 121, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
+    { min: 331, offMin: 201, defMin: 114, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
+    { min: 321, offMin: 192, defMin: 106, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
+    { min: 311, offMin: 182, defMin:  97, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
+    { min: 302, offMin: 172, defMin:  88, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
+    { min: 293, offMin: 160, defMin:  79, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
+    { min: 284, offMin: 148, defMin:  69, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
+    { min: 275, offMin: 136, defMin:  60, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
     { min: 266, offMin: 0,   defMin: 0,   roomMin: 0, record: '6-9',  grade: 'C',  label: 'Tough Season' },
-    { min: 255, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
+    { min: 256, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
     { min: 0,   offMin: 0,   defMin: 0,   roomMin: 0, record: '4-11', grade: 'D',  label: 'Reset the Program' }
   ],
 

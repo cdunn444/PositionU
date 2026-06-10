@@ -555,10 +555,10 @@
             "name": "Cory Booker",
             "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 210,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 13,
+              "recYds": 162,
+              "recTDs": 1,
+              "yac": 54
             },
             "bonuses": {
               "collegeDominance": "veryGood"

@@ -1294,30 +1294,28 @@
             }
           },
           {
-            "name": "Seneca Wallace",
+            "name": "Charles Frederick",
             "games": 12,
             "stats": {
-              "rec": 42,
-              "recYds": 628,
+              "rec": 59,
+              "recYds": 831,
               "recTDs": 5,
-              "yac": 198
+              "yac": 268
             },
             "bonuses": {
-              "nflDraftPick": 110,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Craig Davis",
+            "name": "D'Andre Goodwin",
             "games": 12,
             "stats": {
-              "rec": 36,
-              "recYds": 538,
-              "recTDs": 4,
-              "yac": 168
+              "rec": 60,
+              "recYds": 692,
+              "recTDs": 1,
+              "yac": 222
             },
             "bonuses": {
-              "nflDraftPick": 165,
               "collegeDominance": "elite"
             }
           }
@@ -1343,21 +1341,20 @@
             }
           },
           {
-            "name": "Colin Husband",
+            "name": "Jon Lyon",
             "games": 12,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
+              "rec": 17,
+              "recYds": 231,
               "recTDs": 2,
-              "yac": 68
+              "yac": 72
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Michael Hartvigsen",
+            "name": "Michael Hartvigson",
             "games": 12,
             "stats": {
               "rec": 14,
@@ -1398,23 +1395,21 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Marcus Tubbs",
+            "name": "Greyson Gunheim",
             "games": 13,
             "stats": {
               "sacks": 6,
-              "tfls": 10,
-              "hurries": 14,
+              "tfls": 9,
+              "hurries": 13,
               "ff": 2,
-              "dominanceGrade": "A+"
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 22,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Hau'oli Jamora",
+            "name": "Jordan Reffett",
             "games": 12,
             "stats": {
               "sacks": 4,
@@ -1424,7 +1419,6 @@
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 165,
               "collegeDominance": "elite"
             }
           },

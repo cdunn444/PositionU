@@ -1099,17 +1099,17 @@
             }
           },
           {
-            "name": "Chris Carlisle",
+            "name": "Bruce Scholtz",
             "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 95,
+              "sacks": 6,
               "ints": 1,
-              "tfls": 10
+              "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "nflDraftPick": 33,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1136,18 +1136,19 @@
             }
           },
           {
-            "name": "Chris Carlisle",
+            "name": "Mossy Cade",
             "games": 11,
             "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 52,
+              "ints": 6,
+              "pbus": 14,
+              "tackles": 48,
               "ff": 1,
-              "coverageGrade": "A"
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 6,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1474,31 +1475,29 @@
             }
           },
           {
-            "name": "Brock Edwards",
-            "games": 11,
+            "name": "Dusty Renfro",
+            "games": 12,
             "stats": {
-              "tackles": 95,
-              "sacks": 4,
+              "tackles": 130,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 12
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Octavious Bishop",
+            "name": "Tyson King",
             "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 98,
+              "sacks": 2,
               "ints": 1,
-              "tfls": 10
+              "tfls": 9
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1735,16 +1734,15 @@
             }
           },
           {
-            "name": "Garrett Greim",
-            "games": 11,
+            "name": "Garrett Gray",
+            "games": 10,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 4,
+              "recYds": 18,
+              "recTDs": 0,
+              "yac": 9
             },
             "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "veryGood"
             }
           },

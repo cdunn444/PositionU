@@ -295,32 +295,30 @@
             }
           },
           {
-            "name": "Garrett Limbrick",
-            "games": 11,
+            "name": "Sim Drain III",
+            "games": 12,
             "stats": {
-              "tackles": 84,
+              "tackles": 88,
               "sacks": 2,
-              "ints": 1,
-              "tfls": 8
-            },
-            "bonuses": {
-              "collegeDominance": "veryGood"
-            },
-            "note": "LAST-RESORT adjacent-position fill: real OSU 1988 fullback (Barry Sanders' lead blocker) used here as a thumping off-ball defender to complete the 80s LB room; only Monger is a documented dedicated 80s OSU linebacker. Genuine OSU player, off-position."
-          },
-          {
-            "name": "John Washington",
-            "games": 11,
-            "stats": {
-              "tackles": 70,
-              "sacks": 6,
               "ints": 0,
-              "tfls": 12
+              "tfls": 7
             },
             "bonuses": {
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brandon Colbert",
+            "games": 12,
+            "stats": {
+              "tackles": 71,
+              "sacks": 3,
+              "ints": 0,
+              "tfls": 7
             },
-            "note": "LAST-RESORT adjacent-position fill: real OSU 1983-86 defensive end (3rd-round NFL pick) listed here as a stand-up edge LB to complete the 80s LB room. Genuine OSU player; primary listing is 80s DL."
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
           }
         ]
       },
@@ -668,20 +666,6 @@
             }
           },
           {
-            "name": "John Corker",
-            "games": 11,
-            "stats": {
-              "tackles": 132,
-              "sacks": 8,
-              "ints": 1,
-              "tfls": 16
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Ricky Young",
             "games": 11,
             "stats": {
@@ -693,6 +677,22 @@
             "bonuses": {
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Phillip Dokes",
+            "games": 11,
+            "stats": {
+              "tackles": 72,
+              "sacks": 6,
+              "ints": 0,
+              "tfls": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 9,
+              "collegeDominance": "elite"
+            },
+            "note": "LAST-RESORT adjacent-position fill: real OSU 1974-77 All-America defensive tackle (1978 1st-round NFL pick) listed here as an interior-rushing off-ball/edge defender to complete the 70s LB room; only Cleveland Vann and Ricky Young are documented dedicated 70s OSU linebackers. Genuine OSU player; natural position is DL."
           }
         ]
       },
@@ -1365,8 +1365,8 @@
             "games": 13,
             "stats": {
               "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "tfls": 8,
+              "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A"
             },
@@ -1748,8 +1748,8 @@
             "games": 13,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
+              "tfls": 9,
+              "hurries": 13,
               "ff": 1,
               "dominanceGrade": "A"
             },
@@ -1763,8 +1763,8 @@
             "games": 13,
             "stats": {
               "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "tfls": 6,
+              "hurries": 9,
               "ff": 1,
               "dominanceGrade": "A"
             },
@@ -1816,7 +1816,7 @@
               "tackles": 88,
               "sacks": 2,
               "ints": 1,
-              "tfls": 9
+              "tfls": 10
             },
             "bonuses": {
               "nflDraftPick": 185,
@@ -2074,9 +2074,9 @@
             "games": 13,
             "stats": {
               "rec": 18,
-              "recYds": 218,
+              "recYds": 224,
               "recTDs": 2,
-              "yac": 68
+              "yac": 70
             },
             "bonuses": {
               "nflDraftPick": 195,
@@ -2199,7 +2199,7 @@
             "name": "Nick Martin",
             "games": 13,
             "stats": {
-              "tackles": 88,
+              "tackles": 89,
               "sacks": 2,
               "ints": 1,
               "tfls": 9
@@ -2254,7 +2254,7 @@
             "stats": {
               "ints": 3,
               "pbus": 16,
-              "tackles": 50,
+              "tackles": 51,
               "ff": 1,
               "coverageGrade": "A"
             },

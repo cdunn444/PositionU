@@ -141,17 +141,15 @@
             }
           },
           {
-            "name": "Joe Jarzynka",
-            "games": 12,
+            "name": "Aaron Williams",
+            "games": 11,
             "stats": {
-              "rec": 36,
-              "recYds": 548,
+              "rec": 38,
+              "recYds": 572,
               "recTDs": 4,
-              "yac": 175
+              "yac": 182
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "nationalChampionship": true,
               "collegeDominance": "veryGood"
             }
           }
@@ -453,17 +451,17 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Robin Earl",
+            "name": "Tom Scott",
             "games": 11,
             "stats": {
-              "rushYds": 1108,
-              "rushTDs": 11,
-              "ypc": 5.4,
-              "recYds": 145
+              "rushYds": 742,
+              "rushTDs": 6,
+              "ypc": 5.2,
+              "recYds": 312
             },
             "bonuses": {
-              "nflDraftPick": 85,
-              "collegeDominance": "elite"
+              "nflDraftPick": 304,
+              "collegeDominance": "veryGood"
             }
           },
           {

@@ -486,16 +486,16 @@
             }
           },
           {
-            "name": "C.J. Donaldson",
+            "name": "Kalel Mullings",
             "games": 13,
             "stats": {
-              "rushYds": 682,
-              "rushTDs": 8,
-              "ypc": 6.1,
-              "recYds": 120
+              "rushYds": 948,
+              "rushTDs": 12,
+              "ypc": 5.1,
+              "recYds": 35
             },
             "bonuses": {
-              "nflDraftPick": 130,
+              "nflDraftPick": 188,
               "collegeDominance": "elite"
             }
           }
@@ -670,20 +670,20 @@
             }
           },
           {
-            "name": "Kris Jenkins",
-            "games": 14,
+            "name": "Mason Graham",
+            "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 3.5,
+              "tfls": 7,
+              "hurries": 3,
+              "ff": 0,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 52,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
               "nationalChampionship": true,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           }
         ]

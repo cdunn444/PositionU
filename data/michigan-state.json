@@ -1641,16 +1641,15 @@
             }
           },
           {
-            "name": "Tre Mosley",
-            "games": 12,
+            "name": "Nick Marsh",
+            "games": 11,
             "stats": {
-              "rec": 38,
-              "recYds": 558,
-              "recTDs": 5,
-              "yac": 175
+              "rec": 41,
+              "recYds": 649,
+              "recTDs": 3,
+              "yac": 232
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
           },

@@ -25,17 +25,17 @@
             }
           },
           {
-            "name": "Ken Stacy",
+            "name": "Kenny Lyons",
             "games": 11,
             "stats": {
-              "passYds": 1288,
-              "passTDs": 10,
+              "passYds": 1402,
+              "passTDs": 11,
               "intsSeason": 6,
-              "qbr": 128
+              "qbr": 134
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Real Ole Miss QB (1971,1973-74); single-season completion pct record holder. Stats reconstructed."
             }
           },
           {
@@ -60,18 +60,18 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Ben Williams",
+            "name": "Leon Perry",
             "games": 11,
             "stats": {
-              "rushYds": 912,
-              "rushTDs": 9,
-              "ypc": 5.2,
-              "recYds": 120
+              "rushYds": 842,
+              "rushTDs": 10,
+              "ypc": 4.9,
+              "recYds": 92
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 45,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 0,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss RB (1976-79), later New York Giants. Stats reconstructed."
             }
           },
           {
@@ -110,17 +110,17 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Tim Moffett",
+            "name": "Vernon Studdard",
             "games": 11,
             "stats": {
-              "rec": 38,
-              "recYds": 568,
-              "recTDs": 5,
-              "yac": 178
+              "rec": 34,
+              "recYds": 512,
+              "recTDs": 4,
+              "yac": 160
             },
             "bonuses": {
-              "nflDraftPick": 100,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss WR early 1970s. Stats reconstructed."
             }
           },
           {
@@ -173,18 +173,17 @@
             }
           },
           {
-            "name": "Wesley Walls",
+            "name": "L.Q. Smith",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
+              "rec": 14,
+              "recYds": 188,
               "recTDs": 1,
-              "yac": 42
+              "yac": 58
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 29,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood",
+              "note": "Real Ole Miss TE (1974-77); caught 48-yd pass in 1977 Notre Dame upset. Stats reconstructed."
             }
           },
           {
@@ -449,17 +448,18 @@
             }
           },
           {
-            "name": "Freddie Joe Nunn",
+            "name": "Joe Mickles",
             "games": 11,
             "stats": {
               "rushYds": 812,
               "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 120
+              "ypc": 4.7,
+              "recYds": 110
             },
             "bonuses": {
-              "nflDraftPick": 26,
-              "collegeDominance": "elite"
+              "nflDraftPick": 300,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss RB (1985-88). Stats reconstructed."
             }
           },
           {
@@ -484,18 +484,18 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Wesley Walls",
+            "name": "J.R. Ambrose",
             "games": 11,
             "stats": {
-              "rec": 38,
-              "recYds": 568,
+              "rec": 40,
+              "recYds": 620,
               "recTDs": 5,
-              "yac": 178
+              "yac": 190
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 29,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 96,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss WR; team receiving leader 1986. Stats reconstructed."
             }
           },
           {
@@ -549,31 +549,32 @@
             }
           },
           {
-            "name": "Willie Drewrey",
+            "name": "Willie Green",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
-              "yac": 60
+              "rec": 24,
+              "recYds": 360,
+              "recTDs": 3,
+              "yac": 108
             },
             "bonuses": {
-              "nflDraftPick": 68,
-              "collegeDominance": "elite"
+              "nflDraftPick": 194,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss receiver (1987-89), led team in receiving 3 yrs; aligned as a pass-catching TE/flex here for roster completeness. Stats reconstructed."
             }
           },
           {
-            "name": "Freddie Joe Nunn",
+            "name": "Willie Goodloe",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
+              "rec": 14,
+              "recYds": 172,
               "recTDs": 1,
-              "yac": 36
+              "yac": 54
             },
             "bonuses": {
-              "nflDraftPick": 26,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Real Ole Miss receiver (mid-1980s); used at TE/H-back here for roster completeness. Stats reconstructed."
             }
           }
         ]
@@ -672,31 +673,34 @@
             }
           },
           {
-            "name": "Sam Shade",
+            "name": "Jeff Herrod",
             "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 4,
+              "tackles": 168,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 11
+              "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 98,
-              "collegeDominance": "elite"
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 230,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss LB (1984-88); program all-time tackles leader."
             }
           },
           {
-            "name": "Chris Mims",
+            "name": "Andre Townsend",
             "games": 11,
             "stats": {
-              "tackles": 78,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 9
+              "tackles": 74,
+              "sacks": 6,
+              "ints": 0,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 23,
-              "collegeDominance": "elite"
+              "nflDraftPick": 40,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss DL (1981-83), 2x All-SEC; listed here at edge/LB for roster completeness."
             }
           }
         ]
@@ -722,19 +726,18 @@
             }
           },
           {
-            "name": "Wayne Martin",
+            "name": "Todd Sandroni",
             "games": 11,
             "stats": {
               "ints": 4,
-              "pbus": 18,
-              "tackles": 50,
+              "pbus": 16,
+              "tackles": 58,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 19,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss DB (1987-90). Stats reconstructed."
             }
           },
           {
@@ -841,17 +844,18 @@
             }
           },
           {
-            "name": "Nate Wayne",
-            "games": 11,
+            "name": "John Avery",
+            "games": 12,
             "stats": {
-              "rushYds": 712,
+              "rushYds": 862,
               "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 108
+              "ypc": 5.2,
+              "recYds": 140
             },
             "bonuses": {
-              "nflDraftPick": 111,
-              "collegeDominance": "elite"
+              "nflDraftPick": 29,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss RB (1997); 1st-round pick 1998. Stats reconstructed."
             }
           }
         ]
@@ -912,17 +916,19 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Ken Lucas",
+            "name": "Rufus French",
             "games": 12,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
+              "rec": 40,
+              "recYds": 520,
+              "recTDs": 5,
+              "yac": 150
             },
             "bonuses": {
-              "nflDraftPick": 42,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 0,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss TE; unanimous All-American 1998. Stats reconstructed."
             }
           },
           {
@@ -981,34 +987,37 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Chris Mims",
+            "name": "Tim Bowens",
             "games": 12,
             "stats": {
-              "sacks": 8,
-              "tfls": 12,
-              "hurries": 16,
-              "ff": 2,
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 23,
-              "collegeDominance": "eraDef"
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss DT (1993); 1st-round pick 1994, NFL DROY."
             }
           },
           {
-            "name": "Nate Wayne",
+            "name": "Kelvin Pritchett",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 11,
-              "ff": 1,
+              "sacks": 8,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 111,
-              "collegeDominance": "elite"
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss DL; All-American senior 1990, 1st-round pick 1991. Stats reconstructed."
             }
           },
           {
@@ -1115,18 +1124,18 @@
             }
           },
           {
-            "name": "Moe Williams",
-            "games": 11,
+            "name": "Tim Strickland",
+            "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 15,
-              "tackles": 46,
+              "pbus": 14,
+              "tackles": 48,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 134,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss CB (late 1990s). Stats reconstructed."
             }
           }
         ]

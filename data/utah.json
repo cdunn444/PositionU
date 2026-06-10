@@ -1540,18 +1540,17 @@
             }
           },
           {
-            "name": "Nate Johnson",
+            "name": "Devon Dampier",
             "games": 12,
             "stats": {
-              "passYds": 2186,
-              "passTDs": 17,
-              "intsSeason": 6,
-              "qbr": 155,
-              "rushYds": 412,
-              "rushTDs": 5
+              "passYds": 2490,
+              "passTDs": 24,
+              "intsSeason": 5,
+              "qbr": 153,
+              "rushYds": 835,
+              "rushTDs": 10
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -1593,16 +1592,15 @@
             }
           },
           {
-            "name": "Charlie Brewer",
+            "name": "Micah Bernard",
             "games": 12,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.2,
-              "recYds": 108
+              "rushYds": 1009,
+              "rushTDs": 4,
+              "ypc": 5.1,
+              "recYds": 150
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -1629,31 +1627,29 @@
             }
           },
           {
-            "name": "Brant Kuithe",
+            "name": "Dorian Singer",
             "games": 12,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
+              "rec": 53,
+              "recYds": 702,
+              "recTDs": 1,
+              "yac": 205
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 115,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Money Parks",
+            "name": "Devaughn Vele",
             "games": 12,
             "stats": {
-              "rec": 36,
-              "recYds": 538,
-              "recTDs": 4,
-              "yac": 168
+              "rec": 55,
+              "recYds": 717,
+              "recTDs": 5,
+              "yac": 220
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "nflDraftPick": 235,
               "collegeDominance": "elite"
             }
           }
@@ -1822,16 +1818,15 @@
             }
           },
           {
-            "name": "Karene Reid",
+            "name": "Lander Barton",
             "games": 12,
             "stats": {
-              "tackles": 78,
-              "sacks": 2,
-              "ints": 1,
+              "tackles": 90,
+              "sacks": 4,
+              "ints": 2,
               "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }

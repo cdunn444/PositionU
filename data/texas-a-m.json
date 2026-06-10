@@ -265,17 +265,16 @@
             }
           },
           {
-            "name": "Sam Williams",
+            "name": "Sammy O'Brient",
             "games": 11,
             "stats": {
               "sacks": 4,
-              "tfls": 7,
+              "tfls": 8,
               "hurries": 10,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 125,
               "collegeDominance": "elite"
             }
           }
@@ -525,13 +524,13 @@
             }
           },
           {
-            "name": "Greg Hines",
+            "name": "Tony Harrison",
             "games": 12,
             "stats": {
-              "rec": 36,
-              "recYds": 538,
+              "rec": 38,
+              "recYds": 588,
               "recTDs": 4,
-              "yac": 168
+              "yac": 178
             },
             "bonuses": {
               "nflDraftPick": 175,
@@ -1024,28 +1023,26 @@
             }
           },
           {
-            "name": "Aldon Smith",
-            "games": 12,
+            "name": "Michael Bennett",
+            "games": 11,
             "stats": {
-              "sacks": 7,
-              "tfls": 11,
-              "hurries": 16,
+              "sacks": 6,
+              "tfls": 12,
+              "hurries": 14,
               "ff": 2,
-              "dominanceGrade": "A+"
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 7,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Sean Porter",
+            "name": "Cyril Obiozor",
             "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A"
             },

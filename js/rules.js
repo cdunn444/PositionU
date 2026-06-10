@@ -22,15 +22,15 @@ const RULES = Object.freeze({
     OL: 1.0, DL: 5.5, LB: 4.8, DB: 5.0
   },
 
-  // Madden rating scales — recalibrated 2026-06-09 (rules v1.4 distribution).
-  // Per-axis piecewise map (floor -> knee@typical-15-0 -> theoretical max):
-  //   weak unit (~1st pct) -> 55 ; typical undefeated unit -> ~98 (undefeated avg ~95) ;
-  //   dream team (best room at every slot) -> 100, and essentially nothing short of it
-  //   reaches it. Offense and defense scored independently so the O/D split stays
-  //   honest. Inlined in game.js showResults().
+  // Madden rating scales — recalibrated 2026-06-10 against the rebuilt roster data.
+  // Per-axis piecewise map (floor -> knee@strong-unit -> dream-team max):
+  //   weak unit (~1st pct) -> 55 ; strong well-drafted unit -> ~90 at the knee ;
+  //   95+ reserved for exceptional units ; dream team (best room at every slot) -> 100.
+  //   Top deliberately decompressed so one elite room can't vault a side to 99.
+  //   Offense and defense tuned symmetric (verified in sim). Inlined in game.js.
   maddenScales: {
-    offense: { floor: 174, knee: 256, kneeRating: 98.4, max: 380, floorRating: 55, ceiling: 100 },
-    defense: { floor:  93, knee: 165, kneeRating: 98.9, max: 250, floorRating: 55, ceiling: 100 }
+    offense: { floor: 174, knee: 255, kneeRating: 90, max: 375, floorRating: 55, ceiling: 100 },
+    defense: { floor:  93, knee: 165, kneeRating: 90, max: 263, floorRating: 55, ceiling: 100 }
   },
 
   // Record tier requirements — ALL conditions must be met for the tier

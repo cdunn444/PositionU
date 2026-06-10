@@ -486,23 +486,22 @@ function showResults() {
   const result = mapScore(total, offTotal, defTotal, roomScores);
   document.getElementById('finalRecord').textContent = result.record;
   document.getElementById('gradeDisplay').textContent = result.grade;
-  // Madden-style ratings — recalibrated 2026-06-09 (rules v1.4 distribution).
-  // Per-axis piecewise scale; offense and defense judged independently so the
-  // offense/defense split stays honest (e.g. elite O + mid D → 13-2 shows a real gap):
+  // Madden-style ratings — recalibrated 2026-06-10 against the rebuilt roster
+  // data. Per-axis piecewise scale; offense and defense judged independently and
+  // tuned to be symmetric (equal-quality units score equally — verified in sim).
   //   • a weak unit (~1st pct of raw output) reads ~55
-  //   • a typical undefeated unit (mean 15-0 raw output) reads ~98, so an undefeated
-  //     team averages ~95 on each side once lopsided champs are included
-  //   • the theoretical dream team — the single best room at every slot — reads 100,
-  //     and essentially nothing short of it does (offense knee/ceiling raw 256/380,
-  //     defense raw 165/250)
+  //   • a strong, well-drafted unit reads ~90 at the knee — the top is deliberately
+  //     decompressed so a single elite room no longer vaults the whole side to 99
+  //   • 95+ is reserved for an exceptional unit, and 100 only for the theoretical
+  //     dream team (the single best room at every slot: offense raw 375, defense 263)
   const maddenRating = (raw, lo, knee, kneeR, max) => {
     const v = raw <= knee
       ? 55 + (raw - lo) / (knee - lo) * (kneeR - 55)
       : kneeR + (raw - knee) / (max - knee) * (100 - kneeR);
     return Math.min(100, Math.max(40, Math.round(v)));
   };
-  const offRating = maddenRating(offTotal, 174, 256, 98.4, 380);
-  const defRating = maddenRating(defTotal,  93, 165, 98.9, 250);
+  const offRating = maddenRating(offTotal, 174, 255, 90, 375);
+  const defRating = maddenRating(defTotal,  93, 165, 90, 263);
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

@@ -2032,19 +2032,17 @@
             }
           },
           {
-            "name": "Jalen Milroe",
-            "games": 14,
+            "name": "Ty Simpson",
+            "games": 15,
             "stats": {
-              "passYds": 2839,
-              "passTDs": 23,
-              "intsSeason": 7,
-              "qbr": 158,
-              "rushYds": 754,
-              "rushTDs": 12
+              "passYds": 3567,
+              "passTDs": 28,
+              "intsSeason": 5,
+              "qbr": 185
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 92,
+              "nflDraftPick": 13,
               "collegeDominance": "elite"
             }
           },

@@ -1686,17 +1686,17 @@
             }
           },
           {
-            "name": "Koy Moore",
-            "games": 12,
+            "name": "Cam Coleman",
+            "games": 11,
             "stats": {
-              "rec": 35,
-              "recYds": 515,
-              "recTDs": 4,
-              "yac": 165
+              "rec": 37,
+              "recYds": 598,
+              "recTDs": 8,
+              "yac": 195
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "freshmanAllAmerican": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1808,17 +1808,18 @@
             }
           },
           {
-            "name": "Marcus Harris",
+            "name": "Keldric Faulk",
             "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 11,
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 16,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 165,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 25,
               "collegeDominance": "elite"
             }
           }

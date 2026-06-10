@@ -1609,16 +1609,16 @@
             }
           },
           {
-            "name": "AJ Green",
+            "name": "Ja'Quinden Jackson",
             "games": 12,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 8,
-              "ypc": 5.4,
-              "recYds": 145
+              "rushYds": 790,
+              "rushTDs": 15,
+              "ypc": 5.3,
+              "recYds": 95
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "secondTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }
@@ -1661,16 +1661,16 @@
           },
           {
             "name": "Andrew Armstrong",
-            "games": 13,
+            "games": 12,
             "stats": {
-              "rec": 48,
-              "recYds": 718,
-              "recTDs": 6,
-              "yac": 228
+              "rec": 78,
+              "recYds": 1140,
+              "recTDs": 5,
+              "yac": 342
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]

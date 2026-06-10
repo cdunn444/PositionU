@@ -302,18 +302,18 @@
             }
           },
           {
-            "name": "Doug Williams",
+            "name": "John Roper",
             "games": 11,
             "stats": {
-              "tackles": 105,
-              "sacks": 4,
-              "ints": 2,
-              "tfls": 13
+              "tackles": 98,
+              "sacks": 15,
+              "ints": 1,
+              "tfls": 11
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 6,
-              "collegeDominance": "elite"
+              "nflDraftPick": 46,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -354,32 +354,33 @@
             }
           },
           {
-            "name": "William Thomas",
+            "name": "Chet Brooks",
             "games": 11,
             "stats": {
               "ints": 4,
               "pbus": 18,
-              "tackles": 55,
+              "tackles": 72,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 38,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Aaron Wallace",
+            "name": "Kip Corrington",
             "games": 11,
             "stats": {
               "ints": 3,
-              "pbus": 15,
-              "tackles": 50,
+              "pbus": 14,
+              "tackles": 60,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 90,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -615,51 +616,49 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Dat Nguyen",
+            "name": "Sam Adams",
             "games": 12,
             "stats": {
-              "sacks": 6,
-              "tfls": 10,
-              "hurries": 14,
+              "sacks": 8,
+              "tfls": 13,
+              "hurries": 18,
               "ff": 2,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "butkus": true,
-              "bednarik": true,
               "consensusAllAmerican": true,
-              "nflDraftPick": 232,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Aaron Wallace",
-            "games": 12,
-            "stats": {
-              "sacks": 7,
-              "tfls": 11,
-              "hurries": 15,
-              "ff": 2,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 90,
+              "nflDraftPick": 8,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Dennis Allen",
-            "games": 11,
+            "name": "Brandon Mitchell",
+            "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "sacks": 6,
+              "tfls": 15,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eric England",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "nflDraftPick": 90,
               "collegeDominance": "elite"
             }
           }
@@ -864,16 +863,16 @@
             }
           },
           {
-            "name": "Ryan Tannehill",
+            "name": "Mike Goodson",
             "games": 12,
             "stats": {
-              "rushYds": 712,
+              "rushYds": 847,
               "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 120
+              "ypc": 6.7,
+              "recYds": 130
             },
             "bonuses": {
-              "nflDraftPick": 8,
+              "nflDraftPick": 99,
               "collegeDominance": "elite"
             }
           }

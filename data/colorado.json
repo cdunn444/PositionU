@@ -26,17 +26,16 @@
             }
           },
           {
-            "name": "Kordell Stewart Jr.",
+            "name": "Koy Detmer",
             "games": 11,
             "stats": {
-              "passYds": 2161,
-              "passTDs": 18,
-              "intsSeason": 7,
+              "passYds": 3156,
+              "passTDs": 22,
+              "intsSeason": 9,
               "qbr": 141
             },
             "bonuses": {
               "nflDraftPick": 185,
-              "nationalChampionship": true,
               "collegeDominance": "elite"
             }
           },
@@ -79,18 +78,16 @@
             }
           },
           {
-            "name": "Lamont Warren Jr.",
+            "name": "Herchell Troutman",
             "games": 11,
             "stats": {
-              "rushYds": 817,
-              "rushTDs": 7,
-              "ypc": 6.1,
-              "recYds": 177
+              "rushYds": 852,
+              "rushTDs": 9,
+              "ypc": 4.8,
+              "recYds": 205
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 39,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "veryGood"
             }
           },
           {
@@ -693,16 +690,16 @@
             }
           },
           {
-            "name": "Stan Brock",
+            "name": "Bill Roe",
             "games": 12,
             "stats": {
-              "tackles": 94,
-              "sacks": 5,
-              "ints": 0,
-              "tfls": 7
+              "tackles": 162,
+              "sacks": 4,
+              "ints": 3,
+              "tfls": 9
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "nflDraftPick": 78,
               "collegeDominance": "elite"
             }
           }
@@ -1387,17 +1384,17 @@
             }
           },
           {
-            "name": "De'Vondre Campbell",
+            "name": "Tyler Brayton",
             "games": 12,
             "stats": {
-              "sacks": 4.5,
-              "tfls": 7,
-              "hurries": 15,
-              "ff": 1,
+              "sacks": 6,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "nflDraftPick": 32,
               "collegeDominance": "elite"
             }
           }

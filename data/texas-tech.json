@@ -159,45 +159,45 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Wayne Walker",
+            "name": "Buzz Tatom",
             "games": 11,
             "stats": {
-              "rec": 20,
-              "recYds": 245,
-              "recTDs": 2,
-              "yac": 80
+              "rec": 32,
+              "recYds": 402,
+              "recTDs": 5,
+              "yac": 130
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "All-SWC Texas Tech receiver of era listed at TE"
+              "note": "Texas Tech TE 1982-83 (moved from DE); 61 career rec, 760 yds, 9 TD"
             }
           },
           {
-            "name": "Eddy Anderson",
+            "name": "Anthony Manyweather",
             "games": 11,
             "stats": {
               "rec": 14,
-              "recYds": 165,
+              "recYds": 188,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1989 receiving TE; caught game-winning TD at Texas"
+            }
+          },
+          {
+            "name": "Kelvin Harper",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 148,
               "recTDs": 1,
               "yac": 55
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "All-SWC Texas Tech receiver of era listed at TE"
-            }
-          },
-          {
-            "name": "Tyrone Thurman",
-            "games": 12,
-            "stats": {
-              "rec": 10,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 60
-            },
-            "bonuses": {
-              "collegeDominance": "veryGood",
-              "note": "All-American Texas Tech return man/receiver listed at TE"
+              "note": "Texas Tech early-80s receiver/TE hybrid listed at TE"
             }
           }
         ]
@@ -244,36 +244,34 @@
             }
           },
           {
-            "name": "Dwayne Jiles",
+            "name": "Charles Perry",
             "games": 11,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
-              "hurries": 10,
+              "tfls": 9,
+              "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
               "firstTeamAllConference": true,
-              "nflDraftPick": 130,
               "collegeDominance": "elite",
-              "note": "Texas Tech LB/edge (NFL Eagles/Giants) listed on DL"
+              "note": "Texas Tech DT; All-SWC 1989"
             }
           },
           {
-            "name": "Brad Hastings",
+            "name": "Calvin Riggs",
             "games": 11,
             "stats": {
-              "sacks": 3,
+              "sacks": 4,
               "tfls": 6,
-              "hurries": 8,
+              "hurries": 9,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllConference": true,
-              "collegeDominance": "elite",
-              "note": "Three-time All-SWC linebacker (1983-86) listed on DL"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech DE (mid-80s) edge pass rusher"
             }
           }
         ]
@@ -314,17 +312,17 @@
             }
           },
           {
-            "name": "Anthony Lynn",
+            "name": "Michael Johnson",
             "games": 11,
             "stats": {
-              "tackles": 82,
+              "tackles": 154,
               "sacks": 2,
               "ints": 1,
-              "tfls": 8
+              "tfls": 9
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Texas Tech 1988-91 RB listed at LB as era teammate"
+              "note": "Texas Tech LB 1984-87; 393 career tackles, 154 in 1987"
             }
           }
         ]
@@ -543,45 +541,45 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Lloyd Hill",
+            "name": "Tim Winn",
             "games": 12,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 2,
-              "yac": 85
-            },
-            "bonuses": {
-              "collegeDominance": "elite",
-              "note": "All-American Texas Tech receiver of era listed at TE"
-            }
-          },
-          {
-            "name": "Field Scovell",
-            "games": 12,
-            "stats": {
-              "rec": 14,
-              "recYds": 165,
+              "rec": 20,
+              "recYds": 337,
               "recTDs": 1,
-              "yac": 52
+              "yac": 110
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Texas Tech 1994-96 receiver listed at TE"
+              "note": "Texas Tech TE 1997-99; three-year letterman, Longview, TX"
             }
           },
           {
-            "name": "Donny Brooks",
+            "name": "Kyle Allamon",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 205,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech TE 1996-99; Lubbock, TX"
+            }
+          },
+          {
+            "name": "Cole Roberts",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
+              "rec": 12,
+              "recYds": 148,
               "recTDs": 1,
-              "yac": 36
+              "yac": 50
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Texas Tech 1990s receiver listed at TE"
+              "note": "Texas Tech TE 1997-2001; Shallowater, TX"
             }
           }
         ]
@@ -1213,20 +1211,6 @@
             }
           },
           {
-            "name": "Jakeem Grant",
-            "games": 13,
-            "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.5,
-              "recYds": 165
-            },
-            "bonuses": {
-              "nflDraftPick": 188,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Justin Stockton",
             "games": 13,
             "stats": {
@@ -1238,6 +1222,19 @@
             "bonuses": {
               "nflDraftPick": 215,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Da'Leon Ward",
+            "games": 12,
+            "stats": {
+              "rushYds": 705,
+              "rushTDs": 9,
+              "ypc": 4.6,
+              "recYds": 110
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
             }
           }
         ]

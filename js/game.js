@@ -500,8 +500,8 @@ function showResults() {
       : kneeR + (raw - knee) / (max - knee) * (100 - kneeR);
     return Math.min(100, Math.max(40, Math.round(v)));
   };
-  const offRating = maddenRating(offTotal, 174, 255, 90, 375);
-  const defRating = maddenRating(defTotal,  93, 165, 90, 263);
+  const offRating = maddenRating(offTotal, 136, 245, 92, 375);
+  const defRating = maddenRating(defTotal,  64, 154, 92, 263);
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

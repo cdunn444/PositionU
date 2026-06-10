@@ -1833,16 +1833,15 @@
             }
           },
           {
-            "name": "Ace Eley",
-            "games": 12,
+            "name": "Kyle Efford",
+            "games": 13,
             "stats": {
-              "tackles": 78,
+              "tackles": 81,
               "sacks": 2,
               "ints": 1,
-              "tfls": 8
+              "tfls": 7
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           }

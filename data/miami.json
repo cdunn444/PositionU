@@ -1599,16 +1599,16 @@
             }
           },
           {
-            "name": "Tyler Van Dyke",
+            "name": "Carson Beck",
             "games": 13,
             "stats": {
-              "passYds": 3231,
-              "passTDs": 25,
-              "intsSeason": 9,
-              "qbr": 158
+              "passYds": 3200,
+              "passTDs": 26,
+              "intsSeason": 7,
+              "qbr": 165
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }

@@ -393,20 +393,20 @@
             }
           },
           {
-            "name": "Christopher Smith",
+            "name": "Malaki Starks",
             "games": 14,
             "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 62,
-              "ff": 2,
-              "coverageGrade": "A"
+              "ints": 3,
+              "pbus": 7,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 162,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 27,
               "nationalChampionship": true,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           }
         ]

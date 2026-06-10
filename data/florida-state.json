@@ -1626,17 +1626,18 @@
             }
           },
           {
-            "name": "Tate Rodemaker",
-            "games": 8,
+            "name": "Tommy Castellanos",
+            "games": 12,
             "stats": {
-              "passYds": 1288,
-              "passTDs": 10,
-              "intsSeason": 5,
-              "qbr": 138
+              "passYds": 2760,
+              "passTDs": 15,
+              "intsSeason": 9,
+              "qbr": 152,
+              "rushYds": 557,
+              "rushTDs": 9
             },
             "bonuses": {
-              "nflDraftPick": 220,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1727,16 +1728,17 @@
             }
           },
           {
-            "name": "Ontaria Wilson",
+            "name": "Duce Robinson",
             "games": 12,
             "stats": {
-              "rec": 43,
-              "recYds": 676,
-              "recTDs": 5,
-              "yac": 280
+              "rec": 56,
+              "recYds": 1074,
+              "recTDs": 6,
+              "yac": 312
             },
             "bonuses": {
-              "collegeDominance": "solid"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1953,18 +1955,18 @@
             }
           },
           {
-            "name": "Shyheim Brown",
-            "games": 14,
+            "name": "Earl Little Jr.",
+            "games": 12,
             "stats": {
-              "ints": 2,
-              "pbus": 16,
-              "tackles": 55,
-              "ff": 1,
+              "ints": 4,
+              "pbus": 2,
+              "tackles": 76,
+              "ff": 2,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "secondTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           }
         ]

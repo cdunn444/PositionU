@@ -78,33 +78,31 @@
             }
           },
           {
-            "name": "Napolean Kaufman",
-            "games": 12,
+            "name": "Jacque Robinson",
+            "games": 11,
             "stats": {
-              "rushYds": 1299,
-              "rushTDs": 11,
-              "ypc": 6.2,
-              "recYds": 165
+              "rushYds": 1132,
+              "rushTDs": 9,
+              "ypc": 4.9,
+              "recYds": 138
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 18,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Mario Bailey",
-            "games": 12,
+            "name": "Aaron Jenkins",
+            "games": 11,
             "stats": {
-              "rushYds": 488,
-              "rushTDs": 5,
-              "ypc": 5.2,
-              "recYds": 112
+              "rushYds": 691,
+              "rushTDs": 6,
+              "ypc": 4.6,
+              "recYds": 96
             },
             "bonuses": {
-              "nflDraftPick": 170,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -115,19 +113,17 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Mario Bailey",
-            "games": 12,
+            "name": "Lonzell Hill",
+            "games": 11,
             "stats": {
-              "rec": 70,
-              "recYds": 1080,
-              "recTDs": 13,
-              "yac": 360
+              "rec": 55,
+              "recYds": 822,
+              "recTDs": 7,
+              "yac": 268
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 170,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 40,
+              "collegeDominance": "elite"
             }
           },
           {

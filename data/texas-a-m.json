@@ -739,19 +739,19 @@
             }
           },
           {
-            "name": "Steve Atwater",
+            "name": "Aaron Glenn",
             "games": 12,
             "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 62,
-              "ff": 2,
-              "coverageGrade": "A"
+              "ints": 6,
+              "pbus": 20,
+              "tackles": 40,
+              "ff": 1,
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 20,
-              "collegeDominance": "elite"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1432,17 +1432,17 @@
             }
           },
           {
-            "name": "Jarvis Harrison",
+            "name": "Kingsley Keke",
             "games": 13,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "nflDraftPick": 150,
               "collegeDominance": "elite"
             }
           }

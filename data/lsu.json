@@ -537,17 +537,17 @@
             }
           },
           {
-            "name": "Brian Kinchen",
+            "name": "Rogie Magee",
             "games": 11,
             "stats": {
-              "rec": 35,
-              "recYds": 522,
-              "recTDs": 4,
-              "yac": 165
+              "rec": 32,
+              "recYds": 498,
+              "recTDs": 3,
+              "yac": 158
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "nflDraftPick": 0,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -586,16 +586,16 @@
             }
           },
           {
-            "name": "Eddie Fuller",
-            "games": 12,
+            "name": "Willie Williams",
+            "games": 11,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 16,
+              "recYds": 198,
+              "recTDs": 2,
+              "yac": 64
             },
             "bonuses": {
-              "nflDraftPick": 115,
+              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           }
@@ -731,19 +731,19 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Eddie Fuller",
+            "name": "Chris Carrier",
             "games": 12,
             "stats": {
-              "ints": 6,
-              "pbus": 24,
-              "tackles": 58,
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 71,
               "ff": 2,
-              "coverageGrade": "A+"
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 115,
-              "collegeDominance": "eraDef"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 318,
+              "collegeDominance": "elite"
             }
           },
           {

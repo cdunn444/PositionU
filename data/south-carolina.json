@@ -458,16 +458,15 @@
             }
           },
           {
-            "name": "Stanley Pritchett",
+            "name": "Troy Hambrick",
             "games": 11,
             "stats": {
-              "rushYds": 664,
-              "rushTDs": 6,
-              "ypc": 4.7,
-              "recYds": 260
+              "rushYds": 701,
+              "rushTDs": 4,
+              "ypc": 4.9,
+              "recYds": 166
             },
             "bonuses": {
-              "nflDraftPick": 189,
               "collegeDominance": "elite"
             }
           }
@@ -506,17 +505,16 @@
             }
           },
           {
-            "name": "Brandon Bennett",
-            "games": 12,
+            "name": "Toby Cates",
+            "games": 11,
             "stats": {
-              "rec": 30,
-              "recYds": 300,
-              "recTDs": 2,
-              "yac": 140
+              "rec": 33,
+              "recYds": 548,
+              "recTDs": 5,
+              "yac": 185
             },
             "bonuses": {
-              "collegeDominance": "veryGood",
-              "note": "Primarily a RB (1991-94); listed at WR as a verified-era teammate (strong receiving back) to complete the room."
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -538,7 +536,7 @@
             "bonuses": {
               "nflDraftPick": 189,
               "collegeDominance": "elite",
-              "note": "RB/FB who also lined up at TE (1992-95)."
+              "note": "Versatile FB/H-back (1992-95) recognized among the program's top all-time tight ends."
             }
           },
           {

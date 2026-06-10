@@ -76,16 +76,16 @@
             }
           },
           {
-            "name": "Don Bunce",
+            "name": "Scott Laidlaw",
             "games": 11,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
-              "ypc": 5,
-              "recYds": 120
+              "rushYds": 639,
+              "rushTDs": 4,
+              "ypc": 4.4,
+              "recYds": 155
             },
             "bonuses": {
-              "nflDraftPick": 165,
+              "nflDraftPick": 340,
               "collegeDominance": "elite"
             }
           },

@@ -250,13 +250,13 @@
             }
           },
           {
-            "name": "Garland Harris",
+            "name": "Jeff Reyes",
             "games": 11,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
-              "hurries": 10,
-              "ff": 3,
+              "sacks": 14,
+              "tfls": 12,
+              "hurries": 13,
+              "ff": 4,
               "dominanceGrade": "A"
             },
             "bonuses": {
@@ -333,31 +333,32 @@
             }
           },
           {
-            "name": "Mark Blosch",
+            "name": "Jeff Griffin",
             "games": 11,
             "stats": {
-              "ints": 2,
-              "pbus": 8,
-              "tackles": 95,
-              "ff": 1,
+              "ints": 3,
+              "pbus": 3,
+              "tackles": 81,
+              "ff": 3,
               "coverageGrade": "A"
             },
             "bonuses": {
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Pita Tonga Sr.",
+            "name": "Eric Jacobsen",
             "games": 11,
             "stats": {
-              "ints": 1,
-              "pbus": 6,
-              "tackles": 72,
-              "ff": 2,
-              "coverageGrade": "B+"
+              "ints": 7,
+              "pbus": 5,
+              "tackles": 138,
+              "ff": 5,
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -977,17 +978,17 @@
             }
           },
           {
-            "name": "Stevenson Sylvester",
+            "name": "Steve Fifita",
             "games": 13,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
+              "tfls": 13,
               "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
@@ -1014,18 +1015,16 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Eric Weddle",
-            "games": 13,
+            "name": "Joe Jiannoni",
+            "games": 11,
             "stats": {
-              "tackles": 112,
+              "tackles": 92,
               "sacks": 4,
-              "ints": 3,
-              "tfls": 13
+              "ints": 1,
+              "tfls": 8
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 37,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           },
           {

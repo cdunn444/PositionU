@@ -1623,6 +1623,20 @@
         "pos": "WR",
         "players": [
           {
+            "name": "Josh Kelly",
+            "games": 12,
+            "stats": {
+              "rec": 89,
+              "recYds": 1023,
+              "recTDs": 5,
+              "yac": 315
+            },
+            "bonuses": {
+              "secondTeamAllConference": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
             "name": "Myles Price",
             "games": 13,
             "stats": {
@@ -1638,31 +1652,16 @@
             }
           },
           {
-            "name": "Loic Fouonji",
+            "name": "Caleb Douglas",
             "games": 13,
             "stats": {
-              "rec": 48,
-              "recYds": 718,
+              "rec": 60,
+              "recYds": 877,
               "recTDs": 6,
-              "yac": 228
+              "yac": 270
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Jerand Bradley",
-            "games": 13,
-            "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 175,
+              "secondTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }
@@ -1740,6 +1739,22 @@
         "pos": "DL",
         "players": [
           {
+            "name": "David Bailey",
+            "games": 13,
+            "stats": {
+              "sacks": 14.5,
+              "tfls": 19.5,
+              "hurries": 24,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
             "name": "Tyree Wilson",
             "games": 13,
             "stats": {
@@ -1769,21 +1784,6 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 175,
               "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Josh Sarratt",
-            "games": 12,
-            "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 9,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
             }
           }
         ]

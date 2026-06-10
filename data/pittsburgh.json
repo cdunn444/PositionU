@@ -508,7 +508,6 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 0,
               "collegeDominance": "elite"
             }
           },
@@ -625,7 +624,6 @@
               "dominanceGrade": "A-"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           },
@@ -676,7 +674,6 @@
               "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "elite"
             }
           },
@@ -705,7 +702,6 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 0,
               "collegeDominance": "elite"
             }
           }
@@ -742,7 +738,6 @@
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           },
@@ -757,7 +752,6 @@
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           }
@@ -914,17 +908,17 @@
       "TE": {
         "players": [
           {
-            "name": "Adam Walker",
+            "name": "Olanda Truitt",
             "games": 11,
             "stats": {
-              "rec": 20,
-              "recYds": 190,
-              "recTDs": 2,
-              "yac": 110
+              "rec": 44,
+              "recYds": 778,
+              "recTDs": 5,
+              "yac": 230
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Last-resort fill: real Pitt fullback/H-back of the era used in TE room (no verifiable 90s Pitt TE available)."
+              "note": "Last-resort fill: real Pitt pass-catcher of the era used in TE room (no verifiable 90s Pitt TE available)."
             }
           },
           {
@@ -1010,7 +1004,6 @@
               "dominanceGrade": "B+"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           },
@@ -1048,7 +1041,6 @@
               "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           },
@@ -1075,7 +1067,6 @@
               "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           }
@@ -1112,7 +1103,6 @@
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           },
@@ -1295,7 +1285,6 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 0,
               "collegeDominance": "elite"
             }
           },
@@ -1427,7 +1416,6 @@
               "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "elite"
             }
           },
@@ -1833,7 +1821,6 @@
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "elite"
             }
           },
@@ -1848,7 +1835,6 @@
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 0,
               "collegeDominance": "veryGood"
             }
           },

@@ -2089,6 +2089,20 @@
               "nationalChampionship": true,
               "collegeDominance": "eraDef"
             }
+          },
+          {
+            "name": "Julian Sayin",
+            "games": 13,
+            "stats": {
+              "passYds": 3610,
+              "passTDs": 32,
+              "intsSeason": 8,
+              "qbr": 177
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -2139,6 +2153,21 @@
             },
             "bonuses": {
               "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Quinshon Judkins",
+            "games": 16,
+            "stats": {
+              "rushYds": 1060,
+              "rushTDs": 14,
+              "ypc": 5.5,
+              "recYds": 161
+            },
+            "bonuses": {
+              "nflDraftPick": 36,
               "nationalChampionship": true,
               "collegeDominance": "elite"
             }
@@ -2195,6 +2224,22 @@
               "biletnikoff": true,
               "consensusAllAmerican": true,
               "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jeremiah Smith",
+            "games": 16,
+            "stats": {
+              "rec": 76,
+              "recYds": 1315,
+              "recTDs": 15,
+              "yac": 478
+            },
+            "bonuses": {
+              "unanimousAllAmerican": true,
+              "consensusAllAmerican": true,
               "nationalChampionship": true,
               "collegeDominance": "allTime"
             }
@@ -2322,6 +2367,23 @@
             "bonuses": {
               "nflDraftPick": 155,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "JT Tuimoloau",
+            "games": 16,
+            "stats": {
+              "sacks": 12,
+              "tfls": 22,
+              "hurries": 24,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 45,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]

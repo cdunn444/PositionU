@@ -1990,6 +1990,20 @@
               "nflDraftPick": 1,
               "collegeDominance": "eraDef"
             }
+          },
+          {
+            "name": "Carson Beck",
+            "games": 14,
+            "stats": {
+              "passYds": 3813,
+              "passTDs": 30,
+              "intsSeason": 12,
+              "qbr": 162
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Georgia transfer; 2025 Miami starter, led Canes to College Football Playoff; All-ACC Third Team."
+            }
           }
         ]
       },
@@ -2038,6 +2052,20 @@
             "bonuses": {
               "nflDraftPick": 215,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Mark Fletcher Jr.",
+            "games": 14,
+            "stats": {
+              "rushYds": 1192,
+              "rushTDs": 12,
+              "ypc": 5.5,
+              "recYds": 140
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "2025 lead back; first Miami 1,000-yard rusher since Mark Walton in 2015."
             }
           }
         ]
@@ -2088,6 +2116,21 @@
             "bonuses": {
               "nflDraftPick": 145,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Malachi Toney",
+            "games": 14,
+            "stats": {
+              "rec": 109,
+              "recYds": 1211,
+              "recTDs": 10,
+              "yac": 420
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef",
+              "note": "2025 true freshman; led FBS in receptions (109) and set Miami single-season receiving records."
             }
           }
         ]

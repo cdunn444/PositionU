@@ -2044,6 +2044,19 @@
               "nflDraftPick": 46,
               "collegeDominance": "eraDef"
             }
+          },
+          {
+            "name": "Quintrevion Wisner",
+            "games": 14,
+            "stats": {
+              "rushYds": 1064,
+              "rushTDs": 5,
+              "ypc": 4.7,
+              "recYds": 311
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -2095,6 +2108,20 @@
             "bonuses": {
               "nflDraftPick": 195,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matthew Golden",
+            "games": 16,
+            "stats": {
+              "rec": 58,
+              "recYds": 987,
+              "recTDs": 9,
+              "yac": 305
+            },
+            "bonuses": {
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -2223,6 +2250,21 @@
               "nflDraftPick": 48,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Colin Simmons",
+            "games": 14,
+            "stats": {
+              "sacks": 9,
+              "tfls": 14,
+              "hurries": 19,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef"
+            }
           }
         ]
       },
@@ -2272,6 +2314,20 @@
             "bonuses": {
               "nflDraftPick": 195,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Hill Jr.",
+            "games": 16,
+            "stats": {
+              "tackles": 113,
+              "sacks": 8,
+              "ints": 1,
+              "tfls": 16
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]

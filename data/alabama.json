@@ -262,7 +262,7 @@
             "games": 15,
             "stats": {
               "sacks": 8,
-              "tfls": 19.5,
+              "tfls": 20,
               "hurries": 37,
               "ff": 3,
               "dominanceGrade": "A+"
@@ -2032,22 +2032,6 @@
             }
           },
           {
-            "name": "Tua Tagovailoa",
-            "games": 15,
-            "stats": {
-              "passYds": 2840,
-              "passTDs": 43,
-              "intsSeason": 6,
-              "qbr": 199
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 5,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Jalen Milroe",
             "games": 14,
             "stats": {
@@ -2062,6 +2046,21 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 92,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mac Jones",
+            "games": 13,
+            "stats": {
+              "passYds": 4500,
+              "passTDs": 41,
+              "intsSeason": 4,
+              "qbr": 200
+            },
+            "bonuses": {
+              "nflDraftPick": 15,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -2103,17 +2102,17 @@
             }
           },
           {
-            "name": "Roydell Williams",
-            "games": 14,
+            "name": "Brian Robinson Jr.",
+            "games": 13,
             "stats": {
-              "rushYds": 1167,
-              "rushTDs": 12,
-              "ypc": 5.6,
-              "recYds": 188
+              "rushYds": 1343,
+              "rushTDs": 14,
+              "ypc": 4.9,
+              "recYds": 35
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 122,
+              "nflDraftPick": 98,
+              "nationalChampionship": true,
               "collegeDominance": "elite"
             }
           }
@@ -2287,7 +2286,7 @@
             "games": 13,
             "stats": {
               "sacks": 8,
-              "tfls": 9.5,
+              "tfls": 10,
               "hurries": 18,
               "ff": 3,
               "tackles": 37

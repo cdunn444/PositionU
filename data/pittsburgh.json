@@ -631,7 +631,7 @@
             "name": "Jerry Boyarsky",
             "games": 12,
             "stats": {
-              "sacks": 3.6,
+              "sacks": 3.5,
               "tfls": 7,
               "hurries": 18,
               "ff": 1,
@@ -646,7 +646,7 @@
             "name": "Chris Doleman",
             "games": 12,
             "stats": {
-              "sacks": 6.8,
+              "sacks": 7.0,
               "tfls": 14,
               "hurries": 10,
               "ff": 2,
@@ -1728,7 +1728,7 @@
             "name": "Jabaal Sheard",
             "games": 12,
             "stats": {
-              "sacks": 3.6,
+              "sacks": 3.5,
               "tfls": 10,
               "hurries": 12,
               "ff": 1,
@@ -1744,7 +1744,7 @@
             "games": 12,
             "stats": {
               "sacks": 11,
-              "tfls": 28.5,
+              "tfls": 28,
               "hurries": 24,
               "ff": 3,
               "dominanceGrade": "A+"
@@ -2086,7 +2086,7 @@
             "games": 12,
             "stats": {
               "sacks": 7.5,
-              "tfls": 14.5,
+              "tfls": 14,
               "hurries": 20,
               "ff": 1,
               "dominanceGrade": "A+"
@@ -2101,7 +2101,7 @@
             "name": "Habakkuk Baldonado",
             "games": 12,
             "stats": {
-              "sacks": 6.2,
+              "sacks": 6.0,
               "tfls": 12,
               "hurries": 14,
               "ff": 0,

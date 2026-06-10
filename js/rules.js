@@ -37,7 +37,7 @@ const RULES = Object.freeze({
   // sampled over the full space of possible teams (one room per position) on the
   // rebuilt roster pool. The results screen shows "Top X% all-time" by locating a
   // team's total in this curve. Regenerate if scoring or roster data changes.
-  allTimeTotals: [218,256,261,264,266,268,270,272,273,274,276,277,278,279,280,281,282,283,283,284,285,286,287,287,288,289,290,290,291,292,292,293,294,294,295,296,296,297,298,298,299,300,300,301,301,302,303,303,304,305,305,306,307,307,308,309,309,310,311,311,312,313,313,314,315,316,316,317,318,319,320,320,321,322,323,324,325,326,327,328,329,330,331,332,333,335,336,337,339,341,342,344,346,349,351,354,358,363,369,380,517],
+  allTimeTotals: [227,260,265,268,271,273,274,276,277,279,280,281,282,283,284,285,286,287,288,289,290,290,291,292,293,294,294,295,296,296,297,298,299,299,300,301,301,302,303,303,304,304,305,306,306,307,308,308,309,310,310,311,312,312,313,314,314,315,316,317,317,318,319,319,320,321,322,322,323,324,325,326,327,327,328,329,330,331,332,333,334,335,336,338,339,340,342,343,345,346,348,350,352,354,357,360,364,369,375,386,503],
 
   // Record tier requirements — ALL conditions must be met for the tier.
   // Recalibrated 2026-06-10 against the rebuilt roster pool AND the real spin
@@ -50,17 +50,17 @@ const RULES = Object.freeze({
   // Madden ratings as a separate, rarer chase (90+ overall ~1%, 100 = dream team).
   // offMin/defMin keep lopsided teams (great O, weak D) out of the top tiers.
   recordTiers: [
-    { min: 347, offMin: 215, defMin: 128, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
-    { min: 339, offMin: 208, defMin: 121, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
-    { min: 331, offMin: 201, defMin: 114, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
-    { min: 321, offMin: 192, defMin: 106, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
-    { min: 311, offMin: 182, defMin:  97, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
-    { min: 302, offMin: 172, defMin:  88, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
-    { min: 293, offMin: 160, defMin:  79, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
-    { min: 284, offMin: 148, defMin:  69, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
-    { min: 275, offMin: 136, defMin:  60, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
-    { min: 266, offMin: 0,   defMin: 0,   roomMin: 0, record: '6-9',  grade: 'C',  label: 'Tough Season' },
-    { min: 256, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
+    { min: 353, offMin: 219, defMin: 131, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
+    { min: 345, offMin: 212, defMin: 124, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
+    { min: 337, offMin: 205, defMin: 117, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
+    { min: 327, offMin: 196, defMin: 109, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
+    { min: 317, offMin: 186, defMin: 100, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
+    { min: 307, offMin: 176, defMin:  90, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
+    { min: 297, offMin: 164, defMin:  80, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
+    { min: 288, offMin: 152, defMin:  70, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
+    { min: 279, offMin: 140, defMin:  61, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
+    { min: 269, offMin: 0,   defMin: 0,   roomMin: 0, record: '6-9',  grade: 'C',  label: 'Tough Season' },
+    { min: 258, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
     { min: 0,   offMin: 0,   defMin: 0,   roomMin: 0, record: '4-11', grade: 'D',  label: 'Reset the Program' }
   ],
 

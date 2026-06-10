@@ -58,6 +58,21 @@
               "nationalChampionship": true,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Dwayne Haskins",
+            "games": 14,
+            "stats": {
+              "passYds": 4831,
+              "passTDs": 50,
+              "intsSeason": 8,
+              "qbr": 184
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 15,
+              "collegeDominance": "eraDef"
+            }
           }
         ]
       },
@@ -112,6 +127,21 @@
               "nflDraftPick": 40,
               "nationalChampionship": true,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "J.K. Dobbins",
+            "games": 14,
+            "stats": {
+              "rushYds": 2003,
+              "rushTDs": 21,
+              "ypc": 6.7,
+              "recYds": 247
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef"
             }
           }
         ]

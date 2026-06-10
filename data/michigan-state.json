@@ -240,22 +240,23 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "nflDraftPick": 55,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Primarily an outside linebacker on the 1987 Rose Bowl team; listed here as edge/pass-rush teammate."
             }
           },
           {
-            "name": "Bob Kuechenberg",
+            "name": "Travis Davis",
             "games": 11,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 12,
+              "tfls": 15,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 110,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -418,18 +419,16 @@
             }
           },
           {
-            "name": "Kirk Gibson",
+            "name": "Bryan Clark",
             "games": 11,
             "stats": {
-              "passYds": 688,
-              "passTDs": 5,
-              "intsSeason": 4,
-              "qbr": 112,
-              "rushYds": 445,
-              "rushTDs": 5
+              "passYds": 1116,
+              "passTDs": 8,
+              "intsSeason": 7,
+              "qbr": 120
             },
             "bonuses": {
-              "nflDraftPick": 159,
+              "nflDraftPick": 76,
               "collegeDominance": "veryGood"
             }
           }
@@ -935,30 +934,29 @@
             }
           },
           {
-            "name": "Greg Barton",
+            "name": "Gari Scott",
             "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 30,
+              "recYds": 430,
+              "recTDs": 3,
+              "yac": 120
             },
             "bonuses": {
-              "nflDraftPick": 180,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Slot receiver on Saban-era Spartans; placed here as adjacent-position teammate to fill an undocumented 1990s TE slot."
             }
           },
           {
-            "name": "Ike Reese",
+            "name": "Josh Keur",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 142,
-              "recTDs": 1,
-              "yac": 44
+              "rec": 34,
+              "recYds": 355,
+              "recTDs": 2,
+              "yac": 95
             },
             "bonuses": {
-              "nflDraftPick": 140,
               "collegeDominance": "veryGood"
             }
           }
@@ -1006,23 +1004,22 @@
             }
           },
           {
-            "name": "Flozell Adams",
+            "name": "Dimitrius Underwood",
             "games": 11,
             "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 8,
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 26,
+              "nflDraftPick": 29,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Ike Reese",
+            "name": "Chris Smith",
             "games": 11,
             "stats": {
               "sacks": 4,
@@ -1032,8 +1029,8 @@
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 140,
-              "collegeDominance": "elite"
+              "nflDraftPick": 160,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1072,17 +1069,18 @@
             }
           },
           {
-            "name": "Nilo Silvan",
+            "name": "Julian Peterson",
             "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 75,
+              "sacks": 15,
               "ints": 1,
-              "tfls": 9
+              "tfls": 22
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1124,17 +1122,17 @@
             }
           },
           {
-            "name": "Aiesha Brewer",
+            "name": "Aric Morris",
             "games": 11,
             "stats": {
               "ints": 3,
-              "pbus": 16,
-              "tackles": 48,
+              "pbus": 14,
+              "tackles": 78,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "nflDraftPick": 135,
               "collegeDominance": "veryGood"
             }
           }
@@ -1228,17 +1226,17 @@
             }
           },
           {
-            "name": "Damon Dowdell",
+            "name": "T.J. Duckett",
             "games": 11,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.2,
-              "recYds": 108
+              "rushYds": 1420,
+              "rushTDs": 12,
+              "ypc": 5.4,
+              "recYds": 110
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 18,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1280,16 +1278,15 @@
             }
           },
           {
-            "name": "Glenn Winston",
+            "name": "Matt Trannon",
             "games": 12,
             "stats": {
-              "rec": 38,
-              "recYds": 568,
-              "recTDs": 5,
-              "yac": 178
+              "rec": 47,
+              "recYds": 600,
+              "recTDs": 4,
+              "yac": 175
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -2249,17 +2246,16 @@
             }
           },
           {
-            "name": "Darius Snow",
-            "games": 12,
+            "name": "Xavier Henderson",
+            "games": 13,
             "stats": {
-              "ints": 3,
-              "pbus": 16,
-              "tackles": 58,
+              "ints": 1,
+              "pbus": 4,
+              "tackles": 94,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           },

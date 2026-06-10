@@ -977,54 +977,49 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Leslie O'Neal",
+            "name": "Jason Gildon",
             "games": 11,
             "stats": {
-              "sacks": 13,
-              "tfls": 18,
-              "hurries": 24,
+              "sacks": 16,
+              "tfls": 20,
+              "hurries": 26,
               "ff": 4,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "outland": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 8,
-              "collegeDominance": "allTime"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 88,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Kevin Murphy",
+            "name": "Stacey Satterwhite",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kenyatta Wright",
             "games": 11,
             "stats": {
               "sacks": 7,
-              "tfls": 11,
-              "hurries": 15,
-              "ff": 2,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 39,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Trace Armstrong",
-            "games": 11,
-            "stats": {
-              "sacks": 8,
               "tfls": 12,
-              "hurries": 16,
-              "ff": 2,
-              "dominanceGrade": "A+"
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "B+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 12,
-              "collegeDominance": "eraDef"
-            }
+              "collegeDominance": "elite"
+            },
+            "note": "LAST-RESORT adjacent-position fill: real OSU late-1990s OLB/edge (11 career sacks); slotted at DL as a stand-up rusher — no documented third early-90s OSU down lineman found beyond Gildon/Satterwhite. (Primary listing is 90s LB.)"
           }
         ]
       },
@@ -1034,47 +1029,46 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Johnny Rembert",
+            "name": "Kenyatta Wright",
             "games": 11,
             "stats": {
-              "tackles": 108,
-              "sacks": 6,
-              "ints": 2,
-              "tfls": 16
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 98,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Tootie Robbins",
-            "games": 11,
-            "stats": {
-              "tackles": 95,
+              "tackles": 72,
               "sacks": 4,
-              "ints": 1,
-              "tfls": 12
-            },
-            "bonuses": {
-              "nflDraftPick": 16,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Thurman Thomas",
-            "games": 11,
-            "stats": {
-              "tackles": 85,
-              "sacks": 3,
               "ints": 1,
               "tfls": 9
             },
             "bonuses": {
-              "nflDraftPick": 48,
+              "nflDraftPick": 152,
               "collegeDominance": "elite"
             }
+          },
+          {
+            "name": "Raymond Cato",
+            "games": 11,
+            "stats": {
+              "tackles": 119,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Corker",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 9,
+              "ints": 1,
+              "tfls": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef"
+            },
+            "note": "LAST-RESORT era-flag: real OSU linebacker/edge and 1978 Big Eight Defensive Player of the Year; a late-1970s player used here to complete the 90s LB room (genuine OSU player, off-era) since only Wright/Cato are documented 90s OSU LBs."
           }
         ]
       },
@@ -1084,49 +1078,50 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Thurman Thomas",
+            "name": "R.W. McQuarters",
             "games": 11,
             "stats": {
-              "ints": 5,
-              "pbus": 24,
+              "ints": 6,
+              "pbus": 22,
               "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A"
+              "ff": 2,
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 48,
-              "collegeDominance": "elite"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Ron Cox",
-            "games": 11,
-            "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 50,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Barry Sanders",
+            "name": "Andre Richardson",
             "games": 11,
             "stats": {
               "ints": 3,
-              "pbus": 16,
-              "tackles": 45,
+              "pbus": 14,
+              "tackles": 48,
               "ff": 1,
-              "coverageGrade": "A"
+              "coverageGrade": "B+"
             },
             "bonuses": {
-              "nflDraftPick": 3,
               "collegeDominance": "veryGood"
-            }
+            },
+            "note": "LAST-RESORT adjacent-position fill: real OSU 1994-96 player (1,926 career rush yds), McQuarters-era teammate; listed at DB as a two-way/return contributor — no documented second/third dedicated 90s OSU defensive back found beyond McQuarters."
+          },
+          {
+            "name": "Raymond Cato",
+            "games": 11,
+            "stats": {
+              "ints": 1,
+              "pbus": 8,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            },
+            "note": "LAST-RESORT adjacent-position fill: real OSU defender who began in the secondary before moving to linebacker in 1996; placed at DB to complete the room. (Primary listing is 90s LB.)"
           }
         ]
       }

@@ -1125,16 +1125,15 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Guy Moriss",
+            "name": "Aaron Karas",
             "games": 12,
             "stats": {
               "passYds": 1688,
-              "passTDs": 13,
-              "intsSeason": 7,
-              "qbr": 132
+              "passTDs": 11,
+              "intsSeason": 9,
+              "qbr": 118
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
           },
@@ -1319,13 +1318,13 @@
         "pos": "OL",
         "players": [
           {
-            "name": "2011 Baylor OL",
-            "games": 13,
+            "name": "2008 Baylor OL",
+            "games": 12,
             "stats": {
-              "sacksAllowedSeason": 14,
-              "pancakeBlocksSeason": 175,
-              "passBlockEff": 91,
-              "runBlockEff": 68
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 88,
+              "runBlockEff": 66
             },
             "bonuses": {
               "collegeDominance": "elite"

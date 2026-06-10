@@ -392,14 +392,14 @@
             "name": "Carl Straw",
             "games": 11,
             "stats": {
-              "passYds": 1288,
-              "passTDs": 10,
-              "intsSeason": 7,
-              "qbr": 122
+              "passYds": 2400,
+              "passTDs": 18,
+              "intsSeason": 12,
+              "qbr": 128
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Real K-State QB; engineered 1989 drive ending K-State's long losing streak."
             }
           },
           {
@@ -417,17 +417,17 @@
             }
           },
           {
-            "name": "Kevin Ingram",
+            "name": "Gary Swim",
             "games": 11,
             "stats": {
-              "passYds": 1380,
-              "passTDs": 9,
+              "passYds": 1304,
+              "passTDs": 8,
               "intsSeason": 11,
               "qbr": 114
             },
             "bonuses": {
               "collegeDominance": "good",
-              "note": "Real K-State mid/late-80s quarterback; reconstructed stats."
+              "note": "Real K-State QB (two-year passer: 1,304 yds, 8 TDs)."
             }
           }
         ]
@@ -467,17 +467,17 @@
             }
           },
           {
-            "name": "L.J. Brown",
+            "name": "Frank Hernandez",
             "games": 11,
             "stats": {
-              "rushYds": 520,
-              "rushTDs": 4,
-              "ypc": 4.2,
-              "recYds": 90
+              "rushYds": 260,
+              "rushTDs": 2,
+              "ypc": 4.0,
+              "recYds": 180
             },
             "bonuses": {
               "collegeDominance": "good",
-              "note": "Real K-State 1980s backfield contributor; reconstructed stats."
+              "note": "Primarily WR; used on sweeps/screens. Adjacent-position fill for thin 80s backfield depth."
             }
           }
         ]
@@ -516,17 +516,18 @@
             }
           },
           {
-            "name": "Eric Harper",
+            "name": "Tony Jordan",
             "games": 11,
             "stats": {
-              "rec": 24,
-              "recYds": 330,
-              "recTDs": 2,
-              "yac": 110
+              "rec": 23,
+              "recYds": 196,
+              "recTDs": 1,
+              "yac": 80
             },
             "bonuses": {
+              "nflDraftPick": 132,
               "collegeDominance": "good",
-              "note": "Real K-State skill player of the era; adjacent fill for thin 80s WR depth."
+              "note": "RB who was a receiving threat (38 career receptions); adjacent fill for thin 80s WR room."
             }
           }
         ]
@@ -555,28 +556,28 @@
             "name": "Frank Hernandez",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 210,
+              "rec": 18,
+              "recYds": 230,
               "recTDs": 2,
-              "yac": 64
+              "yac": 70
             },
             "bonuses": {
               "collegeDominance": "good",
-              "note": "Receiver used in TE/H-back sets; adjacent fill for sparse 80s TE room."
+              "note": "WR used in TE/H-back/slot sets; adjacent fill for sparse 80s TE room."
             }
           },
           {
-            "name": "Eric Harper",
+            "name": "Eric Gallon",
             "games": 11,
             "stats": {
-              "rec": 12,
+              "rec": 14,
               "recYds": 150,
               "recTDs": 1,
-              "yac": 48
+              "yac": 60
             },
             "bonuses": {
               "collegeDominance": "good",
-              "note": "Adjacent-position fill for undocumented 80s tight end depth."
+              "note": "RB used as receiver/H-back; adjacent-position fill for undocumented 80s TE depth."
             }
           }
         ]
@@ -622,33 +623,33 @@
             }
           },
           {
-            "name": "Jeff Robinson",
+            "name": "L.E. Madison",
             "games": 11,
             "stats": {
               "sacks": 4,
-              "tfls": 7,
+              "tfls": 8,
               "hurries": 9,
               "ff": 1,
               "dominanceGrade": "B+"
             },
             "bonuses": {
-              "collegeDominance": "good",
-              "note": "Real K-State 1980s defensive lineman; reconstructed stats."
+              "collegeDominance": "veryGood",
+              "note": "Real K-State front-seven defender; adjacent fill — 80s DL stats undocumented."
             }
           },
           {
-            "name": "Mark Nelson",
+            "name": "Maurice Henry",
             "games": 11,
             "stats": {
               "sacks": 3,
-              "tfls": 6,
+              "tfls": 7,
               "hurries": 8,
               "ff": 1,
               "dominanceGrade": "B"
             },
             "bonuses": {
-              "collegeDominance": "good",
-              "note": "Real K-State 1980s defensive front contributor; reconstructed stats."
+              "collegeDominance": "veryGood",
+              "note": "Real K-State front-seven defender (late 1980s); adjacent fill for thin 80s DL room."
             }
           }
         ]
@@ -673,31 +674,31 @@
             }
           },
           {
-            "name": "Tom Caughlin",
+            "name": "Maurice Henry",
             "games": 11,
             "stats": {
-              "tackles": 82,
-              "sacks": 2,
+              "tackles": 90,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State linebacker (late 1980s); later Philadelphia Eagles."
+            }
+          },
+          {
+            "name": "Reggie Singletary",
+            "games": 11,
+            "stats": {
+              "tackles": 72,
+              "sacks": 4,
               "ints": 1,
               "tfls": 8
             },
             "bonuses": {
-              "collegeDominance": "good",
-              "note": "Real K-State 1980s linebacker; reconstructed stats."
-            }
-          },
-          {
-            "name": "Steve Wood",
-            "games": 11,
-            "stats": {
-              "tackles": 74,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 7
-            },
-            "bonuses": {
-              "collegeDominance": "good",
-              "note": "K-State 1980s defender; adjacent/reconstructed LB line for thin era."
+              "collegeDominance": "veryGood",
+              "note": "Real K-State front-seven defender (early 1980s); listed primarily at DT — adjacent fill for thin 80s LB room."
             }
           }
         ]
@@ -734,22 +735,22 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Real K-State safety; All-Big Eight, started for 1982 Independence Bowl team."
+              "note": "Real K-State safety; All-Big Eight; started for 1982 Independence Bowl team."
             }
           },
           {
-            "name": "Kelly Cook",
+            "name": "Rogerick Green",
             "games": 11,
             "stats": {
-              "ints": 2,
-              "pbus": 8,
-              "tackles": 48,
+              "ints": 4,
+              "pbus": 11,
+              "tackles": 52,
               "ff": 1,
-              "coverageGrade": "B"
+              "coverageGrade": "A-"
             },
             "bonuses": {
-              "collegeDominance": "good",
-              "note": "K-State 1980s defensive back; reconstructed stats for thin era."
+              "collegeDominance": "veryGood",
+              "note": "Real K-State cornerback (late 1980s); drafted by Tampa Bay in 1992."
             }
           }
         ]

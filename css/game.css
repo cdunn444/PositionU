@@ -411,7 +411,7 @@
   .score-chip.defense .chip-val { color: var(--orange); }
 
   /* Inline ratings in grade-ratings-row */
-  .grade-ratings-row .score-chip { display: flex; flex-direction: column; }
+  .grade-ratings-row .score-chip { display: flex; flex-direction: column; align-items: center; text-align: center; }
 
   /* All-time percentile banner */
   .alltime-rank {

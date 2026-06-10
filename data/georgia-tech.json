@@ -89,17 +89,16 @@
             }
           },
           {
-            "name": "Mike Jolly",
+            "name": "Bucky Shamburger",
             "games": 11,
             "stats": {
-              "rushYds": 755,
-              "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 108
+              "rushYds": 612,
+              "rushTDs": 6,
+              "ypc": 4.7,
+              "recYds": 85
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -798,17 +797,16 @@
             }
           },
           {
-            "name": "Gary Lanier",
+            "name": "George Godsey",
             "games": 11,
             "stats": {
-              "passYds": 1288,
-              "passTDs": 10,
-              "intsSeason": 6,
-              "qbr": 128
+              "passYds": 2906,
+              "passTDs": 17,
+              "intsSeason": 9,
+              "qbr": 134
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1068,19 +1066,16 @@
             }
           },
           {
-            "name": "Marco Coleman",
+            "name": "Jesse Tarplin",
             "games": 11,
             "stats": {
-              "tackles": 78,
-              "sacks": 9,
-              "ints": 0,
-              "tfls": 13
+              "tackles": 92,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 12,
-              "collegeDominance": "elite",
-              "note": "GT DE/OLB (1989-91); listed at LB as adjacent-position edge"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1684,17 +1679,17 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Richard Lagow",
-            "games": 13,
+            "name": "Tyler Davis",
+            "games": 12,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
-              "yac": 60
+              "rec": 17,
+              "recYds": 148,
+              "recTDs": 1,
+              "yac": 52
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 206,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -1713,17 +1708,16 @@
             }
           },
           {
-            "name": "Evan Berry",
-            "games": 13,
+            "name": "Dylan Deveney",
+            "games": 12,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
+              "rec": 6,
+              "recYds": 48,
               "recTDs": 1,
-              "yac": 52
+              "yac": 18
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]

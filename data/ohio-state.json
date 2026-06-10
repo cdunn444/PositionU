@@ -300,13 +300,14 @@
             "name": "Nick Bosa",
             "games": 3,
             "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 14,
-              "ff": 1,
+              "sacks": 8.5,
+              "tfls": 16,
+              "hurries": 25,
+              "ff": 2,
               "dominanceGrade": "A+"
             },
             "bonuses": {
+              "firstTeamAllConference": true,
               "nflDraftPick": 2,
               "collegeDominance": "allTime"
             }

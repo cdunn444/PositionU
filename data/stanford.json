@@ -1177,21 +1177,17 @@
             }
           },
           {
-            "name": "Toby Gerhart",
-            "games": 13,
+            "name": "Trent Edwards",
+            "games": 11,
             "stats": {
-              "passYds": 488,
-              "passTDs": 3,
-              "intsSeason": 2,
-              "qbr": 112,
-              "rushYds": 1736,
-              "rushTDs": 28
+              "passYds": 2264,
+              "passTDs": 15,
+              "intsSeason": 8,
+              "qbr": 142
             },
             "bonuses": {
-              "doakWalker": true,
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 62,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 92,
+              "collegeDominance": "elite"
             }
           }
         ]

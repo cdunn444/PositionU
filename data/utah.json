@@ -8,46 +8,47 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Robin Earl",
+            "name": "Don Van Galder",
             "games": 11,
             "stats": {
-              "passYds": 1088,
+              "passYds": 2012,
+              "passTDs": 17,
+              "intsSeason": 11,
+              "qbr": 138,
+              "rushYds": 280,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Randy Gomez",
+            "games": 11,
+            "stats": {
+              "passYds": 1944,
+              "passTDs": 19,
+              "intsSeason": 12,
+              "qbr": 126,
+              "rushYds": 120,
+              "rushTDs": 3
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Floyd Hodge",
+            "games": 11,
+            "stats": {
+              "passYds": 1006,
               "passTDs": 8,
-              "intsSeason": 5,
-              "qbr": 112,
-              "rushYds": 512,
-              "rushTDs": 6
+              "intsSeason": 7,
+              "qbr": 118,
+              "rushYds": 246,
+              "rushTDs": 2
             },
             "bonuses": {
-              "nflDraftPick": 85,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Kevin Morres",
-            "games": 11,
-            "stats": {
-              "passYds": 1288,
-              "passTDs": 10,
-              "intsSeason": 6,
-              "qbr": 122
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Bob Winslow",
-            "games": 11,
-            "stats": {
-              "passYds": 988,
-              "passTDs": 7,
-              "intsSeason": 5,
-              "qbr": 112
-            },
-            "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
           }
@@ -59,44 +60,41 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Glen Titensor",
+            "name": "Tony Lindsay",
             "games": 11,
             "stats": {
-              "rushYds": 955,
-              "rushTDs": 9,
-              "ypc": 5.2,
-              "recYds": 120
+              "rushYds": 909,
+              "rushTDs": 8,
+              "ypc": 4.8,
+              "recYds": 215
             },
             "bonuses": {
-              "nflDraftPick": 135,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Jay Miller",
+            "name": "Carl Monroe",
             "games": 11,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 5,
+              "rushYds": 1042,
+              "rushTDs": 6,
+              "ypc": 4.9,
               "recYds": 108
             },
             "bonuses": {
-              "nflDraftPick": 155,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Don Brallier",
+            "name": "Frank Henry",
             "games": 11,
             "stats": {
-              "rushYds": 622,
-              "rushTDs": 6,
-              "ypc": 4.8,
-              "recYds": 88
+              "rushYds": 588,
+              "rushTDs": 5,
+              "ypc": 4.6,
+              "recYds": 240
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
           }

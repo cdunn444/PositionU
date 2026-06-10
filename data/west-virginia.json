@@ -1610,17 +1610,16 @@
             }
           },
           {
-            "name": "Justin Johnson Jr.",
-            "games": 13,
+            "name": "Jahiem White",
+            "games": 12,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
-              "ypc": 5,
-              "recYds": 88
+              "rushYds": 844,
+              "rushTDs": 7,
+              "ypc": 7.7,
+              "recYds": 122
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1646,16 +1645,15 @@
             }
           },
           {
-            "name": "Kaden Prather",
-            "games": 12,
+            "name": "Hudson Clement",
+            "games": 13,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
+              "rec": 51,
+              "recYds": 741,
               "recTDs": 5,
-              "yac": 208
+              "yac": 232
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           },

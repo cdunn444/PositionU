@@ -1574,16 +1574,17 @@
             }
           },
           {
-            "name": "Zach Calzada",
+            "name": "Marcel Reed",
             "games": 12,
             "stats": {
-              "passYds": 2185,
-              "passTDs": 17,
-              "intsSeason": 9,
-              "qbr": 142
+              "passYds": 1864,
+              "passTDs": 15,
+              "intsSeason": 6,
+              "qbr": 150,
+              "rushYds": 547,
+              "rushTDs": 7
             },
             "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "elite"
             }
           },
@@ -1639,16 +1640,15 @@
             }
           },
           {
-            "name": "Amari Daniels",
-            "games": 12,
+            "name": "Le'Veon Moss",
+            "games": 9,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.4,
-              "recYds": 120
+              "rushYds": 765,
+              "rushTDs": 10,
+              "ypc": 6.3,
+              "recYds": 141
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }
@@ -1798,17 +1798,17 @@
             }
           },
           {
-            "name": "Micheal Clemons",
-            "games": 13,
+            "name": "Nic Scourton",
+            "games": 12,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
+              "tfls": 14,
+              "hurries": 13,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 109,
+              "nflDraftPick": 50,
               "collegeDominance": "elite"
             }
           },
@@ -1864,16 +1864,15 @@
             }
           },
           {
-            "name": "Buddy Johnson",
-            "games": 12,
+            "name": "Taurean York",
+            "games": 13,
             "stats": {
-              "tackles": 88,
-              "sacks": 2,
+              "tackles": 82,
+              "sacks": 2.5,
               "ints": 1,
-              "tfls": 9
+              "tfls": 9.5
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
           }

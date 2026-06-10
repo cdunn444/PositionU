@@ -1778,17 +1778,17 @@
             }
           },
           {
-            "name": "Martin Andrus Jr.",
-            "games": 13,
+            "name": "Oluwafemi Oladejo",
+            "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 11,
+              "sacks": 4.5,
+              "tfls": 13,
+              "hurries": 6,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "nflDraftPick": 52,
               "collegeDominance": "elite"
             }
           },
@@ -1846,17 +1846,18 @@
             }
           },
           {
-            "name": "Carl Jones Jr.",
+            "name": "Carson Schwesinger",
             "games": 12,
             "stats": {
-              "tackles": 78,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 8
+              "tackles": 136,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 9
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 33,
+              "collegeDominance": "eraDef"
             }
           }
         ]

@@ -1577,16 +1577,17 @@
             }
           },
           {
-            "name": "Grant Wells",
+            "name": "Kyron Drones",
             "games": 12,
             "stats": {
-              "passYds": 2488,
-              "passTDs": 18,
-              "intsSeason": 9,
-              "qbr": 142
+              "passYds": 2085,
+              "passTDs": 17,
+              "intsSeason": 7,
+              "qbr": 146,
+              "rushYds": 818,
+              "rushTDs": 5
             },
             "bonuses": {
-              "nflDraftPick": 220,
               "collegeDominance": "elite"
             }
           }
@@ -1627,17 +1628,17 @@
             }
           },
           {
-            "name": "Malachi Thomas",
-            "games": 12,
+            "name": "Bhayshul Tuten",
+            "games": 11,
             "stats": {
-              "rushYds": 655,
-              "rushTDs": 6,
-              "ypc": 5.2,
-              "recYds": 108
+              "rushYds": 1159,
+              "rushTDs": 15,
+              "ypc": 6.3,
+              "recYds": 81
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
+              "nflDraftPick": 104,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1677,16 +1678,16 @@
             }
           },
           {
-            "name": "Da'Wain Lofton",
-            "games": 11,
+            "name": "Da'Quan Felton",
+            "games": 13,
             "stats": {
-              "rec": 36,
-              "recYds": 538,
-              "recTDs": 4,
-              "yac": 168
+              "rec": 38,
+              "recYds": 667,
+              "recTDs": 8,
+              "yac": 196
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "nflDraftPick": 215,
               "collegeDominance": "elite"
             }
           }
@@ -1768,18 +1769,19 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Norell Pollard",
+            "name": "Antwaun Powell-Ryland",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 16,
+              "tfls": 19,
+              "hurries": 18,
+              "ff": 3,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 209,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1799,17 +1801,18 @@
             }
           },
           {
-            "name": "Mario Kendricks",
+            "name": "Aeneas Peebles",
             "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
+              "sacks": 3,
+              "tfls": 6.5,
+              "hurries": 4,
+              "ff": 0,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
           }

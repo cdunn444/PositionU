@@ -1579,31 +1579,31 @@
             }
           },
           {
-            "name": "Dylan Morris",
-            "games": 12,
+            "name": "Demond Williams Jr.",
+            "games": 13,
             "stats": {
-              "passYds": 2286,
-              "passTDs": 17,
+              "passYds": 3065,
+              "passTDs": 25,
               "intsSeason": 8,
-              "qbr": 142
+              "qbr": 161,
+              "rushYds": 611,
+              "rushTDs": 6
             },
             "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Sam Huard",
+            "name": "Will Rogers",
             "games": 11,
             "stats": {
-              "passYds": 1988,
-              "passTDs": 15,
+              "passYds": 2458,
+              "passTDs": 14,
               "intsSeason": 7,
-              "qbr": 138
+              "qbr": 147
             },
             "bonuses": {
-              "nflDraftPick": 220,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1628,17 +1628,16 @@
             }
           },
           {
-            "name": "Richard Newton",
+            "name": "Jonah Coleman",
             "games": 13,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
-              "ypc": 5.2,
-              "recYds": 120
+              "rushYds": 1053,
+              "rushTDs": 10,
+              "ypc": 5.4,
+              "recYds": 222
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1698,16 +1697,15 @@
             }
           },
           {
-            "name": "Taj Davis",
+            "name": "Giles Jackson",
             "games": 13,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
+              "rec": 85,
+              "recYds": 893,
+              "recTDs": 7,
+              "yac": 312
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
           }

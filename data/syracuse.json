@@ -1655,17 +1655,17 @@
             }
           },
           {
-            "name": "Anthony Queeley",
-            "games": 12,
+            "name": "Jackson Meeks",
+            "games": 13,
             "stats": {
-              "rec": 32,
-              "recYds": 478,
-              "recTDs": 4,
-              "yac": 150
+              "rec": 78,
+              "recYds": 1021,
+              "recTDs": 7,
+              "yac": 340
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
+              "nflDraftPick": 230,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1776,17 +1776,17 @@
             }
           },
           {
-            "name": "Darius Dabney",
+            "name": "Fadil Diggs",
             "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 8,
+              "sacks": 7.5,
+              "tfls": 14,
+              "hurries": 3,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "nflDraftPick": 254,
               "collegeDominance": "elite"
             }
           }

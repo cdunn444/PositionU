@@ -1812,18 +1812,19 @@
             }
           },
           {
-            "name": "Omari Thomas",
-            "games": 13,
+            "name": "James Pearce Jr.",
+            "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 7.5,
+              "tfls": 13,
+              "hurries": 20,
+              "ff": 2,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 26,
+              "collegeDominance": "eraDef"
             }
           }
         ]

@@ -412,6 +412,22 @@
 
   /* Inline ratings in grade-ratings-row */
   .grade-ratings-row .score-chip { display: flex; flex-direction: column; }
+  .score-chip.overall::before { background: var(--gold2); }
+  .score-chip.overall .chip-val { color: #fff; }
+
+  /* All-time percentile banner */
+  .alltime-rank {
+    text-align: center; padding: 9px 16px;
+    background: var(--felt); border-bottom: 2px solid var(--rule2);
+    font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600;
+    letter-spacing: 3px; text-transform: uppercase; color: var(--aged);
+  }
+  .alltime-rank:empty { display: none; }
+  .alltime-rank .pct {
+    color: var(--gold2); font-family: 'Alfa Slab One', serif;
+    font-size: 17px; letter-spacing: 0; margin-left: 6px;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
+  }
 
   /* Result rows */
   .result-row {

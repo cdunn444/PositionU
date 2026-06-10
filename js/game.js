@@ -505,6 +505,19 @@ function showResults() {
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 
+  // Overall rating (the shareable "Madden ranking") + all-time percentile.
+  const ovrRating = Math.round((offRating + defRating) / 2);
+  const ovrEl = document.getElementById('ovrScore');
+  if (ovrEl) ovrEl.textContent = ovrRating;
+  const bp = RULES.allTimeTotals;
+  const rankEl = document.getElementById('allTimeRank');
+  if (bp && rankEl) {
+    let p = 0;
+    while (p < 100 && bp[p + 1] !== undefined && bp[p + 1] <= total) p++;
+    const topPct = Math.min(99, Math.max(1, 100 - p));
+    rankEl.innerHTML = `All-Time Rank <span class="pct">Top ${topPct}%</span>`;
+  }
+
   let rowsHtml = '';
   // Show surnames on the results card. Team-unit OL entries ("1996 Syracuse OL")
   // aren't people, so keep their leading year; skip generational suffixes.

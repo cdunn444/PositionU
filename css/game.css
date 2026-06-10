@@ -412,8 +412,6 @@
 
   /* Inline ratings in grade-ratings-row */
   .grade-ratings-row .score-chip { display: flex; flex-direction: column; }
-  .score-chip.overall::before { background: var(--gold2); }
-  .score-chip.overall .chip-val { color: #fff; }
 
   /* All-time percentile banner */
   .alltime-rank {

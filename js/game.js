@@ -505,10 +505,7 @@ function showResults() {
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 
-  // Overall rating (the shareable "Madden ranking") + all-time percentile.
-  const ovrRating = Math.round((offRating + defRating) / 2);
-  const ovrEl = document.getElementById('ovrScore');
-  if (ovrEl) ovrEl.textContent = ovrRating;
+  // All-time percentile ranking (based on team total, OFF/DEF shown separately).
   const bp = RULES.allTimeTotals;
   const rankEl = document.getElementById('allTimeRank');
   if (bp && rankEl) {

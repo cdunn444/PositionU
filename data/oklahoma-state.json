@@ -623,19 +623,20 @@
             }
           },
           {
-            "name": "Kenyatta Wright",
+            "name": "Jamal Williams",
             "games": 11,
             "stats": {
-              "sacks": 7,
-              "tfls": 12,
-              "hurries": 14,
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
               "ff": 1,
-              "dominanceGrade": "B+"
+              "dominanceGrade": "A"
             },
             "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 90,
               "collegeDominance": "elite"
-            },
-            "note": "LAST-RESORT adjacent-position fill: real OSU late-1990s OLB/edge (11 career sacks); slotted at DL as a stand-up rusher — no documented third early-90s OSU down lineman found beyond Gildon/Satterwhite. (Primary listing is 90s LB.)"
+            }
           }
         ]
       },
@@ -725,19 +726,19 @@
             "note": "LAST-RESORT adjacent-position fill: real OSU 1994-96 player (1,926 career rush yds), McQuarters-era teammate; listed at DB as a two-way/return contributor — no documented second/third dedicated 90s OSU defensive back found beyond McQuarters."
           },
           {
-            "name": "Raymond Cato",
+            "name": "Kevin Williams",
             "games": 11,
             "stats": {
-              "ints": 1,
-              "pbus": 8,
-              "tackles": 60,
+              "ints": 3,
+              "pbus": 12,
+              "tackles": 55,
               "ff": 1,
-              "coverageGrade": "B+"
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "collegeDominance": "veryGood"
-            },
-            "note": "LAST-RESORT adjacent-position fill: real OSU defender who began in the secondary before moving to linebacker in 1996; placed at DB to complete the room. (Primary listing is 90s LB.)"
+              "nflDraftPick": 87,
+              "collegeDominance": "elite"
+            }
           }
         ]
       }
@@ -976,17 +977,18 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Orie Lemon",
+            "name": "Antonio Smith",
             "games": 13,
             "stats": {
-              "sacks": 6,
-              "tfls": 10,
-              "hurries": 14,
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
               "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 135,
               "collegeDominance": "elite"
             }
           },

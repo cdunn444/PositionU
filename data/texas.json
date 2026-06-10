@@ -2017,20 +2017,6 @@
             }
           },
           {
-            "name": "Roschon Johnson",
-            "games": 13,
-            "stats": {
-              "rushYds": 855,
-              "rushTDs": 9,
-              "ypc": 5.5,
-              "recYds": 145
-            },
-            "bonuses": {
-              "nflDraftPick": 115,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Jonathon Brooks",
             "games": 12,
             "stats": {
@@ -2046,16 +2032,17 @@
             }
           },
           {
-            "name": "Quintrevion Wisner",
-            "games": 14,
+            "name": "Roschon Johnson",
+            "games": 13,
             "stats": {
-              "rushYds": 1064,
-              "rushTDs": 5,
-              "ypc": 4.7,
-              "recYds": 311
+              "rushYds": 855,
+              "rushTDs": 9,
+              "ypc": 5.5,
+              "recYds": 145
             },
             "bonuses": {
-              "collegeDominance": "elite"
+              "nflDraftPick": 115,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -2082,6 +2069,20 @@
             }
           },
           {
+            "name": "Matthew Golden",
+            "games": 16,
+            "stats": {
+              "rec": 58,
+              "recYds": 987,
+              "recTDs": 9,
+              "yac": 305
+            },
+            "bonuses": {
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
             "name": "Jordan Whittington",
             "games": 13,
             "stats": {
@@ -2094,34 +2095,6 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 188,
               "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Isaiah Neyor",
-            "games": 12,
-            "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 6,
-              "yac": 208
-            },
-            "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Matthew Golden",
-            "games": 16,
-            "stats": {
-              "rec": 58,
-              "recYds": 987,
-              "recTDs": 9,
-              "yac": 305
-            },
-            "bonuses": {
-              "nflDraftPick": 23,
-              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -2203,22 +2176,6 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Moro Ojomo",
-            "games": 13,
-            "stats": {
-              "sacks": 6,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 2,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 95,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "T'Vondre Sweat",
             "games": 14,
             "stats": {
@@ -2236,22 +2193,6 @@
             }
           },
           {
-            "name": "Alfred Collins",
-            "games": 13,
-            "stats": {
-              "sacks": 3,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 48,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Colin Simmons",
             "games": 14,
             "stats": {
@@ -2263,6 +2204,22 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Moro Ojomo",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
               "collegeDominance": "eraDef"
             }
           }
@@ -2289,34 +2246,6 @@
             }
           },
           {
-            "name": "David Gbenda",
-            "games": 13,
-            "stats": {
-              "tackles": 108,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 11
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Morice Blackwell",
-            "games": 13,
-            "stats": {
-              "tackles": 88,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 9
-            },
-            "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Anthony Hill Jr.",
             "games": 16,
             "stats": {
@@ -2328,6 +2257,20 @@
             "bonuses": {
               "firstTeamAllAmerican": true,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Gbenda",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
             }
           }
         ]

@@ -8,20 +8,17 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Braxton Miller",
-            "games": 12,
+            "name": "Dwayne Haskins",
+            "games": 14,
             "stats": {
-              "passYds": 2039,
-              "passTDs": 15,
-              "intsSeason": 7,
-              "qbr": 158,
-              "rushYds": 1068,
-              "rushTDs": 13
+              "passYds": 4831,
+              "passTDs": 50,
+              "intsSeason": 8,
+              "qbr": 184
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 85,
-              "conferenceChampionship": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 15,
               "collegeDominance": "eraDef"
             }
           },
@@ -45,32 +42,20 @@
             }
           },
           {
-            "name": "Cardale Jones",
-            "games": 4,
+            "name": "Braxton Miller",
+            "games": 12,
             "stats": {
-              "passYds": 569,
-              "passTDs": 5,
-              "intsSeason": 0,
-              "qbr": 172
+              "passYds": 2039,
+              "passTDs": 15,
+              "intsSeason": 7,
+              "qbr": 158,
+              "rushYds": 1068,
+              "rushTDs": 13
             },
             "bonuses": {
-              "nflDraftPick": 139,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Dwayne Haskins",
-            "games": 14,
-            "stats": {
-              "passYds": 4831,
-              "passTDs": 50,
-              "intsSeason": 8,
-              "qbr": 184
-            },
-            "bonuses": {
-              "firstTeamAllConference": true,
-              "nflDraftPick": 15,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "conferenceChampionship": true,
               "collegeDominance": "eraDef"
             }
           }
@@ -96,21 +81,6 @@
               "nationalChampionship": true,
               "conferenceChampionship": true,
               "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Carlos Hyde",
-            "games": 13,
-            "stats": {
-              "rushYds": 1521,
-              "rushTDs": 15,
-              "ypc": 5.5,
-              "recYds": 169
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 57,
-              "collegeDominance": "elite"
             }
           },
           {
@@ -2041,23 +2011,6 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Justin Fields",
-            "games": 8,
-            "stats": {
-              "passYds": 2953,
-              "passTDs": 41,
-              "intsSeason": 3,
-              "qbr": 212,
-              "rushYds": 383,
-              "rushTDs": 5
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 11,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
             "name": "C.J. Stroud",
             "games": 13,
             "stats": {
@@ -2075,6 +2028,23 @@
             }
           },
           {
+            "name": "Justin Fields",
+            "games": 8,
+            "stats": {
+              "passYds": 2953,
+              "passTDs": 41,
+              "intsSeason": 3,
+              "qbr": 212,
+              "rushYds": 383,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 11,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
             "name": "Will Howard",
             "games": 16,
             "stats": {
@@ -2088,20 +2058,6 @@
               "nflDraftPick": 110,
               "nationalChampionship": true,
               "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Julian Sayin",
-            "games": 13,
-            "stats": {
-              "passYds": 3610,
-              "passTDs": 32,
-              "intsSeason": 8,
-              "qbr": 177
-            },
-            "bonuses": {
-              "firstTeamAllConference": true,
-              "collegeDominance": "elite"
             }
           }
         ]
@@ -2143,21 +2099,6 @@
             }
           },
           {
-            "name": "Chip Trayanum",
-            "games": 13,
-            "stats": {
-              "rushYds": 758,
-              "rushTDs": 8,
-              "ypc": 5.5,
-              "recYds": 120
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Quinshon Judkins",
             "games": 16,
             "stats": {
@@ -2179,6 +2120,23 @@
         "era": "20s",
         "pos": "WR",
         "players": [
+          {
+            "name": "Marvin Harrison Jr.",
+            "games": 16,
+            "stats": {
+              "rec": 67,
+              "recYds": 1211,
+              "recTDs": 14,
+              "yac": 382
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 4,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
           {
             "name": "Garrett Wilson",
             "games": 12,
@@ -2208,39 +2166,6 @@
               "biletnikoff": true,
               "consensusAllAmerican": true,
               "nflDraftPick": 20,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Marvin Harrison Jr.",
-            "games": 16,
-            "stats": {
-              "rec": 67,
-              "recYds": 1211,
-              "recTDs": 14,
-              "yac": 382
-            },
-            "bonuses": {
-              "biletnikoff": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 4,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Jeremiah Smith",
-            "games": 16,
-            "stats": {
-              "rec": 76,
-              "recYds": 1315,
-              "recTDs": 15,
-              "yac": 478
-            },
-            "bonuses": {
-              "unanimousAllAmerican": true,
-              "consensusAllAmerican": true,
-              "nationalChampionship": true,
               "collegeDominance": "allTime"
             }
           }
@@ -2323,6 +2248,23 @@
         "pos": "DL",
         "players": [
           {
+            "name": "JT Tuimoloau",
+            "games": 16,
+            "stats": {
+              "sacks": 12,
+              "tfls": 22,
+              "hurries": 24,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 45,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
             "name": "Jack Sawyer",
             "games": 16,
             "stats": {
@@ -2352,38 +2294,6 @@
             "bonuses": {
               "nflDraftPick": 98,
               "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Jerron Cage",
-            "games": 13,
-            "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 11,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "JT Tuimoloau",
-            "games": 16,
-            "stats": {
-              "sacks": 12,
-              "tfls": 22,
-              "hurries": 24,
-              "ff": 1,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 45,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
             }
           }
         ]

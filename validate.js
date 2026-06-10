@@ -5,7 +5,7 @@
  *
  * Checks:
  *  1. Room sizes: OL rooms hold exactly 1 (a team-unit entry); every other
- *     room holds 3 players, or 4 when the position is elite.
+ *     room holds exactly 3 players.
  *  2. No player appears in a room whose position its stats don't fit
  *  3. Every era has all 8 position rooms (with OL exception)
  *  4. No duplicate player names within a room
@@ -100,14 +100,12 @@ Object.entries(ALL_DATA).forEach(([combo, rooms]) => {
     }
     const players = rooms[pos].players || [];
 
-    // 1. Room sizes — OL is a single team-unit entry; every other room is 3,
-    //    or 4 when the position is elite.
+    // 1. Room sizes — OL is a single team-unit entry; every other room holds
+    //    exactly 3 players (scoring only uses the top 3, so 3 is the hard cap).
     if (pos === 'OL') {
       if (players.length !== 1) err(`${combo} OL: ${players.length} entries (must be exactly 1 team unit)`);
-    } else if (players.length < 3) {
-      err(`${combo} ${pos}: ${players.length} player(s) (need 3, occasionally 4)`);
-    } else if (players.length > 4) {
-      err(`${combo} ${pos}: ${players.length} players (max 4 — only for elite rooms)`);
+    } else if (players.length !== 3) {
+      err(`${combo} ${pos}: ${players.length} players (must be exactly 3)`);
     }
 
     // 4. No duplicate player names within a room

@@ -1946,6 +1946,21 @@
         "pos": "QB",
         "players": [
           {
+            "name": "Cam Ward",
+            "games": 13,
+            "stats": {
+              "passYds": 4313,
+              "passTDs": 39,
+              "intsSeason": 7,
+              "qbr": 182
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
             "name": "D'Eriq King",
             "games": 9,
             "stats": {
@@ -1975,35 +1990,6 @@
               "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
-          },
-          {
-            "name": "Cam Ward",
-            "games": 13,
-            "stats": {
-              "passYds": 4313,
-              "passTDs": 39,
-              "intsSeason": 7,
-              "qbr": 182
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 1,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Carson Beck",
-            "games": 14,
-            "stats": {
-              "passYds": 3813,
-              "passTDs": 30,
-              "intsSeason": 12,
-              "qbr": 162
-            },
-            "bonuses": {
-              "collegeDominance": "elite",
-              "note": "Georgia transfer; 2025 Miami starter, led Canes to College Football Playoff; All-ACC Third Team."
-            }
           }
         ]
       },
@@ -2027,34 +2013,6 @@
             }
           },
           {
-            "name": "Henry Parrish Jr.",
-            "games": 13,
-            "stats": {
-              "rushYds": 712,
-              "rushTDs": 7,
-              "ypc": 5.4,
-              "recYds": 188
-            },
-            "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Thaddius Franklin",
-            "games": 12,
-            "stats": {
-              "rushYds": 588,
-              "rushTDs": 6,
-              "ypc": 5.1,
-              "recYds": 120
-            },
-            "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
             "name": "Mark Fletcher Jr.",
             "games": 14,
             "stats": {
@@ -2067,6 +2025,20 @@
               "collegeDominance": "elite",
               "note": "2025 lead back; first Miami 1,000-yard rusher since Mark Walton in 2015."
             }
+          },
+          {
+            "name": "Henry Parrish Jr.",
+            "games": 13,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5.4,
+              "recYds": 188
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
           }
         ]
       },
@@ -2076,17 +2048,18 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Key'Shawn Smith",
-            "games": 13,
+            "name": "Malachi Toney",
+            "games": 14,
             "stats": {
-              "rec": 50,
-              "recYds": 748,
-              "recTDs": 6,
-              "yac": 235
+              "rec": 109,
+              "recYds": 1211,
+              "recTDs": 10,
+              "yac": 420
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef",
+              "note": "2025 true freshman; led FBS in receptions (109) and set Miami single-season receiving records."
             }
           },
           {
@@ -2105,32 +2078,17 @@
             }
           },
           {
-            "name": "Jacolby George",
-            "games": 12,
+            "name": "Key'Shawn Smith",
+            "games": 13,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
+              "rec": 50,
+              "recYds": 748,
+              "recTDs": 6,
+              "yac": 235
             },
             "bonuses": {
-              "nflDraftPick": 145,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Malachi Toney",
-            "games": 14,
-            "stats": {
-              "rec": 109,
-              "recYds": 1211,
-              "recTDs": 10,
-              "yac": 420
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "collegeDominance": "eraDef",
-              "note": "2025 true freshman; led FBS in receptions (109) and set Miami single-season receiving records."
             }
           }
         ]

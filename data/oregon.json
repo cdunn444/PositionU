@@ -1550,34 +1550,36 @@
             }
           },
           {
-            "name": "Tyler Shough",
-            "games": 10,
+            "name": "Dillon Gabriel",
+            "games": 14,
             "stats": {
-              "passYds": 1559,
-              "passTDs": 14,
-              "intsSeason": 4,
-              "qbr": 155,
-              "rushYds": 288,
-              "rushTDs": 3
+              "passYds": 3857,
+              "passTDs": 30,
+              "intsSeason": 6,
+              "qbr": 186,
+              "rushYds": 150,
+              "rushTDs": 7
             },
             "bonuses": {
-              "nflDraftPick": 225,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 94,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Anthony Brown Jr.",
-            "games": 12,
+            "name": "Dante Moore",
+            "games": 15,
             "stats": {
-              "passYds": 2111,
-              "passTDs": 19,
-              "intsSeason": 6,
-              "qbr": 155,
-              "rushYds": 412,
-              "rushTDs": 5
+              "passYds": 3565,
+              "passTDs": 30,
+              "intsSeason": 10,
+              "qbr": 172,
+              "rushYds": 120,
+              "rushTDs": 3
             },
             "bonuses": {
-              "nflDraftPick": 215,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }
@@ -1619,16 +1621,17 @@
             }
           },
           {
-            "name": "Mar'Keise Irving",
+            "name": "Jordan James",
             "games": 14,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 8,
-              "ypc": 5.5,
-              "recYds": 145
+              "rushYds": 1267,
+              "rushTDs": 15,
+              "ypc": 5.4,
+              "recYds": 209
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 147,
               "collegeDominance": "elite"
             }
           }
@@ -1780,33 +1783,34 @@
             }
           },
           {
-            "name": "Brandon Dorlus",
+            "name": "Derrick Harmon",
             "games": 14,
             "stats": {
               "sacks": 5,
-              "tfls": 9,
-              "hurries": 13,
-              "ff": 1,
+              "tfls": 10.5,
+              "hurries": 21,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 110,
-              "collegeDominance": "elite"
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Casey Rogers",
-            "games": 14,
+            "name": "Jordan Burch",
+            "games": 10,
             "stats": {
-              "sacks": 4,
-              "tfls": 8,
-              "hurries": 11,
+              "sacks": 8.5,
+              "tfls": 11,
+              "hurries": 18,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 78,
               "collegeDominance": "elite"
             }
           }
@@ -1848,16 +1852,17 @@
             }
           },
           {
-            "name": "Jeffrey Bassa",
+            "name": "Bryce Boettcher",
             "games": 14,
             "stats": {
-              "tackles": 88,
+              "tackles": 94,
               "sacks": 2,
               "ints": 1,
-              "tfls": 9
+              "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "firstTeamAllConference": true,
+              "otherNamedCollegeAward": true,
               "collegeDominance": "elite"
             }
           }
@@ -1900,17 +1905,17 @@
             }
           },
           {
-            "name": "Trejon Williams",
+            "name": "Dillon Thieneman",
             "games": 14,
             "stats": {
-              "ints": 3,
-              "pbus": 16,
-              "tackles": 52,
-              "ff": 1,
+              "ints": 2,
+              "pbus": 4,
+              "tackles": 64,
+              "ff": 0,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }

@@ -1607,17 +1607,16 @@
             }
           },
           {
-            "name": "Max Johnson",
-            "games": 12,
+            "name": "Garrett Nussmeier",
+            "games": 13,
             "stats": {
-              "passYds": 2329,
-              "passTDs": 17,
-              "intsSeason": 6,
-              "qbr": 148
+              "passYds": 4052,
+              "passTDs": 29,
+              "intsSeason": 12,
+              "qbr": 158
             },
             "bonuses": {
-              "nflDraftPick": 125,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1657,16 +1656,15 @@
             }
           },
           {
-            "name": "John Emery Jr.",
+            "name": "Caden Durham",
             "games": 12,
             "stats": {
-              "rushYds": 622,
+              "rushYds": 753,
               "rushTDs": 6,
-              "ypc": 5.5,
-              "recYds": 120
+              "ypc": 5.4,
+              "recYds": 260
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           }

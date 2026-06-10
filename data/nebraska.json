@@ -2095,16 +2095,15 @@
             }
           },
           {
-            "name": "Marcus Washington Jr.",
+            "name": "Jacory Barney Jr.",
             "games": 12,
             "stats": {
-              "rec": 38,
-              "recYds": 568,
-              "recTDs": 4,
-              "yac": 178
+              "rec": 55,
+              "recYds": 484,
+              "recTDs": 5,
+              "yac": 240
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           }
@@ -2239,16 +2238,16 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Nick Henrich",
-            "games": 12,
+            "name": "John Bullock",
+            "games": 13,
             "stats": {
-              "tackles": 90,
-              "sacks": 1,
+              "tackles": 70,
+              "sacks": 4,
               "ints": 1,
-              "tfls": 5
+              "tfls": 10
             },
             "bonuses": {
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           },
           {

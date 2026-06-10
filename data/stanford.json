@@ -1932,16 +1932,17 @@
             }
           },
           {
-            "name": "Justin Lamson",
-            "games": 12,
+            "name": "Ashton Daniels",
+            "games": 11,
             "stats": {
-              "passYds": 2088,
-              "passTDs": 16,
+              "passYds": 2247,
+              "passTDs": 11,
               "intsSeason": 7,
-              "qbr": 142
+              "qbr": 140,
+              "rushYds": 669,
+              "rushTDs": 3
             },
             "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "elite"
             }
           }
@@ -2018,17 +2019,18 @@
             }
           },
           {
-            "name": "Benjamin Yurosek",
+            "name": "Elic Ayomanor",
             "games": 12,
             "stats": {
-              "rec": 38,
-              "recYds": 568,
-              "recTDs": 5,
-              "yac": 178
+              "rec": 62,
+              "recYds": 1013,
+              "recTDs": 6,
+              "yac": 315
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 136,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -2258,17 +2260,17 @@
             }
           },
           {
-            "name": "Jonathan McGill",
+            "name": "Collin Wright",
             "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 14,
-              "tackles": 50,
+              "pbus": 12,
+              "tackles": 61,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 225,
+              "nflDraftPick": 150,
               "collegeDominance": "elite"
             }
           }

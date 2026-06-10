@@ -1600,17 +1600,19 @@
             }
           },
           {
-            "name": "LD Brown",
-            "games": 12,
+            "name": "Ollie Gordon II",
+            "games": 13,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 8,
-              "ypc": 5.4,
-              "recYds": 120
+              "rushYds": 1732,
+              "rushTDs": 21,
+              "ypc": 6.1,
+              "recYds": 330
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 179,
+              "collegeDominance": "allTime"
             }
           }
         ]

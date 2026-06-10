@@ -2057,17 +2057,18 @@
             }
           },
           {
-            "name": "Chris Tyree",
-            "games": 13,
+            "name": "Jeremiyah Love",
+            "games": 16,
             "stats": {
-              "rushYds": 612,
-              "rushTDs": 6,
-              "ypc": 5.6,
-              "recYds": 245
+              "rushYds": 1372,
+              "rushTDs": 18,
+              "ypc": 6.9,
+              "recYds": 280
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -2338,19 +2339,19 @@
             }
           },
           {
-            "name": "Cam Hart",
-            "games": 14,
+            "name": "Benjamin Morrison",
+            "games": 13,
             "stats": {
-              "ints": 4,
-              "pbus": 20,
-              "tackles": 50,
+              "ints": 6,
+              "pbus": 14,
+              "tackles": 33,
               "ff": 1,
-              "coverageGrade": "A"
+              "coverageGrade": "A+"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 98,
-              "collegeDominance": "elite"
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
             }
           }
         ]

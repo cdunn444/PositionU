@@ -1667,17 +1667,20 @@
             }
           },
           {
-            "name": "Dayton Wade",
-            "games": 13,
+            "name": "Tre Harris",
+            "games": 8,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
+              "rec": 60,
+              "recYds": 1030,
+              "recTDs": 7,
+              "yac": 330
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": false,
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss WR (2024); 1,030 yds in 8 games, AP 2nd-team All-American, Biletnikoff semifinalist, 2025 2nd-round pick (Chargers)."
             }
           }
         ]
@@ -1773,33 +1776,38 @@
             }
           },
           {
-            "name": "Tavita Thompson",
-            "games": 13,
+            "name": "Walter Nolen",
+            "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 11,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 6,
+              "tfls": 14,
+              "hurries": 3,
+              "ff": 2,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "consensusAllAmerican": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss DT (2024); consensus All-American, 6.5 sacks/14 TFL, 2025 1st-round pick (#16, Cardinals). Stats reconstructed."
             }
           },
           {
-            "name": "JJ Pegues",
-            "games": 13,
+            "name": "Princely Umanmielen",
+            "games": 12,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 9,
+              "sacks": 10,
+              "tfls": 13,
+              "hurries": 12,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 77,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss EDGE (2024); 10.5 sacks/13.5 TFL, 2025 3rd-round pick (Panthers). Stats reconstructed."
             }
           }
         ]
@@ -1825,31 +1833,34 @@
             }
           },
           {
-            "name": "Troy Brown",
+            "name": "Chris Paul Jr.",
             "games": 13,
             "stats": {
               "tackles": 88,
-              "sacks": 2,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 10
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 172,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss LB (2024); team tackles leader (88), Butkus Award finalist, All-American, 2025 5th-round pick (Rams). Stats reconstructed."
             }
           },
           {
-            "name": "Nic Scourton",
-            "games": 12,
+            "name": "Suntarine Perkins",
+            "games": 13,
             "stats": {
-              "tackles": 72,
-              "sacks": 4,
-              "ints": 0,
-              "tfls": 9
+              "tackles": 60,
+              "sacks": 10,
+              "ints": 1,
+              "tfls": 14
             },
             "bonuses": {
-              "nflDraftPick": 128,
-              "collegeDominance": "elite"
+              "firstTeamAllSEC": false,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss LB/EDGE (2024); 10.5 sacks (T-2nd single-season program history), 14 TFL, All-America HM. Stats reconstructed."
             }
           }
         ]
@@ -1891,18 +1902,21 @@
             }
           },
           {
-            "name": "Daijahn Anthony",
-            "games": 12,
+            "name": "Trey Amos",
+            "games": 13,
             "stats": {
               "ints": 3,
-              "pbus": 15,
-              "tackles": 48,
+              "pbus": 13,
+              "tackles": 50,
               "ff": 1,
-              "coverageGrade": "A"
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "firstTeamAllSEC": true,
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 61,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss CB (2024); team-leading 13 PBUs, SEC PD leader, All-SEC 1st team, 2025 2nd-round pick (Commanders). Stats reconstructed."
             }
           }
         ]

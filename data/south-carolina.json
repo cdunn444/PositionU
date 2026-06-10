@@ -1597,17 +1597,17 @@
             }
           },
           {
-            "name": "Rashad Amos",
+            "name": "Raheim Sanders",
             "games": 12,
             "stats": {
-              "rushYds": 622,
-              "rushTDs": 5,
-              "ypc": 5,
-              "recYds": 88
+              "rushYds": 881,
+              "rushTDs": 11,
+              "ypc": 4.8,
+              "recYds": 316
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1769,18 +1769,19 @@
             }
           },
           {
-            "name": "Rick Sandidge",
+            "name": "Kyle Kennard",
             "games": 12,
             "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 11.5,
+              "tfls": 15.5,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 105,
+              "collegeDominance": "eraDef"
             }
           }
         ]

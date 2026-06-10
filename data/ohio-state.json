@@ -1070,18 +1070,18 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Reggie White",
-            "games": 12,
+            "name": "Jerome Foster",
+            "games": 11,
             "stats": {
-              "sacks": 9,
-              "tfls": 14,
-              "hurries": 18,
+              "sacks": 8,
+              "tfls": 13,
+              "hurries": 17,
               "ff": 2,
-              "dominanceGrade": "A+"
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 4,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 139,
               "collegeDominance": "eraDef"
             }
           },
@@ -2018,18 +2018,17 @@
           },
           {
             "name": "EJ Underwood",
-            "games": 13,
+            "games": 12,
             "stats": {
-              "ints": 4,
-              "pbus": 22,
-              "tackles": 55,
-              "ff": 2,
-              "coverageGrade": "A+"
+              "ints": 2,
+              "pbus": 9,
+              "tackles": 30,
+              "ff": 1,
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 168,
-              "collegeDominance": "elite"
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -2386,19 +2385,18 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Denzel Ward",
-            "games": 13,
+            "name": "Cameron Brown",
+            "games": 11,
             "stats": {
-              "ints": 4,
-              "pbus": 28,
-              "tackles": 46,
-              "ff": 2,
-              "coverageGrade": "A+"
+              "ints": 1,
+              "pbus": 7,
+              "tackles": 24,
+              "ff": 1,
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 4,
-              "collegeDominance": "eraDef"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           },
           {

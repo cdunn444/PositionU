@@ -140,7 +140,7 @@
             }
           },
           {
-            "name": "Larry Brown",
+            "name": "Don Calhoun",
             "games": 11,
             "stats": {
               "rec": 18,
@@ -149,9 +149,8 @@
               "yac": 90
             },
             "bonuses": {
-              "nflDraftPick": 191,
               "collegeDominance": "veryGood",
-              "note": "Backfield receiver (13+ receptions as senior); adjacent fill for undocumented 70s WR depth."
+              "note": "RB (1971-73); used as receiver. Adjacent fill for undocumented 70s WR depth."
             }
           }
         ]
@@ -186,22 +185,22 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "RB (1971-73) used as receiver; adjacent fill for sparse 70s TE room."
+              "note": "RB used as receiver; adjacent fill for sparse 70s TE room."
             }
           },
           {
-            "name": "Mike Montgomery",
+            "name": "Larry Brown",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 150,
+              "rec": 14,
+              "recYds": 170,
               "recTDs": 1,
-              "yac": 46
+              "yac": 52
             },
             "bonuses": {
-              "nflDraftPick": 65,
-              "collegeDominance": "good",
-              "note": "RB/flanker used as receiver; adjacent-position fill for undocumented 70s TE depth."
+              "nflDraftPick": 191,
+              "collegeDominance": "veryGood",
+              "note": "Backfield receiver; adjacent fill for undocumented 70s TE depth."
             }
           }
         ]
@@ -258,7 +257,7 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Real K-State 1970s front-seven defender (listed at LB); adjacent fill — 70s DL stats are undocumented."
+              "note": "Real K-State 1970s front-seven defender; adjacent fill — 70s DL stats undocumented."
             }
           },
           {
@@ -273,7 +272,7 @@
             },
             "bonuses": {
               "collegeDominance": "good",
-              "note": "Real K-State 1970s defender (secondary/front); adjacent-position fill for undocumented 70s DL stats."
+              "note": "Real K-State 1970s defender; adjacent-position fill for undocumented 70s DL stats."
             }
           }
         ]
@@ -309,21 +308,21 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Real K-State 1970s linebacker; stats reconstructed."
+              "note": "Real K-State 1970s linebacker; reconstructed stats."
             }
           },
           {
-            "name": "Mike Kenney",
+            "name": "Clarence Scott",
             "games": 11,
             "stats": {
               "tackles": 80,
-              "sacks": 2,
-              "ints": 2,
-              "tfls": 8
+              "sacks": 1,
+              "ints": 4,
+              "tfls": 6
             },
             "bonuses": {
-              "collegeDominance": "good",
-              "note": "Real K-State 1970s defender; reconstructed LB line."
+              "collegeDominance": "elite",
+              "note": "All-American DB who also filled run support; adjacent fill for thin 70s LB room."
             }
           }
         ]
@@ -345,7 +344,7 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 145,
+              "nflDraftPick": 14,
               "collegeDominance": "eraDef"
             }
           },
@@ -365,18 +364,19 @@
             }
           },
           {
-            "name": "Larry Brown",
+            "name": "Mack Herron",
             "games": 11,
             "stats": {
               "ints": 2,
-              "pbus": 8,
+              "pbus": 9,
               "tackles": 42,
               "ff": 1,
               "coverageGrade": "B"
             },
             "bonuses": {
+              "nflDraftPick": 225,
               "collegeDominance": "veryGood",
-              "note": "Multi-purpose back; adjacent-position fill for thin/undocumented 70s DB room."
+              "note": "Multi-purpose back/returner; adjacent-position fill for thin 70s DB room."
             }
           }
         ]
@@ -553,31 +553,31 @@
             }
           },
           {
-            "name": "Frank Hernandez",
-            "games": 11,
-            "stats": {
-              "rec": 18,
-              "recYds": 230,
-              "recTDs": 2,
-              "yac": 70
-            },
-            "bonuses": {
-              "collegeDominance": "good",
-              "note": "WR used in TE/H-back/slot sets; adjacent fill for sparse 80s TE room."
-            }
-          },
-          {
             "name": "Eric Gallon",
             "games": 11,
             "stats": {
-              "rec": 14,
-              "recYds": 150,
+              "rec": 16,
+              "recYds": 180,
               "recTDs": 1,
-              "yac": 60
+              "yac": 64
             },
             "bonuses": {
               "collegeDominance": "good",
               "note": "RB used as receiver/H-back; adjacent-position fill for undocumented 80s TE depth."
+            }
+          },
+          {
+            "name": "Michael Smith",
+            "games": 11,
+            "stats": {
+              "rec": 20,
+              "recYds": 250,
+              "recTDs": 2,
+              "yac": 80
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "WR used in TE/flex/H-back alignments; adjacent fill for sparse 80s TE room."
             }
           }
         ]

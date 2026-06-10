@@ -651,17 +651,17 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Reggie Jordan",
+            "name": "Jeremy Asher",
             "games": 12,
             "stats": {
-              "tackles": 108,
-              "sacks": 5,
-              "ints": 2,
-              "tfls": 13
+              "tackles": 120,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 14
             },
             "bonuses": {
-              "nflDraftPick": 130,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
             }
           },
           {

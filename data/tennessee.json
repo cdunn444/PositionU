@@ -592,7 +592,7 @@
             }
           },
           {
-            "name": "Mike Cofer",
+            "name": "Gary Theiler",
             "games": 11,
             "stats": {
               "rec": 14,
@@ -601,8 +601,7 @@
               "yac": 52
             },
             "bonuses": {
-              "collegeDominance": "veryGood",
-              "note": "Tight end (Mike 'Go' Cofer) whose career bridged the late 1970s"
+              "collegeDominance": "veryGood"
             }
           }
         ]

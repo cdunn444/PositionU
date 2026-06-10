@@ -1112,18 +1112,19 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Anthony Williams",
+            "name": "Sammy Davis",
             "games": 13,
             "stats": {
-              "ints": 4,
+              "ints": 5,
               "pbus": 20,
               "tackles": 58,
               "ff": 2,
-              "coverageGrade": "A"
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "eraDef"
             }
           },
           {

@@ -458,16 +458,15 @@
             }
           },
           {
-            "name": "Warren Marshall",
+            "name": "Kent Hagood",
             "games": 11,
             "stats": {
-              "rushYds": 622,
+              "rushYds": 688,
               "rushTDs": 6,
-              "ypc": 4.8,
-              "recYds": 88
+              "ypc": 5.5,
+              "recYds": 70
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -928,17 +927,16 @@
             }
           },
           {
-            "name": "Brandon Bennett",
+            "name": "Matthew Campbell",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 110,
-              "recTDs": 1,
-              "yac": 40
+              "rec": 22,
+              "recYds": 260,
+              "recTDs": 2,
+              "yac": 80
             },
             "bonuses": {
-              "collegeDominance": "veryGood",
-              "note": "Primarily a RB (1991-94); listed at TE only as a verified-era teammate to complete the room."
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -969,18 +967,18 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Larry Chester",
+            "name": "John Abraham",
             "games": 12,
             "stats": {
-              "sacks": 6,
-              "tfls": 9,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 9,
+              "tfls": 15,
+              "hurries": 18,
+              "ff": 2,
               "dominanceGrade": "A+"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 59,
+              "nflDraftPick": 13,
               "collegeDominance": "eraDef"
             }
           },
@@ -1036,19 +1034,16 @@
             }
           },
           {
-            "name": "John Abraham",
+            "name": "Shannon Wadley",
             "games": 12,
             "stats": {
-              "tackles": 70,
-              "sacks": 10,
-              "ints": 0,
-              "tfls": 14
+              "tackles": 90,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 13,
-              "collegeDominance": "eraDef",
-              "note": "Edge/DE (1996-99, 13th overall pick); also played stand-up OLB. Listed at LB to round out the 90s room."
+              "collegeDominance": "elite"
             }
           },
           {

@@ -39,7 +39,7 @@
             }
           },
           {
-            "name": "Don Roberts",
+            "name": "Tommy Duniven",
             "games": 11,
             "stats": {
               "passYds": 1288,
@@ -48,7 +48,7 @@
               "qbr": 122
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "nflDraftPick": 160,
               "collegeDominance": "elite"
             }
           }
@@ -75,16 +75,16 @@
             }
           },
           {
-            "name": "Timmy Newsome",
+            "name": "Larry Isaac",
             "games": 11,
             "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 4.9,
-              "recYds": 108
+              "rushYds": 862,
+              "rushTDs": 8,
+              "ypc": 5.0,
+              "recYds": 96
             },
             "bonuses": {
-              "nflDraftPick": 174,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
@@ -110,45 +110,43 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Lawrence Williams",
+            "name": "Sammy Williams",
             "games": 11,
             "stats": {
-              "rec": 48,
-              "recYds": 718,
-              "recTDs": 6,
-              "yac": 228
+              "rec": 32,
+              "recYds": 601,
+              "recTDs": 2,
+              "yac": 190
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 40,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Dave Parks",
-            "games": 11,
-            "stats": {
-              "rec": 36,
-              "recYds": 538,
-              "recTDs": 4,
-              "yac": 168
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Tony Adams",
+            "name": "Brian Nelson",
             "games": 11,
             "stats": {
               "rec": 28,
-              "recYds": 418,
+              "recYds": 438,
               "recTDs": 3,
-              "yac": 130
+              "yac": 138
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "nflDraftPick": 291,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Johnny Odom",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 331,
+              "recTDs": 2,
+              "yac": 104
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }
@@ -160,45 +158,45 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Donny Anderson",
+            "name": "James Hadnot",
             "games": 11,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
+              "rec": 18,
+              "recYds": 198,
+              "recTDs": 2,
+              "yac": 70
             },
             "bonuses": {
-              "nflDraftPick": 7,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Began career as Texas Tech tight end before moving to fullback (1976-79)"
             }
           },
           {
-            "name": "Rickey Young",
+            "name": "Sammy Williams",
             "games": 11,
             "stats": {
               "rec": 14,
               "recYds": 165,
               "recTDs": 1,
-              "yac": 52
+              "yac": 55
             },
             "bonuses": {
-              "nflDraftPick": 88,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech receiver/end of era listed at TE"
             }
           },
           {
-            "name": "Wayne Walker",
+            "name": "Brian Nelson",
             "games": 11,
             "stats": {
               "rec": 10,
               "recYds": 118,
               "recTDs": 1,
-              "yac": 36
+              "yac": 40
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1970s receiving end listed at TE"
             }
           }
         ]
@@ -229,49 +227,51 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Gabriel Rivera",
+            "name": "Ecomet Burley",
             "games": 11,
             "stats": {
-              "sacks": 7,
-              "tfls": 11,
-              "hurries": 14,
-              "ff": 2,
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
               "dominanceGrade": "A+"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 21,
+              "firstTeamAllConference": true,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Rex Tutt",
+            "name": "Don Rives",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 150,
+              "collegeDominance": "elite",
+              "note": "All-SWC linebacker/edge rusher (1972 second-team All-American) listed on DL"
+            }
+          },
+          {
+            "name": "Thomas Howard",
             "games": 11,
             "stats": {
               "sacks": 4,
-              "tfls": 6,
+              "tfls": 7,
               "hurries": 9,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Larry Lacewell",
-            "games": 11,
-            "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "1976 first-team All-American linebacker listed on DL"
             }
           }
         ]
@@ -282,47 +282,49 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Zach Thomas",
+            "name": "Don Rives",
             "games": 11,
             "stats": {
-              "tackles": 128,
-              "sacks": 5,
+              "tackles": 118,
+              "sacks": 4,
               "ints": 2,
-              "tfls": 15
+              "tfls": 12
             },
             "bonuses": {
-              "butkus": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 154,
-              "collegeDominance": "allTime"
+              "firstTeamAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 150,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Mike Leinart",
+            "name": "Thomas Howard",
             "games": 11,
             "stats": {
-              "tackles": 88,
+              "tackles": 110,
               "sacks": 3,
-              "ints": 1,
-              "tfls": 10
+              "ints": 2,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Larry Slade",
+            "name": "Greg Frazier",
             "games": 11,
             "stats": {
               "tackles": 78,
               "sacks": 2,
-              "ints": 1,
+              "ints": 3,
               "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite",
+              "note": "All-SWC defensive back (1976) listed at LB"
             }
           }
         ]
@@ -439,46 +441,47 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Byron Morris",
+            "name": "James Gray",
             "games": 11,
             "stats": {
-              "rushYds": 1212,
-              "rushTDs": 12,
-              "ypc": 5.5,
-              "recYds": 165
+              "rushYds": 1071,
+              "rushTDs": 11,
+              "ypc": 5.0,
+              "recYds": 130
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 91,
+              "secondTeamAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 145,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "James Gray",
+            "name": "Ervin Farris",
             "games": 11,
             "stats": {
-              "rushYds": 955,
-              "rushTDs": 9,
-              "ypc": 5.2,
-              "recYds": 120
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 4.8,
+              "recYds": 188
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Eric Felton",
+            "name": "Anthony Lynn",
             "games": 11,
             "stats": {
-              "rushYds": 712,
+              "rushYds": 688,
               "rushTDs": 6,
-              "ypc": 4.9,
-              "recYds": 108
+              "ypc": 4.6,
+              "recYds": 120
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1988-91; All-SWC 1990"
             }
           }
         ]
@@ -504,31 +507,31 @@
             }
           },
           {
-            "name": "Monte Reagor",
-            "games": 12,
+            "name": "Eddy Anderson",
+            "games": 11,
             "stats": {
               "rec": 44,
               "recYds": 658,
               "recTDs": 5,
-              "yac": 208
+              "yac": 205
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Godfrey Turner",
+            "name": "Wayne Walker",
             "games": 11,
             "stats": {
-              "rec": 30,
-              "recYds": 445,
-              "recTDs": 3,
-              "yac": 140
+              "rec": 38,
+              "recYds": 612,
+              "recTDs": 5,
+              "yac": 200
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -539,45 +542,45 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Lloyd Burruss",
+            "name": "Wayne Walker",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
+              "rec": 20,
+              "recYds": 245,
               "recTDs": 2,
+              "yac": 80
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "All-SWC Texas Tech receiver of era listed at TE"
+            }
+          },
+          {
+            "name": "Eddy Anderson",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 55
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "All-SWC Texas Tech receiver of era listed at TE"
+            }
+          },
+          {
+            "name": "Tyrone Thurman",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 138,
+              "recTDs": 1,
               "yac": 60
             },
             "bonuses": {
-              "nflDraftPick": 135,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Glenn Grimes",
-            "games": 11,
-            "stats": {
-              "rec": 12,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 42
-            },
-            "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Kevin Murray",
-            "games": 11,
-            "stats": {
-              "rec": 8,
-              "recYds": 95,
-              "recTDs": 1,
-              "yac": 30
-            },
-            "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "All-American Texas Tech return man/receiver listed at TE"
             }
           }
         ]
@@ -618,41 +621,42 @@
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "outland": true,
-              "lombardiAward": true,
               "consensusAllAmerican": true,
               "nflDraftPick": 21,
               "collegeDominance": "allTime"
             }
           },
           {
-            "name": "Sean Smedley",
+            "name": "Dwayne Jiles",
             "games": 11,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 9,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 10,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "elite",
+              "note": "Texas Tech LB/edge (NFL Eagles/Giants) listed on DL"
             }
           },
           {
-            "name": "Randy Kirk",
+            "name": "Brad Hastings",
             "games": 11,
             "stats": {
               "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
+              "tfls": 6,
+              "hurries": 8,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite",
+              "note": "Three-time All-SWC linebacker (1983-86) listed on DL"
             }
           }
         ]
@@ -663,47 +667,47 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Tracy Simien",
+            "name": "Brad Hastings",
             "games": 11,
             "stats": {
-              "tackles": 108,
-              "sacks": 4,
+              "tackles": 171,
+              "sacks": 3,
               "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef",
+              "note": "Three-time All-SWC; 2nd all-time TT career tackles (480, 1983-86)"
+            }
+          },
+          {
+            "name": "Dwayne Jiles",
+            "games": 11,
+            "stats": {
+              "tackles": 128,
+              "sacks": 4,
+              "ints": 1,
               "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 130,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Zach Thomas",
-            "games": 12,
-            "stats": {
-              "tackles": 138,
-              "sacks": 5,
-              "ints": 2,
-              "tfls": 16
-            },
-            "bonuses": {
-              "butkus": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 154,
-              "collegeDominance": "allTime"
-            }
-          },
-          {
-            "name": "Brad Hastings",
+            "name": "Anthony Lynn",
             "games": 11,
             "stats": {
-              "tackles": 75,
+              "tackles": 82,
               "sacks": 2,
               "ints": 1,
-              "tfls": 7
+              "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1988-91 RB listed at LB as era teammate"
             }
           }
         ]
@@ -784,18 +788,17 @@
             }
           },
           {
-            "name": "B.J. Symons",
-            "games": 12,
+            "name": "Robert Hall",
+            "games": 11,
             "stats": {
-              "passYds": 5765,
-              "passTDs": 52,
-              "intsSeason": 20,
-              "qbr": 182
+              "passYds": 2444,
+              "passTDs": 18,
+              "intsSeason": 9,
+              "qbr": 148
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 225,
-              "collegeDominance": "eraDef"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -820,15 +823,32 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Byron Morris",
+            "name": "Byron Hanspard",
             "games": 12,
             "stats": {
-              "rushYds": 1367,
-              "rushTDs": 13,
-              "ypc": 5.6,
-              "recYds": 145
+              "rushYds": 2084,
+              "rushTDs": 17,
+              "ypc": 6.1,
+              "recYds": 188
             },
             "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bam Morris",
+            "games": 11,
+            "stats": {
+              "rushYds": 1752,
+              "rushTDs": 21,
+              "ypc": 5.4,
+              "recYds": 110
+            },
+            "bonuses": {
+              "doakWalker": true,
               "firstTeamAllAmerican": true,
               "nflDraftPick": 91,
               "collegeDominance": "eraDef"
@@ -838,27 +858,14 @@
             "name": "Ricky Williams",
             "games": 12,
             "stats": {
-              "rushYds": 955,
-              "rushTDs": 9,
+              "rushYds": 1582,
+              "rushTDs": 12,
               "ypc": 5.3,
-              "recYds": 120
+              "recYds": 145
             },
             "bonuses": {
+              "firstTeamAllConference": true,
               "nflDraftPick": 165,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Shaud Williams",
-            "games": 12,
-            "stats": {
-              "rushYds": 788,
-              "rushTDs": 7,
-              "ypc": 5.1,
-              "recYds": 108
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -870,46 +877,45 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Wes Welker",
-            "games": 13,
+            "name": "Lloyd Hill",
+            "games": 12,
             "stats": {
-              "rec": 88,
-              "recYds": 1178,
-              "recTDs": 8,
-              "yac": 372
+              "rec": 76,
+              "recYds": 1261,
+              "recTDs": 12,
+              "yac": 380
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 233,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 170,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Lloyd Hill",
+            "name": "Field Scovell",
             "games": 12,
             "stats": {
-              "rec": 52,
-              "recYds": 788,
-              "recTDs": 6,
-              "yac": 250
+              "rec": 40,
+              "recYds": 560,
+              "recTDs": 4,
+              "yac": 175
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Marrio Haggan",
+            "name": "Donny Brooks",
             "games": 12,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
-              "recTDs": 5,
-              "yac": 208
+              "rec": 36,
+              "recYds": 512,
+              "recTDs": 4,
+              "yac": 162
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -920,21 +926,21 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Shaud Williams",
+            "name": "Lloyd Hill",
             "games": 12,
             "stats": {
               "rec": 22,
               "recYds": 265,
-              "recTDs": 3,
+              "recTDs": 2,
               "yac": 85
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "All-American Texas Tech receiver of era listed at TE"
             }
           },
           {
-            "name": "Brad Sherrod",
+            "name": "Field Scovell",
             "games": 12,
             "stats": {
               "rec": 14,
@@ -943,12 +949,12 @@
               "yac": 52
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1994-96 receiver listed at TE"
             }
           },
           {
-            "name": "Matt Mohring",
+            "name": "Donny Brooks",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -957,8 +963,8 @@
               "yac": 36
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1990s receiver listed at TE"
             }
           }
         ]
@@ -993,45 +999,47 @@
             "games": 12,
             "stats": {
               "sacks": 7,
-              "tfls": 11,
-              "hurries": 14,
+              "tfls": 19,
+              "hurries": 16,
               "ff": 2,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 27,
+              "consensusAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 58,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Rico Wims",
+            "name": "Tony Daniels",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 11,
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "firstTeamAllAmerican": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Reggie Brown",
-            "games": 11,
+            "name": "Marcus Coleman",
+            "games": 12,
             "stats": {
               "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
+              "tfls": 6,
+              "hurries": 8,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite",
+              "note": "All-American DB/Raider hybrid of era listed on DL"
             }
           }
         ]
@@ -1051,38 +1059,40 @@
               "tfls": 18
             },
             "bonuses": {
-              "butkus": true,
               "consensusAllAmerican": true,
+              "firstTeamAllConference": true,
               "nflDraftPick": 154,
               "collegeDominance": "allTime"
             }
           },
           {
-            "name": "Dustin Brown",
+            "name": "Marcus Coleman",
             "games": 12,
             "stats": {
               "tackles": 88,
-              "sacks": 3,
-              "ints": 1,
+              "sacks": 2,
+              "ints": 4,
               "tfls": 10
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "elite",
+              "note": "Played hybrid OLB/strong-safety 'Raider' position (1992-95)"
             }
           },
           {
-            "name": "Jarvis Williams",
+            "name": "Dane Johnson",
             "games": 12,
             "stats": {
               "tackles": 78,
-              "sacks": 2,
-              "ints": 1,
+              "sacks": 1,
+              "ints": 3,
               "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite",
+              "note": "All-Big 12 safety (1997) listed at LB as era teammate"
             }
           }
         ]
@@ -1097,45 +1107,45 @@
             "games": 12,
             "stats": {
               "ints": 6,
-              "pbus": 28,
-              "tackles": 52,
+              "pbus": 22,
+              "tackles": 64,
               "ff": 2,
               "coverageGrade": "A+"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 50,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 76,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Rondell Jones",
+            "name": "Dane Johnson",
             "games": 12,
             "stats": {
               "ints": 4,
-              "pbus": 18,
+              "pbus": 16,
               "tackles": 50,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 62,
-              "collegeDominance": "eraDef"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Sammy Morris",
+            "name": "Bart Thomas",
             "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 14,
-              "tackles": 46,
+              "pbus": 12,
+              "tackles": 58,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }
@@ -1301,21 +1311,20 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jace Amaro Jr.",
+            "name": "Adam James",
             "games": 13,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
+              "rec": 40,
+              "recYds": 588,
               "recTDs": 6,
-              "yac": 208
+              "yac": 185
             },
             "bonuses": {
-              "nflDraftPick": 49,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Joel Filani",
+            "name": "Robert Johnson",
             "games": 13,
             "stats": {
               "rec": 28,
@@ -1324,22 +1333,22 @@
               "yac": 130
             },
             "bonuses": {
-              "nflDraftPick": 213,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Inside receiver of Air Raid era listed at TE"
             }
           },
           {
-            "name": "Brandon Carter",
-            "games": 12,
+            "name": "Joel Filani",
+            "games": 13,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 22,
+              "recYds": 322,
+              "recTDs": 3,
+              "yac": 100
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite",
+              "note": "Two-time All-Big 12 receiver listed at TE"
             }
           }
         ]
@@ -1370,48 +1379,47 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Darcel McBath",
+            "name": "Keyunta Dawson",
             "games": 13,
             "stats": {
-              "sacks": 6,
-              "tfls": 9,
-              "hurries": 13,
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
               "ff": 1,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 74,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 220,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Lyle Leong",
+            "name": "Seth Nitschmann",
             "games": 13,
             "stats": {
               "sacks": 5,
               "tfls": 8,
-              "hurries": 11,
+              "hurries": 10,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 115,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Tommy Blake",
+            "name": "Brandon Williams",
             "games": 13,
             "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "nflDraftPick": 213,
               "collegeDominance": "elite"
             }
           }
@@ -1423,44 +1431,44 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Ricky Gary",
+            "name": "Lawrence Flugence",
             "games": 13,
             "stats": {
-              "tackles": 105,
+              "tackles": 192,
               "sacks": 4,
               "ints": 2,
-              "tfls": 12
+              "tfls": 13
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef",
+              "note": "TT career & single-season tackle record (1999-2002)"
             }
           },
           {
-            "name": "Willie Applewhite",
+            "name": "Brian Duncan",
             "games": 13,
             "stats": {
-              "tackles": 88,
+              "tackles": 105,
               "sacks": 3,
               "ints": 1,
               "tfls": 10
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Anthony Hargrove",
-            "games": 12,
+            "name": "Fletcher Session",
+            "games": 13,
             "stats": {
-              "tackles": 75,
+              "tackles": 88,
               "sacks": 2,
               "ints": 1,
               "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 225,
               "collegeDominance": "elite"
             }
           }
@@ -1475,45 +1483,44 @@
             "name": "Darcel McBath",
             "games": 13,
             "stats": {
-              "ints": 5,
-              "pbus": 22,
+              "ints": 7,
+              "pbus": 18,
               "tackles": 55,
               "ff": 2,
               "coverageGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 74,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 48,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Chris Parker",
+            "name": "Daniel Charbonnet",
             "games": 13,
             "stats": {
-              "ints": 3,
-              "pbus": 16,
-              "tackles": 50,
+              "ints": 5,
+              "pbus": 14,
+              "tackles": 60,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Dorin Dickerson",
-            "games": 13,
+            "name": "Antonio Huffman",
+            "games": 12,
             "stats": {
-              "ints": 3,
-              "pbus": 14,
-              "tackles": 46,
+              "ints": 4,
+              "pbus": 25,
+              "tackles": 63,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
           }
@@ -1628,19 +1635,17 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Jace Amaro",
+            "name": "Eric Ward",
             "games": 13,
             "stats": {
-              "rec": 106,
-              "recYds": 1352,
-              "recTDs": 8,
-              "yac": 428
+              "rec": 82,
+              "recYds": 1040,
+              "recTDs": 11,
+              "yac": 330
             },
             "bonuses": {
-              "biletnikoff": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 49,
-              "collegeDominance": "allTime"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1684,18 +1689,18 @@
             "stats": {
               "rec": 106,
               "recYds": 1352,
-              "recTDs": 8,
+              "recTDs": 7,
               "yac": 428
             },
             "bonuses": {
-              "mackey": true,
               "consensusAllAmerican": true,
+              "firstTeamAllConference": true,
               "nflDraftPick": 49,
               "collegeDominance": "allTime"
             }
           },
           {
-            "name": "Reginald Davis",
+            "name": "Dylan Cantrell",
             "games": 13,
             "stats": {
               "rec": 28,
@@ -1704,22 +1709,22 @@
               "yac": 110
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Big slot receiver of era listed at TE"
             }
           },
           {
-            "name": "Eric Ward",
+            "name": "Reginald Davis",
             "games": 13,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
+              "rec": 15,
+              "recYds": 247,
+              "recTDs": 2,
+              "yac": 80
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 2010s receiver listed at TE"
             }
           }
         ]
@@ -1750,18 +1755,17 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Kerry Hyder Jr.",
+            "name": "Kerry Hyder",
             "games": 13,
             "stats": {
-              "sacks": 8,
-              "tfls": 12,
-              "hurries": 15,
-              "ff": 2,
+              "sacks": 11,
+              "tfls": 16,
+              "hurries": 18,
+              "ff": 3,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 225,
+              "firstTeamAllConference": true,
               "collegeDominance": "eraDef"
             }
           },
@@ -1781,18 +1785,19 @@
             }
           },
           {
-            "name": "Paul Mosier",
-            "games": 12,
+            "name": "Pete Robertson",
+            "games": 13,
             "stats": {
-              "sacks": 4,
-              "tfls": 6,
-              "hurries": 9,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 12,
+              "tfls": 14,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef",
+              "note": "Led Big 12 with 12 sacks in 2014; edge rusher (LB/DE)"
             }
           }
         ]
@@ -1803,45 +1808,45 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Pete Robertson",
+            "name": "Jordyn Brooks",
             "games": 13,
             "stats": {
               "tackles": 108,
-              "sacks": 5,
-              "ints": 2,
+              "sacks": 3,
+              "ints": 1,
               "tfls": 13
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 155,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 27,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Ronnell Perkins",
+            "name": "Dakota Allen",
             "games": 13,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 10
+              "tackles": 92,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 195,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Terrell Brown",
-            "games": 12,
+            "name": "Sam Eguavoen",
+            "games": 13,
             "stats": {
-              "tackles": 75,
+              "tackles": 88,
               "sacks": 2,
               "ints": 1,
-              "tfls": 7
+              "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           }
@@ -1884,17 +1889,17 @@
             }
           },
           {
-            "name": "Thierry Nguyen",
+            "name": "Jah'Shawn Johnson",
             "games": 13,
             "stats": {
               "ints": 3,
               "pbus": 14,
-              "tackles": 46,
+              "tackles": 78,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }
@@ -2062,41 +2067,38 @@
             "name": "Baylor Cupp",
             "games": 12,
             "stats": {
-              "rec": 28,
-              "recYds": 338,
-              "recTDs": 4,
-              "yac": 110
+              "rec": 18,
+              "recYds": 198,
+              "recTDs": 3,
+              "yac": 65
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Drae McCray",
+            "name": "Mason Tharp",
             "games": 12,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
+              "rec": 18,
+              "recYds": 178,
+              "recTDs": 4,
               "yac": 60
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Gabe Rivera",
+            "name": "Henry Teeter",
             "games": 12,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
+              "rec": 10,
+              "recYds": 110,
               "recTDs": 1,
-              "yac": 42
+              "yac": 38
             },
             "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "veryGood"
             }
           }

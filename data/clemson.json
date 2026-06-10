@@ -916,20 +916,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Mark Dixon",
-            "games": 12,
-            "stats": {
-              "rec": 38,
-              "recYds": 568,
-              "recTDs": 5,
-              "yac": 178
-            },
-            "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Ray Williams",
             "games": 11,
             "stats": {
@@ -957,6 +943,19 @@
               "nflDraftPick": 19,
               "nationalChampionship": true,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Terrance Roulhac",
+            "games": 11,
+            "stats": {
+              "rec": 92,
+              "recYds": 1487,
+              "recTDs": 16,
+              "yac": 430
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1300,45 +1299,44 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Andre Humphrey",
-            "games": 12,
+            "name": "Rod Gardner",
+            "games": 11,
             "stats": {
-              "rec": 44,
-              "recYds": 658,
+              "rec": 80,
+              "recYds": 1084,
               "recTDs": 5,
-              "yac": 208
+              "yac": 330
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef",
+              "nflDraftPick": 15
+            }
+          },
+          {
+            "name": "Tony Horne",
+            "games": 12,
+            "stats": {
+              "rec": 70,
+              "recYds": 907,
+              "recTDs": 8,
+              "yac": 280
+            },
+            "bonuses": {
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Rick Stockstill",
+            "name": "Terry Smith",
             "games": 11,
             "stats": {
-              "rec": 36,
-              "recYds": 522,
-              "recTDs": 4,
-              "yac": 165
+              "rec": 52,
+              "recYds": 846,
+              "recTDs": 6,
+              "yac": 230
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Chanel Williams",
-            "games": 11,
-            "stats": {
-              "rec": 30,
-              "recYds": 445,
-              "recTDs": 3,
-              "yac": 140
-            },
-            "bonuses": {
-              "nflDraftPick": 220,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1657,16 +1655,15 @@
             }
           },
           {
-            "name": "Jad Dean",
+            "name": "Reggie Merriweather",
             "games": 12,
             "stats": {
-              "rushYds": 768,
-              "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 108
+              "rushYds": 793,
+              "rushTDs": 10,
+              "ypc": 4.6,
+              "recYds": 120
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
           }
@@ -1852,20 +1849,6 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Spencer Bockwoldt",
-            "games": 13,
-            "stats": {
-              "tackles": 108,
-              "sacks": 4,
-              "ints": 2,
-              "tfls": 13
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Anthony Waters",
             "games": 12,
             "stats": {
@@ -1890,6 +1873,21 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Leroy Hill",
+            "games": 12,
+            "stats": {
+              "tackles": 106,
+              "sacks": 8,
+              "ints": 1,
+              "tfls": 19
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "collegeDominance": "eraDef",
+              "nflDraftPick": 98
             }
           }
         ]

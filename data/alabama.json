@@ -617,31 +617,28 @@
             }
           },
           {
-            "name": "Jim Bunch",
+            "name": "George Pugh",
             "games": 11,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 2,
-              "yac": 52
+              "rec": 22,
+              "recYds": 290,
+              "recTDs": 3,
+              "yac": 90
             },
             "bonuses": {
-              "nflDraftPick": 28,
-              "nationalChampionship": true,
               "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Buddy Brown",
+            "name": "Rick Neal",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
-              "recTDs": 1,
-              "yac": 36
+              "rec": 24,
+              "recYds": 300,
+              "recTDs": 3,
+              "yac": 95
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
           }
@@ -1019,16 +1016,15 @@
             }
           },
           {
-            "name": "Mickey Cobb",
+            "name": "Preston Gothard",
             "games": 11,
             "stats": {
-              "rec": 12,
-              "recYds": 138,
-              "recTDs": 1,
-              "yac": 42
+              "rec": 26,
+              "recYds": 320,
+              "recTDs": 3,
+              "yac": 100
             },
             "bonuses": {
-              "nflDraftPick": 215,
               "collegeDominance": "veryGood"
             }
           }
@@ -1168,36 +1164,6 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Antonio London",
-            "games": 12,
-            "stats": {
-              "ints": 4,
-              "pbus": 22,
-              "tackles": 62,
-              "ff": 2,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 92,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Randy Edwards",
-            "games": 12,
-            "stats": {
-              "ints": 3,
-              "pbus": 18,
-              "tackles": 58,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 120,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Kermit Kendrick",
             "games": 11,
             "stats": {
@@ -1210,6 +1176,36 @@
             "bonuses": {
               "nflDraftPick": 145,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jeremiah Castille",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "nflDraftPick": 72
+            }
+          },
+          {
+            "name": "Freddie Robinson",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "nflDraftPick": 142
             }
           }
         ]
@@ -1377,46 +1373,46 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Marco Battle",
+            "name": "Tony Johnson",
             "games": 12,
             "stats": {
-              "rec": 22,
-              "recYds": 268,
+              "rec": 24,
+              "recYds": 290,
               "recTDs": 3,
               "yac": 85
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "nationalChampionship": true,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "nflDraftPick": 197
             }
           },
           {
-            "name": "Jarret Johnson",
+            "name": "Patrick Hape",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 260,
+              "recTDs": 2,
+              "yac": 78
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "nflDraftPick": 137
+            }
+          },
+          {
+            "name": "Shawn Draper",
             "games": 11,
             "stats": {
               "rec": 14,
-              "recYds": 168,
+              "recYds": 165,
               "recTDs": 1,
-              "yac": 52
+              "yac": 50
             },
             "bonuses": {
-              "nflDraftPick": 180,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Tim Irvin",
-            "games": 11,
-            "stats": {
-              "rec": 10,
-              "recYds": 118,
-              "recTDs": 1,
-              "yac": 36
-            },
-            "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "nflDraftPick": 156
             }
           }
         ]
@@ -2215,16 +2211,15 @@
             }
           },
           {
-            "name": "Kyle Pettway",
-            "games": 14,
+            "name": "Miller Forristall",
+            "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 23,
+              "recYds": 253,
+              "recTDs": 1,
+              "yac": 80
             },
             "bonuses": {
-              "nflDraftPick": 195,
               "collegeDominance": "veryGood"
             }
           }

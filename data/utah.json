@@ -73,29 +73,29 @@
             }
           },
           {
-            "name": "Carl Monroe",
+            "name": "Ike Spencer",
             "games": 11,
             "stats": {
-              "rushYds": 1042,
-              "rushTDs": 6,
-              "ypc": 4.9,
-              "recYds": 108
+              "rushYds": 761,
+              "rushTDs": 8,
+              "ypc": 4.3,
+              "recYds": 96
             },
             "bonuses": {
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Frank Henry",
+            "name": "Lewis Walker",
             "games": 11,
             "stats": {
-              "rushYds": 588,
-              "rushTDs": 5,
-              "ypc": 4.6,
-              "recYds": 240
+              "rushYds": 644,
+              "rushTDs": 6,
+              "ypc": 4.5,
+              "recYds": 110
             },
             "bonuses": {
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -106,44 +106,41 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Tom Ramsey",
+            "name": "Steve Odom",
             "games": 11,
             "stats": {
-              "rec": 36,
-              "recYds": 538,
-              "recTDs": 4,
-              "yac": 168
+              "rec": 38,
+              "recYds": 840,
+              "recTDs": 11,
+              "yac": 320
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Frank Henry",
+            "games": 11,
+            "stats": {
+              "rec": 34,
+              "recYds": 548,
+              "recTDs": 5,
+              "yac": 195
+            },
+            "bonuses": {
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Hoy Karr",
-            "games": 11,
-            "stats": {
-              "rec": 28,
-              "recYds": 418,
-              "recTDs": 3,
-              "yac": 130
-            },
-            "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Ted Hendricks",
+            "name": "Carl Monroe",
             "games": 11,
             "stats": {
               "rec": 22,
-              "recYds": 328,
+              "recYds": 268,
               "recTDs": 2,
-              "yac": 102
+              "yac": 150
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
           }
@@ -155,44 +152,42 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Dave Casper",
+            "name": "Steve Folsom",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
-              "yac": 60
+              "rec": 23,
+              "recYds": 342,
+              "recTDs": 5,
+              "yac": 110
             },
             "bonuses": {
-              "nflDraftPick": 45,
+              "nflDraftPick": 312,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Ron Coleman",
+            "name": "Gordon Kurz",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
-              "recTDs": 1,
-              "yac": 36
+              "rec": 22,
+              "recYds": 312,
+              "recTDs": 2,
+              "yac": 96
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Craig Bingham",
+            "name": "Fred Hobbs",
             "games": 11,
             "stats": {
-              "rec": 8,
-              "recYds": 95,
+              "rec": 18,
+              "recYds": 223,
               "recTDs": 1,
-              "yac": 30
+              "yac": 72
             },
             "bonuses": {
-              "nflDraftPick": 75,
               "collegeDominance": "veryGood"
             }
           }

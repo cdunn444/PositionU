@@ -1216,19 +1216,16 @@
             }
           },
           {
-            "name": "Vinny Testaverde",
+            "name": "Ed Carney",
             "games": 11,
             "stats": {
-              "passYds": 2557,
-              "passTDs": 26,
-              "intsSeason": 9,
-              "qbr": 168
+              "passYds": 1180,
+              "passTDs": 8,
+              "intsSeason": 11,
+              "qbr": 118
             },
             "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 1,
-              "collegeDominance": "allTime"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1254,30 +1251,30 @@
             }
           },
           {
-            "name": "Eddie Brown",
+            "name": "Chuck Foreman",
             "games": 11,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 7,
+              "rushYds": 951,
+              "rushTDs": 9,
               "ypc": 5,
-              "recYds": 145
+              "recYds": 320
             },
             "bonuses": {
-              "nflDraftPick": 135,
-              "collegeDominance": "elite"
+              "nflDraftPick": 12,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Hubert Oliver",
+            "name": "Woody Thompson",
             "games": 11,
             "stats": {
-              "rushYds": 688,
-              "rushTDs": 6,
+              "rushYds": 720,
+              "rushTDs": 7,
               "ypc": 4.8,
-              "recYds": 120
+              "recYds": 130
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 64,
               "collegeDominance": "elite"
             }
           }
@@ -1289,18 +1286,16 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Eddie Brown",
+            "name": "Witt Beckman",
             "games": 11,
             "stats": {
-              "rec": 52,
-              "recYds": 812,
-              "recTDs": 7,
-              "yac": 258
+              "rec": 38,
+              "recYds": 684,
+              "recTDs": 5,
+              "yac": 210
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 13,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           },
           {
@@ -1318,16 +1313,15 @@
             }
           },
           {
-            "name": "Barry Grad",
+            "name": "Larry Cain",
             "games": 11,
             "stats": {
-              "rec": 26,
-              "recYds": 388,
+              "rec": 28,
+              "recYds": 402,
               "recTDs": 3,
-              "yac": 122
+              "yac": 130
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "veryGood"
             }
           }
@@ -1339,45 +1333,46 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Bruce Hardy",
+            "name": "Mark Cooper",
             "games": 11,
             "stats": {
-              "rec": 24,
-              "recYds": 295,
-              "recTDs": 3,
-              "yac": 95
-            },
-            "bonuses": {
-              "nflDraftPick": 176,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Tim Flanagan",
-            "games": 11,
-            "stats": {
-              "rec": 16,
-              "recYds": 192,
+              "rec": 14,
+              "recYds": 168,
               "recTDs": 2,
-              "yac": 60
+              "yac": 52
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 31,
+              "collegeDominance": "veryGood",
+              "note": "Arrived 1978 as a TE before being moved to OT; reconstructed TE-era line."
             }
           },
           {
-            "name": "Don Latimer",
+            "name": "Larry Cain",
             "games": 11,
             "stats": {
               "rec": 12,
-              "recYds": 138,
+              "recYds": 150,
               "recTDs": 1,
-              "yac": 42
+              "yac": 48
             },
             "bonuses": {
-              "nflDraftPick": 225,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Real 1970s Cane (WR/RB/return) used as flex-end fill; 1970s TE receiving production undocumented."
+            }
+          },
+          {
+            "name": "Woody Thompson",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 40
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real 1970s Cane (RB) used as adjacent-position fill; 1970s TE room undocumented."
             }
           }
         ]
@@ -1439,19 +1434,19 @@
             }
           },
           {
-            "name": "Ted Hendricks",
+            "name": "Eddie Edwards",
             "games": 11,
             "stats": {
-              "sacks": 7,
-              "tfls": 12,
-              "hurries": 16,
+              "sacks": 11,
+              "tfls": 14,
+              "hurries": 18,
               "ff": 2,
               "dominanceGrade": "A+"
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 33,
-              "collegeDominance": "allTime"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1462,46 +1457,48 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Ted Hendricks",
+            "name": "Harold Sears",
             "games": 11,
             "stats": {
-              "tackles": 105,
-              "sacks": 7,
-              "ints": 3,
-              "tfls": 16
+              "tackles": 117,
+              "sacks": 5,
+              "ints": 1,
+              "tfls": 14
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 33,
-              "collegeDominance": "allTime"
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Mike Garrity",
+            "name": "Rubin Carter",
             "games": 11,
             "stats": {
-              "tackles": 92,
+              "tackles": 98,
               "sacks": 4,
-              "ints": 1,
+              "ints": 0,
               "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 119,
+              "collegeDominance": "elite",
+              "note": "Real 1970s Cane interior defender (middle guard); set UM single-season DT tackle record. Used as adjacent-position fill for thin 1970s LB room."
             }
           },
           {
-            "name": "Pat Venditti",
+            "name": "Tony Cristiani",
             "games": 11,
             "stats": {
-              "tackles": 85,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 10
+              "tackles": 82,
+              "sacks": 4,
+              "ints": 0,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "veryGood"
+              "consensusAllAmerican": true,
+              "collegeDominance": "elite",
+              "note": "Real 1970s Cane (All-American DL, 1973) used as adjacent-position fill for thin 1970s LB room."
             }
           }
         ]
@@ -1512,48 +1509,51 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Gary Gaines",
+            "name": "Burgess Owens",
             "games": 11,
             "stats": {
               "ints": 5,
-              "pbus": 22,
-              "tackles": 55,
-              "ff": 1,
-              "coverageGrade": "A"
+              "pbus": 16,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Reggie Blount",
+            "name": "Fred Marion",
             "games": 11,
             "stats": {
               "ints": 4,
-              "pbus": 18,
-              "tackles": 52,
+              "pbus": 14,
+              "tackles": 58,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "nflDraftPick": 122,
+              "collegeDominance": "elite",
+              "note": "Career spanned 1978-81; 1978-79 seasons fall in this decade. Reconstructed line."
             }
           },
           {
-            "name": "Ken Calhoun",
+            "name": "Ernest Jones",
             "games": 11,
             "stats": {
               "ints": 3,
-              "pbus": 15,
+              "pbus": 12,
               "tackles": 48,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 117,
+              "collegeDominance": "elite",
+              "note": "Real 1970s Cane DB (5th-round pick, 1976 NFL Draft). Reconstructed stat line."
             }
           }
         ]

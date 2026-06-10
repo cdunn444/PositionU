@@ -166,16 +166,15 @@
         "pos": "TE",
         "players": [
           {
-            "name": "John Kruse",
+            "name": "Brent Hecht",
             "games": 12,
             "stats": {
-              "rec": 24,
-              "recYds": 288,
-              "recTDs": 3,
-              "yac": 92
+              "rec": 22,
+              "recYds": 256,
+              "recTDs": 2,
+              "yac": 84
             },
             "bonuses": {
-              "nflDraftPick": 220,
               "collegeDominance": "veryGood"
             }
           },
@@ -253,18 +252,18 @@
             }
           },
           {
-            "name": "Tank Carder",
+            "name": "Wayne Daniels",
             "games": 13,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 7,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 190,
-              "collegeDominance": "veryGood"
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -305,30 +304,30 @@
             }
           },
           {
-            "name": "Marcus Tubbs",
-            "games": 12,
+            "name": "Tank Carder",
+            "games": 13,
             "stats": {
-              "tackles": 98,
-              "sacks": 5,
-              "ints": 1,
-              "tfls": 12
+              "tackles": 96,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 9
             },
             "bonuses": {
+              "consensusAllAmerican": true,
               "nflDraftPick": 155,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Tom Donatell",
+            "name": "Kenny Cain",
             "games": 13,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 72,
+              "sacks": 2,
               "ints": 1,
-              "tfls": 9
+              "tfls": 7
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "veryGood"
             }
           }
@@ -340,19 +339,18 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Nathan Vasher",
+            "name": "Rafael Priest",
             "games": 13,
             "stats": {
-              "ints": 6,
-              "pbus": 30,
-              "tackles": 54,
-              "ff": 2,
-              "coverageGrade": "A+"
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 110,
-              "collegeDominance": "eraDef"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           },
           {

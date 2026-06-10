@@ -490,17 +490,18 @@
             }
           },
           {
-            "name": "Craig Colquitt",
+            "name": "Curt Watson",
             "games": 11,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
-              "ypc": 5,
-              "recYds": 120
+              "rushYds": 766,
+              "rushTDs": 7,
+              "ypc": 4.9,
+              "recYds": 95
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 230,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -562,21 +563,36 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jim Yarbrough",
+            "name": "Reggie Harper",
             "games": 11,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 30,
+              "recYds": 331,
+              "recTDs": 1,
+              "yac": 105
             },
             "bonuses": {
-              "nflDraftPick": 115,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tommy West",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 430,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
               "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Bill Emendorfer",
+            "name": "Mike Cofer",
             "games": 11,
             "stats": {
               "rec": 14,
@@ -585,22 +601,8 @@
               "yac": 52
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "Reggie Harper",
-            "games": 11,
-            "stats": {
-              "rec": 10,
-              "recYds": 118,
-              "recTDs": 1,
-              "yac": 36
-            },
-            "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Tight end (Mike 'Go' Cofer) whose career bridged the late 1970s"
             }
           }
         ]
@@ -631,49 +633,50 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Reggie White",
+            "name": "Robert Pulliam",
             "games": 11,
             "stats": {
-              "sacks": 10,
-              "tfls": 15,
-              "hurries": 20,
-              "ff": 3,
-              "dominanceGrade": "A+"
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 4,
-              "collegeDominance": "allTime"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Bill Bates",
+            "name": "Brad White",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 310,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Andy Spiva",
             "games": 11,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
+              "tfls": 10,
               "hurries": 12,
-              "ff": 1,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 225,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Mike Price",
-            "games": 11,
-            "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 120,
+              "collegeDominance": "elite",
+              "note": "Record-setting Tennessee linebacker (1976); listed in DL room as an adjacent front-seven pass rusher"
             }
           }
         ]
@@ -689,7 +692,7 @@
             "stats": {
               "tackles": 108,
               "sacks": 5,
-              "ints": 2,
+              "ints": 4,
               "tfls": 14
             },
             "bonuses": {
@@ -699,29 +702,31 @@
             }
           },
           {
-            "name": "Steve Chancey",
+            "name": "Jamie Rotella",
             "games": 11,
             "stats": {
-              "tackles": 95,
+              "tackles": 138,
               "sacks": 4,
               "ints": 1,
               "tfls": 12
             },
             "bonuses": {
+              "firstTeamAllAmerican": true,
               "nflDraftPick": 130,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Mike Cofer",
+            "name": "Ray Nettles",
             "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 110,
+              "sacks": 4,
               "ints": 1,
-              "tfls": 10
+              "tfls": 11
             },
             "bonuses": {
+              "firstTeamAllConference": true,
               "nflDraftPick": 155,
               "collegeDominance": "elite"
             }
@@ -734,47 +739,50 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Bill Bates",
-            "games": 11,
-            "stats": {
-              "ints": 5,
-              "pbus": 22,
-              "tackles": 62,
-              "ff": 2,
-              "coverageGrade": "A+"
-            },
-            "bonuses": {
-              "nflDraftPick": 225,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Roland James",
             "games": 11,
             "stats": {
               "ints": 5,
               "pbus": 20,
-              "tackles": 58,
-              "ff": 1,
+              "tackles": 88,
+              "ff": 3,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 137,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Mike Cofer",
+            "name": "Bobby Majors",
             "games": 11,
             "stats": {
-              "ints": 3,
+              "ints": 10,
+              "pbus": 18,
+              "tackles": 70,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 110,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eddie Brown",
+            "games": 11,
+            "stats": {
+              "ints": 5,
               "pbus": 16,
-              "tackles": 52,
+              "tackles": 62,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
               "collegeDominance": "elite"
             }
           }
@@ -869,17 +877,18 @@
             }
           },
           {
-            "name": "Bill Burnett",
+            "name": "Johnnie Jones",
             "games": 11,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 8,
+              "rushYds": 1290,
+              "rushTDs": 9,
               "ypc": 5.1,
               "recYds": 120
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 170,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -941,17 +950,17 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Steve Weiss",
+            "name": "Mike Cofer",
             "games": 11,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
+              "rec": 20,
+              "recYds": 245,
+              "recTDs": 2,
+              "yac": 78
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "Mike 'Go' Cofer, Tennessee tight end (1980-83)"
             }
           },
           {

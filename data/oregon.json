@@ -156,45 +156,46 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Ed Dickson",
+            "name": "Terry Obee",
             "games": 11,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
+              "rec": 40,
+              "recYds": 612,
+              "recTDs": 5,
+              "yac": 196
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Late-1980s Oregon pass-catcher (listed WR); no notable 1980s Oregon TE of record."
+            }
+          },
+          {
+            "name": "Joe Reitzug",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 455,
               "recTDs": 3,
-              "yac": 85
+              "yac": 150
             },
             "bonuses": {
-              "nflDraftPick": 95,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood",
+              "note": "Late-1980s Oregon pass-catcher (Musgrave-era target, listed WR); no notable 1980s Oregon TE of record."
             }
           },
           {
-            "name": "Fred Quillan",
+            "name": "Tony Hargain",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
-              "yac": 60
+              "rec": 28,
+              "recYds": 420,
+              "recTDs": 3,
+              "yac": 138
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Mike Pringle",
-            "games": 11,
-            "stats": {
-              "rec": 10,
-              "recYds": 118,
-              "recTDs": 1,
-              "yac": 36
-            },
-            "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 260,
+              "collegeDominance": "veryGood",
+              "note": "Late-1980s Oregon pass-catcher (listed WR); no notable 1980s Oregon TE of record."
             }
           }
         ]
@@ -225,50 +226,49 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Russ Francis",
+            "name": "Matt Brock",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 75,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Baack",
             "games": 11,
             "stats": {
               "sacks": 6,
               "tfls": 10,
-              "hurries": 13,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 140,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vince Goldsmith",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 11,
               "ff": 1,
               "dominanceGrade": "A+"
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 16,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Gary Zimmerman",
-            "games": 11,
-            "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 8,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 12,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Rich Ruhl",
-            "games": 11,
-            "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "collegeDominance": "eraDef",
+              "note": "All-America DT in 1980 (Morris Trophy); career spanned late 1970s into 1980."
             }
           }
         ]
@@ -279,45 +279,43 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Tom Drougas",
+            "name": "Dave Cusano",
             "games": 11,
             "stats": {
-              "tackles": 105,
+              "tackles": 102,
               "sacks": 4,
-              "ints": 2,
+              "ints": 1,
               "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 145,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Steve Greatwood",
+            "name": "Don Pellum",
             "games": 11,
             "stats": {
-              "tackles": 88,
+              "tackles": 90,
               "sacks": 3,
               "ints": 1,
               "tfls": 10
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Dan Wilken",
+            "name": "Joe Farwell",
             "games": 11,
             "stats": {
-              "tackles": 78,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 8
+              "tackles": 110,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "eraDef",
+              "note": "Career began 1989; only Duck to lead team in tackles three straight years."
             }
           }
         ]
@@ -328,48 +326,50 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Vince Williams",
+            "name": "Anthony Newman",
             "games": 11,
             "stats": {
               "ints": 4,
+              "pbus": 16,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Oldham",
+            "games": 11,
+            "stats": {
+              "ints": 5,
               "pbus": 18,
-              "tackles": 52,
+              "tackles": 50,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 105,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Patrick Johnson",
+            "name": "Daryle Smith",
             "games": 11,
             "stats": {
               "ints": 3,
-              "pbus": 15,
-              "tackles": 48,
+              "pbus": 13,
+              "tackles": 44,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Chris Young",
-            "games": 11,
-            "stats": {
-              "ints": 2,
-              "pbus": 12,
-              "tackles": 44,
-              "ff": 1,
-              "coverageGrade": "B+"
-            },
-            "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "Oregon CB whose career began 1989."
             }
           }
         ]
@@ -601,48 +601,46 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Igor Olshansky",
+            "name": "Saul Patu",
             "games": 12,
             "stats": {
-              "sacks": 5,
-              "tfls": 9,
+              "sacks": 11,
+              "tfls": 21,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Matt LaBounty",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
               "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 61,
+              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Saul Patu",
-            "games": 12,
+            "name": "Marcus Woods",
+            "games": 11,
             "stats": {
               "sacks": 4,
-              "tfls": 7,
+              "tfls": 8,
               "hurries": 10,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 185,
               "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Langston Moore",
-            "games": 11,
-            "stats": {
-              "sacks": 3,
-              "tfls": 6,
-              "hurries": 8,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -667,17 +665,17 @@
             }
           },
           {
-            "name": "Chris Oldham",
+            "name": "Peter Sirmon",
             "games": 12,
             "stats": {
-              "tackles": 92,
+              "tackles": 118,
               "sacks": 3,
               "ints": 2,
-              "tfls": 10
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 115,
-              "collegeDominance": "elite"
+              "nflDraftPick": 135,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -733,7 +731,7 @@
             }
           },
           {
-            "name": "Chris Oldham",
+            "name": "Herman O'Berry",
             "games": 11,
             "stats": {
               "ints": 3,
@@ -743,7 +741,7 @@
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 115,
+              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           }
@@ -981,8 +979,40 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Igor Olshansky",
+            "name": "Haloti Ngata",
             "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 17,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Nick Reed",
+            "games": 13,
+            "stats": {
+              "sacks": 13,
+              "tfls": 20,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 230,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Igor Olshansky",
+            "games": 11,
             "stats": {
               "sacks": 5,
               "tfls": 9,
@@ -991,42 +1021,8 @@
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 61,
+              "nflDraftPick": 35,
               "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Dion Jordan",
-            "games": 12,
-            "stats": {
-              "sacks": 7,
-              "tfls": 10,
-              "hurries": 14,
-              "ff": 2,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 3,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "DeForest Buckner",
-            "games": 13,
-            "stats": {
-              "sacks": 6,
-              "tfls": 10,
-              "hurries": 14,
-              "ff": 2,
-              "dominanceGrade": "A+"
-            },
-            "bonuses": {
-              "outland": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 7,
-              "collegeDominance": "allTime"
             }
           }
         ]
@@ -1097,23 +1093,8 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 48,
+              "nflDraftPick": 42,
               "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Patrick Chukwurah",
-            "games": 12,
-            "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
             }
           },
           {
@@ -1130,6 +1111,22 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 38,
               "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Walter Thurmond",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 111,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1378,7 +1375,7 @@
             "games": 14,
             "stats": {
               "sacks": 10,
-              "tfls": 14,
+              "tfls": 17,
               "hurries": 20,
               "ff": 3,
               "dominanceGrade": "A+"
@@ -1389,6 +1386,22 @@
               "consensusAllAmerican": true,
               "nflDraftPick": 7,
               "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dion Jordan",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
             }
           },
           {
@@ -1405,21 +1418,6 @@
               "firstTeamAllAmerican": true,
               "nflDraftPick": 17,
               "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Tony Washington",
-            "games": 13,
-            "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
             }
           }
         ]

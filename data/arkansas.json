@@ -1300,17 +1300,16 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Jeremy Sharpe",
-            "games": 13,
+            "name": "Jared Hicks",
+            "games": 12,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
+              "rec": 18,
+              "recYds": 212,
+              "recTDs": 2,
+              "yac": 68
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {
@@ -2218,17 +2217,17 @@
             }
           },
           {
-            "name": "Trajan Jeffcoat",
-            "games": 13,
+            "name": "Grant Morgan",
+            "games": 10,
             "stats": {
-              "tackles": 75,
-              "sacks": 7,
-              "ints": 0,
-              "tfls": 12
+              "tackles": 111,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
             }
           }
         ]

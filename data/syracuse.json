@@ -85,16 +85,15 @@
             }
           },
           {
-            "name": "Mandel Robinson",
+            "name": "Bob Avery",
             "games": 11,
             "stats": {
-              "rushYds": 612,
-              "rushTDs": 6,
-              "ypc": 4.9,
-              "recYds": 108
+              "rushYds": 585,
+              "rushTDs": 5,
+              "ypc": 4.7,
+              "recYds": 120
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           }
@@ -121,13 +120,13 @@
             }
           },
           {
-            "name": "Bob Avery",
+            "name": "Mandel Robinson",
             "games": 11,
             "stats": {
-              "rec": 28,
-              "recYds": 392,
+              "rec": 26,
+              "recYds": 362,
               "recTDs": 3,
-              "yac": 130
+              "yac": 120
             },
             "bonuses": {
               "collegeDominance": "elite",
@@ -257,18 +256,17 @@
             }
           },
           {
-            "name": "Bob Avery",
+            "name": "Ken Clarke",
             "games": 11,
             "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 10,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "collegeDominance": "elite",
-              "note": "era front-seven depth"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -437,9 +435,9 @@
             "games": 11,
             "stats": {
               "rushYds": 1372,
-              "rushTDs": 13,
-              "ypc": 5.8,
-              "recYds": 165
+              "rushTDs": 12,
+              "ypc": 5.9,
+              "recYds": 188
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
@@ -1444,16 +1442,16 @@
             }
           },
           {
-            "name": "Dan Conley",
+            "name": "Clifton Smith",
             "games": 12,
             "stats": {
-              "tackles": 75,
-              "sacks": 2,
+              "tackles": 98,
+              "sacks": 3,
               "ints": 1,
-              "tfls": 7
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 200,
+              "firstTeamAllAmerican": true,
               "collegeDominance": "elite"
             }
           }

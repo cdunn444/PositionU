@@ -1048,17 +1048,17 @@
             }
           },
           {
-            "name": "Mike Stula",
-            "games": 12,
+            "name": "Liston Eddins",
+            "games": 11,
             "stats": {
               "sacks": 5,
-              "tfls": 8,
+              "tfls": 9,
               "hurries": 12,
               "ff": 1,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 210,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           }
@@ -1070,47 +1070,46 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Zeke Smith",
+            "name": "Ken Bernich",
             "games": 11,
             "stats": {
-              "tackles": 105,
-              "sacks": 5,
+              "tackles": 94,
+              "sacks": 4,
               "ints": 2,
-              "tfls": 14
+              "tfls": 13
             },
             "bonuses": {
-              "outland": true,
               "consensusAllAmerican": true,
-              "nflDraftPick": 22,
+              "nflDraftPick": 101,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Buddy McClinton",
+            "name": "Freddie Smith",
             "games": 11,
             "stats": {
-              "tackles": 95,
+              "tackles": 128,
               "sacks": 4,
-              "ints": 1,
+              "ints": 2,
               "tfls": 12
             },
             "bonuses": {
-              "nflDraftPick": 88,
+              "firstTeamAllAmerican": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Phil Hendrix",
+            "name": "Bill Newton",
             "games": 11,
             "stats": {
-              "tackles": 88,
+              "tackles": 98,
               "sacks": 3,
               "ints": 1,
-              "tfls": 10
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 140,
-              "collegeDominance": "veryGood"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1151,18 +1150,19 @@
             }
           },
           {
-            "name": "Larry Blakeney",
+            "name": "Larry Willingham",
             "games": 11,
             "stats": {
-              "ints": 3,
-              "pbus": 15,
-              "tackles": 48,
+              "ints": 6,
+              "pbus": 18,
+              "tackles": 46,
               "ff": 1,
-              "coverageGrade": "A"
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "veryGood"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1425,17 +1425,19 @@
             }
           },
           {
-            "name": "Reggie Torbor",
+            "name": "Gary Walker",
             "games": 11,
             "stats": {
               "sacks": 5,
               "tfls": 9,
-              "hurries": 12,
+              "hurries": 13,
               "ff": 1,
-              "tackles": 48
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "collegeDominance": "veryGood"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 150,
+              "collegeDominance": "elite"
             }
           }
         ]

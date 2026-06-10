@@ -1495,16 +1495,15 @@
             }
           },
           {
-            "name": "Garland Rivers",
+            "name": "Mike Boren",
             "games": 11,
             "stats": {
-              "tackles": 88,
+              "tackles": 104,
               "sacks": 3,
-              "ints": 2,
-              "tfls": 10
+              "ints": 1,
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 155,
               "collegeDominance": "elite"
             }
           }
@@ -1848,18 +1847,18 @@
         "pos": "LB",
         "players": [
           {
-            "name": "LaMarr Woodley",
-            "games": 13,
+            "name": "Larry Foote",
+            "games": 12,
             "stats": {
-              "tackles": 78,
-              "sacks": 11,
-              "ints": 0,
-              "tfls": 18
+              "tackles": 90,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 15
             },
             "bonuses": {
-              "consensusAllAmerican": true,
-              "nflDraftPick": 24,
-              "collegeDominance": "allTime"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 128,
+              "collegeDominance": "eraDef"
             }
           },
           {

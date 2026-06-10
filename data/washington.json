@@ -1095,16 +1095,16 @@
             }
           },
           {
-            "name": "Darius Turner",
+            "name": "Ink Aleaga",
             "games": 12,
             "stats": {
-              "tackles": 92,
+              "tackles": 98,
               "sacks": 3,
               "ints": 1,
-              "tfls": 10
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 145,
+              "firstTeamAllAmerican": true,
               "collegeDominance": "elite"
             }
           }
@@ -1149,18 +1149,19 @@
             }
           },
           {
-            "name": "Ken Matous",
+            "name": "Lawyer Milloy",
             "games": 12,
             "stats": {
               "ints": 3,
-              "pbus": 15,
-              "tackles": 50,
-              "ff": 1,
-              "coverageGrade": "A"
+              "pbus": 16,
+              "tackles": 115,
+              "ff": 2,
+              "coverageGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "veryGood"
+              "consensusAllAmerican": true,
+              "nflDraftPick": 36,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -1229,18 +1230,16 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Willis McGahee",
-            "games": 13,
+            "name": "Kenny James",
+            "games": 12,
             "stats": {
-              "rushYds": 1166,
+              "rushYds": 999,
               "rushTDs": 10,
-              "ypc": 5.6,
-              "recYds": 145
+              "ypc": 4.6,
+              "recYds": 118
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 23,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           },
           {

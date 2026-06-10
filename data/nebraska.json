@@ -730,17 +730,15 @@
             }
           },
           {
-            "name": "Gary Spears",
+            "name": "Clete Pillen",
             "games": 11,
             "stats": {
-              "tackles": 88,
-              "sacks": 3,
+              "tackles": 124,
+              "sacks": 2,
               "ints": 1,
-              "tfls": 10
+              "tfls": 9
             },
             "bonuses": {
-              "nflDraftPick": 135,
-              "nationalChampionship": true,
               "collegeDominance": "elite"
             }
           }
@@ -1367,17 +1365,16 @@
             }
           },
           {
-            "name": "Mark LeFlore",
-            "games": 12,
+            "name": "Mike McNeill",
+            "games": 13,
             "stats": {
-              "rec": 18,
-              "recYds": 218,
-              "recTDs": 2,
-              "yac": 68
+              "rec": 32,
+              "recYds": 442,
+              "recTDs": 6,
+              "yac": 150
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           },
           {

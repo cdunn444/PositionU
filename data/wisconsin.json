@@ -1536,31 +1536,31 @@
             }
           },
           {
-            "name": "Chase Wolf",
-            "games": 12,
+            "name": "Tanner Mordecai",
+            "games": 10,
             "stats": {
-              "passYds": 1988,
-              "passTDs": 14,
-              "intsSeason": 6,
-              "qbr": 148
+              "passYds": 2066,
+              "passTDs": 9,
+              "intsSeason": 4,
+              "qbr": 142,
+              "rushYds": 302,
+              "rushTDs": 3
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Tanner Mordecai",
-            "games": 13,
+            "name": "Braedyn Locke",
+            "games": 12,
             "stats": {
-              "passYds": 2668,
-              "passTDs": 22,
-              "intsSeason": 7,
-              "qbr": 158
+              "passYds": 1936,
+              "passTDs": 13,
+              "intsSeason": 10,
+              "qbr": 128
             },
             "bonuses": {
-              "nflDraftPick": 190,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           }
         ]
@@ -1600,16 +1600,15 @@
             }
           },
           {
-            "name": "Isaac Guerendo",
-            "games": 12,
+            "name": "Tawee Walker",
+            "games": 11,
             "stats": {
-              "rushYds": 812,
-              "rushTDs": 7,
-              "ypc": 5.8,
-              "recYds": 108
+              "rushYds": 864,
+              "rushTDs": 10,
+              "ypc": 4.5,
+              "recYds": 21
             },
             "bonuses": {
-              "nflDraftPick": 155,
               "collegeDominance": "elite"
             }
           }
@@ -1649,16 +1648,15 @@
             }
           },
           {
-            "name": "Dean Engram",
+            "name": "Vinny Anthony II",
             "games": 12,
             "stats": {
-              "rec": 28,
-              "recYds": 418,
-              "recTDs": 3,
-              "yac": 130
+              "rec": 39,
+              "recYds": 672,
+              "recTDs": 4,
+              "yac": 210
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           }
@@ -1771,17 +1769,16 @@
             }
           },
           {
-            "name": "James Thompson Jr.",
+            "name": "Darryl Peterson III",
             "games": 12,
             "stats": {
-              "sacks": 3,
-              "tfls": 5,
-              "hurries": 7,
-              "ff": 1,
+              "sacks": 6.5,
+              "tfls": 11.5,
+              "hurries": 14,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "elite"
             }
           }
@@ -1862,10 +1859,10 @@
             "name": "Hunter Wohler",
             "games": 13,
             "stats": {
-              "ints": 3,
-              "pbus": 16,
-              "tackles": 62,
-              "ff": 2,
+              "ints": 2,
+              "pbus": 8,
+              "tackles": 120,
+              "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {

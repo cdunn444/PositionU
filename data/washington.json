@@ -179,17 +179,17 @@
             }
           },
           {
-            "name": "Mark Bruener",
-            "games": 12,
+            "name": "Larry Michael",
+            "games": 11,
             "stats": {
-              "rec": 22,
-              "recYds": 268,
+              "rec": 24,
+              "recYds": 288,
               "recTDs": 3,
-              "yac": 86
+              "yac": 92
             },
             "bonuses": {
-              "nflDraftPick": 30,
-              "collegeDominance": "elite"
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
             }
           },
           {
@@ -270,19 +270,19 @@
             }
           },
           {
-            "name": "Andrew Glover",
-            "games": 12,
+            "name": "Ron Holmes",
+            "games": 11,
             "stats": {
-              "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
-              "dominanceGrade": "A"
+              "sacks": 9,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
             },
             "bonuses": {
-              "nflDraftPick": 150,
-              "nationalChampionship": true,
-              "collegeDominance": "veryGood"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "eraDef"
             }
           }
         ]

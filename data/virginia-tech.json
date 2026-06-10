@@ -294,41 +294,41 @@
             "name": "Brandon Semones",
             "games": 12,
             "stats": {
-              "tackles": 108,
-              "sacks": 6,
-              "ints": 1,
-              "tfls": 14
+              "tackles": 99,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 8
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Myron Pryor",
+            "name": "George DelRicco",
             "games": 12,
             "stats": {
               "tackles": 95,
-              "sacks": 5,
-              "ints": 1,
-              "tfls": 11
-            },
-            "bonuses": {
-              "nflDraftPick": 190,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "James Anderson",
-            "games": 12,
-            "stats": {
-              "tackles": 88,
-              "sacks": 4,
+              "sacks": 3,
               "ints": 1,
               "tfls": 10
             },
             "bonuses": {
-              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Taylor",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 110,
               "collegeDominance": "elite"
             }
           }
@@ -426,16 +426,17 @@
             }
           },
           {
-            "name": "Dave Perno",
+            "name": "Bruce Arians",
             "games": 11,
             "stats": {
-              "passYds": 988,
-              "passTDs": 8,
-              "intsSeason": 5,
-              "qbr": 118
+              "passYds": 952,
+              "passTDs": 3,
+              "intsSeason": 7,
+              "qbr": 116,
+              "rushYds": 243,
+              "rushTDs": 11
             },
             "bonuses": {
-              "nflDraftPick": 200,
               "collegeDominance": "veryGood"
             }
           }
@@ -461,16 +462,15 @@
             }
           },
           {
-            "name": "Tommy Francisco",
+            "name": "Kenny Lewis",
             "games": 11,
             "stats": {
-              "rushYds": 812,
+              "rushYds": 824,
               "rushTDs": 7,
-              "ypc": 5,
-              "recYds": 120
+              "ypc": 5.0,
+              "recYds": 130
             },
             "bonuses": {
-              "nflDraftPick": 155,
               "collegeDominance": "elite"
             }
           },
@@ -496,35 +496,7 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Carroll Dale",
-            "games": 11,
-            "stats": {
-              "rec": 36,
-              "recYds": 542,
-              "recTDs": 5,
-              "yac": 170
-            },
-            "bonuses": {
-              "nflDraftPick": 120,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Tom Beasley",
-            "games": 11,
-            "stats": {
-              "rec": 28,
-              "recYds": 412,
-              "recTDs": 3,
-              "yac": 130
-            },
-            "bonuses": {
-              "nflDraftPick": 48,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Rickey Scales",
+            "name": "Ricky Scales",
             "games": 11,
             "stats": {
               "rec": 22,
@@ -533,8 +505,35 @@
               "yac": 103
             },
             "bonuses": {
-              "nflDraftPick": 175,
+              "nflDraftPick": 327,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ron Zollicoffer",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 372,
+              "recTDs": 3,
+              "yac": 116
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "George Heath",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 268,
+              "recTDs": 2,
+              "yac": 84
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Reserve VT receiver of the era; depth fill"
             }
           }
         ]
@@ -545,21 +544,34 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Don Strock",
+            "name": "Mike Burnop",
             "games": 11,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 46,
+              "recYds": 558,
+              "recTDs": 3,
+              "yac": 168
             },
             "bonuses": {
-              "nflDraftPick": 89,
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mickey Fitzgerald",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 198,
+              "recTDs": 2,
+              "yac": 62
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           },
           {
-            "name": "Ricky Scales",
+            "name": "Wayne Latimer",
             "games": 11,
             "stats": {
               "rec": 10,
@@ -568,22 +580,8 @@
               "yac": 36
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "veryGood"
-            }
-          },
-          {
-            "name": "John Beamer",
-            "games": 11,
-            "stats": {
-              "rec": 8,
-              "recYds": 95,
-              "recTDs": 1,
-              "yac": 30
-            },
-            "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "VT receiving option of the era used at TE; depth fill"
             }
           }
         ]
@@ -625,38 +623,38 @@
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 48,
+              "nflDraftPick": 60,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Mike Burnop",
+            "name": "Rick Razzano",
             "games": 11,
             "stats": {
               "sacks": 4,
-              "tfls": 7,
-              "hurries": 10,
-              "ff": 1,
+              "tfls": 9,
+              "hurries": 11,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 145,
-              "collegeDominance": "elite"
+              "collegeDominance": "elite",
+              "note": "VT tackling-machine LB of the era; counted at front seven"
             }
           },
           {
-            "name": "John Grimsley",
+            "name": "Billy Hardee",
             "games": 11,
             "stats": {
-              "sacks": 3,
-              "tfls": 6,
-              "hurries": 8,
+              "sacks": 2,
+              "tfls": 5,
+              "hurries": 7,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "B+"
             },
             "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood",
+              "note": "VT defender of the era; depth front-seven fill"
             }
           }
         ]
@@ -667,45 +665,45 @@
         "pos": "LB",
         "players": [
           {
-            "name": "John Grimsley",
+            "name": "Rick Razzano",
             "games": 11,
             "stats": {
-              "tackles": 105,
-              "sacks": 4,
-              "ints": 2,
-              "tfls": 12
-            },
-            "bonuses": {
-              "nflDraftPick": 165,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Dave Stief",
-            "games": 11,
-            "stats": {
-              "tackles": 92,
+              "tackles": 177,
               "sacks": 3,
               "ints": 1,
-              "tfls": 10
+              "tfls": 14
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Warren Thompson",
+            "name": "Billy Hardee",
             "games": 11,
             "stats": {
-              "tackles": 82,
+              "tackles": 78,
               "sacks": 2,
-              "ints": 1,
-              "tfls": 8
+              "ints": 4,
+              "tfls": 7
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite",
+              "note": "VT DB/return man of the era; counted at second level"
+            }
+          },
+          {
+            "name": "Ron Zollicoffer",
+            "games": 11,
+            "stats": {
+              "tackles": 62,
+              "sacks": 1,
+              "ints": 1,
+              "tfls": 5
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "VT player of the era; depth fill"
             }
           }
         ]
@@ -716,48 +714,48 @@
         "pos": "DB",
         "players": [
           {
-            "name": "Ricky Scales",
+            "name": "Billy Hardee",
             "games": 11,
             "stats": {
-              "ints": 4,
-              "pbus": 18,
-              "tackles": 52,
-              "ff": 1,
-              "coverageGrade": "A"
-            },
-            "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "elite"
-            }
-          },
-          {
-            "name": "Phil Rogers",
-            "games": 11,
-            "stats": {
-              "ints": 3,
-              "pbus": 15,
+              "ints": 7,
+              "pbus": 16,
               "tackles": 48,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "veryGood"
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
             }
           },
           {
-            "name": "Mike Banks",
+            "name": "Rick Razzano",
             "games": 11,
             "stats": {
-              "ints": 2,
-              "pbus": 12,
-              "tackles": 45,
+              "ints": 1,
+              "pbus": 8,
+              "tackles": 80,
               "ff": 1,
               "coverageGrade": "B+"
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite",
+              "note": "VT LB of the era; counted in the back seven"
+            }
+          },
+          {
+            "name": "Ron Zollicoffer",
+            "games": 11,
+            "stats": {
+              "ints": 2,
+              "pbus": 9,
+              "tackles": 36,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "VT player of the era; depth secondary fill"
             }
           }
         ]
@@ -848,17 +846,16 @@
             }
           },
           {
-            "name": "Mike Johnson",
+            "name": "Vaughn Hebron",
             "games": 11,
             "stats": {
-              "rushYds": 712,
-              "rushTDs": 6,
+              "rushYds": 640,
+              "rushTDs": 3,
               "ypc": 4.8,
-              "recYds": 108
+              "recYds": 196
             },
             "bonuses": {
-              "nflDraftPick": 190,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -878,37 +875,35 @@
               "yac": 198
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Antonio Freeman",
-            "games": 12,
-            "stats": {
-              "rec": 55,
-              "recYds": 838,
-              "recTDs": 8,
-              "yac": 265
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 90,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
-            "name": "Steve Johnson",
+            "name": "Myron Richardson",
             "games": 11,
             "stats": {
-              "rec": 34,
-              "recYds": 508,
-              "recTDs": 4,
-              "yac": 160
+              "rec": 38,
+              "recYds": 583,
+              "recTDs": 3,
+              "yac": 184
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "David Everett",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 348,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "VT wingback/receiver on the 1986 Peach Bowl team"
             }
           }
         ]
@@ -919,45 +914,45 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Mike Tice",
+            "name": "Steve Johnson",
             "games": 11,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
+              "rec": 38,
+              "recYds": 475,
               "recTDs": 3,
-              "yac": 85
+              "yac": 152
             },
             "bonuses": {
-              "nflDraftPick": 155,
+              "nflDraftPick": 142,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Tommy Alderson",
+            "name": "David Everett",
             "games": 11,
             "stats": {
-              "rec": 16,
-              "recYds": 192,
+              "rec": 18,
+              "recYds": 232,
               "recTDs": 2,
-              "yac": 60
+              "yac": 74
             },
             "bonuses": {
-              "nflDraftPick": 190,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "VT wingback/TE-type of the era; depth fill"
             }
           },
           {
-            "name": "Dean Plum",
+            "name": "Myron Richardson",
             "games": 11,
             "stats": {
-              "rec": 10,
-              "recYds": 118,
+              "rec": 12,
+              "recYds": 156,
               "recTDs": 1,
-              "yac": 36
+              "yac": 50
             },
             "bonuses": {
-              "nflDraftPick": 215,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "VT receiver of the era used inline; depth fill"
             }
           }
         ]
@@ -1007,17 +1002,18 @@
             }
           },
           {
-            "name": "Dave Stalls",
+            "name": "Robert Brown",
             "games": 11,
             "stats": {
-              "sacks": 5,
-              "tfls": 8,
-              "hurries": 12,
-              "ff": 1,
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 2,
               "dominanceGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 112,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 98,
               "collegeDominance": "elite"
             }
           },
@@ -1110,33 +1106,33 @@
             }
           },
           {
-            "name": "Rickey Carter",
+            "name": "Carter Wiley",
             "games": 11,
             "stats": {
               "ints": 4,
-              "pbus": 18,
-              "tackles": 50,
+              "pbus": 16,
+              "tackles": 58,
               "ff": 1,
               "coverageGrade": "A"
             },
             "bonuses": {
-              "nflDraftPick": 145,
+              "firstTeamAllConference": true,
               "collegeDominance": "elite"
             }
           },
           {
-            "name": "Carl Bradford",
+            "name": "David Everett",
             "games": 11,
             "stats": {
-              "ints": 3,
-              "pbus": 15,
-              "tackles": 48,
+              "ints": 2,
+              "pbus": 12,
+              "tackles": 44,
               "ff": 1,
-              "coverageGrade": "A"
+              "coverageGrade": "B+"
             },
             "bonuses": {
-              "nflDraftPick": 175,
-              "collegeDominance": "veryGood"
+              "collegeDominance": "veryGood",
+              "note": "VT defensive back/wingback of the era; depth fill"
             }
           }
         ]
@@ -1257,18 +1253,18 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Antonio Freeman",
-            "games": 12,
+            "name": "Eddie Royal",
+            "games": 13,
             "stats": {
-              "rec": 55,
-              "recYds": 838,
-              "recTDs": 8,
-              "yac": 265
+              "rec": 33,
+              "recYds": 496,
+              "recTDs": 4,
+              "yac": 188
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 90,
-              "collegeDominance": "eraDef"
+              "firstTeamAllConference": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "elite"
             }
           },
           {
@@ -1322,16 +1318,15 @@
             }
           },
           {
-            "name": "Emory Blake",
+            "name": "Greg Boone",
             "games": 13,
             "stats": {
-              "rec": 22,
-              "recYds": 265,
+              "rec": 24,
+              "recYds": 268,
               "recTDs": 3,
-              "yac": 85
+              "yac": 96
             },
             "bonuses": {
-              "nflDraftPick": 175,
               "collegeDominance": "elite"
             }
           },
@@ -1431,32 +1426,31 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Cornell Brown",
+            "name": "Xavier Adibi",
             "games": 13,
             "stats": {
-              "tackles": 118,
-              "sacks": 6,
+              "tackles": 115,
+              "sacks": 3,
               "ints": 2,
-              "tfls": 16
+              "tfls": 12
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 47,
+              "nflDraftPick": 126,
               "collegeDominance": "eraDef"
             }
           },
           {
-            "name": "Brandon Flowers",
+            "name": "James Anderson",
             "games": 13,
             "stats": {
               "tackles": 95,
               "sacks": 4,
-              "ints": 3,
+              "ints": 1,
               "tfls": 11
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 55,
+              "nflDraftPick": 66,
               "collegeDominance": "elite"
             }
           },
@@ -1470,8 +1464,7 @@
               "tfls": 13
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 194,
+              "firstTeamAllConference": true,
               "collegeDominance": "eraDef"
             }
           }

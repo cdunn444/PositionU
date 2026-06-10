@@ -505,14 +505,19 @@ function showResults() {
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 
-  // All-time percentile ranking (based on team total, OFF/DEF shown separately).
+  // All-time rank: locate the team total in the percentile curve (interpolated)
+  // and render as an ordinal out of a 10,000-team all-time field (e.g. "Top 167").
   const bp = RULES.allTimeTotals;
   const rankEl = document.getElementById('allTimeRank');
   if (bp && rankEl) {
+    const FIELD = 10000;
     let p = 0;
     while (p < 100 && bp[p + 1] !== undefined && bp[p + 1] <= total) p++;
-    const topPct = Math.min(99, Math.max(1, 100 - p));
-    rankEl.innerHTML = `All-Time Rank <span class="pct">Top ${topPct}%</span>`;
+    let pctf = p;
+    if (p < 100 && bp[p + 1] > bp[p]) pctf = p + (total - bp[p]) / (bp[p + 1] - bp[p]);
+    pctf = Math.min(100, Math.max(0, pctf));
+    const rank = Math.max(1, Math.round((1 - pctf / 100) * FIELD));
+    rankEl.innerHTML = `Top <span class="pct">${rank.toLocaleString()}</span> All-Time`;
   }
 
   let rowsHtml = '';

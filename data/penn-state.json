@@ -673,12 +673,12 @@
         "players": [
           {
             "name": "Micah Parsons",
-            "games": 9,
+            "games": 13,
             "stats": {
-              "tackles": 41,
-              "sacks": 1,
-              "ints": 1,
-              "tfls": 5
+              "tackles": 109,
+              "sacks": 5,
+              "ints": 0,
+              "tfls": 14
             },
             "bonuses": {
               "butkus": true,
@@ -963,17 +963,17 @@
             }
           },
           {
-            "name": "Steve Geise",
+            "name": "Dan Natale",
             "games": 11,
             "stats": {
-              "rec": 14,
-              "recYds": 165,
-              "recTDs": 1,
-              "yac": 52
+              "rec": 30,
+              "recYds": 365,
+              "recTDs": 4,
+              "yac": 118
             },
             "bonuses": {
-              "nflDraftPick": 195,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 223,
+              "collegeDominance": "elite"
             }
           }
         ]
@@ -1487,16 +1487,16 @@
             }
           },
           {
-            "name": "Larry Station",
+            "name": "Pete Giftopoulos",
             "games": 12,
             "stats": {
               "tackles": 95,
-              "sacks": 3,
-              "ints": 1,
-              "tfls": 11
+              "sacks": 2,
+              "ints": 3,
+              "tfls": 10
             },
             "bonuses": {
-              "nflDraftPick": 75,
+              "nationalChampionship": true,
               "collegeDominance": "elite"
             }
           }
@@ -1565,17 +1565,19 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Kerry Collins",
+            "name": "Michael Robinson",
             "games": 12,
             "stats": {
-              "passYds": 2679,
-              "passTDs": 21,
-              "intsSeason": 8,
-              "qbr": 158
+              "passYds": 2350,
+              "passTDs": 17,
+              "intsSeason": 10,
+              "qbr": 145,
+              "rushYds": 806,
+              "rushTDs": 11
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 5,
+              "nflDraftPick": 100,
               "collegeDominance": "eraDef"
             }
           },

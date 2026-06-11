@@ -60,10 +60,34 @@ function gaussNoise(sd) {
   return Math.sqrt(-2 * Math.log(u)) * Math.cos(2 * Math.PI * v) * sd;
 }
 
+// Break a final score into a believable sequence of scoring plays — mostly
+// touchdowns (7) and field goals (3), with a two-point TD (8) to cover the
+// awkward 8/11 totals and the odd safety. Sums exactly to n.
+function decomposeScore(n) {
+  const out = [];
+  let r = Math.max(0, Math.round(n));
+  while (r > 0) {
+    if (r === 8 || r === 11) { out.push(8); r -= 8; }
+    else if (r === 1 || r === 2) { out.push(2); r = 0; }
+    else if (r === 4 || r === 5) { out.push(r); r = 0; }
+    else if (r >= 7 && Math.random() < 0.68) { out.push(7); r -= 7; }
+    else if (r >= 3) { out.push(3); r -= 3; }
+    else { out.push(r); r = 0; }
+  }
+  return out;
+}
+
+// Scatter a team's scoring plays across four quarters. Sums to the total.
+function toQuarters(total) {
+  const q = [0, 0, 0, 0];
+  decomposeScore(total).forEach(pts => { q[Math.floor(Math.random() * 4)] += pts; });
+  return q;
+}
+
 // Simulate one game from the two squads' OFF/DEF ratings.
 // Each side's points = base + (their offense − your defense) * k + noise.
-// Returns integer scores and the winner; ties broken by a quality-weighted
-// coin flip plus a field goal (a believable OT finish).
+// Returns integer scores, per-quarter splits, and the winner; ties broken by a
+// quality-weighted coin flip plus a field goal (a believable OT finish).
 function simGame(yourOff, yourDef, oppOff, oppDef) {
   const BASE = 24, K = 0.8, SD = 7;
   const pts = (off, def) => Math.round(Math.max(3, Math.min(70, BASE + (off - def) * K + gaussNoise(SD))));
@@ -73,7 +97,7 @@ function simGame(yourOff, yourDef, oppOff, oppDef) {
     const pYou = (yourOff + yourDef) / ((yourOff + yourDef) + (oppOff + oppDef));
     if (Math.random() < pYou) yourPts += 3; else oppPts += 3;
   }
-  return { yourPts, oppPts, win: yourPts > oppPts };
+  return { yourPts, oppPts, win: yourPts > oppPts, yourQ: toQuarters(yourPts), oppQ: toQuarters(oppPts) };
 }
 
 if (typeof window !== 'undefined') {

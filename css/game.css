@@ -527,22 +527,6 @@
     letter-spacing: 3px; text-transform: uppercase; color: var(--gold2);
     text-align: center;
   }
-  .pf-bracket { display: flex; align-items: center; justify-content: center; margin-top: 14px; }
-  .pf-step { display: flex; flex-direction: column; align-items: center; gap: 5px; }
-  .pf-step-dot {
-    width: 13px; height: 13px; border-radius: 50%;
-    background: var(--surface2); border: 2px solid var(--rule2);
-  }
-  .pf-step.active .pf-step-dot { border-color: var(--gold2); background: var(--gold-dim); box-shadow: 0 0 0 3px var(--gold-dim); }
-  .pf-step.won .pf-step-dot  { background: var(--green);  border-color: var(--green); }
-  .pf-step.lost .pf-step-dot { background: var(--orange); border-color: var(--orange); }
-  .pf-step-name {
-    font-family: 'Oswald', sans-serif; font-size: 8px; font-weight: 600;
-    letter-spacing: 1px; text-transform: uppercase; color: var(--aged);
-  }
-  .pf-step.active .pf-step-name { color: var(--gold2); }
-  .pf-step-line { flex: 1; height: 2px; background: var(--rule2); margin: 0 8px 14px; max-width: 70px; }
-
   .pf-round-label {
     font-family: 'Alfa Slab One', serif; font-size: 22px; color: var(--gold2);
     text-align: center; margin: 20px 16px 14px; letter-spacing: -0.5px;
@@ -569,21 +553,37 @@
 
   .pf-middle { padding: 16px; }
 
-  .pf-sim { text-align: center; padding: 10px 0; }
-  .pf-sim-label { font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: var(--gold2); }
-  .pf-sim-bar { height: 8px; background: var(--surface2); border: 1px solid var(--rule2); margin-top: 12px; overflow: hidden; }
-  .pf-sim-fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--gold) 0%, var(--gold2) 100%); animation: pf-fill 1.7s ease-in-out forwards; }
-  @keyframes pf-fill { from { width: 0; } to { width: 100%; } }
+  /* Quarter-by-quarter scoreboard */
+  .pf-sb-status {
+    text-align: center; font-family: 'Oswald', sans-serif; font-size: 12px;
+    font-weight: 700; letter-spacing: 4px; text-transform: uppercase;
+    color: var(--gold2); margin: 2px 0 12px; min-height: 16px;
+  }
+  .pf-scoreboard { border: 2px solid var(--rule2); background: var(--surface); }
+  .pf-sb-row { display: grid; grid-template-columns: 1fr 30px 30px 30px 30px 48px; align-items: center; }
+  .pf-sb-row + .pf-sb-row { border-top: 1px solid var(--rule); }
+  .pf-sb-head { background: var(--surface2); }
+  .pf-sb-head > div { font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 1px; color: var(--aged); text-align: center; padding: 6px 0; }
+  .pf-sb-team { text-align: left; padding-left: 12px; }
+  .pf-sb-row .pf-sb-team {
+    font-family: 'Roboto Condensed', sans-serif; font-size: 14px; font-weight: 700;
+    color: var(--text); padding: 12px 0 12px 12px;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .pf-sb-q {
+    font-family: 'Oswald', sans-serif; font-size: 15px; font-weight: 600;
+    color: var(--cream); text-align: center; padding: 12px 0;
+    opacity: 0.25; transition: opacity 0.2s;
+  }
+  .pf-sb-q.shown { opacity: 1; }
+  .pf-sb-f { font-family: 'Alfa Slab One', serif; font-size: 21px; color: var(--text); text-align: center; }
+  .pf-sb-row.you .pf-sb-f { color: var(--gold2); }
+  .pf-sb-row.lead .pf-sb-team::after { content: ' ◄'; color: var(--gold2); font-size: 11px; }
 
-  .pf-box { text-align: center; padding: 8px 0 4px; }
-  .pf-score { font-family: 'Alfa Slab One', serif; font-size: 56px; line-height: 1; letter-spacing: -2px; }
-  .pf-score-num  { color: var(--text); text-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
-  .pf-score-dash { color: var(--aged); margin: 0 10px; }
-  .pf-box.win  .pf-score-num:first-child { color: var(--gold2); }
-  .pf-box.loss .pf-score-num:last-child  { color: var(--orange); }
+  .pf-stamp-wrap { text-align: center; margin-top: 16px; }
   .pf-stamp {
-    display: inline-block; margin-top: 12px; padding: 6px 22px;
-    font-family: 'Alfa Slab One', serif; font-size: 16px; letter-spacing: 2px;
+    display: inline-block; padding: 7px 26px;
+    font-family: 'Alfa Slab One', serif; font-size: 17px; letter-spacing: 2px;
     border: 2px solid;
   }
   .pf-stamp.win  { background: var(--green);  border-color: var(--green);  color: var(--text); }

@@ -607,21 +607,11 @@ function renderPlayoff() {
   const pf = state.playoff;
   const el = document.getElementById('playoffScreen');
   const you = state.team;
-
-  // Bracket progress strip (3 rounds, colored by outcome)
-  const dots = PLAYOFF_ROUNDS.map((name, i) => {
-    let cls = 'pf-step';
-    const res = pf.results[i];
-    if (res) cls += res.win ? ' won' : ' lost';
-    else if (i === pf.round && pf.done === null) cls += ' active';
-    return `<div class="${cls}"><span class="pf-step-dot"></span><span class="pf-step-name">${name === 'National Championship' ? 'Title' : name}</span></div>`;
-  }).join('<div class="pf-step-line"></div>');
-
-  let body = '';
+  const head = `<div class="pf-header"><div class="pf-title">COLLEGE FOOTBALL PLAYOFF</div></div>`;
 
   // Terminal states: champion or eliminated.
   if (pf.done === 'champion') {
-    body = `
+    el.innerHTML = head + `
       <div class="pf-end champion">
         <div class="pf-trophy">🏆</div>
         <div class="pf-end-title">NATIONAL CHAMPIONS</div>
@@ -630,15 +620,14 @@ function renderPlayoff() {
       </div>
       <div class="cta-row">
         <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
-        <button class="cta-btn cta-again" onclick="resetGame()">Play Again</button>
+        <button class="cta-btn cta-share" onclick="resetGame()">Play Again</button>
       </div>`;
-    el.innerHTML = header(dots) + body;
     resetScroll();
     return;
   }
   if (pf.done === 'eliminated') {
     const lostAt = PLAYOFF_ROUNDS[pf.results.length - 1];
-    body = `
+    el.innerHTML = head + `
       <div class="pf-end eliminated">
         <div class="pf-end-title">ELIMINATED</div>
         <div class="pf-end-sub">Knocked out in the ${lostAt}. Reload and draft a deeper roster.</div>
@@ -646,14 +635,13 @@ function renderPlayoff() {
       </div>
       <div class="cta-row">
         <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
-        <button class="cta-btn cta-again" onclick="resetGame()">Play Again</button>
+        <button class="cta-btn cta-share" onclick="resetGame()">Play Again</button>
       </div>`;
-    el.innerHTML = header(dots) + body;
     resetScroll();
     return;
   }
 
-  // Active round: matchup / simulating / result.
+  // Active round: matchup / playing (quarter reveal) / result.
   const r = pf.round;
   const opp = pf.opponents[r];
   const res = pf.results[r];
@@ -672,34 +660,42 @@ function renderPlayoff() {
     </div>`;
 
   let middle;
-  if (pf.phase === 'simming') {
-    middle = `<div class="pf-sim"><div class="pf-sim-label">SIMULATING GAME…</div><div class="pf-sim-bar"><div class="pf-sim-fill"></div></div></div>`;
-  } else if (pf.phase === 'result' && res) {
-    middle = `
-      <div class="pf-box ${res.win ? 'win' : 'loss'}">
-        <div class="pf-score"><span class="pf-score-num">${res.yourPts}</span><span class="pf-score-dash">–</span><span class="pf-score-num">${res.oppPts}</span></div>
-        <div class="pf-stamp ${res.win ? 'win' : 'loss'}">${res.win ? 'WIN' : 'LOSS'}</div>
-      </div>
-      <button class="cta-btn cta-playoffs pf-advance" onclick="advancePlayoff()">${nextLabel()}</button>`;
+  if ((pf.phase === 'playing' || pf.phase === 'result') && res) {
+    middle = scoreboard() + (pf.phase === 'result'
+      ? `<div class="pf-stamp-wrap"><div class="pf-stamp ${res.win ? 'win' : 'loss'}">${res.win ? 'WIN' : 'LOSS'}</div></div>
+         <button class="cta-btn cta-playoffs pf-advance" onclick="advancePlayoff()">${nextLabel()}</button>`
+      : '');
   } else {
     middle = `<button class="cta-btn cta-playoffs pf-advance" onclick="simulateRound()">Simulate Game</button>`;
   }
 
-  body = `
+  el.innerHTML = head + `
     <div class="pf-round-label">${PLAYOFF_ROUNDS[r]}</div>
     ${youCard}
     <div class="pf-vs">VS</div>
     ${oppCard}
     <div class="pf-middle">${middle}</div>`;
+  if (pf.phase === 'matchup') resetScroll();
 
-  el.innerHTML = header(dots) + body;
-  if (pf.phase !== 'simming') resetScroll();
-
-  function header(strip) { return `<div class="pf-header"><div class="pf-title">COLLEGE FOOTBALL PLAYOFF</div><div class="pf-bracket">${strip}</div></div>`; }
-  function nextLabel() {
-    if (!res.win) return 'See Result';
-    return r < 2 ? 'Advance →' : 'See Result';
+  function scoreboard() {
+    const rev = pf.revealQ || 0;                 // quarters revealed so far (0..4)
+    const cum = arr => arr.slice(0, rev).reduce((a, b) => a + b, 0);
+    const yF = rev >= 4 ? res.yourPts : cum(res.yourQ);
+    const oF = rev >= 4 ? res.oppPts  : cum(res.oppQ);
+    const status = rev === 0 ? 'KICKOFF' : rev >= 4 ? 'FINAL' : rev === 2 ? 'HALFTIME' : `END OF Q${rev}`;
+    const cells = arr => [0, 1, 2, 3].map(q =>
+      `<div class="pf-sb-q${q < rev ? ' shown' : ''}">${q < rev ? arr[q] : '·'}</div>`).join('');
+    const row = (cls, name, arr, f, lead) =>
+      `<div class="pf-sb-row ${cls}${lead ? ' lead' : ''}"><div class="pf-sb-team">${name}</div>${cells(arr)}<div class="pf-sb-f">${f}</div></div>`;
+    return `
+      <div class="pf-sb-status">${status}</div>
+      <div class="pf-scoreboard">
+        <div class="pf-sb-row pf-sb-head"><div class="pf-sb-team"></div><div>1</div><div>2</div><div>3</div><div>4</div><div class="pf-sb-f">T</div></div>
+        ${row('you', 'Your Team', res.yourQ, yF, rev >= 1 && yF >= oF)}
+        ${row('opp', opp.school, res.oppQ, oF, rev >= 1 && oF > yF)}
+      </div>`;
   }
+  function nextLabel() { return res.win ? (r < 2 ? 'Advance →' : 'See Result') : 'See Result'; }
   function scoreLines() {
     const short = ['QF', 'SF', 'Title'];
     return '<div class="pf-recap">' + pf.results.map((g, i) =>
@@ -711,17 +707,19 @@ function renderPlayoff() {
 function simulateRound() {
   const pf = state.playoff;
   if (pf.phase !== 'matchup') return;
-  pf.phase = 'simming';
-  renderPlayoff();
   const you = state.team;
   const opp = pf.opponents[pf.round];
-  const result = simGame(you.offRating, you.defRating, opp.off, opp.def);
-  // Let the loader breathe before the reveal.
-  setTimeout(() => {
-    pf.results[pf.round] = result;
-    pf.phase = 'result';
+  pf.results[pf.round] = simGame(you.offRating, you.defRating, opp.off, opp.def);
+  // Reveal the game a quarter at a time — KICKOFF, then Q1…Q4 — for the drama.
+  pf.phase = 'playing';
+  pf.revealQ = 0;
+  renderPlayoff();
+  if (pf._timer) clearInterval(pf._timer);
+  pf._timer = setInterval(() => {
+    pf.revealQ++;
+    if (pf.revealQ >= 4) { clearInterval(pf._timer); pf._timer = null; pf.revealQ = 4; pf.phase = 'result'; }
     renderPlayoff();
-  }, 1700);
+  }, 700);
 }
 
 function advancePlayoff() {

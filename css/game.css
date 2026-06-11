@@ -194,6 +194,7 @@
     gap: 4px;
     background: var(--surface);
     border: 2px solid var(--rule2);
+    color: var(--gold2);
     cursor: pointer;
     position: relative;
     box-shadow: 3px 3px 0 rgba(0,0,0,0.4);
@@ -269,10 +270,15 @@
   .result-pill.era    { color: var(--text); }
 
   .result-header .respin-btn {
-    width: 56px; height: auto;
+    width: auto; height: auto;
+    flex: none;
+    flex-direction: row;
+    gap: 6px;
+    white-space: nowrap;
+    padding: 0 18px;
     border-top: none; border-bottom: none; border-right: none;
     border-left: 2px solid var(--rule2);
-    box-shadow: none; flex: none;
+    box-shadow: none;
   }
   .result-header .respin-btn::before { display: none; }
   .result-header > div[style*="flex:1"] { flex: 1; }
@@ -449,7 +455,9 @@
   /* All-time percentile banner */
   .alltime-rank {
     text-align: center; padding: 9px 16px;
-    background: var(--felt); border-bottom: 2px solid var(--rule2);
+    background: var(--felt);
+    border-top: 2px solid var(--rule2);
+    border-bottom: 2px solid var(--rule2);
     font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600;
     letter-spacing: 3px; text-transform: uppercase; color: var(--aged);
   }

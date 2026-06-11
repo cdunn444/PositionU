@@ -203,17 +203,29 @@ function parseKey(key) {
   return { school, era };
 }
 
+// Force the page back to the very top across every scroll root — window,
+// scrollingElement, documentElement and body — so no browser quirk leaves the
+// view scrolled mid-page when screens swap.
+function resetScroll() {
+  window.scrollTo(0, 0);
+  if (document.scrollingElement) document.scrollingElement.scrollTop = 0;
+  if (document.documentElement) document.documentElement.scrollTop = 0;
+  if (document.body) document.body.scrollTop = 0;
+}
+
 function showSpinScreen() {
   document.getElementById('spinScreen').classList.remove('hidden');
   document.getElementById('roomScreen').classList.add('hidden');
   document.getElementById('resultsScreen').classList.add('hidden');
   document.getElementById('confirmBar').classList.add('hidden');
 
-  // Reset scroll to the top. Done after the screen toggle (and again on the
-  // next frame) so the reflow from showing the shorter spin screen can't
-  // leave the page scrolled mid-way on mobile.
-  window.scrollTo(0, 0);
-  requestAnimationFrame(() => window.scrollTo(0, 0));
+  // Reset scroll to the top. Done after the screen toggle, and re-fired on the
+  // next frame and the next tick, because mobile browsers (iOS Safari) can
+  // restore the prior scroll position after the reflow from swapping the tall
+  // room screen for the short spin screen. Hit every scroll root to be safe.
+  resetScroll();
+  requestAnimationFrame(resetScroll);
+  setTimeout(resetScroll, 0);
 
   // Reset cards
   document.getElementById('teamCard').className = 'spin-card team-card';
@@ -244,8 +256,9 @@ function updateRespinBtns() {
     btn.className = 'respin-btn available';
     btn.disabled = false;
   }
-  // Update label to show count
-  btn.innerHTML = `<span class="respin-icon">↺</span> Respin (${remaining})`;
+  // Update label to show count. Wrap the text in .respin-label so it picks up
+  // the brand gold styling (a bare text node would fall back to the default).
+  btn.innerHTML = `<span class="respin-icon">↺</span><span class="respin-label">Respin (${remaining})</span>`;
 }
 
 function doSpin() {

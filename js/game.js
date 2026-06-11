@@ -99,8 +99,10 @@ function init() {
 
 function updateHeader() {
   const pos = currentPos();
+  // Round is purely selection-based: filled picks + 1, capped at 8. Respins
+  // never touch state.picks, so they can't advance this counter.
   const filled = Object.keys(state.picks).length;
-  document.getElementById('roundLabel').textContent = `Round ${filled + 1} of 8`;
+  document.getElementById('roundLabel').textContent = `Round ${Math.min(filled + 1, 8)} of 8`;
 // phase badge removed
 }
 

@@ -47,9 +47,6 @@
   .header {
     background: var(--felt);
     border-bottom: 2px solid var(--gold);
-    position: sticky;
-    top: 0;
-    z-index: 100;
     display: flex;
     flex-direction: column;
   }
@@ -139,7 +136,7 @@
     font-weight: 600;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: var(--cream);
+    color: var(--text);
     margin-bottom: 8px;
   }
   .locked .card-label { color: var(--dim); }
@@ -189,6 +186,7 @@
   .respin-btn {
     flex: 1;
     height: 54px;
+    padding: 0 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -208,8 +206,8 @@
   .respin-btn.used     { opacity: 0.25; cursor: not-allowed; }
   .respin-btn:disabled { opacity: 0.25; cursor: not-allowed; }
 
-  .respin-icon  { font-size: 16px; color: var(--cream); line-height: 1; }
-  .respin-label { font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: var(--aged); line-height: 1; }
+  .respin-icon  { font-size: 16px; color: var(--gold2); line-height: 1; }
+  .respin-label { font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: var(--gold2); line-height: 1; }
 
   /* ── DOCK — persistent bottom bar ── */
   .dock {

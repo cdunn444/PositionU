@@ -136,7 +136,7 @@
     font-weight: 600;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: var(--text);
+    color: var(--cream);
     margin-bottom: 8px;
   }
   .locked .card-label { color: var(--dim); }
@@ -260,13 +260,13 @@
     font-size: 17px;
     padding: 10px 16px;
     border-right: 2px solid var(--rule2);
-    color: var(--gold2);
+    color: var(--text);
     text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
     display: flex;
     align-items: center;
   }
-  .result-pill.school { color: var(--gold2); }
-  .result-pill.era    { color: var(--gold2); }
+  .result-pill.school { color: var(--text); }
+  .result-pill.era    { color: var(--text); }
 
   .result-header .respin-btn {
     width: 56px; height: auto;

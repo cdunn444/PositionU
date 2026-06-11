@@ -204,11 +204,16 @@ function parseKey(key) {
 }
 
 function showSpinScreen() {
-  window.scrollTo(0, 0);
   document.getElementById('spinScreen').classList.remove('hidden');
   document.getElementById('roomScreen').classList.add('hidden');
   document.getElementById('resultsScreen').classList.add('hidden');
   document.getElementById('confirmBar').classList.add('hidden');
+
+  // Reset scroll to the top. Done after the screen toggle (and again on the
+  // next frame) so the reflow from showing the shorter spin screen can't
+  // leave the page scrolled mid-way on mobile.
+  window.scrollTo(0, 0);
+  requestAnimationFrame(() => window.scrollTo(0, 0));
 
   // Reset cards
   document.getElementById('teamCard').className = 'spin-card team-card';

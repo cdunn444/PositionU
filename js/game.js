@@ -492,7 +492,8 @@ function showResults() {
   ALL_SLOTS.forEach(pos => { roomScores[pos] = state.picks[pos]?.roomScore || 0; });
   const result = mapScore(total, offTotal, defTotal, roomScores);
   document.getElementById('finalRecord').textContent = result.record;
-  document.getElementById('gradeDisplay').textContent = result.grade;
+  const gradeEl = document.getElementById('gradeDisplay');
+  if (gradeEl) gradeEl.textContent = result.grade;
   // Madden-style ratings — recalibrated 2026-06-11, coupled to the record.
   // The knee sits at the 15-0 thresholds (offense raw 244, defense 146) and reads
   // 95, so an undefeated team presents as ~95/95. The dream team (best room at

@@ -359,20 +359,56 @@
   /* ── RESULTS SCREEN ── */
   .results-screen { background: var(--bg); min-height: 100vh; }
 
-  .results-record {
+  /* Results header — 2-column: record left, OFF/DEF ratings right */
+  .results-header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
     background: var(--felt);
-    text-align: center;
-    padding: 24px 16px 16px;
+    padding: 20px 16px 16px;
+  }
+  .results-record {
+    background: transparent;
+    text-align: left;
+    padding: 0;
   }
   .results-record::before { display: none; }
   .results-record::after  { display: none; }
 
   .record-num {
     font-family: 'Alfa Slab One', serif;
-    font-size: 86px; color: var(--text);
-    letter-spacing: -4px; line-height: 0.9;
+    font-size: 64px; color: var(--text);
+    letter-spacing: -3px; line-height: 0.9;
     text-shadow: 4px 4px 0 rgba(0,0,0,0.5);
   }
+
+  /* OFF/DEF inline ratings, stacked & right-aligned */
+  .ratings-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 6px;
+  }
+  .rating-line {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .rating-label {
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px; font-weight: 600;
+    letter-spacing: 2px; text-transform: uppercase;
+    color: var(--aged);
+  }
+  .rating-val {
+    font-family: 'Alfa Slab One', serif;
+    font-size: 34px; line-height: 1; letter-spacing: -1px;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.4);
+    min-width: 56px; text-align: right;
+  }
+  .rating-line.offense .rating-val { color: var(--gold2); }
+  .rating-line.defense .rating-val { color: var(--orange); }
   .record-label {
     font-family: 'Oswald', sans-serif;
     font-size: 11px; font-weight: 600; letter-spacing: 5px;

@@ -15,33 +15,33 @@
 // ══════════════════════════════════════════════════════════════
 
 const PLAYOFF_TEAMS = [
-  // ── Tier 1 — Quarterfinal ──────────────────────────────────
-  { year: 2016, school: 'Washington',     off: 85, def: 86, tier: 1, note: 'Balanced Pac-12 champions' },
-  { year: 2021, school: 'Cincinnati',     off: 82, def: 85, tier: 1, note: 'First Group of Five CFP team' },
-  { year: 2015, school: 'Michigan State', off: 80, def: 84, tier: 1, note: 'Grind-it-out Big Ten champs' },
-  { year: 2017, school: 'Oklahoma',       off: 96, def: 73, tier: 1, note: "Baker Mayfield's record offense" },
-  { year: 2014, school: 'Oregon',         off: 93, def: 79, tier: 1, note: 'Marcus Mariota air raid' },
-  { year: 2018, school: 'Notre Dame',     off: 84, def: 86, tier: 1, note: 'Undefeated, no real weakness' },
-  { year: 2023, school: 'Washington',     off: 91, def: 79, tier: 1, note: 'Michael Penix Jr. aerial show' },
+  // ── Tier 1 — Quarterfinal (good-elite, ~86-90) ─────────────
+  { year: 2016, school: 'Washington',     off: 88, def: 89, tier: 1, note: 'Balanced Pac-12 champions' },
+  { year: 2021, school: 'Cincinnati',     off: 87, def: 88, tier: 1, note: 'First Group of Five CFP team' },
+  { year: 2015, school: 'Michigan State', off: 86, def: 89, tier: 1, note: 'Grind-it-out Big Ten champs' },
+  { year: 2017, school: 'Oklahoma',       off: 95, def: 82, tier: 1, note: "Baker Mayfield's record offense" },
+  { year: 2014, school: 'Oregon',         off: 94, def: 83, tier: 1, note: 'Marcus Mariota air raid' },
+  { year: 2018, school: 'Notre Dame',     off: 88, def: 87, tier: 1, note: 'Undefeated, no real weakness' },
+  { year: 2023, school: 'Washington',     off: 93, def: 83, tier: 1, note: 'Michael Penix Jr. aerial show' },
 
-  // ── Tier 2 — Semifinal ─────────────────────────────────────
-  { year: 2010, school: 'Auburn',         off: 93, def: 82, tier: 2, note: "Cam Newton's title run" },
-  { year: 2008, school: 'Florida',        off: 92, def: 90, tier: 2, note: "Tim Tebow's complete juggernaut" },
-  { year: 2002, school: 'Ohio State',     off: 81, def: 94, tier: 2, note: 'Defense-first national champs' },
-  { year: 2009, school: 'Alabama',        off: 88, def: 93, tier: 2, note: 'Mark Ingram & a smothering D' },
-  { year: 1988, school: 'Notre Dame',     off: 89, def: 89, tier: 2, note: "Lou Holtz's undefeated Irish" },
+  // ── Tier 2 — Semifinal (strong, ~89-93) ────────────────────
+  { year: 2010, school: 'Auburn',         off: 92, def: 85, tier: 2, note: "Cam Newton's title run" },
+  { year: 2008, school: 'Florida',        off: 91, def: 91, tier: 2, note: "Tim Tebow's complete juggernaut" },
+  { year: 2002, school: 'Ohio State',     off: 86, def: 94, tier: 2, note: 'Defense-first national champs' },
+  { year: 2009, school: 'Alabama',        off: 89, def: 93, tier: 2, note: 'Mark Ingram & a smothering D' },
+  { year: 1988, school: 'Notre Dame',     off: 90, def: 90, tier: 2, note: "Lou Holtz's undefeated Irish" },
   { year: 2013, school: 'Florida State',  off: 93, def: 89, tier: 2, note: 'Jameis Winston, wire-to-wire' },
-  { year: 2014, school: 'Ohio State',     off: 90, def: 87, tier: 2, note: 'Won the first-ever CFP' },
+  { year: 2014, school: 'Ohio State',     off: 90, def: 88, tier: 2, note: 'Won the first-ever CFP' },
 
-  // ── Tier 3 — Champions (title game) ────────────────────────
+  // ── Tier 3 — Champions (title game, ~91-97) ────────────────
   { year: 2001, school: 'Miami',          off: 95, def: 96, tier: 3, note: 'Maybe the most talented roster ever' },
-  { year: 2019, school: 'LSU',            off: 97, def: 86, tier: 3, note: "Joe Burrow's record-shattering offense" },
+  { year: 2019, school: 'LSU',            off: 97, def: 88, tier: 3, note: "Joe Burrow's record-shattering offense" },
   { year: 1995, school: 'Nebraska',       off: 96, def: 92, tier: 3, note: 'Unstoppable option machine' },
   { year: 2018, school: 'Clemson',        off: 93, def: 95, tier: 3, note: 'Trevor Lawrence & a historic D-line' },
-  { year: 2020, school: 'Alabama',        off: 97, def: 87, tier: 3, note: 'DeVonta Smith, all the points' },
+  { year: 2020, school: 'Alabama',        off: 97, def: 89, tier: 3, note: 'DeVonta Smith, all the points' },
   { year: 2022, school: 'Georgia',        off: 91, def: 95, tier: 3, note: 'Back-to-back, suffocating defense' },
-  { year: 2005, school: 'Texas',          off: 96, def: 88, tier: 3, note: "Vince Young's Rose Bowl masterpiece" },
-  { year: 2004, school: 'USC',            off: 95, def: 90, tier: 3, note: 'Reggie Bush & Matt Leinart' }
+  { year: 2005, school: 'Texas',          off: 96, def: 89, tier: 3, note: "Vince Young's Rose Bowl masterpiece" },
+  { year: 2004, school: 'USC',            off: 95, def: 91, tier: 3, note: 'Reggie Bush & Matt Leinart' }
 ];
 
 // Pick a random opponent of the given tier, excluding any already drawn.

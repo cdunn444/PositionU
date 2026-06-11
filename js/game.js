@@ -540,8 +540,28 @@ function showResults() {
     allTime = `${rank.toLocaleString()}${ord}`;
   }
 
+  // Did the team earn a playoff berth? (regular-season wins vs the gate)
+  const qualified = regWins >= (RULES.playoffGate || 9);
+
   // Stash the finished team so Playoff mode can field it and tally the record.
-  state.team = { offRating, defRating, offTotal, defTotal, total, regWins, regLosses, allTime };
+  state.team = { offRating, defRating, offTotal, defTotal, total, regWins, regLosses, allTime, qualified };
+
+  // Results page shows your regular-season record + whether you made the field.
+  // Qualifiers get the Enter-the-Playoffs button; everyone else's season is over.
+  const statusEl = document.getElementById('playoffStatus');
+  const ctaEl = document.getElementById('playoffCta');
+  if (qualified) {
+    statusEl.innerHTML =
+      `<div class="ps-record in">${regWins}-${regLosses}</div>` +
+      `<div class="ps-badge in">Playoff Bound</div>`;
+    if (ctaEl) ctaEl.style.display = '';
+  } else {
+    statusEl.innerHTML =
+      `<div class="ps-record out">${regWins}-${regLosses}</div>` +
+      `<div class="ps-badge out">Missed the Playoff</div>` +
+      `<div class="ps-sub">Not quite playoff-caliber — draft a deeper team and try again.</div>`;
+    if (ctaEl) ctaEl.style.display = 'none';
+  }
 
   let rowsHtml = '';
   // Show surnames on the results card. Team-unit OL entries ("1996 Syracuse OL")

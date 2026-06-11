@@ -39,30 +39,33 @@ const RULES = Object.freeze({
   // team's total in this curve. Regenerate if scoring or roster data changes.
   allTimeTotals: [227,260,265,268,271,273,274,276,277,279,280,281,282,283,284,285,286,287,288,289,290,290,291,292,293,294,294,295,296,296,297,298,299,299,300,301,301,302,303,303,304,304,305,306,306,307,308,308,309,310,310,311,312,312,313,314,314,315,316,317,317,318,319,319,320,321,322,322,323,324,325,326,327,327,328,329,330,331,332,333,334,335,336,338,339,340,342,343,345,346,348,350,352,354,357,360,364,369,375,386,503],
 
-  // Record tier requirements — ALL conditions must be met for the tier.
-  // Recalibrated 2026-06-10 against the rebuilt roster pool AND the real spin
-  // mechanic (8 random draws in fixed position order, 2 respins) — the old tiers
-  // were tuned to optimistic totals, so 15-0 (old min 403) sat ABOVE the 99th
-  // percentile of achievable totals and was effectively impossible. New tiers are
-  // anchored to the same realistic distribution as the Madden scales so record and
-  // rating agree: 15-0 demands an ELITE team on BOTH sides (offMin 244 + defMin
-  // 146, ~95-percentile each) so a stacked offense can't drag an average defense
-  // to undefeated. ~1% of average teams and far fewer good-but-uneven ones reach
-  // 15-0; median lands ~9-6/10-5. A 15-0 team reads ~95/95; the dream team is 100.
+  // Regular-season record tiers — a 12-GAME season. Recalibrated 2026-06-11 for
+  // Playoff mode: the team's total places it in this table to set a regular-season
+  // record, then the 3 playoff games fill out the year (12-0 + win out = 15-0).
+  // Thresholds are anchored to the percentile of ACTUAL random drafts (8 random
+  // rooms), so the record reflects how your draft stacks up against the field:
+  // ~top 25% reach 9-3 (the playoff gate, see playoffGate), the median lands ~6-6,
+  // and a perfect 12-0 sits at ~top 1-2%. Total-only — offense and defense each get
+  // their say in the actual playoff games, which punish an unbalanced roster.
   recordTiers: [
-    { min: 392, offMin: 244, defMin: 146, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
-    { min: 382, offMin: 236, defMin: 139, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
-    { min: 370, offMin: 226, defMin: 131, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
-    { min: 355, offMin: 213, defMin: 121, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
-    { min: 340, offMin: 199, defMin: 109, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
-    { min: 326, offMin: 184, defMin:  97, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
-    { min: 313, offMin: 170, defMin:  85, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
-    { min: 299, offMin: 156, defMin:  74, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
-    { min: 285, offMin: 143, defMin:  64, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
-    { min: 272, offMin: 0,   defMin: 0,   roomMin: 0, record: '6-9',  grade: 'C',  label: 'Tough Season' },
-    { min: 260, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
-    { min: 0,   offMin: 0,   defMin: 0,   roomMin: 0, record: '4-11', grade: 'D',  label: 'Reset the Program' }
+    { min: 380, offMin: 0, defMin: 0, roomMin: 0, record: '12-0', grade: 'S+', label: 'Perfect Season' },
+    { min: 365, offMin: 0, defMin: 0, roomMin: 0, record: '11-1', grade: 'S',  label: 'Dynasty Level' },
+    { min: 349, offMin: 0, defMin: 0, roomMin: 0, record: '10-2', grade: 'A+', label: 'Championship Contender' },
+    { min: 331, offMin: 0, defMin: 0, roomMin: 0, record: '9-3',  grade: 'A',  label: 'Playoff Caliber' },
+    { min: 319, offMin: 0, defMin: 0, roomMin: 0, record: '8-4',  grade: 'A-', label: 'Top 25 Team' },
+    { min: 309, offMin: 0, defMin: 0, roomMin: 0, record: '7-5',  grade: 'B+', label: 'Bowl Team' },
+    { min: 299, offMin: 0, defMin: 0, roomMin: 0, record: '6-6',  grade: 'B',  label: 'Middle of the Pack' },
+    { min: 289, offMin: 0, defMin: 0, roomMin: 0, record: '5-7',  grade: 'B-', label: 'Missed a Bowl' },
+    { min: 280, offMin: 0, defMin: 0, roomMin: 0, record: '4-8',  grade: 'C+', label: 'Rebuilding' },
+    { min: 269, offMin: 0, defMin: 0, roomMin: 0, record: '3-9',  grade: 'C',  label: 'Tough Season' },
+    { min: 262, offMin: 0, defMin: 0, roomMin: 0, record: '2-10', grade: 'C-', label: 'Rough Year' },
+    { min: 0,   offMin: 0, defMin: 0, roomMin: 0, record: '1-11', grade: 'D',  label: 'Reset the Program' }
   ],
+
+  // Playoff gate — minimum regular-season wins (of 12) to make the field. 9 wins
+  // (9-3, ~top 25% of drafts) is a believable resume; weaker seasons end without a
+  // playoff berth. Tune alongside recordTiers if the qualify rate needs to move.
+  playoffGate: 9,
 
   // Position slot groupings
   offenseSlots: ['QB', 'RB', 'WR', 'TE', 'OL'],

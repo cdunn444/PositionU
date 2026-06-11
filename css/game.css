@@ -511,6 +511,99 @@
   .cta-again { background: linear-gradient(180deg, var(--gold2) 0%, var(--gold) 100%); border-color: var(--gold2); color: var(--bg); }
   .cta-share { background: var(--surface); border-color: var(--rule2); color: var(--cream); }
 
+  /* ── PLAYOFF MODE ── */
+  .playoff-cta-row { display: flex; padding: 4px 16px 0; }
+  .cta-playoffs {
+    width: 100%;
+    background: linear-gradient(180deg, var(--gold2) 0%, var(--gold) 100%);
+    border-color: var(--gold2); color: var(--bg);
+  }
+
+  .playoff-screen { background: var(--bg); min-height: 100vh; padding-bottom: 40px; }
+
+  .pf-header { background: var(--felt); padding: 16px; border-bottom: 2px solid var(--rule2); }
+  .pf-title {
+    font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 600;
+    letter-spacing: 3px; text-transform: uppercase; color: var(--gold2);
+    text-align: center;
+  }
+  .pf-bracket { display: flex; align-items: center; justify-content: center; margin-top: 14px; }
+  .pf-step { display: flex; flex-direction: column; align-items: center; gap: 5px; }
+  .pf-step-dot {
+    width: 13px; height: 13px; border-radius: 50%;
+    background: var(--surface2); border: 2px solid var(--rule2);
+  }
+  .pf-step.active .pf-step-dot { border-color: var(--gold2); background: var(--gold-dim); box-shadow: 0 0 0 3px var(--gold-dim); }
+  .pf-step.won .pf-step-dot  { background: var(--green);  border-color: var(--green); }
+  .pf-step.lost .pf-step-dot { background: var(--orange); border-color: var(--orange); }
+  .pf-step-name {
+    font-family: 'Oswald', sans-serif; font-size: 8px; font-weight: 600;
+    letter-spacing: 1px; text-transform: uppercase; color: var(--aged);
+  }
+  .pf-step.active .pf-step-name { color: var(--gold2); }
+  .pf-step-line { flex: 1; height: 2px; background: var(--rule2); margin: 0 8px 14px; max-width: 70px; }
+
+  .pf-round-label {
+    font-family: 'Alfa Slab One', serif; font-size: 22px; color: var(--gold2);
+    text-align: center; margin: 20px 16px 14px; letter-spacing: -0.5px;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.4);
+  }
+
+  .pf-team {
+    background: var(--surface); border: 2px solid var(--rule2);
+    margin: 0 16px 8px; padding: 12px 14px;
+  }
+  .pf-team.you { border-left: 4px solid var(--gold); }
+  .pf-team.opp { border-left: 4px solid var(--orange); }
+  .pf-team-name { font-family: 'Roboto Condensed', sans-serif; font-size: 19px; font-weight: 700; color: var(--text); line-height: 1.1; }
+  .pf-team-note { font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: var(--aged); margin-top: 3px; }
+  .pf-team-ratings { display: flex; gap: 14px; margin-top: 8px; }
+  .pf-rt { font-family: 'Oswald', sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1px; }
+  .pf-rt.off { color: var(--gold2); }
+  .pf-rt.def { color: var(--orange); }
+
+  .pf-vs {
+    font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 700;
+    letter-spacing: 3px; color: var(--aged); text-align: center; margin: 4px 0;
+  }
+
+  .pf-middle { padding: 16px; }
+
+  .pf-sim { text-align: center; padding: 10px 0; }
+  .pf-sim-label { font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: var(--gold2); }
+  .pf-sim-bar { height: 8px; background: var(--surface2); border: 1px solid var(--rule2); margin-top: 12px; overflow: hidden; }
+  .pf-sim-fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--gold) 0%, var(--gold2) 100%); animation: pf-fill 1.7s ease-in-out forwards; }
+  @keyframes pf-fill { from { width: 0; } to { width: 100%; } }
+
+  .pf-box { text-align: center; padding: 8px 0 4px; }
+  .pf-score { font-family: 'Alfa Slab One', serif; font-size: 56px; line-height: 1; letter-spacing: -2px; }
+  .pf-score-num  { color: var(--text); text-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
+  .pf-score-dash { color: var(--aged); margin: 0 10px; }
+  .pf-box.win  .pf-score-num:first-child { color: var(--gold2); }
+  .pf-box.loss .pf-score-num:last-child  { color: var(--orange); }
+  .pf-stamp {
+    display: inline-block; margin-top: 12px; padding: 6px 22px;
+    font-family: 'Alfa Slab One', serif; font-size: 16px; letter-spacing: 2px;
+    border: 2px solid;
+  }
+  .pf-stamp.win  { background: var(--green);  border-color: var(--green);  color: var(--text); }
+  .pf-stamp.loss { background: var(--orange); border-color: var(--orange); color: var(--bg); }
+  .pf-advance { width: 100%; margin-top: 16px; height: 50px; }
+
+  .pf-end { text-align: center; padding: 30px 16px 10px; }
+  .pf-trophy { font-size: 66px; line-height: 1; }
+  .pf-end-title { font-family: 'Alfa Slab One', serif; font-size: 30px; color: var(--gold2); letter-spacing: -0.5px; margin-top: 10px; text-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
+  .pf-end.eliminated .pf-end-title { color: var(--orange); }
+  .pf-end-sub { font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 500; letter-spacing: 1px; color: var(--cream); margin-top: 10px; }
+
+  .pf-recap { margin: 18px 0 6px; }
+  .pf-recap-row { display: flex; align-items: center; background: var(--surface); border: 2px solid var(--rule2); padding: 9px 12px; margin-bottom: 5px; }
+  .pf-recap-row.win  { border-left: 4px solid var(--green); }
+  .pf-recap-row.loss { border-left: 4px solid var(--orange); }
+  .pf-recap-rd    { font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--aged); width: 84px; text-align: left; }
+  .pf-recap-opp   { flex: 1; font-family: 'Roboto Condensed', sans-serif; font-size: 13px; color: var(--text); text-align: left; }
+  .pf-recap-score { font-family: 'Alfa Slab One', serif; font-size: 15px; color: var(--cream); }
+
   /* Room screen padding for fixed dock */
   .room-screen .pos-card { }
 

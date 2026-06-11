@@ -523,6 +523,9 @@ function showResults() {
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 
+  // Stash the finished team so Playoff mode can field it.
+  state.team = { offRating, defRating, offTotal, defTotal, total, record: result.record };
+
   // All-time rank: locate the team total in the percentile curve (interpolated)
   // and render as an ordinal out of a 10,000-team all-time field (e.g. "Top 167").
   const bp = RULES.allTimeTotals;
@@ -575,7 +578,161 @@ function showResults() {
 function resetGame() {
   document.getElementById('persistentDock').style.display = '';
   document.getElementById('resultsScreen').classList.add('hidden');
+  document.getElementById('playoffScreen').classList.add('hidden');
   init();
+}
+
+// ──────────────────────────────────────────────────────────────
+// PLAYOFF MODE
+// ──────────────────────────────────────────────────────────────
+const PLAYOFF_ROUNDS = ['Quarterfinal', 'Semifinal', 'National Championship'];
+
+function startPlayoffs() {
+  if (!state.team) return;
+  // Set the bracket up front — one opponent per round, escalating in tier.
+  const opps = [];
+  opps.push(pickOpponent(1, opps));
+  opps.push(pickOpponent(2, opps));
+  opps.push(pickOpponent(3, opps));
+  state.playoff = { round: 0, opponents: opps, results: [], phase: 'matchup', done: null };
+
+  document.getElementById('resultsScreen').classList.add('hidden');
+  document.getElementById('playoffScreen').classList.remove('hidden');
+  document.getElementById('roundLabel').textContent = 'PLAYOFFS';
+  resetScroll();
+  renderPlayoff();
+}
+
+function renderPlayoff() {
+  const pf = state.playoff;
+  const el = document.getElementById('playoffScreen');
+  const you = state.team;
+
+  // Bracket progress strip (3 rounds, colored by outcome)
+  const dots = PLAYOFF_ROUNDS.map((name, i) => {
+    let cls = 'pf-step';
+    const res = pf.results[i];
+    if (res) cls += res.win ? ' won' : ' lost';
+    else if (i === pf.round && pf.done === null) cls += ' active';
+    return `<div class="${cls}"><span class="pf-step-dot"></span><span class="pf-step-name">${name === 'National Championship' ? 'Title' : name}</span></div>`;
+  }).join('<div class="pf-step-line"></div>');
+
+  let body = '';
+
+  // Terminal states: champion or eliminated.
+  if (pf.done === 'champion') {
+    body = `
+      <div class="pf-end champion">
+        <div class="pf-trophy">🏆</div>
+        <div class="pf-end-title">NATIONAL CHAMPIONS</div>
+        <div class="pf-end-sub">You ran the table — ${you.offRating}/${you.defRating} and a title to match.</div>
+        ${scoreLines()}
+      </div>
+      <div class="cta-row">
+        <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
+        <button class="cta-btn cta-again" onclick="resetGame()">Play Again</button>
+      </div>`;
+    el.innerHTML = header(dots) + body;
+    resetScroll();
+    return;
+  }
+  if (pf.done === 'eliminated') {
+    const lostAt = PLAYOFF_ROUNDS[pf.results.length - 1];
+    body = `
+      <div class="pf-end eliminated">
+        <div class="pf-end-title">ELIMINATED</div>
+        <div class="pf-end-sub">Knocked out in the ${lostAt}. Reload and draft a deeper roster.</div>
+        ${scoreLines()}
+      </div>
+      <div class="cta-row">
+        <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
+        <button class="cta-btn cta-again" onclick="resetGame()">Play Again</button>
+      </div>`;
+    el.innerHTML = header(dots) + body;
+    resetScroll();
+    return;
+  }
+
+  // Active round: matchup / simulating / result.
+  const r = pf.round;
+  const opp = pf.opponents[r];
+  const res = pf.results[r];
+
+  const oppCard = `
+    <div class="pf-team opp">
+      <div class="pf-team-name">${opp.year} ${opp.school}</div>
+      <div class="pf-team-note">${opp.note}</div>
+      <div class="pf-team-ratings"><span class="pf-rt off">OFF ${opp.off}</span><span class="pf-rt def">DEF ${opp.def}</span></div>
+    </div>`;
+  const youCard = `
+    <div class="pf-team you">
+      <div class="pf-team-name">Your Team</div>
+      <div class="pf-team-note">${you.record} · ${PLAYOFF_ROUNDS[r] === 'National Championship' ? 'one win from a title' : 'fighting to advance'}</div>
+      <div class="pf-team-ratings"><span class="pf-rt off">OFF ${you.offRating}</span><span class="pf-rt def">DEF ${you.defRating}</span></div>
+    </div>`;
+
+  let middle;
+  if (pf.phase === 'simming') {
+    middle = `<div class="pf-sim"><div class="pf-sim-label">SIMULATING GAME…</div><div class="pf-sim-bar"><div class="pf-sim-fill"></div></div></div>`;
+  } else if (pf.phase === 'result' && res) {
+    middle = `
+      <div class="pf-box ${res.win ? 'win' : 'loss'}">
+        <div class="pf-score"><span class="pf-score-num">${res.yourPts}</span><span class="pf-score-dash">–</span><span class="pf-score-num">${res.oppPts}</span></div>
+        <div class="pf-stamp ${res.win ? 'win' : 'loss'}">${res.win ? 'WIN' : 'LOSS'}</div>
+      </div>
+      <button class="cta-btn cta-playoffs pf-advance" onclick="advancePlayoff()">${nextLabel()}</button>`;
+  } else {
+    middle = `<button class="cta-btn cta-playoffs pf-advance" onclick="simulateRound()">Simulate Game</button>`;
+  }
+
+  body = `
+    <div class="pf-round-label">${PLAYOFF_ROUNDS[r]}</div>
+    ${youCard}
+    <div class="pf-vs">VS</div>
+    ${oppCard}
+    <div class="pf-middle">${middle}</div>`;
+
+  el.innerHTML = header(dots) + body;
+  if (pf.phase !== 'simming') resetScroll();
+
+  function header(strip) { return `<div class="pf-header"><div class="pf-title">COLLEGE FOOTBALL PLAYOFF</div><div class="pf-bracket">${strip}</div></div>`; }
+  function nextLabel() {
+    if (!res.win) return 'See Result';
+    return r < 2 ? 'Advance →' : 'See Result';
+  }
+  function scoreLines() {
+    const short = ['QF', 'SF', 'Title'];
+    return '<div class="pf-recap">' + pf.results.map((g, i) =>
+      `<div class="pf-recap-row ${g.win ? 'win' : 'loss'}"><span class="pf-recap-rd">${short[i]}</span><span class="pf-recap-opp">${pf.opponents[i].year} ${pf.opponents[i].school}</span><span class="pf-recap-score">${g.yourPts}–${g.oppPts}</span></div>`
+    ).join('') + '</div>';
+  }
+}
+
+function simulateRound() {
+  const pf = state.playoff;
+  if (pf.phase !== 'matchup') return;
+  pf.phase = 'simming';
+  renderPlayoff();
+  const you = state.team;
+  const opp = pf.opponents[pf.round];
+  const result = simGame(you.offRating, you.defRating, opp.off, opp.def);
+  // Let the loader breathe before the reveal.
+  setTimeout(() => {
+    pf.results[pf.round] = result;
+    pf.phase = 'result';
+    renderPlayoff();
+  }, 1700);
+}
+
+function advancePlayoff() {
+  const pf = state.playoff;
+  const res = pf.results[pf.round];
+  if (!res) return;
+  if (!res.win) { pf.done = 'eliminated'; renderPlayoff(); return; }
+  if (pf.round >= 2) { pf.done = 'champion'; renderPlayoff(); return; }
+  pf.round++;
+  pf.phase = 'matchup';
+  renderPlayoff();
 }
 
 

@@ -29,8 +29,8 @@ const RULES = Object.freeze({
   //   Top deliberately decompressed so one elite room can't vault a side to 99.
   //   Offense and defense tuned symmetric (verified in sim). Inlined in game.js.
   maddenScales: {
-    offense: { floor: 136, knee: 245, kneeRating: 92, max: 375, floorRating: 55, ceiling: 100 },
-    defense: { floor:  64, knee: 154, kneeRating: 92, max: 263, floorRating: 55, ceiling: 100 }
+    offense: { floor: 136, knee: 244, kneeRating: 95, max: 375, floorRating: 55, ceiling: 100 },
+    defense: { floor:  64, knee: 146, kneeRating: 95, max: 263, floorRating: 55, ceiling: 100 }
   },
 
   // All-time ranking — team total (off+def roomScore sum) at each percentile 0..100,
@@ -45,22 +45,22 @@ const RULES = Object.freeze({
   // were tuned to optimistic totals, so 15-0 (old min 403) sat ABOVE the 99th
   // percentile of achievable totals and was effectively impossible. New tiers are
   // anchored to the same realistic distribution as the Madden scales so record and
-  // rating agree but with headroom: median ~11-4, 15-0 ~6-7% (hard but a real,
-  // brag-worthy goal). A 15-0 team reads only ~82 overall, leaving the 90s/100
-  // Madden ratings as a separate, rarer chase (90+ overall ~1%, 100 = dream team).
-  // offMin/defMin keep lopsided teams (great O, weak D) out of the top tiers.
+  // rating agree: 15-0 demands an ELITE team on BOTH sides (offMin 244 + defMin
+  // 146, ~95-percentile each) so a stacked offense can't drag an average defense
+  // to undefeated. ~1% of average teams and far fewer good-but-uneven ones reach
+  // 15-0; median lands ~9-6/10-5. A 15-0 team reads ~95/95; the dream team is 100.
   recordTiers: [
-    { min: 353, offMin: 219, defMin: 131, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
-    { min: 345, offMin: 212, defMin: 124, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
-    { min: 337, offMin: 205, defMin: 117, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
-    { min: 327, offMin: 196, defMin: 109, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
-    { min: 317, offMin: 186, defMin: 100, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
-    { min: 307, offMin: 176, defMin:  90, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
-    { min: 297, offMin: 164, defMin:  80, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
-    { min: 288, offMin: 152, defMin:  70, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
-    { min: 279, offMin: 140, defMin:  61, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
-    { min: 269, offMin: 0,   defMin: 0,   roomMin: 0, record: '6-9',  grade: 'C',  label: 'Tough Season' },
-    { min: 258, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
+    { min: 392, offMin: 244, defMin: 146, roomMin: 0, record: '15-0', grade: 'S+', label: 'Undefeated Legend' },
+    { min: 382, offMin: 236, defMin: 139, roomMin: 0, record: '14-1', grade: 'S',  label: 'Dynasty Level' },
+    { min: 370, offMin: 226, defMin: 131, roomMin: 0, record: '13-2', grade: 'A+', label: 'Championship Contender' },
+    { min: 355, offMin: 213, defMin: 121, roomMin: 0, record: '12-3', grade: 'A',  label: 'Elite Program' },
+    { min: 340, offMin: 199, defMin: 109, roomMin: 0, record: '11-4', grade: 'A-', label: 'Top 10 Caliber' },
+    { min: 326, offMin: 184, defMin:  97, roomMin: 0, record: '10-5', grade: 'B+', label: 'Bowl Winner' },
+    { min: 313, offMin: 170, defMin:  85, roomMin: 0, record: '9-6',  grade: 'B',  label: 'Solid Program' },
+    { min: 299, offMin: 156, defMin:  74, roomMin: 0, record: '8-7',  grade: 'B-', label: 'Bowl Eligible' },
+    { min: 285, offMin: 143, defMin:  64, roomMin: 0, record: '7-8',  grade: 'C+', label: 'Rebuilding' },
+    { min: 272, offMin: 0,   defMin: 0,   roomMin: 0, record: '6-9',  grade: 'C',  label: 'Tough Season' },
+    { min: 260, offMin: 0,   defMin: 0,   roomMin: 0, record: '5-10', grade: 'C-', label: 'Rough Year' },
     { min: 0,   offMin: 0,   defMin: 0,   roomMin: 0, record: '4-11', grade: 'D',  label: 'Reset the Program' }
   ],
 

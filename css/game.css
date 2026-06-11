@@ -368,7 +368,7 @@
     border-bottom: 3px solid var(--gold);
   }
   .results-record::before { display: none; }
-  .results-record::after  { content: ''; display: block; height: 2px; background: var(--gold); opacity: 0.4; margin-top: 16px; }
+  .results-record::after  { display: none; }
 
   .record-num {
     font-family: 'Alfa Slab One', serif;
@@ -383,15 +383,6 @@
   }
 
 
-
-  /* Centered header above the OFF/DEF ratings */
-  .ratings-header {
-    text-align: center;
-    background: var(--felt);
-    padding: 14px 16px 6px;
-    font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600;
-    letter-spacing: 5px; text-transform: uppercase; color: var(--aged);
-  }
 
   /* Grade + ratings row */
   .grade-row, .grade-ratings-row {

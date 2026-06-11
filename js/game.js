@@ -546,26 +546,26 @@ function showResults() {
   // Stash the finished team so Playoff mode can field it and tally the record.
   state.team = { offRating, defRating, offTotal, defTotal, total, regWins, regLosses, allTime, qualified };
 
-  // Results page shows your regular-season record + whether you made the field.
-  // Qualifiers get the Enter-the-Playoffs button; everyone else's season is over.
+  // Two-column header: regular-season record (left) + OFF/DEF (right), with the
+  // playoff-qualification badge directly under the record. Qualifiers get the
+  // Enter-the-Playoffs button; everyone else's season is over here.
+  document.getElementById('finalRecord').textContent = `${regWins}-${regLosses}`;
   const statusEl = document.getElementById('playoffStatus');
   const ctaEl = document.getElementById('playoffCta');
   if (qualified) {
-    statusEl.innerHTML =
-      `<div class="ps-record in">${regWins}-${regLosses}</div>` +
-      `<div class="ps-badge in">Playoff Bound</div>`;
+    statusEl.innerHTML = `<div class="ps-badge in">Playoff Bound</div>`;
     if (ctaEl) ctaEl.style.display = '';
   } else {
-    statusEl.innerHTML =
-      `<div class="ps-record out">${regWins}-${regLosses}</div>` +
-      `<div class="ps-badge out">Missed the Playoff</div>` +
-      `<div class="ps-sub">Not quite playoff-caliber — draft a deeper team and try again.</div>`;
+    statusEl.innerHTML = `<div class="ps-badge out">Missed the Playoff</div>`;
     if (ctaEl) ctaEl.style.display = 'none';
   }
 
-  let rowsHtml = '';
-  // Show surnames on the results card. Team-unit OL entries ("1996 Syracuse OL")
-  // aren't people, so keep their leading year; skip generational suffixes.
+  document.getElementById('resultRows').innerHTML = buildRosterRows();
+}
+
+// Build the 8-room roster card (shared by the results page and the playoff end
+// card). Surnames only; team-unit OL entries keep their leading year.
+function buildRosterRows() {
   const lastName = (name) => {
     const parts = name.trim().split(/\s+/);
     if (/OL$/.test(name)) return parts[0];
@@ -574,11 +574,12 @@ function showResults() {
     while (i > 0 && suffixes.has(parts[i])) i--;
     return parts[i];
   };
+  let rowsHtml = '';
   ALL_SLOTS.forEach(pos => {
     const pick = state.picks[pos];
     if (!pick) return;
     const isOff = OFFENSE_SLOTS.includes(pos);
-    const topNames = pick.playerScores.slice(0,3).map(p => lastName(p.name)).join(' · ');
+    const topNames = pick.playerScores.slice(0, 3).map(p => lastName(p.name)).join(' · ');
     rowsHtml += `
       <div class="result-row ${isOff ? 'offense-row' : 'defense-row'}">
         <div class="pos-avatar ${isOff ? 'offense-pos' : 'defense-pos'}">${pos}</div>
@@ -586,11 +587,9 @@ function showResults() {
           <div class="result-school">${pick.room.school}</div>
           <div class="result-meta">${pick.room.era} &nbsp;·&nbsp; ${topNames}</div>
         </div>
-
       </div>`;
   });
-
-  document.getElementById('resultRows').innerHTML = rowsHtml;
+  return rowsHtml;
 }
 
 function resetGame() {
@@ -627,22 +626,30 @@ function renderPlayoff() {
   const you = state.team;
   const head = `<div class="pf-header"><div class="pf-title">COLLEGE FOOTBALL PLAYOFF</div></div>`;
 
-  // Terminal states: champion or eliminated.
-  if (pf.done === 'champion') {
-    const finalRec = `${you.regWins + 3}-${you.regLosses}`;
-    el.innerHTML = head + `
-      <div class="pf-end champion">
-        <div class="pf-trophy">🏆</div>
-        <div class="pf-end-record">${finalRec}</div>
-        <div class="pf-end-title">NATIONAL CHAMPIONS</div>
-        <div class="pf-end-sub">${finalRec === '15-0' ? 'A perfect 15-0. The undisputed greatest.' : 'You won it all — a title to cap the season.'}</div>
-        <div class="pf-end-alltime">This team ranks <span class="pct">${you.allTime}</span> all-time</div>
-        ${scoreLines()}
+  // Terminal states: one shareable results card — final record + a single result
+  // one-liner under it, OFF/DEF, all-time rank, and the full roster.
+  function endCard(record, tag, cls, recCls) {
+    return `
+      <div class="results-header-row end-card">
+        <div class="results-record-col">
+          <div class="record-num ${recCls}">${record}</div>
+          <div class="playoff-status"><div class="ps-badge ${cls}">${tag}</div></div>
+        </div>
+        <div class="ratings-stack">
+          <div class="rating-line offense"><span class="rating-label">OFF</span><span class="rating-val">${you.offRating}</span></div>
+          <div class="rating-line defense"><span class="rating-label">DEF</span><span class="rating-val">${you.defRating}</span></div>
+        </div>
       </div>
+      <div class="pf-end-alltime">This team ranks <span class="pct">${you.allTime}</span> all-time</div>
+      <div id="resultRows" style="padding:10px 16px;display:flex;flex-direction:column;gap:5px;">${buildRosterRows()}</div>
       <div class="cta-row">
         <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
         <button class="cta-btn cta-share" onclick="resetGame()">Play Again</button>
       </div>`;
+  }
+  if (pf.done === 'champion') {
+    const finalRec = `${you.regWins + 3}-${you.regLosses}`;
+    el.innerHTML = endCard(finalRec, '🏆 National Champions', 'in', 'champ');
     resetScroll();
     return;
   }
@@ -650,18 +657,8 @@ function renderPlayoff() {
     const lostAt = PLAYOFF_ROUNDS[pf.results.length - 1];
     const playoffWins = pf.results.filter(g => g.win).length;
     const finalRec = `${you.regWins + playoffWins}-${you.regLosses + 1}`;
-    el.innerHTML = head + `
-      <div class="pf-end eliminated">
-        <div class="pf-end-record">${finalRec}</div>
-        <div class="pf-end-title">ELIMINATED</div>
-        <div class="pf-end-sub">Knocked out in the ${lostAt}. Finished the season ${finalRec}.</div>
-        <div class="pf-end-alltime">This team ranks <span class="pct">${you.allTime}</span> all-time</div>
-        ${scoreLines()}
-      </div>
-      <div class="cta-row">
-        <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
-        <button class="cta-btn cta-share" onclick="resetGame()">Play Again</button>
-      </div>`;
+    const oneLiner = lostAt === 'National Championship' ? 'Lost in the Championship' : `Lost in the ${lostAt}`;
+    el.innerHTML = endCard(finalRec, oneLiner, 'out', 'elim');
     resetScroll();
     return;
   }
@@ -721,12 +718,6 @@ function renderPlayoff() {
       </div>`;
   }
   function nextLabel() { return res.win ? (r < 2 ? 'Advance →' : 'See Result') : 'See Result'; }
-  function scoreLines() {
-    const short = ['QF', 'SF', 'Title'];
-    return '<div class="pf-recap">' + pf.results.map((g, i) =>
-      `<div class="pf-recap-row ${g.win ? 'win' : 'loss'}"><span class="pf-recap-rd">${short[i]}</span><span class="pf-recap-opp">${pf.opponents[i].year} ${pf.opponents[i].school}</span><span class="pf-recap-score">${g.yourPts}–${g.oppPts}</span></div>`
-    ).join('') + '</div>';
-  }
 }
 
 function simulateRound() {

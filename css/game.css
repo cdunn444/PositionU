@@ -365,53 +365,54 @@
   /* ── RESULTS SCREEN ── */
   .results-screen { background: var(--bg); min-height: 100vh; }
 
-  /* Results header — OFF/DEF ratings only, centered (record saved for the end) */
-  .results-ratings {
+  /* Results header — 2-column: record (left) + result tag under it, OFF/DEF (right).
+     Shared by the post-draft results page and the playoff end card. */
+  .results-header-row {
     display: flex;
-    justify-content: center;
-    align-items: baseline;
-    gap: 48px;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
     background: var(--felt);
-    padding: 28px 16px;
+    padding: 22px 16px 18px;
   }
-  .rating-line {
-    display: flex;
-    align-items: baseline;
-    gap: 10px;
+  .results-record-col { text-align: left; min-width: 0; }
+  .record-num {
+    font-family: 'Alfa Slab One', serif;
+    font-size: 58px; color: var(--text);
+    letter-spacing: -3px; line-height: 0.9;
+    text-shadow: 4px 4px 0 rgba(0,0,0,0.5);
   }
+  .record-num.champ { color: var(--gold2); }
+  .record-num.elim  { color: var(--cream); }
+
+  .ratings-stack {
+    display: flex; flex-direction: column; align-items: flex-end;
+    gap: 8px; flex-shrink: 0;
+  }
+  .rating-line { display: flex; align-items: baseline; gap: 8px; }
   .rating-label {
     font-family: 'Oswald', sans-serif;
-    font-size: 18px; font-weight: 600;
-    letter-spacing: 2px; text-transform: uppercase;
-    color: var(--aged);
+    font-size: 15px; font-weight: 600;
+    letter-spacing: 2px; text-transform: uppercase; color: var(--aged);
   }
   .rating-val {
     font-family: 'Alfa Slab One', serif;
-    font-size: 54px; line-height: 1; letter-spacing: -2px;
-    text-shadow: 3px 3px 0 rgba(0,0,0,0.5);
+    font-size: 34px; line-height: 1; letter-spacing: -1px;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.4);
+    min-width: 48px; text-align: right;
   }
   .rating-line.offense .rating-val { color: var(--gold2); }
   .rating-line.defense .rating-val { color: var(--orange); }
 
-  /* Regular-season record + playoff qualification banner */
-  .playoff-status { text-align: center; background: var(--felt); padding: 2px 16px 18px; }
+  /* Result / qualification tag sitting directly under the record */
+  .playoff-status { text-align: left; margin-top: 7px; }
   .playoff-status:empty { display: none; }
-  .ps-record {
-    font-family: 'Alfa Slab One', serif; font-size: 44px; line-height: 1;
-    letter-spacing: -2px; text-shadow: 3px 3px 0 rgba(0,0,0,0.5);
-  }
-  .ps-record.in  { color: var(--gold2); }
-  .ps-record.out { color: var(--cream); }
   .ps-badge {
-    font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 700;
-    letter-spacing: 3px; text-transform: uppercase; margin-top: 6px;
+    font-family: 'Oswald', sans-serif; font-size: 13px; font-weight: 700;
+    letter-spacing: 2px; text-transform: uppercase; line-height: 1.2;
   }
   .ps-badge.in  { color: var(--gold2); }
   .ps-badge.out { color: var(--orange); }
-  .ps-sub {
-    font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 500;
-    letter-spacing: 1px; color: var(--aged); margin-top: 8px;
-  }
 
 
 

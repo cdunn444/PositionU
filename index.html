@@ -73,17 +73,22 @@
 <!-- RESULTS SCREEN -->
 <div id="resultsScreen" class="results-screen hidden">
 
-  <div class="results-ratings">
-    <div class="rating-line offense">
-      <span class="rating-label">OFF</span>
-      <span id="offScore" class="rating-val">–</span>
+  <div class="results-header-row">
+    <div class="results-record-col">
+      <div id="finalRecord" class="record-num">–</div>
+      <div id="playoffStatus" class="playoff-status"></div>
     </div>
-    <div class="rating-line defense">
-      <span class="rating-label">DEF</span>
-      <span id="defScore" class="rating-val">–</span>
+    <div class="ratings-stack">
+      <div class="rating-line offense">
+        <span class="rating-label">OFF</span>
+        <span id="offScore" class="rating-val">–</span>
+      </div>
+      <div class="rating-line defense">
+        <span class="rating-label">DEF</span>
+        <span id="defScore" class="rating-val">–</span>
+      </div>
     </div>
   </div>
-  <div id="playoffStatus" class="playoff-status"></div>
   <div id="resultRows" style="padding:10px 16px;display:flex;flex-direction:column;gap:5px;"></div>
   <div id="playoffCta" class="playoff-cta-row">
     <button class="cta-btn cta-playoffs" onclick="startPlayoffs()">Enter the Playoffs →</button>

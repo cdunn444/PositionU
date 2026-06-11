@@ -51,8 +51,9 @@ function pickOpponent(tier, exclude) {
   return pool[Math.floor(Math.random() * pool.length)];
 }
 
-// Standard-normal noise via Box-Muller — the touchdown-sized swing that lets a
-// favorite get upset and an underdog steal one.
+// Standard-normal noise via Box-Muller — a modest, ~field-goal-sized swing.
+// Kept small (SD 4) on purpose: the better team should usually win, with only the
+// occasional upset, rather than coin-flip chaos where a top team loses round one.
 function gaussNoise(sd) {
   let u = 0, v = 0;
   while (u === 0) u = Math.random();
@@ -89,7 +90,7 @@ function toQuarters(total) {
 // Returns integer scores, per-quarter splits, and the winner; ties broken by a
 // quality-weighted coin flip plus a field goal (a believable OT finish).
 function simGame(yourOff, yourDef, oppOff, oppDef) {
-  const BASE = 24, K = 0.8, SD = 7;
+  const BASE = 24, K = 1.0, SD = 4;
   const pts = (off, def) => Math.round(Math.max(3, Math.min(70, BASE + (off - def) * K + gaussNoise(SD))));
   let yourPts = pts(yourOff, oppDef);
   let oppPts  = pts(oppOff, yourDef);

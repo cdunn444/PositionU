@@ -33,15 +33,29 @@ const PLAYOFF_TEAMS = [
   { year: 2013, school: 'Florida State',  off: 93, def: 89, tier: 2, note: 'Jameis Winston, wire-to-wire' },
   { year: 2014, school: 'Ohio State',     off: 90, def: 88, tier: 2, note: 'Won the first-ever CFP' },
 
-  // ── Tier 3 — Champions (title game, ~91-97) ────────────────
-  { year: 2001, school: 'Miami',          off: 95, def: 96, tier: 3, note: 'Maybe the most talented roster ever' },
-  { year: 2019, school: 'LSU',            off: 97, def: 88, tier: 3, note: "Joe Burrow's record-shattering offense" },
+  // ── Tier 3 — Champions (title game) ────────────────────────
+  // The greatest national champions, 1971-2022. The title game always draws one of
+  // these legends at random, so a championship run spans 50 years of all-time teams.
+  { year: 1971, school: 'Nebraska',       off: 95, def: 93, tier: 3, note: "'Game of the Century' national champs" },
+  { year: 1972, school: 'USC',            off: 96, def: 91, tier: 3, note: 'Maybe the most complete team ever' },
+  { year: 1979, school: 'Alabama',        off: 92, def: 95, tier: 3, note: "Bear Bryant's wire-to-wire champs" },
+  { year: 1980, school: 'Georgia',        off: 93, def: 92, tier: 3, note: "Herschel Walker's title run" },
+  { year: 1983, school: 'Miami',          off: 93, def: 92, tier: 3, note: 'Birth of the Hurricanes dynasty' },
+  { year: 1985, school: 'Oklahoma',       off: 93, def: 95, tier: 3, note: 'Bosworth-led defensive juggernaut' },
+  { year: 1986, school: 'Penn State',     off: 90, def: 95, tier: 3, note: 'Upset Miami with a smothering D' },
+  { year: 1987, school: 'Miami',          off: 94, def: 93, tier: 3, note: 'Loaded, swaggering Canes' },
+  { year: 1991, school: 'Washington',     off: 94, def: 95, tier: 3, note: 'Unbeaten, dominant on both lines' },
+  { year: 1992, school: 'Alabama',        off: 91, def: 96, tier: 3, note: 'A historic, ball-hawking defense' },
   { year: 1995, school: 'Nebraska',       off: 96, def: 92, tier: 3, note: 'Unstoppable option machine' },
-  { year: 2018, school: 'Clemson',        off: 93, def: 95, tier: 3, note: 'Trevor Lawrence & a historic D-line' },
-  { year: 2020, school: 'Alabama',        off: 97, def: 89, tier: 3, note: 'DeVonta Smith, all the points' },
-  { year: 2022, school: 'Georgia',        off: 91, def: 95, tier: 3, note: 'Back-to-back, suffocating defense' },
+  { year: 1997, school: 'Michigan',       off: 91, def: 95, tier: 3, note: 'Charles Woodson & a shutdown D' },
+  { year: 1999, school: 'Florida State',  off: 95, def: 91, tier: 3, note: 'Wire-to-wire #1, Weinke & co.' },
+  { year: 2001, school: 'Miami',          off: 95, def: 96, tier: 3, note: 'Maybe the most talented roster ever' },
+  { year: 2004, school: 'USC',            off: 95, def: 91, tier: 3, note: 'Reggie Bush & Matt Leinart' },
   { year: 2005, school: 'Texas',          off: 96, def: 89, tier: 3, note: "Vince Young's Rose Bowl masterpiece" },
-  { year: 2004, school: 'USC',            off: 95, def: 91, tier: 3, note: 'Reggie Bush & Matt Leinart' }
+  { year: 2018, school: 'Clemson',        off: 93, def: 95, tier: 3, note: 'Trevor Lawrence & a historic D-line' },
+  { year: 2019, school: 'LSU',            off: 97, def: 88, tier: 3, note: "Joe Burrow's record-shattering offense" },
+  { year: 2020, school: 'Alabama',        off: 97, def: 89, tier: 3, note: 'DeVonta Smith, all the points' },
+  { year: 2022, school: 'Georgia',        off: 91, def: 95, tier: 3, note: 'Back-to-back, suffocating defense' }
 ];
 
 // Pick a random opponent of the given tier, excluding any already drawn.

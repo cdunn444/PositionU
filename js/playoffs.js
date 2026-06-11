@@ -75,27 +75,45 @@ function gaussNoise(sd) {
   return Math.sqrt(-2 * Math.log(u)) * Math.cos(2 * Math.PI * v) * sd;
 }
 
-// Break a final score into a believable sequence of scoring plays — mostly
-// touchdowns (7) and field goals (3), with a two-point TD (8) to cover the
-// awkward 8/11 totals and the odd safety. Sums exactly to n.
+// Snap a raw score to a real football total. The only values >=3 that can't be
+// reached with touchdowns (7) and field goals (3) are 4, 5, 8 and 11, so nudge
+// those to the nearest believable score. (Done before deciding the winner so the
+// displayed score and the result always agree.)
+function realisticScore(n) {
+  const snap = { 4: 3, 5: 6, 8: 7, 11: 10 };
+  return snap[n] != null ? snap[n] : n;
+}
+
+// Break a (real) final score into touchdowns and field goals — the fewest field
+// goals that work, so it reads like a normal box score (mostly TDs, a FG or two).
+// Every reachable total decomposes cleanly into 7s and 3s, so quarter sums are
+// always believable (never a 4-, 5-, 8- or 11-point quarter). Sums exactly to n.
 function decomposeScore(n) {
-  const out = [];
-  let r = Math.max(0, Math.round(n));
-  while (r > 0) {
-    if (r === 8 || r === 11) { out.push(8); r -= 8; }
-    else if (r === 1 || r === 2) { out.push(2); r = 0; }
-    else if (r === 4 || r === 5) { out.push(r); r = 0; }
-    else if (r >= 7 && Math.random() < 0.68) { out.push(7); r -= 7; }
-    else if (r >= 3) { out.push(3); r -= 3; }
-    else { out.push(r); r = 0; }
+  n = Math.max(0, Math.round(n));
+  for (let b = 0; b <= 6; b++) {
+    if (n - 3 * b >= 0 && (n - 3 * b) % 7 === 0) {
+      const a = (n - 3 * b) / 7;
+      return Array(a).fill(7).concat(Array(b).fill(3));
+    }
   }
+  // Fallback (only hit by un-snapped totals): field goals plus a remainder.
+  const out = []; let r = n;
+  while (r >= 3) { out.push(3); r -= 3; }
+  if (r > 0) out.push(r);
   return out;
 }
 
-// Scatter a team's scoring plays across four quarters. Sums to the total.
+// Spread a team's scoring plays across four quarters, always dropping the next
+// play into one of the least-busy quarters so scores don't pile into a single
+// freak quarter. Keeps scoreless quarters when there are only a play or two.
 function toQuarters(total) {
-  const q = [0, 0, 0, 0];
-  decomposeScore(total).forEach(pts => { q[Math.floor(Math.random() * 4)] += pts; });
+  const q = [0, 0, 0, 0], counts = [0, 0, 0, 0];
+  decomposeScore(total).forEach(pts => {
+    const min = Math.min(...counts);
+    const cands = [0, 1, 2, 3].filter(i => counts[i] === min);
+    const i = cands[Math.floor(Math.random() * cands.length)];
+    q[i] += pts; counts[i]++;
+  });
   return q;
 }
 
@@ -105,7 +123,7 @@ function toQuarters(total) {
 // quality-weighted coin flip plus a field goal (a believable OT finish).
 function simGame(yourOff, yourDef, oppOff, oppDef) {
   const BASE = 24, K = 1.0, SD = 4;
-  const pts = (off, def) => Math.round(Math.max(3, Math.min(70, BASE + (off - def) * K + gaussNoise(SD))));
+  const pts = (off, def) => realisticScore(Math.round(Math.max(3, Math.min(70, BASE + (off - def) * K + gaussNoise(SD)))));
   let yourPts = pts(yourOff, oppDef);
   let oppPts  = pts(oppOff, yourDef);
   if (yourPts === oppPts) {

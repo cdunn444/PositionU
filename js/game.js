@@ -535,7 +535,11 @@ function showResults() {
     if (p < 100 && bp[p + 1] > bp[p]) pctf = p + (total - bp[p]) / (bp[p + 1] - bp[p]);
     pctf = Math.min(100, Math.max(0, pctf));
     const rank = Math.max(1, Math.round((1 - pctf / 100) * FIELD));
-    rankEl.innerHTML = `Top <span class="pct">${rank.toLocaleString()}</span> All-Time`;
+    // Ordinal suffix: 1st, 2nd, 3rd, 4th… (11/12/13 are always "th").
+    const tens = rank % 100;
+    const ord = (tens >= 11 && tens <= 13) ? 'th'
+      : ({ 1: 'st', 2: 'nd', 3: 'rd' }[rank % 10] || 'th');
+    rankEl.innerHTML = `This team ranks <span class="pct">${rank.toLocaleString()}${ord}</span> all-time`;
   }
 
   let rowsHtml = '';

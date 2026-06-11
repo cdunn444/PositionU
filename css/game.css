@@ -574,8 +574,13 @@
   }
   .pf-sb-q.shown { opacity: 1; }
   .pf-sb-f { font-family: 'Alfa Slab One', serif; font-size: 21px; color: var(--text); text-align: center; }
-  .pf-sb-row.you .pf-sb-f { color: var(--gold2); }
-  .pf-sb-row.lead .pf-sb-team::after { content: ' ◄'; color: var(--gold2); font-size: 11px; }
+  .pf-sb-f.lead { color: var(--gold2); }
+  .pf-sb-win {
+    display: inline-block; margin-left: 8px; padding: 1px 7px;
+    background: var(--green); color: var(--text);
+    font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 700;
+    letter-spacing: 1px; vertical-align: middle;
+  }
 
   .pf-stamp-wrap { text-align: center; margin-top: 16px; }
   .pf-stamp {
@@ -598,7 +603,7 @@
   .pf-end-title { font-family: 'Alfa Slab One', serif; font-size: 26px; color: var(--gold2); letter-spacing: -0.5px; margin-top: 6px; text-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
   .pf-end.eliminated .pf-end-title { color: var(--orange); }
   .pf-end-sub { font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 500; letter-spacing: 1px; color: var(--cream); margin-top: 10px; }
-  .pf-end-alltime { font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: var(--aged); margin-top: 12px; }
+  .pf-end-alltime { font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: var(--aged); margin-top: 12px; text-align: left; padding: 0 16px; }
   .pf-end-alltime .pct { color: var(--gold2); font-family: 'Alfa Slab One', serif; font-size: 15px; letter-spacing: 0; margin: 0 4px; }
 
   .pf-recap { margin: 18px 0 6px; }

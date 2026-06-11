@@ -695,8 +695,7 @@ function renderPlayoff() {
   let middle;
   if ((pf.phase === 'playing' || pf.phase === 'result') && res) {
     middle = scoreboard() + (pf.phase === 'result'
-      ? `<div class="pf-stamp-wrap"><div class="pf-stamp ${res.win ? 'win' : 'loss'}">${res.win ? 'WIN' : 'LOSS'}</div></div>
-         <button class="cta-btn cta-playoffs pf-advance" onclick="advancePlayoff()">${nextLabel()}</button>`
+      ? `<button class="cta-btn cta-playoffs pf-advance" onclick="advancePlayoff()">${nextLabel()}</button>`
       : '');
   } else {
     middle = `<button class="cta-btn cta-playoffs pf-advance" onclick="simulateRound()">Simulate Game</button>`;
@@ -716,8 +715,14 @@ function renderPlayoff() {
     const status = rev === 0 ? 'KICKOFF' : rev >= 4 ? 'FINAL' : rev === 2 ? 'HALFTIME' : `END OF Q${rev}`;
     const cells = arr => [0, 1, 2, 3].map(q =>
       `<div class="pf-sb-q${q < rev ? ' shown' : ''}">${q < rev ? arr[q] : '·'}</div>`).join('');
-    const row = (cls, name, arr, f, lead) =>
-      `<div class="pf-sb-row ${cls}${lead ? ' lead' : ''}"><div class="pf-sb-team">${name}</div>${cells(arr)}<div class="pf-sb-f">${f}</div></div>`;
+    // `leads` = this row is ahead (or the winner at FINAL). The leader's total is
+    // gold (both cream otherwise); at FINAL the winner's row gets the WIN badge.
+    const win = pf.phase === 'result';
+    const row = (cls, name, arr, f, leads) =>
+      `<div class="pf-sb-row ${cls}">` +
+        `<div class="pf-sb-team">${name}${win && leads ? '<span class="pf-sb-win">WIN</span>' : ''}</div>` +
+        `${cells(arr)}<div class="pf-sb-f${leads ? ' lead' : ''}">${f}</div>` +
+      `</div>`;
     return `
       <div class="pf-sb-status">${status}</div>
       <div class="pf-scoreboard">

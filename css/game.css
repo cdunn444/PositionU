@@ -88,7 +88,9 @@
     display: flex;
     flex-direction: column;
     gap: 14px;
-    min-height: 100vh;
+    /* Fill exactly the space under the 52px header so the spin page never scrolls. */
+    min-height: calc(100vh - 52px);
+    min-height: calc(100dvh - 52px);
   }
   .spin-target {
     font-family: 'Oswald', sans-serif;

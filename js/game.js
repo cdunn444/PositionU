@@ -552,12 +552,17 @@ function showResults() {
   document.getElementById('finalRecord').textContent = `${regWins}-${regLosses}`;
   const statusEl = document.getElementById('playoffStatus');
   const ctaEl = document.getElementById('playoffCta');
+  const tryAgain = document.getElementById('tryAgainBtn');
   if (qualified) {
+    // Made it: Enter-the-Playoffs is the gold primary, Try Again stays secondary.
     statusEl.innerHTML = `<div class="ps-badge in">Playoff Bound</div>`;
     if (ctaEl) ctaEl.style.display = '';
+    if (tryAgain) tryAgain.className = 'cta-btn cta-share';
   } else {
+    // Missed: season's over, so Try Again becomes the gold primary action.
     statusEl.innerHTML = `<div class="ps-badge out">Missed the Playoff</div>`;
     if (ctaEl) ctaEl.style.display = 'none';
+    if (tryAgain) tryAgain.className = 'cta-btn cta-playoffs';
   }
 
   document.getElementById('resultRows').innerHTML = buildRosterRows();

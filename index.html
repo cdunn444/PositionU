@@ -73,29 +73,22 @@
 <!-- RESULTS SCREEN -->
 <div id="resultsScreen" class="results-screen hidden">
 
-  <div class="results-header-row">
-    <div class="results-record">
-      <div id="finalRecord" class="record-num">–</div>
+  <div class="results-ratings">
+    <div class="rating-line offense">
+      <span class="rating-label">OFF</span>
+      <span id="offScore" class="rating-val">–</span>
     </div>
-    <div class="ratings-stack">
-      <div class="rating-line offense">
-        <span class="rating-label">OFF</span>
-        <span id="offScore" class="rating-val">–</span>
-      </div>
-      <div class="rating-line defense">
-        <span class="rating-label">DEF</span>
-        <span id="defScore" class="rating-val">–</span>
-      </div>
+    <div class="rating-line defense">
+      <span class="rating-label">DEF</span>
+      <span id="defScore" class="rating-val">–</span>
     </div>
   </div>
-  <div id="allTimeRank" class="alltime-rank"></div>
   <div id="resultRows" style="padding:10px 16px;display:flex;flex-direction:column;gap:5px;"></div>
   <div class="playoff-cta-row">
     <button class="cta-btn cta-playoffs" onclick="startPlayoffs()">Enter the Playoffs →</button>
   </div>
   <div class="cta-row">
-    <button class="cta-btn cta-share" onclick="alert('Share coming soon!')">Share</button>
-    <button class="cta-btn cta-share" onclick="resetGame()">Play Again</button>
+    <button class="cta-btn cta-share" onclick="resetGame()">Try Again</button>
   </div>
 </div>
 

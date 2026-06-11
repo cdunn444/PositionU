@@ -365,61 +365,33 @@
   /* ── RESULTS SCREEN ── */
   .results-screen { background: var(--bg); min-height: 100vh; }
 
-  /* Results header — 2-column: record left, OFF/DEF ratings right */
-  .results-header-row {
+  /* Results header — OFF/DEF ratings only, centered (record saved for the end) */
+  .results-ratings {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
+    justify-content: center;
+    align-items: baseline;
+    gap: 48px;
     background: var(--felt);
-    padding: 20px 16px 16px;
-  }
-  .results-record {
-    background: transparent;
-    text-align: left;
-    padding: 0;
-  }
-  .results-record::before { display: none; }
-  .results-record::after  { display: none; }
-
-  .record-num {
-    font-family: 'Alfa Slab One', serif;
-    font-size: 64px; color: var(--text);
-    letter-spacing: -3px; line-height: 0.9;
-    text-shadow: 4px 4px 0 rgba(0,0,0,0.5);
-  }
-
-  /* OFF/DEF inline ratings, stacked & right-aligned */
-  .ratings-stack {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 6px;
+    padding: 28px 16px;
   }
   .rating-line {
     display: flex;
     align-items: baseline;
-    gap: 8px;
+    gap: 10px;
   }
   .rating-label {
     font-family: 'Oswald', sans-serif;
-    font-size: 16px; font-weight: 600;
+    font-size: 18px; font-weight: 600;
     letter-spacing: 2px; text-transform: uppercase;
     color: var(--aged);
   }
   .rating-val {
     font-family: 'Alfa Slab One', serif;
-    font-size: 34px; line-height: 1; letter-spacing: -1px;
-    text-shadow: 2px 2px 0 rgba(0,0,0,0.4);
-    min-width: 56px; text-align: right;
+    font-size: 54px; line-height: 1; letter-spacing: -2px;
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.5);
   }
   .rating-line.offense .rating-val { color: var(--gold2); }
   .rating-line.defense .rating-val { color: var(--orange); }
-  .record-label {
-    font-family: 'Oswald', sans-serif;
-    font-size: 11px; font-weight: 600; letter-spacing: 5px;
-    text-transform: uppercase; color: var(--aged); margin-top: 8px;
-  }
 
 
 
@@ -590,11 +562,19 @@
   .pf-stamp.loss { background: var(--orange); border-color: var(--orange); color: var(--bg); }
   .pf-advance { width: 100%; margin-top: 16px; height: 50px; }
 
-  .pf-end { text-align: center; padding: 30px 16px 10px; }
-  .pf-trophy { font-size: 66px; line-height: 1; }
-  .pf-end-title { font-family: 'Alfa Slab One', serif; font-size: 30px; color: var(--gold2); letter-spacing: -0.5px; margin-top: 10px; text-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
+  .pf-end { text-align: center; padding: 26px 16px 10px; }
+  .pf-trophy { font-size: 60px; line-height: 1; margin-bottom: 6px; }
+  .pf-end-record {
+    font-family: 'Alfa Slab One', serif; font-size: 60px; line-height: 0.95;
+    letter-spacing: -3px; color: var(--text); text-shadow: 4px 4px 0 rgba(0,0,0,0.5);
+  }
+  .pf-end.champion   .pf-end-record { color: var(--gold2); }
+  .pf-end.eliminated .pf-end-record { color: var(--cream); }
+  .pf-end-title { font-family: 'Alfa Slab One', serif; font-size: 26px; color: var(--gold2); letter-spacing: -0.5px; margin-top: 6px; text-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
   .pf-end.eliminated .pf-end-title { color: var(--orange); }
   .pf-end-sub { font-family: 'Oswald', sans-serif; font-size: 12px; font-weight: 500; letter-spacing: 1px; color: var(--cream); margin-top: 10px; }
+  .pf-end-alltime { font-family: 'Oswald', sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: var(--aged); margin-top: 12px; }
+  .pf-end-alltime .pct { color: var(--gold2); font-family: 'Alfa Slab One', serif; font-size: 15px; letter-spacing: 0; margin: 0 4px; }
 
   .pf-recap { margin: 18px 0 6px; }
   .pf-recap-row { display: flex; align-items: center; background: var(--surface); border: 2px solid var(--rule2); padding: 9px 12px; margin-bottom: 5px; }

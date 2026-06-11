@@ -501,17 +501,9 @@ function showResults() {
     defTotal += s; total += s;
   });
 
-  const roomScores = {};
-  ALL_SLOTS.forEach(pos => { roomScores[pos] = state.picks[pos]?.roomScore || 0; });
-  const result = mapScore(total, offTotal, defTotal, roomScores);
-  document.getElementById('finalRecord').textContent = result.record;
-  const gradeEl = document.getElementById('gradeDisplay');
-  if (gradeEl) gradeEl.textContent = result.grade;
-  // Madden-style ratings — recalibrated 2026-06-11, coupled to the record.
-  // The knee sits at the 15-0 thresholds (offense raw 244, defense 146) and reads
-  // 95, so an undefeated team presents as ~95/95. The dream team (best room at
-  // every slot) reads 100; 99 needs a near-dream unit; a typical team ~78-82.
-  // Going 15-0 therefore requires an elite team on BOTH sides, not one stacked side.
+  // Madden-style ratings — the knee sits at the (former 15-0) thresholds
+  // (offense raw 244, defense 146) and reads 95, so an elite team presents as
+  // ~95/95. The dream team reads 100; a typical team ~78-82.
   const maddenRating = (raw, lo, knee, kneeR, max) => {
     const v = raw <= knee
       ? 55 + (raw - lo) / (knee - lo) * (kneeR - 55)
@@ -523,27 +515,33 @@ function showResults() {
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 
-  // Stash the finished team so Playoff mode can field it.
-  state.team = { offRating, defRating, offTotal, defTotal, total, record: result.record };
+  // Regular-season record (12 games). The team's strength sets where you sit in
+  // the tier table; the 3 playoff games fill out the rest of the season. Tier 0
+  // (elite) = 12-0 down to the bottom tier = 1-11. Going on to win all three
+  // playoff games turns a 12-0 regular season into a 15-0 national title.
+  let tierIdx = RULES.recordTiers.findIndex(t => total >= t.min && offTotal >= t.offMin && defTotal >= t.defMin);
+  if (tierIdx < 0) tierIdx = RULES.recordTiers.length - 1;
+  const regWins = 12 - tierIdx;
+  const regLosses = tierIdx;
 
-  // All-time rank: locate the team total in the percentile curve (interpolated)
-  // and render as an ordinal out of a 10,000-team all-time field (e.g. "Top 167").
+  // All-time rank (saved for the end screen): locate the total in the percentile
+  // curve and turn it into an ordinal out of a 10,000-team field (e.g. "167th").
   const bp = RULES.allTimeTotals;
-  const rankEl = document.getElementById('allTimeRank');
-  if (bp && rankEl) {
-    const FIELD = 10000;
+  let allTime = '';
+  if (bp) {
     let p = 0;
     while (p < 100 && bp[p + 1] !== undefined && bp[p + 1] <= total) p++;
     let pctf = p;
     if (p < 100 && bp[p + 1] > bp[p]) pctf = p + (total - bp[p]) / (bp[p + 1] - bp[p]);
     pctf = Math.min(100, Math.max(0, pctf));
-    const rank = Math.max(1, Math.round((1 - pctf / 100) * FIELD));
-    // Ordinal suffix: 1st, 2nd, 3rd, 4th… (11/12/13 are always "th").
+    const rank = Math.max(1, Math.round((1 - pctf / 100) * 10000));
     const tens = rank % 100;
-    const ord = (tens >= 11 && tens <= 13) ? 'th'
-      : ({ 1: 'st', 2: 'nd', 3: 'rd' }[rank % 10] || 'th');
-    rankEl.innerHTML = `This team ranks <span class="pct">${rank.toLocaleString()}${ord}</span> all-time`;
+    const ord = (tens >= 11 && tens <= 13) ? 'th' : ({ 1: 'st', 2: 'nd', 3: 'rd' }[rank % 10] || 'th');
+    allTime = `${rank.toLocaleString()}${ord}`;
   }
+
+  // Stash the finished team so Playoff mode can field it and tally the record.
+  state.team = { offRating, defRating, offTotal, defTotal, total, regWins, regLosses, allTime };
 
   let rowsHtml = '';
   // Show surnames on the results card. Team-unit OL entries ("1996 Syracuse OL")
@@ -611,11 +609,14 @@ function renderPlayoff() {
 
   // Terminal states: champion or eliminated.
   if (pf.done === 'champion') {
+    const finalRec = `${you.regWins + 3}-${you.regLosses}`;
     el.innerHTML = head + `
       <div class="pf-end champion">
         <div class="pf-trophy">🏆</div>
+        <div class="pf-end-record">${finalRec}</div>
         <div class="pf-end-title">NATIONAL CHAMPIONS</div>
-        <div class="pf-end-sub">You ran the table — ${you.offRating}/${you.defRating} and a title to match.</div>
+        <div class="pf-end-sub">${finalRec === '15-0' ? 'A perfect 15-0. The undisputed greatest.' : 'You won it all — a title to cap the season.'}</div>
+        <div class="pf-end-alltime">This team ranks <span class="pct">${you.allTime}</span> all-time</div>
         ${scoreLines()}
       </div>
       <div class="cta-row">
@@ -627,10 +628,14 @@ function renderPlayoff() {
   }
   if (pf.done === 'eliminated') {
     const lostAt = PLAYOFF_ROUNDS[pf.results.length - 1];
+    const playoffWins = pf.results.filter(g => g.win).length;
+    const finalRec = `${you.regWins + playoffWins}-${you.regLosses + 1}`;
     el.innerHTML = head + `
       <div class="pf-end eliminated">
+        <div class="pf-end-record">${finalRec}</div>
         <div class="pf-end-title">ELIMINATED</div>
-        <div class="pf-end-sub">Knocked out in the ${lostAt}. Reload and draft a deeper roster.</div>
+        <div class="pf-end-sub">Knocked out in the ${lostAt}. Finished the season ${finalRec}.</div>
+        <div class="pf-end-alltime">This team ranks <span class="pct">${you.allTime}</span> all-time</div>
         ${scoreLines()}
       </div>
       <div class="cta-row">
@@ -655,7 +660,7 @@ function renderPlayoff() {
   const youCard = `
     <div class="pf-team you">
       <div class="pf-team-name">Your Team</div>
-      <div class="pf-team-note">${you.record} · ${PLAYOFF_ROUNDS[r] === 'National Championship' ? 'one win from a title' : 'fighting to advance'}</div>
+      <div class="pf-team-note">${you.regWins + r}-${you.regLosses} · ${PLAYOFF_ROUNDS[r] === 'National Championship' ? 'one win from a title' : 'fighting to advance'}</div>
       <div class="pf-team-ratings"><span class="pf-rt off">OFF ${you.offRating}</span><span class="pf-rt def">DEF ${you.defRating}</span></div>
     </div>`;
 

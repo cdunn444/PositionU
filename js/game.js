@@ -563,6 +563,18 @@ function showResults() {
   document.getElementById('resultRows').innerHTML = buildRosterRows();
 }
 
+// A calling-card subhead for the player's team, mirroring the opponents' notes —
+// derived from the team's offense/defense profile.
+function teamSubhead(off, def) {
+  if (off >= 93 && def >= 93) return 'Elite on both sides of the ball';
+  if (off - def >= 6) return 'An explosive, high-octane offense';
+  if (def - off >= 6) return 'Anchored by a smothering defense';
+  if (off >= 88 && def >= 88) return 'A balanced, complete contender';
+  if (off >= 88) return 'Powered by a potent offense';
+  if (def >= 88) return 'Built on a stingy defense';
+  return 'A gritty bunch of all-stars';
+}
+
 // Build the 8-room roster card (shared by the results page and the playoff end
 // card). Surnames only; team-unit OL entries keep their leading year.
 function buildRosterRows() {
@@ -624,7 +636,6 @@ function renderPlayoff() {
   const pf = state.playoff;
   const el = document.getElementById('playoffScreen');
   const you = state.team;
-  const head = `<div class="pf-header"><div class="pf-title">COLLEGE FOOTBALL PLAYOFF</div></div>`;
 
   // Terminal states: one shareable results card — final record + a single result
   // one-liner under it, OFF/DEF, all-time rank, and the full roster.
@@ -677,7 +688,7 @@ function renderPlayoff() {
   const youCard = `
     <div class="pf-team you">
       <div class="pf-team-name">Your Team</div>
-      <div class="pf-team-note">${you.regWins + r}-${you.regLosses} · ${PLAYOFF_ROUNDS[r] === 'National Championship' ? 'one win from a title' : 'fighting to advance'}</div>
+      <div class="pf-team-note">${teamSubhead(you.offRating, you.defRating)}</div>
       <div class="pf-team-ratings"><span class="pf-rt off">OFF ${you.offRating}</span><span class="pf-rt def">DEF ${you.defRating}</span></div>
     </div>`;
 
@@ -691,11 +702,9 @@ function renderPlayoff() {
     middle = `<button class="cta-btn cta-playoffs pf-advance" onclick="simulateRound()">Simulate Game</button>`;
   }
 
-  el.innerHTML = head + `
+  el.innerHTML = `
     <div class="pf-round-label">${PLAYOFF_ROUNDS[r]}</div>
-    ${youCard}
-    <div class="pf-vs">VS</div>
-    ${oppCard}
+    <div class="pf-matchup">${youCard}<div class="pf-vs">VS</div>${oppCard}</div>
     <div class="pf-middle">${middle}</div>`;
   if (pf.phase === 'matchup') resetScroll();
 

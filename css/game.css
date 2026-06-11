@@ -87,6 +87,7 @@
     padding: 18px 16px 90px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 14px;
     /* Fill exactly the space under the 52px header so the spin page never scrolls. */
     min-height: calc(100vh - 52px);

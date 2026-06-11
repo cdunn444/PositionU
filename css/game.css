@@ -362,8 +362,7 @@
   .results-record {
     background: var(--felt);
     text-align: center;
-    padding: 24px 16px 0;
-    border-bottom: 3px solid var(--gold);
+    padding: 24px 16px 16px;
   }
   .results-record::before { display: none; }
   .results-record::after  { display: none; }

@@ -86,17 +86,17 @@
             }
           },
           {
-            "name": "Frank Hernandez",
+            "name": "Masi Toluao",
             "games": 11,
             "stats": {
-              "rushYds": 260,
-              "rushTDs": 2,
-              "ypc": 4.0,
-              "recYds": 180
+              "rushYds": 420,
+              "rushTDs": 4,
+              "ypc": 4.2,
+              "recYds": 90
             },
             "bonuses": {
               "collegeDominance": "good",
-              "note": "Primarily WR; used on sweeps/screens. Adjacent-position fill for thin 80s backfield depth."
+              "note": "Real K-State fullback/running back; part of the 1982 Independence Bowl team's Samoan backfield, leading rusher in that bowl game."
             }
           }
         ]
@@ -135,18 +135,17 @@
             }
           },
           {
-            "name": "Tony Jordan",
+            "name": "Mike Wallace",
             "games": 11,
             "stats": {
-              "rec": 23,
-              "recYds": 196,
-              "recTDs": 1,
-              "yac": 80
+              "rec": 30,
+              "recYds": 420,
+              "recTDs": 3,
+              "yac": 140
             },
             "bonuses": {
-              "nflDraftPick": 132,
               "collegeDominance": "good",
-              "note": "RB who was a receiving threat (38 career receptions); adjacent fill for thin 80s WR room."
+              "note": "Real K-State wide receiver on the 1982 Independence Bowl team; pass-catching target for QB Darrell Dickey."
             }
           }
         ]

@@ -930,22 +930,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Keith Jackson",
-            "games": 12,
-            "stats": {
-              "rec": 42,
-              "recYds": 632,
-              "recTDs": 6,
-              "yac": 200
-            },
-            "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 13,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Derrick Shepard",
             "games": 11,
             "stats": {
@@ -971,6 +955,20 @@
             "bonuses": {
               "nflDraftPick": 165,
               "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Buster Rhymes",
+            "games": 11,
+            "stats": {
+              "rec": 25,
+              "recYds": 520,
+              "recTDs": 3,
+              "yac": 200
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
               "collegeDominance": "elite"
             }
           }

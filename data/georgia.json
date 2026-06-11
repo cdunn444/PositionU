@@ -523,20 +523,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Clarence Kay",
-            "games": 12,
-            "stats": {
-              "rec": 30,
-              "recYds": 445,
-              "recTDs": 4,
-              "yac": 140
-            },
-            "bonuses": {
-              "nflDraftPick": 155,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Herman Archie",
             "games": 11,
             "stats": {
@@ -561,6 +547,20 @@
             },
             "bonuses": {
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Lindsay Scott",
+            "games": 11,
+            "stats": {
+              "rec": 42,
+              "recYds": 681,
+              "recTDs": 3,
+              "yac": 240
+            },
+            "bonuses": {
+              "nflDraftPick": 13,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -953,20 +953,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Randall Godfrey",
-            "games": 12,
-            "stats": {
-              "rec": 22,
-              "recYds": 265,
-              "recTDs": 3,
-              "yac": 85
-            },
-            "bonuses": {
-              "nflDraftPick": 52,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Bob Hoppe",
             "games": 11,
             "stats": {
@@ -991,6 +977,19 @@
             },
             "bonuses": {
               "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Larry Brown",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 420,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
               "collegeDominance": "veryGood"
             }
           }

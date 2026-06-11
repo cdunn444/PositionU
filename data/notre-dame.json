@@ -114,23 +114,6 @@
         "pos": "WR",
         "players": [
           {
-            "name": "Ken MacAfee",
-            "games": 11,
-            "stats": {
-              "rec": 54,
-              "recYds": 797,
-              "recTDs": 8,
-              "yac": 252
-            },
-            "bonuses": {
-              "consensusAllAmerican": true,
-              "otherNamedCollegeAward": true,
-              "nflDraftPick": 7,
-              "nationalChampionship": true,
-              "collegeDominance": "eraDef"
-            }
-          },
-          {
             "name": "Kris Haines",
             "games": 11,
             "stats": {
@@ -157,6 +140,21 @@
               "nflDraftPick": 145,
               "nationalChampionship": true,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tom Gatewood",
+            "games": 11,
+            "stats": {
+              "rec": 77,
+              "recYds": 1123,
+              "recTDs": 8,
+              "yac": 330
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -549,19 +547,17 @@
             }
           },
           {
-            "name": "Tyler Eifert",
+            "name": "Chase Claypool",
             "games": 13,
             "stats": {
-              "rec": 63,
-              "recYds": 714,
-              "recTDs": 6,
-              "yac": 225
+              "rec": 66,
+              "recYds": 1037,
+              "recTDs": 13,
+              "yac": 360
             },
             "bonuses": {
-              "mackey": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 21,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 49,
+              "collegeDominance": "elite"
             }
           }
         ]

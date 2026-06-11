@@ -914,20 +914,6 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Steve Gregory",
-            "games": 12,
-            "stats": {
-              "rec": 16,
-              "recYds": 192,
-              "recTDs": 2,
-              "yac": 60
-            },
-            "bonuses": {
-              "nflDraftPick": 185,
-              "collegeDominance": "elite"
-            }
-          },
-          {
             "name": "Allen Johnson",
             "games": 12,
             "stats": {
@@ -953,6 +939,20 @@
             "bonuses": {
               "nflDraftPick": 215,
               "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Nick Provo",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 450,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "career began 2008; Syracuse TE single-season/career reception record"
             }
           }
         ]

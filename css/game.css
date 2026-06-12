@@ -253,7 +253,7 @@
   .dock-label.filled-label { color: var(--aged); }
 
   /* ── ROOM SCREEN ── */
-  .room-screen { background: var(--bg); min-height: 100vh; padding-bottom: 160px; }
+  .room-screen { background: var(--bg); min-height: 100vh; padding-bottom: calc(170px + env(safe-area-inset-bottom, 0px)); }
 
   .result-header {
     display: flex;
@@ -347,7 +347,7 @@
 
   /* ── CONFIRM BAR ── */
   .confirm-bar {
-    position: fixed; bottom: 68px; left: 50%; transform: translateX(-50%);
+    position: fixed; bottom: calc(74px + env(safe-area-inset-bottom, 0px)); left: 50%; transform: translateX(-50%);
     width: 430px; padding: 10px 16px 12px;
     background: linear-gradient(transparent, var(--bg) 40%);
     z-index: 50;

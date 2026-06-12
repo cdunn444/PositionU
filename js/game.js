@@ -446,7 +446,7 @@ function selectCard(pos) {
 function confirmPick() {
   document.getElementById('spinIntro').style.display = 'none';
   const pos = state.selectedPos;
-  if (!pos || !state.currentSchoolEra) return;
+  if (!pos || !state.currentSchoolEra || state.locking) return;
 
   const key = state.currentSchoolEra;
   const data = GAME_DATA[key];
@@ -469,9 +469,10 @@ function confirmPick() {
     state.locking = false;
     state.round++;
     state.currentSchoolEra = null;
+    renderDock(); // settle the solid flash to the normal pick tint before moving on
     if (Object.keys(state.picks).length === 8) showResults();
     else showSpinScreen();
-  }, 420);
+  }, 520);
 }
 
 // ──────────────────────────────────────────────────────────────

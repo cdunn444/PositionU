@@ -41,6 +41,7 @@
     margin: 0 auto;
     min-height: 100vh;
     overflow-x: hidden;
+    overscroll-behavior: none; /* no rubber-band / pull-to-refresh bounce */
   }
 
   /* ── HEADER ── */
@@ -84,14 +85,15 @@
   /* ── SPIN SCREEN ── */
   .spin-screen {
     background: var(--bg);
-    padding: 18px 16px 90px;
+    padding: 16px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 14px;
-    /* Fill exactly the space under the 52px header so the spin page never scrolls. */
-    min-height: calc(100vh - 52px);
-    min-height: calc(100dvh - 52px);
+    /* Fit exactly the play area between the 52px header and the ~74px dock (plus the
+       phone's bottom safe-area), so the content centers there and the page never scrolls. */
+    min-height: calc(100vh - 126px);
+    min-height: calc(100dvh - 126px - env(safe-area-inset-bottom, 0px));
   }
   .spin-target {
     font-family: 'Oswald', sans-serif;
@@ -217,7 +219,7 @@
   .dock {
     background: var(--felt);
     border-top: 2px solid var(--gold);
-    padding: 10px 16px 16px;
+    padding: 10px 16px calc(16px + env(safe-area-inset-bottom, 0px));
     display: flex;
     align-items: flex-start;
     justify-content: center;

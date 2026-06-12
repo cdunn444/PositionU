@@ -255,7 +255,7 @@
   /* Armed slot — the room you picked lights up here; tap it to lock the room in */
   .dock-slot.armed { cursor: pointer; }
   .dock-slot.armed .dock-circle {
-    border-color: var(--gold2); background: var(--gold2); color: var(--bg);
+    border-color: var(--gold2); color: var(--gold2);
     animation: dock-armed 0.9s ease-in-out infinite;
   }
   .dock-slot.armed .dock-label { color: var(--gold2); }

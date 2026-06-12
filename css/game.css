@@ -259,6 +259,9 @@
     animation: dock-armed 0.9s ease-in-out infinite;
   }
   .dock-slot.armed .dock-label { color: var(--gold2); }
+  /* Defense slots glow orange to match their side */
+  .dock-slot.armed.def-slot .dock-circle { border-color: var(--orange); color: var(--orange); }
+  .dock-slot.armed.def-slot .dock-label  { color: var(--orange); }
   @keyframes dock-armed { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.12); } }
 
   /* Selected — the slot fills in (its picked color) and pops as it lands */

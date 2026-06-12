@@ -118,7 +118,7 @@ function renderDock() {
   const build = (pos, filledClass) => {
     const pick = state.picks[pos];
     const slot = document.createElement('div');
-    slot.className = 'dock-slot';
+    slot.className = 'dock-slot' + (filledClass === 'defense-filled' ? ' def-slot' : '');
     slot.dataset.pos = pos;
     const circle = document.createElement('div');
     circle.className = 'dock-circle' + (pick ? ' ' + filledClass : '') + (pick && pos === state.lastPicked ? ' just-filled' : '');

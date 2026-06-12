@@ -91,10 +91,10 @@
     flex-direction: column;
     justify-content: center;
     gap: 14px;
-    /* Fit exactly the play area between the 52px header and the ~74px dock (plus the
+    /* Fit exactly the play area between the 52px header and the ~82px dock (plus the
        phone's bottom safe-area), so the content centers there and the page never scrolls. */
-    min-height: calc(100vh - 126px);
-    min-height: calc(100dvh - 126px - env(safe-area-inset-bottom, 0px));
+    min-height: calc(100vh - 134px);
+    min-height: calc(100dvh - 134px - env(safe-area-inset-bottom, 0px));
   }
   .spin-target {
     font-family: 'Oswald', sans-serif;
@@ -234,23 +234,23 @@
     box-shadow: 0 -3px 0 var(--gold-worn);
   }
   .dock-sections { display: flex; align-items: flex-start; }
-  .dock-group    { display: flex; gap: 4px; }
-  .dock-divider  { width: 2px; background: var(--rule2); margin: 0 8px; align-self: stretch; min-height: 44px; }
+  .dock-group    { display: flex; gap: 2px; }
+  .dock-divider  { width: 2px; background: var(--rule2); margin: 0 6px; align-self: stretch; min-height: 44px; }
 
-  .dock-slot   { display: flex; flex-direction: column; align-items: center; gap: 3px; flex-shrink: 0; padding: 0 3px; }
+  .dock-slot   { display: flex; flex-direction: column; align-items: center; gap: 3px; flex-shrink: 0; padding: 0 1px; }
   .dock-circle {
-    width: 34px; height: 34px;
+    width: 41px; height: 41px;
     border: 2px solid var(--rule2);
     display: flex; align-items: center; justify-content: center;
     font-family: 'Oswald', sans-serif;
-    font-size: 9px; font-weight: 700;
+    font-size: 11px; font-weight: 700;
     color: var(--dim);
     text-transform: uppercase;
     background: var(--surface);
   }
   .dock-circle.offense-filled { border-color: var(--gold2);  background: var(--gold2);  color: var(--bg); }
   .dock-circle.defense-filled { border-color: var(--orange); background: var(--orange); color: var(--bg); }
-  .dock-label { font-family: 'Oswald', sans-serif; font-size: 8px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: var(--dim); }
+  .dock-label { font-family: 'Oswald', sans-serif; font-size: 9px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: var(--dim); }
   .dock-label.filled-label { color: var(--aged); }
 
   /* Armed slot — the room you picked lights up here; tap it to lock the room in */

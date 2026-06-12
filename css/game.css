@@ -261,6 +261,10 @@
   .dock-slot.armed .dock-label { color: var(--gold2); }
   @keyframes dock-armed { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.12); } }
 
+  /* Selected — the slot fills in (its picked color) and pops as it lands */
+  .dock-circle.just-filled { animation: dock-fill 0.42s ease-out; }
+  @keyframes dock-fill { 0% { transform: scale(0.8); } 55% { transform: scale(1.15); } 100% { transform: scale(1); } }
+
   /* ── ROOM SCREEN ── */
   .room-screen { background: var(--bg); min-height: 100vh; padding-bottom: calc(170px + env(safe-area-inset-bottom, 0px)); }
 

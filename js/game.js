@@ -121,7 +121,7 @@ function renderDock() {
     slot.className = 'dock-slot';
     slot.dataset.pos = pos;
     const circle = document.createElement('div');
-    circle.className = 'dock-circle' + (pick ? ' ' + filledClass : '');
+    circle.className = 'dock-circle' + (pick ? ' ' + filledClass : '') + (pick && pos === state.lastPicked ? ' just-filled' : '');
     circle.textContent = pick ? abbrev(pick.room.school) : pos;
     const label = document.createElement('div');
     label.className = 'dock-label' + (pick ? ' filled-label' : '');
@@ -425,6 +425,7 @@ function renderAllCards(data, available, alreadyFilled) {
 }
 
 function selectCard(pos) {
+  if (state.locking) return;
   state.selectedPos = pos;
 
   // Update card selection state
@@ -454,18 +455,23 @@ function confirmPick() {
 
   const scored = scoreRoom(room);
   state.picks[pos] = { room, roomScore: scored.roomScore, playerScores: scored.playerScores };
-  state.round++;
-  state.currentSchoolEra = null;
   state.selectedPos = null;
+  state.locking = true;
 
+  // Land the pick: the dock slot fills in (selected state) with a pop, then we
+  // move on so the outline -> filled transition is actually visible.
+  state.lastPicked = pos;
   renderDock();
+  state.lastPicked = null;
   updateHeader();
 
-  if (Object.keys(state.picks).length === 8) {
-    showResults();
-  } else {
-    showSpinScreen();
-  }
+  setTimeout(() => {
+    state.locking = false;
+    state.round++;
+    state.currentSchoolEra = null;
+    if (Object.keys(state.picks).length === 8) showResults();
+    else showSpinScreen();
+  }, 420);
 }
 
 // ──────────────────────────────────────────────────────────────

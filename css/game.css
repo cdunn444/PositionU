@@ -252,6 +252,15 @@
   .dock-label { font-family: 'Oswald', sans-serif; font-size: 8px; font-weight: 600; letter-spacing: 1px; text-transform: uppercase; color: var(--dim); }
   .dock-label.filled-label { color: var(--aged); }
 
+  /* Armed slot — the room you picked lights up here; tap it to lock the room in */
+  .dock-slot.armed { cursor: pointer; }
+  .dock-slot.armed .dock-circle {
+    border-color: var(--gold2); background: var(--gold2); color: var(--bg);
+    animation: dock-armed 0.9s ease-in-out infinite;
+  }
+  .dock-slot.armed .dock-label { color: var(--gold2); }
+  @keyframes dock-armed { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.12); } }
+
   /* ── ROOM SCREEN ── */
   .room-screen { background: var(--bg); min-height: 100vh; padding-bottom: calc(170px + env(safe-area-inset-bottom, 0px)); }
 

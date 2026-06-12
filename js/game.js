@@ -112,33 +112,31 @@ function renderDock() {
   off.innerHTML = '';
   def.innerHTML = '';
 
-  OFFENSE_SLOTS.forEach(pos => {
+  // On the room screen, the slot matching the selected room lights up and becomes
+  // the tap-target that locks the room in (replacing the old confirm button).
+  const inRoom = state.phase === 'room';
+  const build = (pos, filledClass) => {
     const pick = state.picks[pos];
     const slot = document.createElement('div');
     slot.className = 'dock-slot';
+    slot.dataset.pos = pos;
     const circle = document.createElement('div');
-    circle.className = 'dock-circle' + (pick ? ' offense-filled' : '');
+    circle.className = 'dock-circle' + (pick ? ' ' + filledClass : '');
     circle.textContent = pick ? abbrev(pick.room.school) : pos;
     const label = document.createElement('div');
     label.className = 'dock-label' + (pick ? ' filled-label' : '');
     label.textContent = pos;
-    slot.appendChild(circle); slot.appendChild(label);
-    off.appendChild(slot);
-  });
+    slot.appendChild(circle);
+    slot.appendChild(label);
+    if (inRoom && !pick && pos === state.selectedPos) {
+      slot.classList.add('armed');
+      slot.onclick = () => confirmPick();
+    }
+    return slot;
+  };
 
-  DEFENSE_SLOTS.forEach(pos => {
-    const pick = state.picks[pos];
-    const slot = document.createElement('div');
-    slot.className = 'dock-slot';
-    const circle = document.createElement('div');
-    circle.className = 'dock-circle' + (pick ? ' defense-filled' : '');
-    circle.textContent = pick ? abbrev(pick.room.school) : pos;
-    const label = document.createElement('div');
-    label.className = 'dock-label' + (pick ? ' filled-label' : '');
-    label.textContent = pos;
-    slot.appendChild(circle); slot.appendChild(label);
-    def.appendChild(slot);
-  });
+  OFFENSE_SLOTS.forEach(pos => off.appendChild(build(pos, 'offense-filled')));
+  DEFENSE_SLOTS.forEach(pos => def.appendChild(build(pos, 'defense-filled')));
 }
 
 // ──────────────────────────────────────────────────────────────
@@ -217,7 +215,6 @@ function showSpinScreen() {
   document.getElementById('spinScreen').classList.remove('hidden');
   document.getElementById('roomScreen').classList.add('hidden');
   document.getElementById('resultsScreen').classList.add('hidden');
-  document.getElementById('confirmBar').classList.add('hidden');
 
   // Reset scroll to the top. Done after the screen toggle, and re-fired on the
   // next frame and the next tick, because mobile browsers (iOS Safari) can
@@ -358,23 +355,19 @@ function goToRoom() {
 
   document.getElementById('spinScreen').classList.add('hidden');
   document.getElementById('roomScreen').classList.remove('hidden');
-  document.getElementById('confirmBar').classList.remove('hidden');
   state.phase = 'room';
 
   document.getElementById('roomSchoolPill').textContent = school;
   document.getElementById('roomEraPill').textContent = era;
   updateRespinBtns();
 
-  const remaining = getRemainingSlots();
   const available = ALL_SLOTS.filter(p => !state.picks[p] && data[p]);
   const alreadyFilled = ALL_SLOTS.filter(p => state.picks[p]);
 
-  // Auto-select first available
+  // Auto-arm the first available room; its slot lights up in the dock below.
   state.selectedPos = available[0] || null;
-  updateConfirmBtn();
-
-  // Render all cards
   renderAllCards(data, available, alreadyFilled);
+  renderDock();
 }
 
 function renderAllCards(data, available, alreadyFilled) {
@@ -433,23 +426,17 @@ function renderAllCards(data, available, alreadyFilled) {
 
 function selectCard(pos) {
   state.selectedPos = pos;
-  updateConfirmBtn();
 
   // Update card selection state
   document.querySelectorAll('.pos-card').forEach(card => {
     const cardPos = card.id.replace('poscard-', '');
     card.classList.toggle('selected', cardPos === pos);
     const check = card.querySelector('.pos-card-check');
-    const title = card.querySelector('.pos-card-title');
     if (check) check.textContent = cardPos === pos ? '✓' : '';
   });
-}
 
-function updateConfirmBtn() {
-  const btn = document.querySelector('.confirm-btn');
-  if (btn && state.selectedPos) {
-    btn.innerHTML = `LOCK IN ${state.selectedPos} ROOM`;
-  }
+  // Move the lit-up "lock in" slot in the dock to this position.
+  renderDock();
 }
 
 // ──────────────────────────────────────────────────────────────
@@ -487,7 +474,6 @@ function confirmPick() {
 function showResults() {
   document.getElementById('spinScreen').classList.add('hidden');
   document.getElementById('roomScreen').classList.add('hidden');
-  document.getElementById('confirmBar').classList.add('hidden');
   document.getElementById('resultsScreen').classList.remove('hidden');
   document.getElementById('persistentDock').style.display = 'none';
 

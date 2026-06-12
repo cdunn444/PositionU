@@ -679,38 +679,54 @@ function renderPlayoff() {
     return;
   }
 
-  // Active round: matchup / playing (quarter reveal) / result.
+  // Active round — a progressively-built stack: Your Team on top (ratings top-right),
+  // then each opponent faced so far. Past opponents dim to 50% with a compact result;
+  // the current opponent animates in and the game plays out below it.
   const r = pf.round;
   const opp = pf.opponents[r];
   const res = pf.results[r];
+  const SHORT = ['Quarterfinal', 'Semifinal', 'Championship'];
 
-  const oppCard = `
-    <div class="pf-team opp">
-      <div class="pf-team-name">${opp.year} ${opp.school}</div>
-      <div class="pf-team-note">${opp.note}</div>
-      <div class="pf-team-ratings"><span class="pf-rt off">OFF ${opp.off}</span><span class="pf-rt def">DEF ${opp.def}</span></div>
-    </div>`;
-  const youCard = `
-    <div class="pf-team you">
-      <div class="pf-team-name">Your Team</div>
-      <div class="pf-team-note">${teamSubhead(you.offRating, you.defRating)}</div>
-      <div class="pf-team-ratings"><span class="pf-rt off">OFF ${you.offRating}</span><span class="pf-rt def">DEF ${you.defRating}</span></div>
-    </div>`;
-
-  let middle;
+  let currentGame;
   if ((pf.phase === 'playing' || pf.phase === 'result') && res) {
-    middle = scoreboard() + (pf.phase === 'result'
+    currentGame = scoreboard() + (pf.phase === 'result'
       ? `<button class="cta-btn cta-playoffs pf-advance" onclick="advancePlayoff()">${nextLabel()}</button>`
       : '');
   } else {
-    middle = `<button class="cta-btn cta-playoffs pf-advance" onclick="simulateRound()">Simulate Game</button>`;
+    currentGame = `<button class="cta-btn cta-playoffs pf-advance" onclick="simulateRound()">Simulate Game</button>`;
   }
 
-  el.innerHTML = `
-    <div class="pf-round-label">${PLAYOFF_ROUNDS[r]}</div>
-    <div class="pf-matchup">${youCard}<div class="pf-vs">VS</div>${oppCard}</div>
-    <div class="pf-middle">${middle}</div>`;
-  if (pf.phase === 'matchup') resetScroll();
+  let stack = `
+    <div class="pf-yourteam">
+      <div class="pf-yt-name">Your Team</div>
+      <div class="pf-yt-ratings"><span class="pf-rt off">OFF ${you.offRating}</span><span class="pf-rt def">DEF ${you.defRating}</span></div>
+    </div>`;
+  for (let i = 0; i <= r; i++) {
+    const o = pf.opponents[i];
+    const cur = i === r;
+    const g = pf.results[i];
+    const enter = cur && r > 0 && pf.phase === 'matchup' ? ' enter' : '';
+    stack += `
+      <div class="pf-opp${cur ? '' : ' dim'}${enter}">
+        <div class="pf-opp-head">
+          <div class="pf-opp-info">
+            <div class="pf-opp-round">${SHORT[i]}</div>
+            <div class="pf-opp-name">${o.year} ${o.school}</div>
+            ${cur ? `<div class="pf-opp-note">${o.note}</div>` : ''}
+          </div>
+          ${cur
+            ? `<div class="pf-opp-ratings"><span class="pf-rt off">OFF ${o.off}</span><span class="pf-rt def">DEF ${o.def}</span></div>`
+            : `<div class="pf-opp-final ${g.win ? 'w' : 'l'}">${g.win ? 'WON' : 'LOST'} ${g.yourPts}–${g.oppPts}</div>`}
+        </div>
+      </div>`;
+    if (cur) stack += `<div class="pf-current">${currentGame}</div>`;
+  }
+  el.innerHTML = `<div class="pf-stack">${stack}</div>`;
+
+  if (pf.phase === 'matchup') {
+    if (r === 0) resetScroll();
+    else { const c = el.querySelector('.pf-opp.enter'); if (c) c.scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+  }
 
   function scoreboard() {
     const rev = pf.revealQ || 0;                 // quarters revealed so far (0..4)

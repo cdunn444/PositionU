@@ -494,17 +494,17 @@ function showResults() {
     defTotal += s; total += s;
   });
 
-  // Madden-style ratings — the knee sits at the (former 15-0) thresholds
-  // (offense raw 244, defense 146) and reads 95, so an elite team presents as
-  // ~95/95. The dream team reads 100; a typical team ~78-82.
+  // Madden-style ratings — piecewise per-side curve (see RULES.maddenScales,
+  // mirrored here). An elite well-built side reads ~95; the dream team reads 100;
+  // a typical team ~78-82. Recalibrated 2026-06-13 for the rescaled room bands.
   const maddenRating = (raw, lo, knee, kneeR, max) => {
     const v = raw <= knee
       ? 55 + (raw - lo) / (knee - lo) * (kneeR - 55)
       : kneeR + (raw - knee) / (max - knee) * (100 - kneeR);
     return Math.min(100, Math.max(40, Math.round(v)));
   };
-  const offRating = maddenRating(offTotal, 136, 244, 95, 375);
-  const defRating = maddenRating(defTotal,  64, 146, 95, 263);
+  const offRating = maddenRating(offTotal, 191, 279, 95, 381);
+  const defRating = maddenRating(defTotal, 114, 163, 95, 223);
   document.getElementById('offScore').textContent = offRating;
   document.getElementById('defScore').textContent = defRating;
 

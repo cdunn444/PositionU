@@ -75,13 +75,16 @@ function scoreOne(player, pos) {
       base = (pg.recYdsPerGame || 0) * 0.06 + (pg.recTDsPerGame || 0) * 6 +
              (pg.recPerGame || 0) * 0.6 + (pg.yacPerGame || 0) * 0.04;
       break;
-    case 'OL':
-      base = 75 + (player.stats?.runBlockGrade === 'A+' ? 15 :
-                    player.stats?.runBlockGrade === 'A' ? 10 : 5);
+    case 'OL': {
+      // Team-unit entry — read its real protection/run-blocking stats.
+      const s = player.stats || {};
+      base = (s.pancakeBlocksSeason || 0) * 0.10 + (s.passBlockEff || 0) * 0.5 +
+             (s.runBlockEff || 0) * 0.35 - (s.sacksAllowedSeason || 0) * 1.0;
       break;
+    }
     case 'DL':
-      base = (pg.sacksPerGame || 0) * 18 + (pg.tflsPerGame || 0) * 8 +
-             (pg.hurriesPerGame || 0) * 3 + (pg.ffPerGame || 0) * 10;
+      base = (pg.sacksPerGame || 0) * 11 + (pg.tflsPerGame || 0) * 5 +
+             (pg.hurriesPerGame || 0) * 2 + (pg.ffPerGame || 0) * 6;
       break;
     case 'LB':
       base = (pg.tacklesPerGame || 0) * 1.5 + (pg.sacksPerGame || 0) * 10 +
@@ -92,13 +95,27 @@ function scoreOne(player, pos) {
              (pg.tacklesPerGame || 0) * 1.2 + (pg.ffPerGame || 0) * 8;
       break;
   }
-  return Math.min(base + calcBonuses(player.bonuses), RULES.positionCaps[pos]);
+  // Raw, uncapped per-player contribution (stat formula + résumé bonuses). The
+  // common-scale clamp happens once per room, in remapBand below.
+  return base + calcBonuses(player.bonuses);
+}
+
+// Map a room's raw score into its position's importance-weighted display band.
+// See RULES.roomBands: lo->f, hi->c, linear, clamped (with a little headroom
+// below the floor so the very weakest rooms still read distinctly low).
+function remapBand(pos, raw) {
+  const b = RULES.roomBands[pos];
+  if (!b) return Math.round(raw);
+  const slope = (b.c - b.f) / (b.hi - b.lo);
+  const v = b.f + (raw - b.lo) * slope;
+  return Math.max(b.f - 4, Math.min(b.c, Math.round(v)));
 }
 
 function scoreRoom(room) {
   const scores = room.players.map(p => ({ name: p.name, score: scoreOne(p, room.pos) }));
   const top3 = scores.sort((a, b) => b.score - a.score).slice(0, 3);
-  const roomScore = Math.round(top3.reduce((s, p) => s + p.score, 0) / top3.length);
+  const rawRoom = top3.reduce((s, p) => s + p.score, 0) / top3.length;
+  const roomScore = remapBand(room.pos, rawRoom);
   return { roomScore, playerScores: scores, top3 };
 }
 

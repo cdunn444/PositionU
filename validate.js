@@ -35,7 +35,7 @@ if (!fs.existsSync(rulesPath)) {
   err('js/rules.js NOT FOUND');
 } else {
   const rulesContent = fs.readFileSync(rulesPath, 'utf8');
-  ['positionCaps', 'recordTiers', 'maddenScales', 'version'].forEach(key => {
+  ['roomBands', 'recordTiers', 'maddenScales', 'version'].forEach(key => {
     if (!rulesContent.includes(key)) err(`rules.js missing key: ${key}`);
   });
   const versionMatch = rulesContent.match(/version:\s*["']([^"']+)["']/);

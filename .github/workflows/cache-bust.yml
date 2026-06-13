@@ -14,7 +14,6 @@ name: Cache-bust assets
 on:
   push:
     branches:
-      - claude/data-folder-consolidation-05v70p
       - main
     paths:
       - 'js/**'

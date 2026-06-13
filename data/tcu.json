@@ -1,0 +1,391 @@
+{
+  "school": "TCU",
+  "eras": {
+    "00s": {
+      "QB": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Andy Dalton",
+            "games": 13,
+            "stats": {
+              "passYds": 2736,
+              "passTDs": 19,
+              "intsSeason": 7,
+              "qbr": 152,
+              "rushYds": 264,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Trevone Boykin",
+            "games": 13,
+            "stats": {
+              "passYds": 3326,
+              "passTDs": 31,
+              "intsSeason": 7,
+              "qbr": 168,
+              "rushYds": 862,
+              "rushTDs": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 224,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Casey Pachall",
+            "games": 11,
+            "stats": {
+              "passYds": 2632,
+              "passTDs": 22,
+              "intsSeason": 5,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "LaDainian Tomlinson",
+            "games": 11,
+            "stats": {
+              "rushYds": 2158,
+              "rushTDs": 22,
+              "ypc": 6.5,
+              "recYds": 196
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Aaron Brown",
+            "games": 13,
+            "stats": {
+              "rushYds": 1105,
+              "rushTDs": 10,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Waymon James",
+            "games": 12,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Josh Boyce",
+            "games": 13,
+            "stats": {
+              "rec": 58,
+              "recYds": 912,
+              "recTDs": 8,
+              "yac": 290
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 109,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeremy Kerley",
+            "games": 14,
+            "stats": {
+              "rec": 75,
+              "recYds": 901,
+              "recTDs": 8,
+              "yac": 285
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 153,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Skye Dawson",
+            "games": 13,
+            "stats": {
+              "rec": 62,
+              "recYds": 788,
+              "recTDs": 6,
+              "yac": 248
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Brent Hecht",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 256,
+              "recTDs": 2,
+              "yac": 84
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Logan Brock",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 198,
+              "recTDs": 2,
+              "yac": 62
+            },
+            "bonuses": {
+              "nflDraftPick": 240,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Matt Schobel",
+            "games": 12,
+            "stats": {
+              "rec": 27,
+              "recYds": 378,
+              "recTDs": 6,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 67,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2010 TCU OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 148,
+              "passBlockEff": 90,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "outland": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Jerry Hughes",
+            "games": 13,
+            "stats": {
+              "sacks": 15,
+              "tfls": 18,
+              "hurries": 30,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "otherNamedCollegeAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Wayne Daniels",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 14,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Stansly Maponga",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 178,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Daryl Washington",
+            "games": 13,
+            "stats": {
+              "tackles": 118,
+              "sacks": 7,
+              "ints": 2,
+              "tfls": 18
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 37,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tank Carder",
+            "games": 13,
+            "stats": {
+              "tackles": 96,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 9
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kenny Cain",
+            "games": 13,
+            "stats": {
+              "tackles": 72,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "TCU",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Rafael Priest",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jason Verrett",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 28,
+              "tackles": 46,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tejay Johnson",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 20,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

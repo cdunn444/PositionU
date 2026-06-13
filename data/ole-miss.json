@@ -1,0 +1,1926 @@
+{
+  "school": "Ole Miss",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Kent Austin",
+            "games": 11,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 15,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Young",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pete Boylan",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Buford McGee",
+            "games": 11,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.2,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 141,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joe Mickles",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 4.7,
+              "recYds": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 300,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss RB (1985-88). Stats reconstructed."
+            }
+          },
+          {
+            "name": "Michael Harmon",
+            "games": 11,
+            "stats": {
+              "rushYds": 688,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "J.R. Ambrose",
+            "games": 11,
+            "stats": {
+              "rec": 40,
+              "recYds": 620,
+              "recTDs": 5,
+              "yac": 190
+            },
+            "bonuses": {
+              "nflDraftPick": 96,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss WR; team receiving leader 1986. Stats reconstructed."
+            }
+          },
+          {
+            "name": "Cris Young",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 445,
+              "recTDs": 4,
+              "yac": 140
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jamie Holder",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 355,
+              "recTDs": 3,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Wesley Walls",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Willie Green",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 360,
+              "recTDs": 3,
+              "yac": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 194,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss receiver (1987-89), led team in receiving 3 yrs; aligned as a pass-catching TE/flex here for roster completeness. Stats reconstructed."
+            }
+          },
+          {
+            "name": "Willie Goodloe",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 172,
+              "recTDs": 1,
+              "yac": 54
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real Ole Miss receiver (mid-1980s); used at TE/H-back here for roster completeness. Stats reconstructed."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1983 Ole Miss OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 152,
+              "passBlockEff": 88,
+              "runBlockEff": 63
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Freddie Joe Nunn",
+            "games": 11,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 26,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jim Miller",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "James McAlister",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Tony Bennett",
+            "games": 11,
+            "stats": {
+              "tackles": 108,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jeff Herrod",
+            "games": 11,
+            "stats": {
+              "tackles": 168,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 230,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss LB (1984-88); program all-time tackles leader."
+            }
+          },
+          {
+            "name": "Andre Townsend",
+            "games": 11,
+            "stats": {
+              "tackles": 74,
+              "sacks": 6,
+              "ints": 0,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 40,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss DL (1981-83), 2x All-SEC; listed here at edge/LB for roster completeness."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ole Miss",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Grantham Comer",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 130,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Todd Sandroni",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss DB (1987-90). Stats reconstructed."
+            }
+          },
+          {
+            "name": "Jim Heidel",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Chad Pennington",
+            "games": 12,
+            "stats": {
+              "passYds": 2423,
+              "passTDs": 21,
+              "intsSeason": 6,
+              "qbr": 168
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 18,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Stewart Patridge",
+            "games": 12,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 16,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Harmon",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Deuce McAllister",
+            "games": 12,
+            "stats": {
+              "rushYds": 1212,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Mitchell",
+            "games": 12,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "John Avery",
+            "games": 12,
+            "stats": {
+              "rushYds": 862,
+              "rushTDs": 7,
+              "ypc": 5.2,
+              "recYds": 140
+            },
+            "bonuses": {
+              "nflDraftPick": 29,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss RB (1997); 1st-round pick 1998. Stats reconstructed."
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Wesley Walls",
+            "games": 12,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bill Hawkins",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cory Peterson",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 418,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Rufus French",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 520,
+              "recTDs": 5,
+              "yac": 150
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 0,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss TE; unanimous All-American 1998. Stats reconstructed."
+            }
+          },
+          {
+            "name": "David Denton",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Seth Burford",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1997 Ole Miss OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 158,
+              "passBlockEff": 89,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Tim Bowens",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss DT (1993); 1st-round pick 1994, NFL DROY."
+            }
+          },
+          {
+            "name": "Kelvin Pritchett",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss DL; All-American senior 1990, 1st-round pick 1991. Stats reconstructed."
+            }
+          },
+          {
+            "name": "Jeremy Jefferson",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Nate Wayne",
+            "games": 12,
+            "stats": {
+              "tackles": 118,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 111,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Harris",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Russell Smoot",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ole Miss",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ken Lucas",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Alundis Brice",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tim Strickland",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss CB (late 1990s). Stats reconstructed."
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Eli Manning",
+            "games": 12,
+            "stats": {
+              "passYds": 3600,
+              "passTDs": 29,
+              "intsSeason": 10,
+              "qbr": 175
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jevan Snead",
+            "games": 13,
+            "stats": {
+              "passYds": 2762,
+              "passTDs": 24,
+              "intsSeason": 12,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Seth Adams",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Deuce McAllister",
+            "games": 12,
+            "stats": {
+              "rushYds": 1422,
+              "rushTDs": 14,
+              "ypc": 5.8,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "BenJarvus Green-Ellis",
+            "games": 13,
+            "stats": {
+              "rushYds": 1005,
+              "rushTDs": 10,
+              "ypc": 5.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jason Cook",
+            "games": 12,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Mike Wallace",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 938,
+              "recTDs": 9,
+              "yac": 296
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 84,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Shay Hodge",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mark Dodson",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Trae Elmore",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Doug Zeigler",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Aaron Sherrill",
+            "games": 12,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2003 Ole Miss OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Greg Hardy",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 97,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jason Jones",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jerrell Powe",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Patrick Willis",
+            "games": 13,
+            "stats": {
+              "tackles": 158,
+              "sacks": 6,
+              "ints": 3,
+              "tfls": 20
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 11,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jonathan Cornell",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Allen Walker",
+            "games": 12,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ole Miss",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Jamarca Sanford",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marcus Temple",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Johnny Brown",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Chad Kelly",
+            "games": 12,
+            "stats": {
+              "passYds": 4042,
+              "passTDs": 31,
+              "intsSeason": 11,
+              "qbr": 172
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 253,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bo Wallace",
+            "games": 13,
+            "stats": {
+              "passYds": 3174,
+              "passTDs": 22,
+              "intsSeason": 13,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jordan Ta'amu",
+            "games": 12,
+            "stats": {
+              "passYds": 3234,
+              "passTDs": 23,
+              "intsSeason": 8,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Jaylen Walton",
+            "games": 13,
+            "stats": {
+              "rushYds": 888,
+              "rushTDs": 8,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 230,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jordan Wilkins",
+            "games": 13,
+            "stats": {
+              "rushYds": 1035,
+              "rushTDs": 10,
+              "ypc": 5.7,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "I'Tavius Mathers",
+            "games": 13,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Laquon Treadwell",
+            "games": 13,
+            "stats": {
+              "rec": 82,
+              "recYds": 1153,
+              "recTDs": 11,
+              "yac": 362
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 23,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "DaMarkus Lodge",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 6,
+              "yac": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Quincy Adeboyejo",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Evan Engram",
+            "games": 13,
+            "stats": {
+              "rec": 65,
+              "recYds": 926,
+              "recTDs": 8,
+              "yac": 322
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 23,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Cody Core",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ryan Woerner",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2014 Ole Miss OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Robert Nkemdiche",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Channing Ward",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Fadol Brown",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Denzel Nkemdiche",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 63,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Javon Patterson",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "D.T. Shackelford",
+            "games": 12,
+            "stats": {
+              "tackles": 78,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ole Miss",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Cody Prewitt",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Charles Sawyer",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Trae Elmore",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Matt Corral",
+            "games": 12,
+            "stats": {
+              "passYds": 3349,
+              "passTDs": 29,
+              "intsSeason": 6,
+              "qbr": 185,
+              "rushYds": 512,
+              "rushTDs": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 94,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John Rhys Plumlee",
+            "games": 12,
+            "stats": {
+              "passYds": 2402,
+              "passTDs": 18,
+              "intsSeason": 6,
+              "qbr": 158,
+              "rushYds": 512,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jaxson Dart",
+            "games": 13,
+            "stats": {
+              "passYds": 3365,
+              "passTDs": 28,
+              "intsSeason": 6,
+              "qbr": 175
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Jerrion Ealy",
+            "games": 12,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Snoop Conner",
+            "games": 13,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Quinshon Judkins",
+            "games": 13,
+            "stats": {
+              "rushYds": 1567,
+              "rushTDs": 16,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 37,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jonathan Mingo",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 812,
+              "recTDs": 7,
+              "yac": 258
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Elijah Moore",
+            "games": 10,
+            "stats": {
+              "rec": 86,
+              "recYds": 1193,
+              "recTDs": 8,
+              "yac": 378
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 34,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tre Harris",
+            "games": 8,
+            "stats": {
+              "rec": 60,
+              "recYds": 1030,
+              "recTDs": 7,
+              "yac": 330
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": false,
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss WR (2024); 1,030 yds in 8 games, AP 2nd-team All-American, Biletnikoff semifinalist, 2025 2nd-round pick (Chargers)."
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Casey Kelly",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Caden Prieskorn",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Michael Trigg",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2021 Ole Miss OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Sam Williams",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 17,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Walter Nolen",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 14,
+              "hurries": 3,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss DT (2024); consensus All-American, 6.5 sacks/14 TFL, 2025 1st-round pick (#16, Cardinals). Stats reconstructed."
+            }
+          },
+          {
+            "name": "Princely Umanmielen",
+            "games": 12,
+            "stats": {
+              "sacks": 10,
+              "tfls": 13,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllSEC": true,
+              "nflDraftPick": 77,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss EDGE (2024); 10.5 sacks/13.5 TFL, 2025 3rd-round pick (Panthers). Stats reconstructed."
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Mark Robinson",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Paul Jr.",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 172,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss LB (2024); team tackles leader (88), Butkus Award finalist, All-American, 2025 5th-round pick (Rams). Stats reconstructed."
+            }
+          },
+          {
+            "name": "Suntarine Perkins",
+            "games": 13,
+            "stats": {
+              "tackles": 60,
+              "sacks": 10,
+              "ints": 1,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllSEC": false,
+              "collegeDominance": "elite",
+              "note": "Real Ole Miss LB/EDGE (2024); 10.5 sacks (T-2nd single-season program history), 14 TFL, All-America HM. Stats reconstructed."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Ole Miss",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Otis Reese",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Markevious Brown",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Trey Amos",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 13,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllSEC": true,
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 61,
+              "collegeDominance": "eraDef",
+              "note": "Real Ole Miss CB (2024); team-leading 13 PBUs, SEC PD leader, All-SEC 1st team, 2025 2nd-round pick (Commanders). Stats reconstructed."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

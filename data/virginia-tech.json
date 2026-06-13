@@ -1,0 +1,1927 @@
+{
+  "school": "Virginia Tech",
+  "eras": {
+    "90s": {
+      "QB": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Michael Vick",
+            "games": 12,
+            "stats": {
+              "passYds": 1840,
+              "passTDs": 22,
+              "intsSeason": 6,
+              "qbr": 180,
+              "rushYds": 585,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Al Clark",
+            "games": 11,
+            "stats": {
+              "passYds": 1580,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 142,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jim Druckenmiller",
+            "games": 13,
+            "stats": {
+              "passYds": 2730,
+              "passTDs": 21,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 26,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Lee Suggs",
+            "games": 12,
+            "stats": {
+              "rushYds": 1176,
+              "rushTDs": 14,
+              "ypc": 5.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Shyrone Stith",
+            "games": 13,
+            "stats": {
+              "rushYds": 948,
+              "rushTDs": 10,
+              "ypc": 5.2,
+              "recYds": 188
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Keith Baxter",
+            "games": 12,
+            "stats": {
+              "rushYds": 745,
+              "rushTDs": 7,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Antonio Freeman",
+            "games": 11,
+            "stats": {
+              "rec": 54,
+              "recYds": 840,
+              "recTDs": 8,
+              "yac": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 90,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Andre Davis",
+            "games": 13,
+            "stats": {
+              "rec": 46,
+              "recYds": 744,
+              "recTDs": 6,
+              "yac": 238
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ricky Hall",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 608,
+              "recTDs": 5,
+              "yac": 192
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "John Burke",
+            "games": 11,
+            "stats": {
+              "rec": 20,
+              "recYds": 220,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "nflDraftPick": 121,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bryan Jennings",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 238,
+              "recTDs": 4,
+              "yac": 75
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 240,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Browning Wynn",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 260,
+              "recTDs": 2,
+              "yac": 80
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1999 Virginia Tech OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 20,
+              "pancakeBlocksSeason": 142,
+              "passBlockEff": 89,
+              "runBlockEff": 62
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Corey Moore",
+            "games": 12,
+            "stats": {
+              "sacks": 13,
+              "tfls": 18,
+              "hurries": 26,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "nagurski": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Cornell Brown",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nathan Cuffee",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Brandon Semones",
+            "games": 12,
+            "stats": {
+              "tackles": 99,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 8
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "George DelRicco",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Taylor",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Virginia Tech",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "DeAngelo Hall",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 36,
+              "tackles": 54,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Ronyell Whitaker",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 30,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cory Bird",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 98,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Mark Cox",
+            "games": 11,
+            "stats": {
+              "passYds": 1388,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Maurice DeShazo",
+            "games": 12,
+            "stats": {
+              "passYds": 2054,
+              "passTDs": 16,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Will Furrer",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 88,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Eddie Hunter",
+            "games": 11,
+            "stats": {
+              "rushYds": 1109,
+              "rushTDs": 11,
+              "ypc": 5.4,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Maurice Williams",
+            "games": 11,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cyrus Lawrence",
+            "games": 11,
+            "stats": {
+              "rushYds": 1221,
+              "rushTDs": 8,
+              "ypc": 4.6,
+              "recYds": 90
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Donald Wayne Snell",
+            "games": 11,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 5,
+              "yac": 198
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Myron Richardson",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 583,
+              "recTDs": 3,
+              "yac": 184
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vaughn Hebron",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 220,
+              "recTDs": 1,
+              "yac": 90
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "RB/kick returner; last-resort fill for thin VT 80s receiver depth"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Steve Johnson",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 475,
+              "recTDs": 3,
+              "yac": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 142,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joe Jones",
+            "games": 11,
+            "stats": {
+              "rec": 39,
+              "recYds": 452,
+              "recTDs": 1,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 270,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "David Everett",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 300,
+              "recTDs": 2,
+              "yac": 110
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "wingback/TE-type of the era"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1986 Virginia Tech OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 152,
+              "passBlockEff": 88,
+              "runBlockEff": 63
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Bruce Smith",
+            "games": 11,
+            "stats": {
+              "sacks": 12,
+              "tfls": 17,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Robert Brown",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 98,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Hill",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Lawrence Thompson",
+            "games": 11,
+            "stats": {
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Johnson",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ray Hitchcock",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Virginia Tech",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ashley Lee",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Carter Wiley",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Billy Myers",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 7,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "1986 Peach Bowl team CB"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Michael Vick",
+            "games": 13,
+            "stats": {
+              "passYds": 1468,
+              "passTDs": 12,
+              "intsSeason": 5,
+              "qbr": 148,
+              "rushYds": 1039,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bryan Randall",
+            "games": 13,
+            "stats": {
+              "passYds": 2357,
+              "passTDs": 17,
+              "intsSeason": 8,
+              "qbr": 152,
+              "rushYds": 812,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 119,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyrod Taylor",
+            "games": 14,
+            "stats": {
+              "passYds": 2311,
+              "passTDs": 23,
+              "intsSeason": 6,
+              "qbr": 165,
+              "rushYds": 635,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Kevin Jones",
+            "games": 13,
+            "stats": {
+              "rushYds": 1647,
+              "rushTDs": 20,
+              "ypc": 5.9,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lee Suggs",
+            "games": 12,
+            "stats": {
+              "rushYds": 1325,
+              "rushTDs": 17,
+              "ypc": 5.7,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 114,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ryan Williams",
+            "games": 13,
+            "stats": {
+              "rushYds": 1655,
+              "rushTDs": 21,
+              "ypc": 6.2,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Eddie Royal",
+            "games": 13,
+            "stats": {
+              "rec": 33,
+              "recYds": 496,
+              "recTDs": 4,
+              "yac": 188
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ernest Wilford",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 728,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "David Clowney",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 6,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jeff King",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 462,
+              "recTDs": 5,
+              "yac": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 93,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Greg Boone",
+            "games": 13,
+            "stats": {
+              "rec": 24,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 96
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dwayne Thomas",
+            "games": 13,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2004 Virginia Tech OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 175,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Darryl Tapp",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Noland Burchette",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jim Davis",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Xavier Adibi",
+            "games": 13,
+            "stats": {
+              "tackles": 115,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 126,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Anderson",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 66,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vince Hall",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Virginia Tech",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "DeAngelo Hall",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 30,
+              "tackles": 52,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Aaron Rouse",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 87,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jimmy Williams",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 48,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Tyrod Taylor",
+            "games": 14,
+            "stats": {
+              "passYds": 2311,
+              "passTDs": 23,
+              "intsSeason": 6,
+              "qbr": 165,
+              "rushYds": 635,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Logan Thomas",
+            "games": 13,
+            "stats": {
+              "passYds": 2967,
+              "passTDs": 21,
+              "intsSeason": 10,
+              "qbr": 148,
+              "rushYds": 612,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Michael Brewer",
+            "games": 13,
+            "stats": {
+              "passYds": 2869,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "David Wilson",
+            "games": 13,
+            "stats": {
+              "rushYds": 1709,
+              "rushTDs": 16,
+              "ypc": 6.7,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "J.C. Coleman",
+            "games": 13,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Trey Edmunds",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Josh Doctson",
+            "games": 13,
+            "stats": {
+              "rec": 76,
+              "recYds": 1235,
+              "recTDs": 14,
+              "yac": 388
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 22,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jarrett Boykin",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Marcus Davis",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Bucky Hodges",
+            "games": 13,
+            "stats": {
+              "rec": 42,
+              "recYds": 512,
+              "recTDs": 6,
+              "yac": 178
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 143,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eric Martin",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ryan Malleck",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2011 Virginia Tech OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 158,
+              "passBlockEff": 89,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Corey Marshall",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dadi Nicolas",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 143,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Luther Maddy",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Bruce Taylor",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tariq Edwards",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chase Williams",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Virginia Tech",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Kendall Fuller",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 88,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kyshoen Jarrett",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 65,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 157,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Donaldven Manning",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Hendon Hooker",
+            "games": 10,
+            "stats": {
+              "passYds": 2061,
+              "passTDs": 23,
+              "intsSeason": 4,
+              "qbr": 168,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 40,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Braxton Burmeister",
+            "games": 11,
+            "stats": {
+              "passYds": 2150,
+              "passTDs": 17,
+              "intsSeason": 5,
+              "qbr": 152,
+              "rushYds": 488,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kyron Drones",
+            "games": 12,
+            "stats": {
+              "passYds": 2085,
+              "passTDs": 17,
+              "intsSeason": 7,
+              "qbr": 146,
+              "rushYds": 818,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Khalil Herbert",
+            "games": 10,
+            "stats": {
+              "rushYds": 1174,
+              "rushTDs": 9,
+              "ypc": 6.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 215,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Keshawn King",
+            "games": 12,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5.5,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bhayshul Tuten",
+            "games": 11,
+            "stats": {
+              "rushYds": 1159,
+              "rushTDs": 15,
+              "ypc": 6.3,
+              "recYds": 81
+            },
+            "bonuses": {
+              "nflDraftPick": 104,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Tayvion Robinson",
+            "games": 12,
+            "stats": {
+              "rec": 62,
+              "recYds": 922,
+              "recTDs": 7,
+              "yac": 292
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jalen Holston",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Da'Quan Felton",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 667,
+              "recTDs": 8,
+              "yac": 196
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "James Mitchell",
+            "games": 10,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 112
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 157,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Drake DeVito",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nick Gallo",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2022 Virginia Tech OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 22,
+              "pancakeBlocksSeason": 145,
+              "passBlockEff": 87,
+              "runBlockEff": 60
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Antwaun Powell-Ryland",
+            "games": 12,
+            "stats": {
+              "sacks": 16,
+              "tfls": 19,
+              "hurries": 18,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 209,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "TyJuan Garbutt",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Aeneas Peebles",
+            "games": 12,
+            "stats": {
+              "sacks": 3,
+              "tfls": 6.5,
+              "hurries": 4,
+              "ff": 0,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Dax Hollifield",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 180,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Keli Lawson",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Alan Tisdale",
+            "games": 12,
+            "stats": {
+              "tackles": 78,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Virginia Tech",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Armani Chatman",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chamarri Conner",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 98,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jermaine Waller",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 196,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

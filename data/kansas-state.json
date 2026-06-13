@@ -1,0 +1,1910 @@
+{
+  "school": "Kansas State",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Carl Straw",
+            "games": 11,
+            "stats": {
+              "passYds": 2400,
+              "passTDs": 18,
+              "intsSeason": 12,
+              "qbr": 128
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State QB; engineered 1989 drive ending K-State's long losing streak."
+            }
+          },
+          {
+            "name": "Stan Weber",
+            "games": 11,
+            "stats": {
+              "passYds": 1620,
+              "passTDs": 11,
+              "intsSeason": 12,
+              "qbr": 120
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State QB 1980-84; early-decade starter."
+            }
+          },
+          {
+            "name": "Gary Swim",
+            "games": 11,
+            "stats": {
+              "passYds": 1304,
+              "passTDs": 8,
+              "intsSeason": 11,
+              "qbr": 114
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State QB (two-year passer: 1,304 yds, 8 TDs)."
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Eric Gallon",
+            "games": 11,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tony Jordan",
+            "games": 11,
+            "stats": {
+              "rushYds": 738,
+              "rushTDs": 6,
+              "ypc": 4.5,
+              "recYds": 196
+            },
+            "bonuses": {
+              "nflDraftPick": 132,
+              "collegeDominance": "veryGood",
+              "note": "Real K-State RB 1984-87; UPI 2nd-team All-Big Eight 1986."
+            }
+          },
+          {
+            "name": "Masi Toluao",
+            "games": 11,
+            "stats": {
+              "rushYds": 420,
+              "rushTDs": 4,
+              "ypc": 4.2,
+              "recYds": 90
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State fullback/running back; part of the 1982 Independence Bowl team's Samoan backfield, leading rusher in that bowl game."
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Smith",
+            "games": 11,
+            "stats": {
+              "rec": 55,
+              "recYds": 768,
+              "recTDs": 6,
+              "yac": 260
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State WR 1988-91; 3rd-team All-America 1990 & 1991; school receiving records."
+            }
+          },
+          {
+            "name": "Frank Hernandez",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 540,
+              "recTDs": 4,
+              "yac": 170
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State WR (late 1980s); caught Carl Straw's game-winner vs North Texas 1989."
+            }
+          },
+          {
+            "name": "Mike Wallace",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 420,
+              "recTDs": 3,
+              "yac": 140
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State wide receiver on the 1982 Independence Bowl team; pass-catching target for QB Darrell Dickey."
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Russ Campbell",
+            "games": 11,
+            "stats": {
+              "rec": 30,
+              "recYds": 360,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 171,
+              "collegeDominance": "veryGood",
+              "note": "Real K-State tight end (late 1980s); drafted by Pittsburgh in 1992."
+            }
+          },
+          {
+            "name": "Eric Bailey",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 300,
+              "recTDs": 2,
+              "yac": 90
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State tight end (early 1980s); 1985 USFL draftee; NFL TE with the Philadelphia Eagles in 1987."
+            }
+          },
+          {
+            "name": "Forrest Wells",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 220,
+              "recTDs": 1,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State tight end of the lean pre-Snyder years (cited among the Wildcats' notable TEs). Used here as a thin-roster TE fill — exact seasons lightly documented."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 Kansas State OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 20,
+              "pancakeBlocksSeason": 138,
+              "passBlockEff": 86,
+              "runBlockEff": 59
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Reggie Singletary",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State defensive tackle (early 1980s); pro career with Philadelphia."
+            }
+          },
+          {
+            "name": "Elijah Alexander",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State defensive end; lettered 1988-91 (234 career tackles, 34 TFL, 10 sacks), 1991 captain, drafted by Tampa Bay 1992."
+            }
+          },
+          {
+            "name": "Kyle Clawson",
+            "games": 11,
+            "stats": {
+              "sacks": 3,
+              "tfls": 6,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "B"
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State defensive lineman (early-mid 1980s; listed DL on Sports-Reference, 1985 USFL draftee)."
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "L.E. Madison",
+            "games": 11,
+            "stats": {
+              "tackles": 98,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State linebacker (early 1980s); 1984 USFL draft selection."
+            }
+          },
+          {
+            "name": "Maurice Henry",
+            "games": 11,
+            "stats": {
+              "tackles": 90,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State linebacker (late 1980s); later Philadelphia Eagles."
+            }
+          },
+          {
+            "name": "Will Cokeley",
+            "games": 11,
+            "stats": {
+              "tackles": 84,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State linebacker; UPI honorable-mention All-Big Eight 1980; 1983 USFL draftee; later Buffalo Bills (1987)."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Erick Harper",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 12,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A-"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State safety; foundation-era defensive back."
+            }
+          },
+          {
+            "name": "Jim Bob Morris",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 10,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State safety; All-Big Eight; started for 1982 Independence Bowl team."
+            }
+          },
+          {
+            "name": "Rogerick Green",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 11,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A-"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State cornerback (late 1980s); drafted by Tampa Bay in 1992."
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Michael Bishop",
+            "games": 12,
+            "stats": {
+              "passYds": 2844,
+              "passTDs": 27,
+              "intsSeason": 7,
+              "qbr": 178,
+              "rushYds": 1112,
+              "rushTDs": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 227,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chad May",
+            "games": 12,
+            "stats": {
+              "passYds": 2845,
+              "passTDs": 21,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Miller",
+            "games": 12,
+            "stats": {
+              "passYds": 1988,
+              "passTDs": 16,
+              "intsSeason": 7,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Eric Hickson",
+            "games": 12,
+            "stats": {
+              "rushYds": 1266,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 95,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Allen",
+            "games": 12,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Lawrence",
+            "games": 11,
+            "stats": {
+              "rushYds": 902,
+              "rushTDs": 8,
+              "ypc": 4.8,
+              "recYds": 140
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State RB 1994-98; among program's top-10 career rushers (2,265 yds)."
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kevin Lockett",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 91,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darnell McDonald",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Aaron Lockett",
+            "games": 11,
+            "stats": {
+              "rec": 40,
+              "recYds": 560,
+              "recTDs": 4,
+              "yac": 200
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State WR/return man (late 1990s-2001); same recruiting class as McDonald."
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Justin Swift",
+            "games": 11,
+            "stats": {
+              "rec": 23,
+              "recYds": 342,
+              "recTDs": 3,
+              "yac": 90
+            },
+            "bonuses": {
+              "nflDraftPick": 238,
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE 1995-98; Michael Bishop target; 1999 Broncos draft."
+            }
+          },
+          {
+            "name": "Brian Lojka",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 240,
+              "recTDs": 4,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State TE (mid-1990s); 4 receiving TDs in 1995."
+            }
+          },
+          {
+            "name": "Russ Campbell",
+            "games": 11,
+            "stats": {
+              "rec": 20,
+              "recYds": 250,
+              "recTDs": 3,
+              "yac": 72
+            },
+            "bonuses": {
+              "nflDraftPick": 171,
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE (1992 Steelers draft); early-90s contributor."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1998 Kansas State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Darren Howard",
+            "games": 11,
+            "stats": {
+              "sacks": 11,
+              "tfls": 18,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 33,
+              "collegeDominance": "elite",
+              "note": "Real K-State DE 1996-99; school career sacks leader (29.5)."
+            }
+          },
+          {
+            "name": "Mario Fatafehi",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 11,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State DT 1999-2000; Big 12 Defensive Newcomer of the Year 1999."
+            }
+          },
+          {
+            "name": "Joe Bob Clements",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State DL 1994-98; All-Big 12 honorable mention 1998."
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Mark Simoneau",
+            "games": 13,
+            "stats": {
+              "tackles": 128,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 15
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Travis Ochs",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeff Kelly",
+            "games": 11,
+            "stats": {
+              "tackles": 110,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State LB; Bronko Nagurski finalist; started alongside Ochs/Simoneau 1998."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Jarrod Cooper",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mario Smith",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jaime Mendez",
+            "games": 11,
+            "stats": {
+              "ints": 7,
+              "pbus": 12,
+              "tackles": 72,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State safety 1989-93; consensus 1st-team All-American 1993; 15 career INTs."
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Ell Roberson",
+            "games": 13,
+            "stats": {
+              "passYds": 2241,
+              "passTDs": 19,
+              "intsSeason": 7,
+              "qbr": 158,
+              "rushYds": 812,
+              "rushTDs": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 190,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dylan Meier",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Josh Freeman",
+            "games": 12,
+            "stats": {
+              "passYds": 2536,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Thomas Clayton",
+            "games": 13,
+            "stats": {
+              "rushYds": 1177,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Johnson",
+            "games": 12,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darren Sproles",
+            "games": 13,
+            "stats": {
+              "rushYds": 1986,
+              "rushTDs": 16,
+              "ypc": 6.5,
+              "recYds": 485
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jordy Nelson",
+            "games": 13,
+            "stats": {
+              "rec": 122,
+              "recYds": 1606,
+              "recTDs": 11,
+              "yac": 508
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 36,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Brandon Banks",
+            "games": 13,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Yamon Figurs",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 128,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jeron Mastrud",
+            "games": 12,
+            "stats": {
+              "rec": 106,
+              "recYds": 1219,
+              "recTDs": 6,
+              "yac": 260
+            },
+            "bonuses": {
+              "nflDraftPick": 250,
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE 2006-09; school career receptions leader among TEs."
+            }
+          },
+          {
+            "name": "Brian Casey",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 360,
+              "recTDs": 3,
+              "yac": 110
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE; All-Big 12 at tight end 2003."
+            }
+          },
+          {
+            "name": "Rashaad Norwood",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 230,
+              "recTDs": 2,
+              "yac": 72
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State TE (mid-2000s)."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2003 Kansas State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ian Campbell",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Reggie Walker",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steven Cline",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State defensive lineman (mid-2000s)."
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Josh Buhl",
+            "games": 13,
+            "stats": {
+              "tackles": 184,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State LB 2000-03; 2nd-team All-American 2003; school single-season tackle record (184)."
+            }
+          },
+          {
+            "name": "Brandon Archer",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ted Sims",
+            "games": 12,
+            "stats": {
+              "tackles": 72,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 6
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State linebacker (2000s)."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Terence Newman",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 28,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jesse Tetuan",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 9,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "B+"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State defensive back (2000s)."
+            }
+          },
+          {
+            "name": "Marcus Watts",
+            "games": 12,
+            "stats": {
+              "ints": 2,
+              "pbus": 8,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "B"
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State defensive back (2000s)."
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Collin Klein",
+            "games": 13,
+            "stats": {
+              "passYds": 2510,
+              "passTDs": 23,
+              "intsSeason": 5,
+              "qbr": 172,
+              "rushYds": 890,
+              "rushTDs": 22
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jake Waters",
+            "games": 13,
+            "stats": {
+              "passYds": 3093,
+              "passTDs": 27,
+              "intsSeason": 7,
+              "qbr": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jesse Ertz",
+            "games": 13,
+            "stats": {
+              "passYds": 2939,
+              "passTDs": 22,
+              "intsSeason": 6,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "John Hubert",
+            "games": 13,
+            "stats": {
+              "rushYds": 1012,
+              "rushTDs": 12,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Charles Jones",
+            "games": 13,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 9,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Alex Barnes",
+            "games": 13,
+            "stats": {
+              "rushYds": 1355,
+              "rushTDs": 13,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 215,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Chris Harper",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Lockett",
+            "games": 13,
+            "stats": {
+              "rec": 89,
+              "recYds": 1326,
+              "recTDs": 11,
+              "yac": 420
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 69,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Byron Pringle",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "nflDraftPick": 231,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Travis Tannahill",
+            "games": 13,
+            "stats": {
+              "rec": 30,
+              "recYds": 330,
+              "recTDs": 3,
+              "yac": 90
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE 2009-12; contributor during Collin Klein years."
+            }
+          },
+          {
+            "name": "Zach Trujillo",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 260,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "good",
+              "note": "Real K-State TE (mid-2010s); returning starter in Wildcats offense."
+            }
+          },
+          {
+            "name": "Glenn Gronkowski",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 250,
+              "recTDs": 3,
+              "yac": 80
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE/FB 2012-15; earned All-Big 12 votes at tight end."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2012 Kansas State OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ryan Mueller",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jordan Willis",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 17,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Travis Britz",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Arthur Brown",
+            "games": 13,
+            "stats": {
+              "tackles": 122,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Elijah Lee",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 208,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Charmeachealle Moore",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ty Zimmerman",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 8,
+              "tackles": 70,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State safety 2010-13; 2nd-team All-American 2012."
+            }
+          },
+          {
+            "name": "Danzel McDaniel",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Morgan Burns",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Skylar Thompson",
+            "games": 12,
+            "stats": {
+              "passYds": 2186,
+              "passTDs": 16,
+              "intsSeason": 5,
+              "qbr": 152,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 237,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Will Howard",
+            "games": 13,
+            "stats": {
+              "passYds": 2949,
+              "passTDs": 24,
+              "intsSeason": 8,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Avery Johnson",
+            "games": 13,
+            "stats": {
+              "passYds": 2712,
+              "passTDs": 25,
+              "intsSeason": 10,
+              "qbr": 156,
+              "rushYds": 605,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State QB 2023-25; school single-season record 25 passing TDs in 2024; dual-threat starter."
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Deuce Vaughn",
+            "games": 13,
+            "stats": {
+              "rushYds": 1404,
+              "rushTDs": 18,
+              "ypc": 5.8,
+              "recYds": 445
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 212,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "DJ Giddens",
+            "games": 13,
+            "stats": {
+              "rushYds": 1343,
+              "rushTDs": 10,
+              "ypc": 6.0,
+              "recYds": 180
+            },
+            "bonuses": {
+              "nflDraftPick": 0,
+              "collegeDominance": "elite",
+              "note": "Real K-State RB 2022-24; back-to-back 1,000-yard seasons."
+            }
+          },
+          {
+            "name": "Treshaun Ward",
+            "games": 13,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 8,
+              "ypc": 5.4,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Malik Knowles",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 8,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kade Warner",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jayce Brown",
+            "games": 13,
+            "stats": {
+              "rec": 47,
+              "recYds": 823,
+              "recTDs": 5,
+              "yac": 250
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State WR 2023-25; 823 yds in 2024 (most by a Wildcat since Tyler Lockett 2014, school record for a sophomore)."
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Daniel Imatorbhebhe",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Sinnott",
+            "games": 13,
+            "stats": {
+              "rec": 32,
+              "recYds": 388,
+              "recTDs": 4,
+              "yac": 128
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Garrett Oakley",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 236,
+              "recTDs": 5,
+              "yac": 90
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Real K-State TE 2024-25; All-Big 12 2nd Team 2024; broke school career receiving-TD record for a tight end (13) in 2025."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2022 Kansas State OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 175,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Felix Anudike-Uzomah",
+            "games": 13,
+            "stats": {
+              "sacks": 12,
+              "tfls": 15,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brendan Mott",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State DE; 2024 Big 12 Defensive Lineman of the Year, All-Big 12 1st Team (8.5 sacks, 11.5 TFL)."
+            }
+          },
+          {
+            "name": "Nate Matlack",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Daniel Green",
+            "games": 14,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cody Fletcher",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Austin Romaine",
+            "games": 13,
+            "stats": {
+              "tackles": 96,
+              "sacks": 2,
+              "ints": 0,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Real K-State LB 2023-25; team-leading tackler; All-Big 12 2nd Team 2024 (96 tackles, 7.5 TFL, 3 FF)."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Kansas State",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Julius Brents",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 24,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kobe Savage",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "VJ Payne",
+            "games": 13,
+            "stats": {
+              "ints": 2,
+              "pbus": 6,
+              "tackles": 64,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 0,
+              "collegeDominance": "elite",
+              "note": "Real K-State safety 2023-25; multi-year starter, All-Big 12 Honorable Mention 2024-25; 2026 NFL Draft pick (NY Jets)."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

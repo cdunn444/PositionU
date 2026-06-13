@@ -1,0 +1,1896 @@
+{
+  "school": "Texas Tech",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Billy Joe Tolliver",
+            "games": 12,
+            "stats": {
+              "passYds": 2888,
+              "passTDs": 24,
+              "intsSeason": 11,
+              "qbr": 155
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 83,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tom Arrington",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 11,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rodney Allison",
+            "games": 11,
+            "stats": {
+              "passYds": 1788,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "James Gray",
+            "games": 11,
+            "stats": {
+              "rushYds": 1071,
+              "rushTDs": 11,
+              "ypc": 5.0,
+              "recYds": 130
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ervin Farris",
+            "games": 11,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 4.8,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Lynn",
+            "games": 11,
+            "stats": {
+              "rushYds": 688,
+              "rushTDs": 6,
+              "ypc": 4.6,
+              "recYds": 120
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1988-91; All-SWC 1990"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Tyrone Thurman",
+            "games": 12,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Eddy Anderson",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 205
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Wayne Walker",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 612,
+              "recTDs": 5,
+              "yac": 200
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Buzz Tatom",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 402,
+              "recTDs": 5,
+              "yac": 130
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech TE 1982-83 (moved from DE); 61 career rec, 760 yds, 9 TD"
+            }
+          },
+          {
+            "name": "Anthony Manyweather",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 188,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 1989 receiving TE; caught game-winning TD at Texas"
+            }
+          },
+          {
+            "name": "Kelvin Harper",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 148,
+              "recTDs": 1,
+              "yac": 55
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech early-80s receiver/TE hybrid listed at TE"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 Texas Tech OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 88,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Gabriel Rivera",
+            "games": 11,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 17,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Charles Perry",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite",
+              "note": "Texas Tech DT; All-SWC 1989"
+            }
+          },
+          {
+            "name": "Calvin Riggs",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech DE (mid-80s) edge pass rusher"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Brad Hastings",
+            "games": 11,
+            "stats": {
+              "tackles": 171,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef",
+              "note": "Three-time All-SWC; 2nd all-time TT career tackles (480, 1983-86)"
+            }
+          },
+          {
+            "name": "Dwayne Jiles",
+            "games": 11,
+            "stats": {
+              "tackles": 128,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Michael Johnson",
+            "games": 11,
+            "stats": {
+              "tackles": 154,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech LB 1984-87; 393 career tackles, 154 in 1987"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Texas Tech",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Dalton Smith",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 46,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tate Randle",
+            "games": 11,
+            "stats": {
+              "ints": 6,
+              "pbus": 14,
+              "tackles": 72,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 220,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Roland Mitchell",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 12,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 33,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Kliff Kingsbury",
+            "games": 12,
+            "stats": {
+              "passYds": 5017,
+              "passTDs": 45,
+              "intsSeason": 12,
+              "qbr": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 201,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Robert Hall",
+            "games": 11,
+            "stats": {
+              "passYds": 2444,
+              "passTDs": 18,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Zebbie Lethridge",
+            "games": 12,
+            "stats": {
+              "passYds": 2244,
+              "passTDs": 19,
+              "intsSeason": 8,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Byron Hanspard",
+            "games": 12,
+            "stats": {
+              "rushYds": 2084,
+              "rushTDs": 17,
+              "ypc": 6.1,
+              "recYds": 188
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 41,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bam Morris",
+            "games": 11,
+            "stats": {
+              "rushYds": 1752,
+              "rushTDs": 21,
+              "ypc": 5.4,
+              "recYds": 110
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 91,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ricky Williams",
+            "games": 12,
+            "stats": {
+              "rushYds": 1582,
+              "rushTDs": 12,
+              "ypc": 5.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Lloyd Hill",
+            "games": 12,
+            "stats": {
+              "rec": 76,
+              "recYds": 1261,
+              "recTDs": 12,
+              "yac": 380
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 170,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Field Scovell",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 560,
+              "recTDs": 4,
+              "yac": 175
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Donny Brooks",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 512,
+              "recTDs": 4,
+              "yac": 162
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Tim Winn",
+            "games": 12,
+            "stats": {
+              "rec": 20,
+              "recYds": 337,
+              "recTDs": 1,
+              "yac": 110
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech TE 1997-99; three-year letterman, Longview, TX"
+            }
+          },
+          {
+            "name": "Kyle Allamon",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 205,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech TE 1996-99; Lubbock, TX"
+            }
+          },
+          {
+            "name": "Cole Roberts",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 148,
+              "recTDs": 1,
+              "yac": 50
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech TE 1997-2001; Shallowater, TX"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1997 Texas Tech OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 89,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Montae Reagor",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 19,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tony Daniels",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kris Kocurek",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 12,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Zach Thomas",
+            "games": 12,
+            "stats": {
+              "tackles": 148,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 18
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 154,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Matt Wingo",
+            "games": 11,
+            "stats": {
+              "tackles": 130,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "All-SWC LB 1990 & 1991"
+            }
+          },
+          {
+            "name": "Shawn Banks",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "early-90s starting LB alongside Zach Thomas"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Texas Tech",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Marcus Coleman",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 22,
+              "tackles": 64,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 76,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dane Johnson",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bart Thomas",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 12,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Graham Harrell",
+            "games": 14,
+            "stats": {
+              "passYds": 5705,
+              "passTDs": 45,
+              "intsSeason": 11,
+              "qbr": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Cody Hodges",
+            "games": 13,
+            "stats": {
+              "passYds": 3440,
+              "passTDs": 28,
+              "intsSeason": 10,
+              "qbr": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Taylor Potts",
+            "games": 13,
+            "stats": {
+              "passYds": 3283,
+              "passTDs": 23,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Baron Batch",
+            "games": 13,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Shannon Woods",
+            "games": 13,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Aaron Hunt",
+            "games": 12,
+            "stats": {
+              "rushYds": 655,
+              "rushTDs": 6,
+              "ypc": 5,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Crabtree",
+            "games": 14,
+            "stats": {
+              "rec": 118,
+              "recYds": 1962,
+              "recTDs": 22,
+              "yac": 618
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Danny Amendola",
+            "games": 14,
+            "stats": {
+              "rec": 88,
+              "recYds": 1245,
+              "recTDs": 8,
+              "yac": 392
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Carlos Francis",
+            "games": 13,
+            "stats": {
+              "rec": 68,
+              "recYds": 1022,
+              "recTDs": 9,
+              "yac": 322
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 108,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Adam James",
+            "games": 13,
+            "stats": {
+              "rec": 40,
+              "recYds": 588,
+              "recTDs": 6,
+              "yac": 185
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Robert Johnson",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 418,
+              "recTDs": 4,
+              "yac": 130
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Inside receiver of Air Raid era listed at TE"
+            }
+          },
+          {
+            "name": "Joel Filani",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 322,
+              "recTDs": 3,
+              "yac": 100
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Two-time All-Big 12 receiver listed at TE"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2008 Texas Tech OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 182,
+              "passBlockEff": 92,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Keyunta Dawson",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 220,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Seth Nitschmann",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brandon Williams",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 213,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Lawrence Flugence",
+            "games": 13,
+            "stats": {
+              "tackles": 192,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef",
+              "note": "TT career & single-season tackle record (1999-2002)"
+            }
+          },
+          {
+            "name": "Brian Duncan",
+            "games": 13,
+            "stats": {
+              "tackles": 105,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Fletcher Session",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Texas Tech",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Darcel McBath",
+            "games": 13,
+            "stats": {
+              "ints": 7,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 48,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Daniel Charbonnet",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 14,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Antonio Huffman",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 25,
+              "tackles": 63,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Patrick Mahomes",
+            "games": 13,
+            "stats": {
+              "passYds": 5052,
+              "passTDs": 41,
+              "intsSeason": 10,
+              "qbr": 195
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 10,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Seth Doege",
+            "games": 13,
+            "stats": {
+              "passYds": 4004,
+              "passTDs": 36,
+              "intsSeason": 10,
+              "qbr": 178
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Davis Webb",
+            "games": 13,
+            "stats": {
+              "passYds": 3464,
+              "passTDs": 28,
+              "intsSeason": 8,
+              "qbr": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 87,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "DeAndre Washington",
+            "games": 13,
+            "stats": {
+              "rushYds": 1492,
+              "rushTDs": 16,
+              "ypc": 6,
+              "recYds": 225
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 164,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Justin Stockton",
+            "games": 13,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Da'Leon Ward",
+            "games": 12,
+            "stats": {
+              "rushYds": 705,
+              "rushTDs": 9,
+              "ypc": 4.6,
+              "recYds": 110
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Eric Ward",
+            "games": 13,
+            "stats": {
+              "rec": 82,
+              "recYds": 1040,
+              "recTDs": 11,
+              "yac": 330
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jakeem Grant",
+            "games": 13,
+            "stats": {
+              "rec": 66,
+              "recYds": 997,
+              "recTDs": 8,
+              "yac": 314
+            },
+            "bonuses": {
+              "nflDraftPick": 188,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bradley Marquez",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 6,
+              "yac": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jace Amaro",
+            "games": 13,
+            "stats": {
+              "rec": 106,
+              "recYds": 1352,
+              "recTDs": 7,
+              "yac": 428
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dylan Cantrell",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Big slot receiver of era listed at TE"
+            }
+          },
+          {
+            "name": "Reginald Davis",
+            "games": 13,
+            "stats": {
+              "rec": 15,
+              "recYds": 247,
+              "recTDs": 2,
+              "yac": 80
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Texas Tech 2010s receiver listed at TE"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2016 Texas Tech OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Kerry Hyder",
+            "games": 13,
+            "stats": {
+              "sacks": 11,
+              "tfls": 16,
+              "hurries": 18,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Branden Jackson",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pete Robertson",
+            "games": 13,
+            "stats": {
+              "sacks": 12,
+              "tfls": 14,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef",
+              "note": "Led Big 12 with 12 sacks in 2014; edge rusher (LB/DE)"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jordyn Brooks",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dakota Allen",
+            "games": 13,
+            "stats": {
+              "tackles": 92,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sam Eguavoen",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Texas Tech",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Justis Nelson",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Keion Crossen",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jah'Shawn Johnson",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 78,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Behren Morton",
+            "games": 13,
+            "stats": {
+              "passYds": 3228,
+              "passTDs": 25,
+              "intsSeason": 7,
+              "qbr": 168
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Alan Bowman",
+            "games": 12,
+            "stats": {
+              "passYds": 2578,
+              "passTDs": 21,
+              "intsSeason": 7,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Shough",
+            "games": 11,
+            "stats": {
+              "passYds": 2155,
+              "passTDs": 16,
+              "intsSeason": 5,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Tahj Brooks",
+            "games": 13,
+            "stats": {
+              "rushYds": 1379,
+              "rushTDs": 16,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "SaRodorick Thompson",
+            "games": 12,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cam White",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5.2,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Josh Kelly",
+            "games": 12,
+            "stats": {
+              "rec": 89,
+              "recYds": 1023,
+              "recTDs": 5,
+              "yac": 315
+            },
+            "bonuses": {
+              "secondTeamAllConference": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Myles Price",
+            "games": 13,
+            "stats": {
+              "rec": 62,
+              "recYds": 918,
+              "recTDs": 8,
+              "yac": 290
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Caleb Douglas",
+            "games": 13,
+            "stats": {
+              "rec": 60,
+              "recYds": 877,
+              "recTDs": 6,
+              "yac": 270
+            },
+            "bonuses": {
+              "secondTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Baylor Cupp",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 198,
+              "recTDs": 3,
+              "yac": 65
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mason Tharp",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 178,
+              "recTDs": 4,
+              "yac": 60
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Henry Teeter",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 110,
+              "recTDs": 1,
+              "yac": 38
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2023 Texas Tech OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 90,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "David Bailey",
+            "games": 13,
+            "stats": {
+              "sacks": 14.5,
+              "tfls": 19.5,
+              "hurries": 24,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tyree Wilson",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 17,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Myles Cole",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Colin Schooler",
+            "games": 13,
+            "stats": {
+              "tackles": 118,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jacob Rodriguez",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bryce Ramirez",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Texas Tech",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Malik Dunlap",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dadrion Taylor-Demerson",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Damarcus Fields",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

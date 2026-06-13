@@ -1,0 +1,2339 @@
+{
+  "school": "Nebraska",
+  "eras": {
+    "90s": {
+      "QB": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Tommie Frazier",
+            "games": 11,
+            "stats": {
+              "passYds": 1159,
+              "passTDs": 12,
+              "intsSeason": 4,
+              "qbr": 127,
+              "rushYds": 604,
+              "rushTDs": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 999,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brook Berringer",
+            "games": 8,
+            "stats": {
+              "passYds": 1295,
+              "passTDs": 10,
+              "intsSeason": 3,
+              "qbr": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 999,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Frost",
+            "games": 13,
+            "stats": {
+              "passYds": 1142,
+              "passTDs": 19,
+              "intsSeason": 6,
+              "qbr": 118,
+              "rushYds": 627,
+              "rushTDs": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 204,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Lawrence Phillips",
+            "games": 12,
+            "stats": {
+              "rushYds": 1722,
+              "rushTDs": 16,
+              "ypc": 6,
+              "recYds": 172
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 6,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Calvin Jones",
+            "games": 12,
+            "stats": {
+              "rushYds": 1210,
+              "rushTDs": 18,
+              "ypc": 5.9,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 36,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ahman Green",
+            "games": 13,
+            "stats": {
+              "rushYds": 1235,
+              "rushTDs": 12,
+              "ypc": 5.6,
+              "recYds": 156
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 76,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Johnny Rodgers",
+            "games": 11,
+            "stats": {
+              "rec": 55,
+              "recYds": 872,
+              "recTDs": 10,
+              "yac": 310,
+              "rushYds": 336,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Irving Fryar",
+            "games": 12,
+            "stats": {
+              "rec": 40,
+              "recYds": 600,
+              "recTDs": 5,
+              "yac": 210
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Reggie Baul",
+            "games": 12,
+            "stats": {
+              "rec": 35,
+              "recYds": 480,
+              "recTDs": 4,
+              "yac": 160
+            },
+            "bonuses": {
+              "nflDraftPick": 180,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Johnny Mitchell",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 264,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 15,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Sheldon Jackson",
+            "games": 12,
+            "stats": {
+              "rec": 19,
+              "recYds": 343,
+              "recTDs": 4,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 230,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Gerald Armstrong",
+            "games": 11,
+            "stats": {
+              "rec": 8,
+              "recYds": 115,
+              "recTDs": 7,
+              "yac": 40
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1994-95 Nebraska OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 10,
+              "pancakeBlocksSeason": 220,
+              "passBlockEff": 95,
+              "runBlockEff": 78
+            },
+            "bonuses": {
+              "outland": true,
+              "nationalChampionship": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Grant Wistrom",
+            "games": 14,
+            "stats": {
+              "sacks": 11,
+              "tfls": 15,
+              "hurries": 22,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 10,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jason Peter",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 35,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Christian Peter",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 74,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Trev Alberts",
+            "games": 12,
+            "stats": {
+              "tackles": 102,
+              "sacks": 14,
+              "ints": 1,
+              "tfls": 25
+            },
+            "bonuses": {
+              "butkus": true,
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ed Stewart",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 7,
+              "ints": 2,
+              "tfls": 22
+            },
+            "bonuses": {
+              "secondTeamAllAmerican": true,
+              "nflDraftPick": 40,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Carlos Polk",
+            "games": 12,
+            "stats": {
+              "tackles": 98,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 17
+            },
+            "bonuses": {
+              "nflDraftPick": 100,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Nebraska",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Barron Miles",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyrone Williams",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 85,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Minter",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 56,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "70s": {
+      "QB": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jerry Tagge",
+            "games": 11,
+            "stats": {
+              "passYds": 1282,
+              "passTDs": 10,
+              "intsSeason": 6,
+              "qbr": 132,
+              "rushYds": 312,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 15,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dave Humm",
+            "games": 11,
+            "stats": {
+              "passYds": 1598,
+              "passTDs": 13,
+              "intsSeason": 8,
+              "qbr": 138
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 57,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vince Ferragamo",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 12,
+              "intsSeason": 7,
+              "qbr": 135
+            },
+            "bonuses": {
+              "nflDraftPick": 117,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Johnny Rodgers",
+            "games": 11,
+            "stats": {
+              "rushYds": 588,
+              "rushTDs": 5,
+              "ypc": 5.2,
+              "recYds": 542
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "I.M. Hipp",
+            "games": 11,
+            "stats": {
+              "rushYds": 1301,
+              "rushTDs": 13,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 29,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rick Berns",
+            "games": 11,
+            "stats": {
+              "rushYds": 1086,
+              "rushTDs": 11,
+              "ypc": 5.2,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Johnny Rodgers",
+            "games": 11,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 8,
+              "yac": 268
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 25,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Ritch Bahe",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 412,
+              "recTDs": 4,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chuck Malito",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 325,
+              "recTDs": 3,
+              "yac": 102
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ken Spaeth",
+            "games": 11,
+            "stats": {
+              "rec": 16,
+              "recYds": 196,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Junior Miller",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Larry Mushinskie",
+            "games": 11,
+            "stats": {
+              "rec": 11,
+              "recYds": 124,
+              "recTDs": 1,
+              "yac": 40
+            },
+            "bonuses": {
+              "collegeDominance": "good"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1970-72 Nebraska OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 12,
+              "pancakeBlocksSeason": 188,
+              "passBlockEff": 92,
+              "runBlockEff": 80
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Willie Harper",
+            "games": 11,
+            "stats": {
+              "sacks": 8,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 34,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John Dutton",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Daryl White",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 105,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Bob Nelson",
+            "games": 11,
+            "stats": {
+              "tackles": 112,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 22,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tom Ruud",
+            "games": 11,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Clete Pillen",
+            "games": 11,
+            "stats": {
+              "tackles": 124,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Nebraska",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Dave Butterfield",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 100,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Zaven Yaralian",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Jim Anderson",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Turner Gill",
+            "games": 12,
+            "stats": {
+              "passYds": 1516,
+              "passTDs": 14,
+              "intsSeason": 6,
+              "qbr": 142,
+              "rushYds": 756,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Steve Taylor",
+            "games": 12,
+            "stats": {
+              "passYds": 1240,
+              "passTDs": 12,
+              "intsSeason": 5,
+              "qbr": 138,
+              "rushYds": 887,
+              "rushTDs": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Travis Turner",
+            "games": 11,
+            "stats": {
+              "passYds": 740,
+              "passTDs": 5,
+              "intsSeason": 4,
+              "qbr": 120,
+              "rushYds": 210,
+              "rushTDs": 3
+            },
+            "bonuses": {
+              "collegeDominance": "good"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Mike Rozier",
+            "games": 12,
+            "stats": {
+              "rushYds": 2148,
+              "rushTDs": 29,
+              "ypc": 7.8,
+              "recYds": 98
+            },
+            "bonuses": {
+              "heisman": true,
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Roger Craig",
+            "games": 12,
+            "stats": {
+              "rushYds": 1060,
+              "rushTDs": 16,
+              "ypc": 5.6,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Keith Jones",
+            "games": 12,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 10,
+              "ypc": 5.2,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Irving Fryar",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 688,
+              "recTDs": 6,
+              "yac": 218
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Todd Brown",
+            "games": 12,
+            "stats": {
+              "rec": 34,
+              "recYds": 512,
+              "recTDs": 4,
+              "yac": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Shane Swanson",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 412,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Todd Frain",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jamie Williams",
+            "games": 12,
+            "stats": {
+              "rec": 21,
+              "recYds": 247,
+              "recTDs": 3,
+              "yac": 78
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 64,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mitch Krenk",
+            "games": 11,
+            "stats": {
+              "rec": 13,
+              "recYds": 162,
+              "recTDs": 2,
+              "yac": 48
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1983 Nebraska OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 195,
+              "passBlockEff": 93,
+              "runBlockEff": 82
+            },
+            "bonuses": {
+              "outland": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Dave Rimington",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Neil Smith",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Danny Noonan",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Mike Knox",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marc Munford",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 75,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Damkroger",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Nebraska",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Mike McCashland",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 115,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Allen Lyday",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Neil Harris",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Eric Crouch",
+            "games": 12,
+            "stats": {
+              "passYds": 1510,
+              "passTDs": 18,
+              "intsSeason": 6,
+              "qbr": 152,
+              "rushYds": 1115,
+              "rushTDs": 18
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 83,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Zac Taylor",
+            "games": 12,
+            "stats": {
+              "passYds": 2653,
+              "passTDs": 20,
+              "intsSeason": 10,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joe Ganz",
+            "games": 12,
+            "stats": {
+              "passYds": 3568,
+              "passTDs": 29,
+              "intsSeason": 8,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ahman Green",
+            "games": 12,
+            "stats": {
+              "rushYds": 1086,
+              "rushTDs": 12,
+              "ypc": 5.8,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 89,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dahrran Diedrick",
+            "games": 12,
+            "stats": {
+              "rushYds": 1299,
+              "rushTDs": 15,
+              "ypc": 5.6,
+              "recYds": 90
+            },
+            "bonuses": {
+              "nflDraftPick": 235,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Marlon Lucky",
+            "games": 13,
+            "stats": {
+              "rushYds": 978,
+              "rushTDs": 10,
+              "ypc": 5.5,
+              "recYds": 245
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Nate Swift",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Todd Peterson",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 5,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Maurice Purify",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 7,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Matt Herian",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike McNeill",
+            "games": 13,
+            "stats": {
+              "rec": 32,
+              "recYds": 442,
+              "recTDs": 6,
+              "yac": 150
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Hunter Teafatiller",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2001 Nebraska OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "outland": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ndamukong Suh",
+            "games": 13,
+            "stats": {
+              "sacks": 12,
+              "tfls": 24,
+              "hurries": 30,
+              "ff": 4,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Pat Kabongo",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ty Steinkuhler",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Barrett Ruud",
+            "games": 13,
+            "stats": {
+              "tackles": 122,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Stewart Bradley",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 71,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bo Ruud",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Nebraska",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Dejon Gomes",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Zackary Bowman",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Larry Asante",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 60,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Taylor Martinez",
+            "games": 13,
+            "stats": {
+              "passYds": 2528,
+              "passTDs": 18,
+              "intsSeason": 7,
+              "qbr": 148,
+              "rushYds": 726,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tommy Armstrong Jr.",
+            "games": 12,
+            "stats": {
+              "passYds": 2546,
+              "passTDs": 19,
+              "intsSeason": 10,
+              "qbr": 142,
+              "rushYds": 545,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Ron Kellogg III",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 135
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ameer Abdullah",
+            "games": 13,
+            "stats": {
+              "rushYds": 1611,
+              "rushTDs": 19,
+              "ypc": 6.3,
+              "recYds": 285
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 54,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rex Burkhead",
+            "games": 13,
+            "stats": {
+              "rushYds": 1197,
+              "rushTDs": 15,
+              "ypc": 5.8,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 186,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Roy Helu Jr.",
+            "games": 13,
+            "stats": {
+              "rushYds": 1327,
+              "rushTDs": 13,
+              "ypc": 6.1,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 108,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kenny Bell",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 848,
+              "recTDs": 7,
+              "yac": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 167,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brandon Kinnie",
+            "games": 13,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 5,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Quincy Enunwa",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 209,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ben Cotton",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cethan Carter",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kyler Reed",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 395,
+              "recTDs": 8,
+              "yac": 140
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2012 Nebraska OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 90,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Randy Gregory",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 13,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Vincent Valentine",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 76,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Maliek Collins",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 65,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Will Compton",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lavonte David",
+            "games": 13,
+            "stats": {
+              "tackles": 122,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 16
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "David Santos",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Nebraska",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ciante Evans",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Corey Cooper",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Josh Mitchell",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Adrian Martinez",
+            "games": 12,
+            "stats": {
+              "passYds": 2406,
+              "passTDs": 17,
+              "intsSeason": 7,
+              "qbr": 148,
+              "rushYds": 665,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Casey Thompson",
+            "games": 12,
+            "stats": {
+              "passYds": 2407,
+              "passTDs": 17,
+              "intsSeason": 8,
+              "qbr": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Dylan Raiola",
+            "games": 12,
+            "stats": {
+              "passYds": 2788,
+              "passTDs": 22,
+              "intsSeason": 7,
+              "qbr": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Rahmir Johnson",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 7,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Anthony Grant",
+            "games": 12,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Emmett Johnson",
+            "games": 12,
+            "stats": {
+              "rushYds": 758,
+              "rushTDs": 7,
+              "ypc": 5.6,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Trey Palmer",
+            "games": 12,
+            "stats": {
+              "rec": 58,
+              "recYds": 878,
+              "recTDs": 8,
+              "yac": 275
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 121,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Oliver Martin",
+            "games": 12,
+            "stats": {
+              "rec": 42,
+              "recYds": 628,
+              "recTDs": 5,
+              "yac": 198
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jacory Barney Jr.",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 484,
+              "recTDs": 5,
+              "yac": 240
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Travis Vokolek",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Thomas Fidone II",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Luke Lindenmeyer",
+            "games": 11,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2023 Nebraska OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 20,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 88,
+              "runBlockEff": 63
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ty Robinson",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 79,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ochaun Mathis",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 72,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nash Hutmacher",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "John Bullock",
+            "games": 13,
+            "stats": {
+              "tackles": 70,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Luke Reimer",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Randolph Kpai",
+            "games": 12,
+            "stats": {
+              "tackles": 78,
+              "sacks": 4,
+              "ints": 0,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Nebraska",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Tommi Hill",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marques Buford Jr.",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Isaac Gifford",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

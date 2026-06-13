@@ -1,0 +1,1926 @@
+{
+  "school": "Oregon",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Chris Miller",
+            "games": 11,
+            "stats": {
+              "passYds": 2034,
+              "passTDs": 17,
+              "intsSeason": 8,
+              "qbr": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Jorgensen",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 12,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bill Musgrave",
+            "games": 12,
+            "stats": {
+              "passYds": 2155,
+              "passTDs": 18,
+              "intsSeason": 8,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Derek Loville",
+            "games": 11,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.4,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tony Cherry",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ladaria Johnson",
+            "games": 11,
+            "stats": {
+              "rushYds": 688,
+              "rushTDs": 6,
+              "ypc": 4.8,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael McClellan",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 6,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lew Barnes",
+            "games": 11,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 92,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vince Williams",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 412,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Terry Obee",
+            "games": 11,
+            "stats": {
+              "rec": 40,
+              "recYds": 612,
+              "recTDs": 5,
+              "yac": 196
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "Late-1980s Oregon pass-catcher (listed WR); no notable 1980s Oregon TE of record."
+            }
+          },
+          {
+            "name": "Joe Reitzug",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 455,
+              "recTDs": 3,
+              "yac": 150
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Late-1980s Oregon pass-catcher (Musgrave-era target, listed WR); no notable 1980s Oregon TE of record."
+            }
+          },
+          {
+            "name": "Tony Hargain",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 420,
+              "recTDs": 3,
+              "yac": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 260,
+              "collegeDominance": "veryGood",
+              "note": "Late-1980s Oregon pass-catcher (listed WR); no notable 1980s Oregon TE of record."
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1989 Oregon OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 18,
+              "pancakeBlocksSeason": 145,
+              "passBlockEff": 87,
+              "runBlockEff": 62
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Matt Brock",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 75,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Baack",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 140,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vince Goldsmith",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef",
+              "note": "All-America DT in 1980 (Morris Trophy); career spanned late 1970s into 1980."
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Dave Cusano",
+            "games": 11,
+            "stats": {
+              "tackles": 102,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Don Pellum",
+            "games": 11,
+            "stats": {
+              "tackles": 90,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Joe Farwell",
+            "games": 11,
+            "stats": {
+              "tackles": 110,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef",
+              "note": "Career began 1989; only Duck to lead team in tackles three straight years."
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Oregon",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Anthony Newman",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Oldham",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 105,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Daryle Smith",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 13,
+              "tackles": 44,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "Oregon CB whose career began 1989."
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Bill Musgrave",
+            "games": 11,
+            "stats": {
+              "passYds": 2155,
+              "passTDs": 18,
+              "intsSeason": 8,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Danny O'Neil",
+            "games": 12,
+            "stats": {
+              "passYds": 3091,
+              "passTDs": 29,
+              "intsSeason": 7,
+              "qbr": 172
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Akili Smith",
+            "games": 11,
+            "stats": {
+              "passYds": 3763,
+              "passTDs": 32,
+              "intsSeason": 10,
+              "qbr": 182
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Reuben Droughns",
+            "games": 12,
+            "stats": {
+              "rushYds": 1254,
+              "rushTDs": 11,
+              "ypc": 5.6,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 84,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Saladin McCullough",
+            "games": 12,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.3,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dino Philyaw",
+            "games": 12,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 8,
+              "ypc": 5.1,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Cristin McLemore",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tony Hartley",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Peter Nguyen",
+            "games": 11,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ed Dickson",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "nflDraftPick": 95,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Hardin",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Terrence Carroll",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1994 Oregon OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 89,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Saul Patu",
+            "games": 12,
+            "stats": {
+              "sacks": 11,
+              "tfls": 21,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Matt LaBounty",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Marcus Woods",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 10,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Jeremy Asher",
+            "games": 12,
+            "stats": {
+              "tackles": 120,
+              "sacks": 6,
+              "ints": 1,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Peter Sirmon",
+            "games": 12,
+            "stats": {
+              "tackles": 118,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Keith Heyward",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Oregon",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Alex Molden",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 26,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 10,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kenny Wheaton",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 20,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 75,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Herman O'Berry",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Joey Harrington",
+            "games": 11,
+            "stats": {
+              "passYds": 3474,
+              "passTDs": 31,
+              "intsSeason": 7,
+              "qbr": 178
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kellen Clemens",
+            "games": 12,
+            "stats": {
+              "passYds": 2743,
+              "passTDs": 22,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 43,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dennis Dixon",
+            "games": 12,
+            "stats": {
+              "passYds": 2136,
+              "passTDs": 20,
+              "intsSeason": 5,
+              "qbr": 168,
+              "rushYds": 588,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 174,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Jonathan Stewart",
+            "games": 13,
+            "stats": {
+              "rushYds": 1722,
+              "rushTDs": 14,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Onterrio Smith",
+            "games": 12,
+            "stats": {
+              "rushYds": 1188,
+              "rushTDs": 11,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 108,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeremiah Johnson",
+            "games": 13,
+            "stats": {
+              "rushYds": 1155,
+              "rushTDs": 13,
+              "ypc": 5.8,
+              "recYds": 188
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 154,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Samie Parker",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 109,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brian Peko",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cameron Colvin",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 4,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Greg Olsen",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 462,
+              "recTDs": 5,
+              "yac": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 31,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tim Day",
+            "games": 12,
+            "stats": {
+              "rec": 20,
+              "recYds": 242,
+              "recTDs": 3,
+              "yac": 78
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Dante Rosario",
+            "games": 12,
+            "stats": {
+              "rec": 24,
+              "recYds": 292,
+              "recTDs": 3,
+              "yac": 92
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2001 Oregon OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 178,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Haloti Ngata",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 17,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Nick Reed",
+            "games": 13,
+            "stats": {
+              "sacks": 13,
+              "tfls": 20,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 230,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Igor Olshansky",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 35,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Spencer Paysinger",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matt Toeaina",
+            "games": 12,
+            "stats": {
+              "tackles": 92,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Aliama Fonoti",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Oregon",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Jairus Byrd",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "T.J. Ward",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 70,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Walter Thurmond",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 111,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Marcus Mariota",
+            "games": 15,
+            "stats": {
+              "passYds": 4454,
+              "passTDs": 42,
+              "intsSeason": 4,
+              "qbr": 205,
+              "rushYds": 770,
+              "rushTDs": 15
+            },
+            "bonuses": {
+              "heisman": true,
+              "otherNamedCollegeAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 2,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Darron Thomas",
+            "games": 14,
+            "stats": {
+              "passYds": 2467,
+              "passTDs": 28,
+              "intsSeason": 7,
+              "qbr": 168,
+              "rushYds": 412,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Justin Herbert",
+            "games": 14,
+            "stats": {
+              "passYds": 3471,
+              "passTDs": 32,
+              "intsSeason": 6,
+              "qbr": 185,
+              "rushYds": 60,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 6,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "LaMichael James",
+            "games": 14,
+            "stats": {
+              "rushYds": 1731,
+              "rushTDs": 21,
+              "ypc": 6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 61,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Kenjon Barner",
+            "games": 14,
+            "stats": {
+              "rushYds": 1767,
+              "rushTDs": 22,
+              "ypc": 6.7,
+              "recYds": 185
+            },
+            "bonuses": {
+              "doakWalker": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Thomas Tyner",
+            "games": 13,
+            "stats": {
+              "rushYds": 945,
+              "rushTDs": 10,
+              "ypc": 5.8,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Josh Huff",
+            "games": 14,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 7,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 82,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bralon Addison",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 8,
+              "yac": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darren Carrington",
+            "games": 14,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Colt Lyerla",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 462,
+              "recTDs": 5,
+              "yac": 152
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Johnny Mundt",
+            "games": 14,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 228,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Evan Baylis",
+            "games": 13,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2014 Oregon OL",
+            "games": 15,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 192,
+              "passBlockEff": 93,
+              "runBlockEff": 74
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "DeForest Buckner",
+            "games": 14,
+            "stats": {
+              "sacks": 10,
+              "tfls": 17,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dion Jordan",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 3,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Arik Armstead",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Kiko Alonso",
+            "games": 14,
+            "stats": {
+              "tackles": 122,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 16
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 46,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Boseko Lokombo",
+            "games": 14,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rodney Hardrick",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Oregon",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ifo Ekpre-Olomu",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 52,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 186,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Erick Dargan",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 232,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dior Mathis",
+            "games": 14,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Bo Nix",
+            "games": 14,
+            "stats": {
+              "passYds": 4508,
+              "passTDs": 45,
+              "intsSeason": 3,
+              "qbr": 202
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 12,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Dillon Gabriel",
+            "games": 14,
+            "stats": {
+              "passYds": 3857,
+              "passTDs": 30,
+              "intsSeason": 6,
+              "qbr": 186,
+              "rushYds": 150,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 94,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dante Moore",
+            "games": 15,
+            "stats": {
+              "passYds": 3565,
+              "passTDs": 30,
+              "intsSeason": 10,
+              "qbr": 172,
+              "rushYds": 120,
+              "rushTDs": 3
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Bucky Irving",
+            "games": 13,
+            "stats": {
+              "rushYds": 1180,
+              "rushTDs": 10,
+              "ypc": 6.6,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 125,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Travis Dye",
+            "games": 13,
+            "stats": {
+              "rushYds": 1271,
+              "rushTDs": 16,
+              "ypc": 5.8,
+              "recYds": 225
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jordan James",
+            "games": 14,
+            "stats": {
+              "rushYds": 1267,
+              "rushTDs": 15,
+              "ypc": 5.4,
+              "recYds": 209
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 147,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Troy Franklin",
+            "games": 14,
+            "stats": {
+              "rec": 72,
+              "recYds": 1083,
+              "recTDs": 14,
+              "yac": 342
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tez Johnson",
+            "games": 13,
+            "stats": {
+              "rec": 60,
+              "recYds": 902,
+              "recTDs": 8,
+              "yac": 285
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chase Cota",
+            "games": 14,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Cam McCormick",
+            "games": 13,
+            "stats": {
+              "rec": 32,
+              "recYds": 388,
+              "recTDs": 4,
+              "yac": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Patrick Herbert",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Moliki Matavao",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2023 Oregon OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 188,
+              "passBlockEff": 93,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Kayvon Thibodeaux",
+            "games": 10,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 16,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "bednarik": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Derrick Harmon",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 10.5,
+              "hurries": 21,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jordan Burch",
+            "games": 10,
+            "stats": {
+              "sacks": 8.5,
+              "tfls": 11,
+              "hurries": 18,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "nflDraftPick": 78,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Justin Flowe",
+            "games": 14,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Noah Sewell",
+            "games": 14,
+            "stats": {
+              "tackles": 118,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bryce Boettcher",
+            "games": 14,
+            "stats": {
+              "tackles": 94,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "otherNamedCollegeAward": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Oregon",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Christian Gonzalez",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 24,
+              "tackles": 48,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 17,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kris Hutson",
+            "games": 14,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dillon Thieneman",
+            "games": 14,
+            "stats": {
+              "ints": 2,
+              "pbus": 4,
+              "tackles": 64,
+              "ff": 0,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+# Auto cache-busting for static assets.
+#
+# Whenever js/ or css/ change, this stamps a content hash onto every
+# <script src="js/..."> / <link href="css/..."> URL in index.html (e.g.
+# js/game.js?v=7379669c28). Browsers then always fetch the fresh file after a
+# deploy, eliminating the stale-cached-JS version skew (old game.js + new
+# index.html -> "null is not an object" crashes).
+#
+# The hash only changes when the JS/CSS bytes change, so unrelated commits don't
+# churn it. The resulting index.html-only commit is skipped by the paths filter
+# (and [skip ci]) so it can't re-trigger this workflow.
+name: Cache-bust assets
+
+on:
+  push:
+    branches:
+      - claude/data-folder-consolidation-05v70p
+      - main
+    paths:
+      - 'js/**'
+      - 'css/**'
+
+permissions:
+  contents: write
+
+jobs:
+  stamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stamp asset URLs with a content hash
+        run: |
+          HASH=$(cat css/*.css js/*.js | sha1sum | cut -c1-10)
+          sed -i -E 's#(src|href)="((css|js)/[^"?]+)(\?v=[^"]*)?"#\1="\2?v='"$HASH"'"#g' index.html
+          echo "Stamped assets with ?v=$HASH"
+
+      - name: Commit if the stamp changed
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "Asset hash unchanged — nothing to commit."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add index.html
+            git commit -m "ci: cache-bust assets [skip ci]"
+            git push
+          fi

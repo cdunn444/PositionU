@@ -1,0 +1,1889 @@
+{
+  "school": "Utah",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Lew Barnes",
+            "games": 11,
+            "stats": {
+              "passYds": 1488,
+              "passTDs": 11,
+              "intsSeason": 6,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 92,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Scott Mitchell",
+            "games": 12,
+            "stats": {
+              "passYds": 2806,
+              "passTDs": 24,
+              "intsSeason": 8,
+              "qbr": 168
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 98,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Medved",
+            "games": 11,
+            "stats": {
+              "passYds": 1288,
+              "passTDs": 10,
+              "intsSeason": 6,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Kenny Jenson",
+            "games": 11,
+            "stats": {
+              "rushYds": 1009,
+              "rushTDs": 10,
+              "ypc": 5.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 105,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "James Callen",
+            "games": 11,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5.1,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Peter Sari",
+            "games": 11,
+            "stats": {
+              "rushYds": 622,
+              "rushTDs": 5,
+              "ypc": 4.9,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Loren Richey",
+            "games": 11,
+            "stats": {
+              "rec": 73,
+              "recYds": 971,
+              "recTDs": 7,
+              "yac": 320
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Carl Harry",
+            "games": 11,
+            "stats": {
+              "rec": 58,
+              "recYds": 902,
+              "recTDs": 8,
+              "yac": 300
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bryan Rowley",
+            "games": 11,
+            "stats": {
+              "rec": 44,
+              "recYds": 712,
+              "recTDs": 5,
+              "yac": 230
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Dennis Smith",
+            "games": 11,
+            "stats": {
+              "rec": 60,
+              "recYds": 1000,
+              "recTDs": 18,
+              "yac": 290
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Steve Folsom",
+            "games": 11,
+            "stats": {
+              "rec": 24,
+              "recYds": 352,
+              "recTDs": 4,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 312,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eddie Johnson",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 240,
+              "recTDs": 2,
+              "yac": 150
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 Utah OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 155,
+              "passBlockEff": 88,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Steve Clark",
+            "games": 11,
+            "stats": {
+              "sacks": 12,
+              "tfls": 16,
+              "hurries": 18,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Peter Owens",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jeff Reyes",
+            "games": 11,
+            "stats": {
+              "sacks": 14,
+              "tfls": 12,
+              "hurries": 13,
+              "ff": 4,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Mark Blosch",
+            "games": 11,
+            "stats": {
+              "tackles": 123,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 3
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Pita Tonga Sr.",
+            "games": 11,
+            "stats": {
+              "tackles": 94,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Garland Harris",
+            "games": 11,
+            "stats": {
+              "tackles": 102,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Utah",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Erroll Tucker",
+            "games": 11,
+            "stats": {
+              "ints": 6,
+              "pbus": 9,
+              "tackles": 70,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 130,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jeff Griffin",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 3,
+              "tackles": 81,
+              "ff": 3,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eric Jacobsen",
+            "games": 11,
+            "stats": {
+              "ints": 7,
+              "pbus": 5,
+              "tackles": 138,
+              "ff": 5,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Mike McCoy",
+            "games": 11,
+            "stats": {
+              "passYds": 2542,
+              "passTDs": 20,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Fouts",
+            "games": 11,
+            "stats": {
+              "passYds": 2388,
+              "passTDs": 19,
+              "intsSeason": 10,
+              "qbr": 140
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Frank Dolce",
+            "games": 11,
+            "stats": {
+              "passYds": 1788,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 132,
+              "rushYds": 220,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Chris Fuamatu-Ma'afala",
+            "games": 12,
+            "stats": {
+              "rushYds": 1266,
+              "rushTDs": 12,
+              "ypc": 5.5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 51,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Juan Johnson",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 4.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Charlie Brown",
+            "games": 11,
+            "stats": {
+              "rushYds": 644,
+              "rushTDs": 6,
+              "ypc": 4.7,
+              "recYds": 96
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kevin Dyson",
+            "games": 11,
+            "stats": {
+              "rec": 60,
+              "recYds": 824,
+              "recTDs": 7,
+              "yac": 290
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 16,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Deron Claiborne",
+            "games": 11,
+            "stats": {
+              "rec": 63,
+              "recYds": 743,
+              "recTDs": 5,
+              "yac": 240
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Curtis Marsh",
+            "games": 11,
+            "stats": {
+              "rec": 42,
+              "recYds": 620,
+              "recTDs": 4,
+              "yac": 190
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Henry Lusk",
+            "games": 11,
+            "stats": {
+              "rec": 48,
+              "recYds": 720,
+              "recTDs": 6,
+              "yac": 230
+            },
+            "bonuses": {
+              "nflDraftPick": 232,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Andy Kassotis",
+            "games": 11,
+            "stats": {
+              "rec": 22,
+              "recYds": 268,
+              "recTDs": 3,
+              "yac": 88
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Anderson",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 196,
+              "recTDs": 2,
+              "yac": 120
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1994 Utah OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 90,
+              "runBlockEff": 67
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Luther Ellis",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 17,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 20,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kevin Mitchell",
+            "games": 11,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Maurice Leggett",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Tom Barndt",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eric Weddle",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 37,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Nate Williams",
+            "games": 11,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Utah",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Harold Lusk",
+            "games": 11,
+            "stats": {
+              "ints": 6,
+              "pbus": 8,
+              "tackles": 82,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Sharrieff Shah",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 12,
+              "tackles": 64,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cal Beck",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 11,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Alex Smith",
+            "games": 13,
+            "stats": {
+              "passYds": 2952,
+              "passTDs": 32,
+              "intsSeason": 4,
+              "qbr": 188,
+              "rushYds": 444,
+              "rushTDs": 10
+            },
+            "bonuses": {
+              "heisman": true,
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Brian Johnson",
+            "games": 13,
+            "stats": {
+              "passYds": 2336,
+              "passTDs": 21,
+              "intsSeason": 5,
+              "qbr": 168,
+              "rushYds": 512,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 212,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brett Ratliff",
+            "games": 12,
+            "stats": {
+              "passYds": 2155,
+              "passTDs": 17,
+              "intsSeason": 7,
+              "qbr": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 199,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Quinton Ganther",
+            "games": 13,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 9,
+              "ypc": 5.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eddie Wide",
+            "games": 13,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 7,
+              "ypc": 5.1,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Darrell Mack",
+            "games": 12,
+            "stats": {
+              "rushYds": 712,
+              "rushTDs": 6,
+              "ypc": 5,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Paris Warren",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Derek Hagen",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 68,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brice Butler",
+            "games": 13,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jonny Harline",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Naufahu Tahi",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Freddie Brown",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2004-08 Utah OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 12,
+              "pancakeBlocksSeason": 185,
+              "passBlockEff": 93,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "outland": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Paul Kruger",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 17,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 69,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Steve Fifita",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 13,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllConference": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sealver Siliga",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Joe Jiannoni",
+            "games": 11,
+            "stats": {
+              "tackles": 92,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Stevenson Sylvester",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Koa Misi",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Utah",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Eric Weddle",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 26,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 37,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darrell Cox",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "David Nixon",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jordan Wynn",
+            "games": 11,
+            "stats": {
+              "passYds": 2052,
+              "passTDs": 15,
+              "intsSeason": 7,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Travis Wilson",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 14,
+              "intsSeason": 6,
+              "qbr": 145,
+              "rushYds": 412,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Huntley",
+            "games": 12,
+            "stats": {
+              "passYds": 2236,
+              "passTDs": 18,
+              "intsSeason": 4,
+              "qbr": 162,
+              "rushYds": 512,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Devontae Booker",
+            "games": 12,
+            "stats": {
+              "rushYds": 1475,
+              "rushTDs": 12,
+              "ypc": 5.8,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 136,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "John White IV",
+            "games": 13,
+            "stats": {
+              "rushYds": 1519,
+              "rushTDs": 13,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 140,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Zack Moss",
+            "games": 12,
+            "stats": {
+              "rushYds": 1375,
+              "rushTDs": 15,
+              "ypc": 5.7,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 86,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kaelin Clay",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 184,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Siale Fakailoatonga",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 4,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Britain Covey",
+            "games": 12,
+            "stats": {
+              "rec": 44,
+              "recYds": 658,
+              "recTDs": 5,
+              "yac": 208
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Jake Murphy",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Stone Gildersleeve",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Harrison Handley",
+            "games": 11,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2019 Utah OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 182,
+              "passBlockEff": 92,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Star Lotulelei",
+            "games": 13,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Nate Fakahafua",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Leki Fotu",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 114,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Cody Barton",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 86,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Caleb Repp",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sunia Filitolu",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Utah",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Marcus Williams",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 42,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Julian Blackmon",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dominique Hatfield",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Cam Rising",
+            "games": 12,
+            "stats": {
+              "passYds": 3034,
+              "passTDs": 26,
+              "intsSeason": 7,
+              "qbr": 172,
+              "rushYds": 488,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tyler Huntley",
+            "games": 11,
+            "stats": {
+              "passYds": 2107,
+              "passTDs": 17,
+              "intsSeason": 4,
+              "qbr": 162,
+              "rushYds": 512,
+              "rushTDs": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Devon Dampier",
+            "games": 12,
+            "stats": {
+              "passYds": 2490,
+              "passTDs": 24,
+              "intsSeason": 5,
+              "qbr": 153,
+              "rushYds": 835,
+              "rushTDs": 10
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Zack Moss",
+            "games": 12,
+            "stats": {
+              "rushYds": 1416,
+              "rushTDs": 15,
+              "ypc": 5.8,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 86,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tavion Thomas",
+            "games": 12,
+            "stats": {
+              "rushYds": 1042,
+              "rushTDs": 21,
+              "ypc": 5.5,
+              "recYds": 120
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Micah Bernard",
+            "games": 12,
+            "stats": {
+              "rushYds": 1009,
+              "rushTDs": 4,
+              "ypc": 5.1,
+              "recYds": 150
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Britain Covey",
+            "games": 12,
+            "stats": {
+              "rec": 60,
+              "recYds": 900,
+              "recTDs": 6,
+              "yac": 285
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dorian Singer",
+            "games": 12,
+            "stats": {
+              "rec": 53,
+              "recYds": 702,
+              "recTDs": 1,
+              "yac": 205
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Devaughn Vele",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 717,
+              "recTDs": 5,
+              "yac": 220
+            },
+            "bonuses": {
+              "nflDraftPick": 235,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Brant Kuithe",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 628,
+              "recTDs": 7,
+              "yac": 218
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Landen Vincent",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Thomas Yassmin",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2021 Utah OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 185,
+              "passBlockEff": 93,
+              "runBlockEff": 73
+            },
+            "bonuses": {
+              "outland": true,
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Mika Tafua",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jonah Elliss",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 24,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Leki Fotu",
+            "games": 12,
+            "stats": {
+              "sacks": 4,
+              "tfls": 7,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 114,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Devin Lloyd",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 5,
+              "ints": 4,
+              "tfls": 15
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Moana Keobounnam",
+            "games": 12,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lander Barton",
+            "games": 12,
+            "stats": {
+              "tackles": 90,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Utah",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Clark Phillips III",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brandon McKinney",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "R.J. Hubert",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

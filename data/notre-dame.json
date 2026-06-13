@@ -1,0 +1,2357 @@
+{
+  "school": "Notre Dame",
+  "eras": {
+    "70s": {
+      "QB": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Joe Montana",
+            "games": 11,
+            "stats": {
+              "passYds": 1604,
+              "passTDs": 15,
+              "intsSeason": 5,
+              "qbr": 155,
+              "rushYds": 188,
+              "rushTDs": 4
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 82,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Tom Clements",
+            "games": 11,
+            "stats": {
+              "passYds": 1284,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 99,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Rusty Lisch",
+            "games": 11,
+            "stats": {
+              "passYds": 1318,
+              "passTDs": 7,
+              "intsSeason": 10,
+              "qbr": 118
+            },
+            "bonuses": {
+              "nflDraftPick": 118,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Jerome Heavens",
+            "games": 11,
+            "stats": {
+              "rushYds": 994,
+              "rushTDs": 8,
+              "ypc": 5.2,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 100,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Vagas Ferguson",
+            "games": 11,
+            "stats": {
+              "rushYds": 1437,
+              "rushTDs": 11,
+              "ypc": 5.8,
+              "recYds": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 25,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mark McLane",
+            "games": 11,
+            "stats": {
+              "rushYds": 812,
+              "rushTDs": 6,
+              "ypc": 5,
+              "recYds": 88
+            },
+            "bonuses": {
+              "nflDraftPick": 150,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Kris Haines",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 562,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 120,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pete Demmerle",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 152
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Tom Gatewood",
+            "games": 11,
+            "stats": {
+              "rec": 77,
+              "recYds": 1123,
+              "recTDs": 8,
+              "yac": 330
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 50,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ken MacAfee",
+            "games": 11,
+            "stats": {
+              "rec": 54,
+              "recYds": 797,
+              "recTDs": 8,
+              "yac": 252
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "otherNamedCollegeAward": true,
+              "nflDraftPick": 7,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dave Casper",
+            "games": 11,
+            "stats": {
+              "rec": 32,
+              "recYds": 412,
+              "recTDs": 5,
+              "yac": 138
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Robin Weber",
+            "games": 11,
+            "stats": {
+              "rec": 6,
+              "recYds": 95,
+              "recTDs": 1,
+              "yac": 30
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1973-77 ND OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 90,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Ross Browner",
+            "games": 11,
+            "stats": {
+              "sacks": 10,
+              "tfls": 16,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Mike Fanning",
+            "games": 11,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 26,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Willie Fry",
+            "games": 11,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Bob Golic",
+            "games": 11,
+            "stats": {
+              "tackles": 118,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 18
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 56,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bruce Olivier",
+            "games": 11,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 135,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Drew Mahalic",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Notre Dame",
+        "era": "70s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Luther Bradley",
+            "games": 11,
+            "stats": {
+              "ints": 7,
+              "pbus": 30,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 10,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jim Browner",
+            "games": 11,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 62,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 35,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Randy Harrison",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 150,
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Everett Golson",
+            "games": 13,
+            "stats": {
+              "passYds": 2405,
+              "passTDs": 19,
+              "intsSeason": 5,
+              "qbr": 155,
+              "rushYds": 550,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 205,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "DeShone Kizer",
+            "games": 13,
+            "stats": {
+              "passYds": 2925,
+              "passTDs": 26,
+              "intsSeason": 9,
+              "qbr": 158,
+              "rushYds": 556,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 52,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Brandon Wimbush",
+            "games": 12,
+            "stats": {
+              "passYds": 1870,
+              "passTDs": 16,
+              "intsSeason": 11,
+              "qbr": 128,
+              "rushYds": 892,
+              "rushTDs": 14
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Theo Riddick",
+            "games": 13,
+            "stats": {
+              "rushYds": 748,
+              "rushTDs": 9,
+              "ypc": 5.1,
+              "recYds": 448
+            },
+            "bonuses": {
+              "nflDraftPick": 199,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cierre Wood",
+            "games": 13,
+            "stats": {
+              "rushYds": 1102,
+              "rushTDs": 9,
+              "ypc": 5.5,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Josh Adams",
+            "games": 13,
+            "stats": {
+              "rushYds": 1386,
+              "rushTDs": 7,
+              "ypc": 6.9,
+              "recYds": 88
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 169,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Michael Floyd",
+            "games": 13,
+            "stats": {
+              "rec": 100,
+              "recYds": 1147,
+              "recTDs": 12,
+              "yac": 368
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 13,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Will Fuller",
+            "games": 13,
+            "stats": {
+              "rec": 62,
+              "recYds": 1007,
+              "recTDs": 14,
+              "yac": 335
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chase Claypool",
+            "games": 13,
+            "stats": {
+              "rec": 66,
+              "recYds": 1037,
+              "recTDs": 13,
+              "yac": 360
+            },
+            "bonuses": {
+              "nflDraftPick": 49,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Tyler Eifert",
+            "games": 13,
+            "stats": {
+              "rec": 63,
+              "recYds": 714,
+              "recTDs": 6,
+              "yac": 225
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 21,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Troy Niklas",
+            "games": 13,
+            "stats": {
+              "rec": 35,
+              "recYds": 461,
+              "recTDs": 5,
+              "yac": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 52,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ben Koyack",
+            "games": 13,
+            "stats": {
+              "rec": 30,
+              "recYds": 317,
+              "recTDs": 2,
+              "yac": 105
+            },
+            "bonuses": {
+              "nflDraftPick": 229,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2012 Notre Dame OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 168,
+              "passBlockEff": 91,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Stephon Tuitt",
+            "games": 13,
+            "stats": {
+              "sacks": 10,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 46,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Louis Nix III",
+            "games": 13,
+            "stats": {
+              "sacks": 3,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 78,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sheldon Day",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 107,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Manti Te'o",
+            "games": 13,
+            "stats": {
+              "tackles": 113,
+              "sacks": 5,
+              "ints": 7,
+              "tfls": 10
+            },
+            "bonuses": {
+              "butkus": true,
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jaylon Smith",
+            "games": 12,
+            "stats": {
+              "tackles": 92,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "butkus": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 34,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Carlo Calabrese",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Notre Dame",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Bennett Jackson",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "KeiVarae Russell",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 108,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Matthias Farley",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 18,
+              "tackles": 68,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "80s": {
+      "QB": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Blair Kiel",
+            "games": 11,
+            "stats": {
+              "passYds": 1268,
+              "passTDs": 10,
+              "intsSeason": 7,
+              "qbr": 128
+            },
+            "bonuses": {
+              "nflDraftPick": 101,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Steve Beuerlein",
+            "games": 12,
+            "stats": {
+              "passYds": 2211,
+              "passTDs": 17,
+              "intsSeason": 8,
+              "qbr": 148
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 112,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tony Rice",
+            "games": 12,
+            "stats": {
+              "passYds": 1122,
+              "passTDs": 8,
+              "intsSeason": 5,
+              "qbr": 128,
+              "rushYds": 884,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Allen Pinkett",
+            "games": 12,
+            "stats": {
+              "rushYds": 1394,
+              "rushTDs": 18,
+              "ypc": 5.6,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 52,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mark Green",
+            "games": 12,
+            "stats": {
+              "rushYds": 1001,
+              "rushTDs": 10,
+              "ypc": 5.2,
+              "recYds": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ricky Watters",
+            "games": 12,
+            "stats": {
+              "rushYds": 858,
+              "rushTDs": 8,
+              "ypc": 5.8,
+              "recYds": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Tim Brown",
+            "games": 12,
+            "stats": {
+              "rec": 45,
+              "recYds": 846,
+              "recTDs": 8,
+              "yac": 272
+            },
+            "bonuses": {
+              "heisman": true,
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 6,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Milt Jackson",
+            "games": 12,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 5,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pat Eilers",
+            "games": 12,
+            "stats": {
+              "rec": 32,
+              "recYds": 478,
+              "recTDs": 4,
+              "yac": 150
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Mark Bavaro",
+            "games": 12,
+            "stats": {
+              "rec": 32,
+              "recYds": 395,
+              "recTDs": 5,
+              "yac": 128
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Joel Williams",
+            "games": 11,
+            "stats": {
+              "rec": 13,
+              "recYds": 138,
+              "recTDs": 3,
+              "yac": 45
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Derek Brown",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 Notre Dame OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 175,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Michael Stonebreaker",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Frank Stams",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 13,
+              "hurries": 18,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 115,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Zorich",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 49,
+              "nationalChampionship": true,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Ned Bolcar",
+            "games": 12,
+            "stats": {
+              "tackles": 108,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 135,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Wes Pritchett",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 12
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Kovaleski",
+            "games": 11,
+            "stats": {
+              "tackles": 90,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 168,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Notre Dame",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Pat Terrell",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 24,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Stacy Toran",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "nationalChampionship": true,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Todd Lyght",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 22,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "nationalChampionship": true,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Rick Mirer",
+            "games": 12,
+            "stats": {
+              "passYds": 2117,
+              "passTDs": 18,
+              "intsSeason": 8,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 2,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ron Powlus",
+            "games": 12,
+            "stats": {
+              "passYds": 2078,
+              "passTDs": 16,
+              "intsSeason": 8,
+              "qbr": 142
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jarious Jackson",
+            "games": 12,
+            "stats": {
+              "passYds": 1740,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 142,
+              "rushYds": 512,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Ricky Watters",
+            "games": 12,
+            "stats": {
+              "rushYds": 858,
+              "rushTDs": 8,
+              "ypc": 5.8,
+              "recYds": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 45,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ray Zellars",
+            "games": 12,
+            "stats": {
+              "rushYds": 1038,
+              "rushTDs": 10,
+              "ypc": 5.3,
+              "recYds": 185
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 56,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Autry Denson",
+            "games": 12,
+            "stats": {
+              "rushYds": 1179,
+              "rushTDs": 16,
+              "ypc": 5.5,
+              "recYds": 225
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 82,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Derrick Mayes",
+            "games": 12,
+            "stats": {
+              "rec": 55,
+              "recYds": 848,
+              "recTDs": 8,
+              "yac": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Lake Dawson",
+            "games": 12,
+            "stats": {
+              "rec": 46,
+              "recYds": 698,
+              "recTDs": 6,
+              "yac": 220
+            },
+            "bonuses": {
+              "nflDraftPick": 78,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bobby Brown",
+            "games": 12,
+            "stats": {
+              "rec": 45,
+              "recYds": 608,
+              "recTDs": 6,
+              "yac": 195
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Derek Brown",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 110
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Pete Chryplewicz",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Dan O'Leary",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1993 Notre Dame OL",
+            "games": 11,
+            "stats": {
+              "sacksAllowedSeason": 16,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 90,
+              "runBlockEff": 66
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Chris Zorich",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 14,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "outland": true,
+              "lombardiAward": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Bryant Young",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Renaldo Wynn",
+            "games": 12,
+            "stats": {
+              "sacks": 9,
+              "tfls": 11,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 21,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Bob Dahl",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "nflDraftPick": 90,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kory Minor",
+            "games": 12,
+            "stats": {
+              "tackles": 112,
+              "sacks": 6,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 55,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Clint Johnson",
+            "games": 12,
+            "stats": {
+              "tackles": 95,
+              "sacks": 4,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Notre Dame",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Todd Lyght",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 26,
+              "tackles": 50,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Deke Cooper",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 50,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ivory Covington",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Brady Quinn",
+            "games": 13,
+            "stats": {
+              "passYds": 3426,
+              "passTDs": 32,
+              "intsSeason": 9,
+              "qbr": 168
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 22,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Carlyle Holiday",
+            "games": 12,
+            "stats": {
+              "passYds": 1555,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 132,
+              "rushYds": 612,
+              "rushTDs": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jimmy Clausen",
+            "games": 13,
+            "stats": {
+              "passYds": 3722,
+              "passTDs": 28,
+              "intsSeason": 9,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 48,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Julius Jones",
+            "games": 12,
+            "stats": {
+              "rushYds": 1268,
+              "rushTDs": 8,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Darius Walker",
+            "games": 13,
+            "stats": {
+              "rushYds": 1196,
+              "rushTDs": 11,
+              "ypc": 5.3,
+              "recYds": 185
+            },
+            "bonuses": {
+              "nflDraftPick": 95,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "James Aldridge",
+            "games": 12,
+            "stats": {
+              "rushYds": 855,
+              "rushTDs": 8,
+              "ypc": 5,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jeff Samardzija",
+            "games": 13,
+            "stats": {
+              "rec": 78,
+              "recYds": 1018,
+              "recTDs": 13,
+              "yac": 322
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 5,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rhema McKnight",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 808,
+              "recTDs": 7,
+              "yac": 256
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "David Grimes",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 5,
+              "yac": 228
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "John Carlson",
+            "games": 13,
+            "stats": {
+              "rec": 38,
+              "recYds": 468,
+              "recTDs": 5,
+              "yac": 158
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 38,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jed Collins",
+            "games": 12,
+            "stats": {
+              "rec": 20,
+              "recYds": 242,
+              "recTDs": 3,
+              "yac": 78
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Will Yeatman",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2006 Notre Dame OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 162,
+              "passBlockEff": 90,
+              "runBlockEff": 65
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Victor Abiamiri",
+            "games": 13,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 57,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kyle Budinscak",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Derek Landri",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Courtney Watson",
+            "games": 13,
+            "stats": {
+              "tackles": 118,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Brandon Hoyte",
+            "games": 13,
+            "stats": {
+              "tackles": 105,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Maurice Crum Jr.",
+            "games": 13,
+            "stats": {
+              "tackles": 112,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 185,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Notre Dame",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Tom Zbikowski",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 68,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 86,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Terrail Lambert",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Ambrose Wooden",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 190,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Ian Book",
+            "games": 12,
+            "stats": {
+              "passYds": 2459,
+              "passTDs": 20,
+              "intsSeason": 4,
+              "qbr": 158,
+              "rushYds": 514,
+              "rushTDs": 6
+            },
+            "bonuses": {
+              "nflDraftPick": 133,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sam Hartman",
+            "games": 14,
+            "stats": {
+              "passYds": 3416,
+              "passTDs": 34,
+              "intsSeason": 7,
+              "qbr": 175
+            },
+            "bonuses": {
+              "nflDraftPick": 183,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Riley Leonard",
+            "games": 14,
+            "stats": {
+              "passYds": 2557,
+              "passTDs": 18,
+              "intsSeason": 6,
+              "qbr": 155,
+              "rushYds": 756,
+              "rushTDs": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 26,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Kyren Williams",
+            "games": 12,
+            "stats": {
+              "rushYds": 1002,
+              "rushTDs": 13,
+              "ypc": 5.3,
+              "recYds": 345
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 140,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Audric Estime",
+            "games": 14,
+            "stats": {
+              "rushYds": 1414,
+              "rushTDs": 18,
+              "ypc": 5.8,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 63,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jeremiyah Love",
+            "games": 16,
+            "stats": {
+              "rushYds": 1372,
+              "rushTDs": 18,
+              "ypc": 6.9,
+              "recYds": 280
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 1,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Chase Claypool",
+            "games": 13,
+            "stats": {
+              "rec": 66,
+              "recYds": 865,
+              "recTDs": 13,
+              "yac": 275
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 49,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Braden Lenzy",
+            "games": 13,
+            "stats": {
+              "rec": 34,
+              "recYds": 548,
+              "recTDs": 5,
+              "yac": 175
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kevin Austin Jr.",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 888,
+              "recTDs": 7,
+              "yac": 245
+            },
+            "bonuses": {
+              "nflDraftPick": 250,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Cole Kmet",
+            "games": 12,
+            "stats": {
+              "rec": 43,
+              "recYds": 515,
+              "recTDs": 6,
+              "yac": 178
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 43,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Michael Mayer",
+            "games": 14,
+            "stats": {
+              "rec": 69,
+              "recYds": 797,
+              "recTDs": 9,
+              "yac": 275
+            },
+            "bonuses": {
+              "mackey": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 35,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Eli Raridon",
+            "games": 13,
+            "stats": {
+              "rec": 28,
+              "recYds": 338,
+              "recTDs": 4,
+              "yac": 112
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2024 Notre Dame OL",
+            "games": 15,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 182,
+              "passBlockEff": 92,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "conferenceChampionship": true,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Isaiah Foskey",
+            "games": 13,
+            "stats": {
+              "sacks": 11,
+              "tfls": 14,
+              "hurries": 20,
+              "ff": 3,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 40,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jayson Ademilola",
+            "games": 14,
+            "stats": {
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Howard Cross III",
+            "games": 14,
+            "stats": {
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 12,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 170,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Marist Liufau",
+            "games": 14,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 100,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "JD Bertrand",
+            "games": 14,
+            "stats": {
+              "tackles": 105,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 11
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 145,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jack Kiser",
+            "games": 14,
+            "stats": {
+              "tackles": 90,
+              "sacks": 2,
+              "ints": 2,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 104,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "Notre Dame",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Kyle Hamilton",
+            "games": 10,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 55,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "bednarik": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Xavier Watts",
+            "games": 14,
+            "stats": {
+              "ints": 7,
+              "pbus": 22,
+              "tackles": 62,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "consensusAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Benjamin Morrison",
+            "games": 13,
+            "stats": {
+              "ints": 6,
+              "pbus": 14,
+              "tackles": 33,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 60,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

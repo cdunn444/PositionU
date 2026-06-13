@@ -1,0 +1,1904 @@
+{
+  "school": "West Virginia",
+  "eras": {
+    "80s": {
+      "QB": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jeff Hostetler",
+            "games": 12,
+            "stats": {
+              "passYds": 1712,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 142
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 59,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Major Harris",
+            "games": 12,
+            "stats": {
+              "passYds": 1576,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 148,
+              "rushYds": 712,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Sherwood",
+            "games": 11,
+            "stats": {
+              "passYds": 1288,
+              "passTDs": 10,
+              "intsSeason": 6,
+              "qbr": 122
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Undra Johnson",
+            "games": 12,
+            "stats": {
+              "rushYds": 1386,
+              "rushTDs": 13,
+              "ypc": 5.8,
+              "recYds": 145
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 58,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "A.B. Brown",
+            "games": 12,
+            "stats": {
+              "rushYds": 1055,
+              "rushTDs": 10,
+              "ypc": 5.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 125,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Eugene Napoleon",
+            "games": 11,
+            "stats": {
+              "rushYds": 760,
+              "rushTDs": 7,
+              "ypc": 5.0,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Keith Winn",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Gary Mullen",
+            "games": 11,
+            "stats": {
+              "rec": 38,
+              "recYds": 568,
+              "recTDs": 4,
+              "yac": 178
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Reggie Rembert",
+            "games": 11,
+            "stats": {
+              "rec": 47,
+              "recYds": 850,
+              "recTDs": 11,
+              "yac": 268
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Mark Raugh",
+            "games": 12,
+            "stats": {
+              "rec": 28,
+              "recYds": 392,
+              "recTDs": 3,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 302,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Craig Taylor",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 198,
+              "recTDs": 2,
+              "yac": 70
+            },
+            "bonuses": {
+              "nflDraftPick": 138,
+              "collegeDominance": "elite",
+              "note": "WVU FB/H-back (1988 team); listed at TE for room depth"
+            }
+          },
+          {
+            "name": "Tom Gray",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 132,
+              "recTDs": 1,
+              "yac": 44
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "WVU tight end of the era; reconstructed stats"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1988 West Virginia OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 70
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Mike Fox",
+            "games": 12,
+            "stats": {
+              "sacks": 7,
+              "tfls": 11,
+              "hurries": 14,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 28,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Tom Luicci",
+            "games": 11,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kevin Koken",
+            "games": 11,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Darryl Talley",
+            "games": 12,
+            "stats": {
+              "tackles": 120,
+              "sacks": 5,
+              "ints": 1,
+              "tfls": 14
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dennis Fowlkes",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 78,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Fred Smalls",
+            "games": 11,
+            "stats": {
+              "tackles": 82,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "West Virginia",
+        "era": "80s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Tim Agee",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 85,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Bo Orlando",
+            "games": 11,
+            "stats": {
+              "ints": 4,
+              "pbus": 16,
+              "tackles": 60,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 122,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Newberry",
+            "games": 12,
+            "stats": {
+              "ints": 6,
+              "pbus": 20,
+              "tackles": 54,
+              "ff": 1,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 165,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "90s": {
+      "QB": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Major Harris",
+            "games": 12,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 148,
+              "rushYds": 712,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Marc Bulger",
+            "games": 12,
+            "stats": {
+              "passYds": 2326,
+              "passTDs": 19,
+              "intsSeason": 8,
+              "qbr": 158
+            },
+            "bonuses": {
+              "nflDraftPick": 168,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Chad Johnston",
+            "games": 11,
+            "stats": {
+              "passYds": 1688,
+              "passTDs": 13,
+              "intsSeason": 7,
+              "qbr": 132
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Robert Walker",
+            "games": 12,
+            "stats": {
+              "rushYds": 1250,
+              "rushTDs": 11,
+              "ypc": 5.2,
+              "recYds": 145
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Amos Zereoue",
+            "games": 12,
+            "stats": {
+              "rushYds": 1165,
+              "rushTDs": 11,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 91,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Avon Cobourne",
+            "games": 12,
+            "stats": {
+              "rushYds": 1198,
+              "rushTDs": 12,
+              "ypc": 5.0,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 215,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Jerry Porter",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "David Saunders",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Khori Ivy",
+            "games": 11,
+            "stats": {
+              "rec": 28,
+              "recYds": 418,
+              "recTDs": 3,
+              "yac": 130
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Anthony Becht",
+            "games": 12,
+            "stats": {
+              "rec": 34,
+              "recYds": 462,
+              "recTDs": 5,
+              "yac": 150
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 27,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Jay Kearney",
+            "games": 11,
+            "stats": {
+              "rec": 18,
+              "recYds": 218,
+              "recTDs": 2,
+              "yac": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite",
+              "note": "WVU receiver of the era; listed at TE for room depth"
+            }
+          },
+          {
+            "name": "James Davis",
+            "games": 11,
+            "stats": {
+              "rec": 12,
+              "recYds": 138,
+              "recTDs": 1,
+              "yac": 42
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood",
+              "note": "WVU tight end of the era; reconstructed stats"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "1993 West Virginia OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 14,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "John Thornton",
+            "games": 12,
+            "stats": {
+              "sacks": 6,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 53,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Gary Stills",
+            "games": 12,
+            "stats": {
+              "sacks": 8,
+              "tfls": 12,
+              "hurries": 15,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Henry Slay",
+            "games": 12,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 173,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Canute Curtis",
+            "games": 12,
+            "stats": {
+              "tackles": 118,
+              "sacks": 16,
+              "ints": 1,
+              "tfls": 24
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 171,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Barrett Green",
+            "games": 12,
+            "stats": {
+              "tackles": 105,
+              "sacks": 5,
+              "ints": 2,
+              "tfls": 14
+            },
+            "bonuses": {
+              "nflDraftPick": 50,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Steve Grant",
+            "games": 11,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "West Virginia",
+        "era": "90s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Aaron Beasley",
+            "games": 12,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 52,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mike Logan",
+            "games": 12,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 50,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Collins",
+            "games": 11,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 56,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "00s": {
+      "QB": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Pat White",
+            "games": 14,
+            "stats": {
+              "passYds": 2350,
+              "passTDs": 22,
+              "intsSeason": 4,
+              "qbr": 175,
+              "rushYds": 1383,
+              "rushTDs": 20
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 44,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Rasheed Marshall",
+            "games": 12,
+            "stats": {
+              "passYds": 1956,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138,
+              "rushYds": 612,
+              "rushTDs": 9
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Adam Bednarik",
+            "games": 12,
+            "stats": {
+              "passYds": 1888,
+              "passTDs": 14,
+              "intsSeason": 7,
+              "qbr": 138
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Steve Slaton",
+            "games": 14,
+            "stats": {
+              "rushYds": 1744,
+              "rushTDs": 16,
+              "ypc": 6.4,
+              "recYds": 245
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 89,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Noel Devine",
+            "games": 13,
+            "stats": {
+              "rushYds": 1465,
+              "rushTDs": 14,
+              "ypc": 6.2,
+              "recYds": 165
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 225,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Kay-Jay Harris",
+            "games": 12,
+            "stats": {
+              "rushYds": 959,
+              "rushTDs": 10,
+              "ypc": 5.8,
+              "recYds": 120
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Darius Reynaud",
+            "games": 14,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Chris Henry",
+            "games": 13,
+            "stats": {
+              "rec": 48,
+              "recYds": 718,
+              "recTDs": 6,
+              "yac": 228
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 83,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Vaughn Rivers",
+            "games": 12,
+            "stats": {
+              "rec": 36,
+              "recYds": 538,
+              "recTDs": 4,
+              "yac": 168
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Ryan Nehlen",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Mike Villagrana",
+            "games": 12,
+            "stats": {
+              "rec": 22,
+              "recYds": 258,
+              "recTDs": 3,
+              "yac": 84
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Tyler Urban",
+            "games": 12,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2007 West Virginia OL",
+            "games": 14,
+            "stats": {
+              "sacksAllowedSeason": 13,
+              "pancakeBlocksSeason": 182,
+              "passBlockEff": 92,
+              "runBlockEff": 72
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Chris Neild",
+            "games": 14,
+            "stats": {
+              "sacks": 6,
+              "tfls": 9,
+              "hurries": 13,
+              "ff": 1,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Scooter Berry",
+            "games": 13,
+            "stats": {
+              "sacks": 5,
+              "tfls": 8,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Julian Miller",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Reed Williams",
+            "games": 14,
+            "stats": {
+              "tackles": 112,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 13
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Mortty Ivy",
+            "games": 14,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Pat McAfee",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 222,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "West Virginia",
+        "era": "00s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Ko Simpson",
+            "games": 14,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 125,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Ryan Mundy",
+            "games": 14,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 58,
+              "ff": 2,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 154,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Charles Burton",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "10s": {
+      "QB": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Geno Smith",
+            "games": 13,
+            "stats": {
+              "passYds": 4205,
+              "passTDs": 42,
+              "intsSeason": 6,
+              "qbr": 192
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 39,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Clint Trickett",
+            "games": 12,
+            "stats": {
+              "passYds": 2926,
+              "passTDs": 23,
+              "intsSeason": 9,
+              "qbr": 155
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Skyler Howard",
+            "games": 13,
+            "stats": {
+              "passYds": 2794,
+              "passTDs": 22,
+              "intsSeason": 6,
+              "qbr": 162
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Tavon Austin",
+            "games": 13,
+            "stats": {
+              "rushYds": 714,
+              "rushTDs": 7,
+              "ypc": 6.5,
+              "recYds": 568
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Wendell Smallwood",
+            "games": 13,
+            "stats": {
+              "rushYds": 1002,
+              "rushTDs": 8,
+              "ypc": 5.6,
+              "recYds": 165
+            },
+            "bonuses": {
+              "nflDraftPick": 155,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Charles Sims",
+            "games": 13,
+            "stats": {
+              "rushYds": 988,
+              "rushTDs": 7,
+              "ypc": 5.5,
+              "recYds": 345
+            },
+            "bonuses": {
+              "nflDraftPick": 69,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Tavon Austin",
+            "games": 13,
+            "stats": {
+              "rec": 82,
+              "recYds": 1114,
+              "recTDs": 11,
+              "yac": 352
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 8,
+              "collegeDominance": "allTime"
+            }
+          },
+          {
+            "name": "Jordan Thompson",
+            "games": 13,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "nflDraftPick": 175,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Kevin White",
+            "games": 13,
+            "stats": {
+              "rec": 109,
+              "recYds": 1507,
+              "recTDs": 10,
+              "yac": 478
+            },
+            "bonuses": {
+              "biletnikoff": true,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 7,
+              "collegeDominance": "allTime"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Trevon Wesco",
+            "games": 12,
+            "stats": {
+              "rec": 26,
+              "recYds": 366,
+              "recTDs": 2,
+              "yac": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 121,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Cody Clay",
+            "games": 12,
+            "stats": {
+              "rec": 18,
+              "recYds": 198,
+              "recTDs": 2,
+              "yac": 64
+            },
+            "bonuses": {
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Elijah Wellman",
+            "games": 13,
+            "stats": {
+              "rec": 14,
+              "recYds": 165,
+              "recTDs": 1,
+              "yac": 52
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2012 West Virginia OL",
+            "games": 13,
+            "stats": {
+              "sacksAllowedSeason": 15,
+              "pancakeBlocksSeason": 172,
+              "passBlockEff": 91,
+              "runBlockEff": 68
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Brodrick Jenkins",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Shaquille Riddick",
+            "games": 13,
+            "stats": {
+              "sacks": 9,
+              "tfls": 12,
+              "hurries": 16,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 189,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Christian Brown",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Isaiah Bruce",
+            "games": 13,
+            "stats": {
+              "tackles": 108,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 155,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Nick Kwiatkoski",
+            "games": 13,
+            "stats": {
+              "tackles": 95,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 123,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Al-Rasheed Benton",
+            "games": 12,
+            "stats": {
+              "tackles": 78,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 8
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "West Virginia",
+        "era": "10s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Karl Joseph",
+            "games": 13,
+            "stats": {
+              "ints": 5,
+              "pbus": 22,
+              "tackles": 65,
+              "ff": 3,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 14,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Dravon Askew-Henry",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 18,
+              "tackles": 52,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 225,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Isiah Gentry",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 15,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    },
+    "20s": {
+      "QB": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "QB",
+        "players": [
+          {
+            "name": "Jarret Doege",
+            "games": 12,
+            "stats": {
+              "passYds": 2945,
+              "passTDs": 22,
+              "intsSeason": 9,
+              "qbr": 148
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Garrett Greene",
+            "games": 12,
+            "stats": {
+              "passYds": 2406,
+              "passTDs": 18,
+              "intsSeason": 8,
+              "qbr": 150,
+              "rushYds": 717,
+              "rushTDs": 13
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Nicco Marchiol",
+            "games": 12,
+            "stats": {
+              "passYds": 2188,
+              "passTDs": 17,
+              "intsSeason": 6,
+              "qbr": 148,
+              "rushYds": 412,
+              "rushTDs": 5
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "RB": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "RB",
+        "players": [
+          {
+            "name": "Tony Mathis Jr.",
+            "games": 13,
+            "stats": {
+              "rushYds": 912,
+              "rushTDs": 8,
+              "ypc": 5.4,
+              "recYds": 120
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "CJ Donaldson Jr.",
+            "games": 13,
+            "stats": {
+              "rushYds": 788,
+              "rushTDs": 7,
+              "ypc": 5.2,
+              "recYds": 108
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Jahiem White",
+            "games": 12,
+            "stats": {
+              "rushYds": 844,
+              "rushTDs": 7,
+              "ypc": 7.7,
+              "recYds": 122
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "WR": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "WR",
+        "players": [
+          {
+            "name": "Sam James",
+            "games": 12,
+            "stats": {
+              "rec": 52,
+              "recYds": 788,
+              "recTDs": 7,
+              "yac": 250
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Hudson Clement",
+            "games": 13,
+            "stats": {
+              "rec": 51,
+              "recYds": 741,
+              "recTDs": 5,
+              "yac": 232
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Bryce Ford-Wheaton",
+            "games": 13,
+            "stats": {
+              "rec": 55,
+              "recYds": 838,
+              "recTDs": 7,
+              "yac": 265
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 196,
+              "collegeDominance": "eraDef"
+            }
+          }
+        ]
+      },
+      "TE": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "TE",
+        "players": [
+          {
+            "name": "Mike O'Laughlin",
+            "games": 13,
+            "stats": {
+              "rec": 22,
+              "recYds": 265,
+              "recTDs": 3,
+              "yac": 85
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Taijh Alston",
+            "games": 12,
+            "stats": {
+              "rec": 16,
+              "recYds": 192,
+              "recTDs": 2,
+              "yac": 60
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "veryGood"
+            }
+          },
+          {
+            "name": "Victor Wikstrom",
+            "games": 12,
+            "stats": {
+              "rec": 10,
+              "recYds": 118,
+              "recTDs": 1,
+              "yac": 36
+            },
+            "bonuses": {
+              "nflDraftPick": 220,
+              "collegeDominance": "veryGood"
+            }
+          }
+        ]
+      },
+      "OL": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "OL",
+        "players": [
+          {
+            "name": "2021 West Virginia OL",
+            "games": 12,
+            "stats": {
+              "sacksAllowedSeason": 17,
+              "pancakeBlocksSeason": 158,
+              "passBlockEff": 89,
+              "runBlockEff": 64
+            },
+            "bonuses": {
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DL": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "DL",
+        "players": [
+          {
+            "name": "Dante Stills",
+            "games": 13,
+            "stats": {
+              "sacks": 7,
+              "tfls": 10,
+              "hurries": 13,
+              "ff": 2,
+              "dominanceGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Edward Vesterinen",
+            "games": 13,
+            "stats": {
+              "sacks": 4,
+              "tfls": 6,
+              "hurries": 9,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Sean Martin",
+            "games": 12,
+            "stats": {
+              "sacks": 3,
+              "tfls": 5,
+              "hurries": 7,
+              "ff": 1,
+              "dominanceGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 215,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "LB": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "LB",
+        "players": [
+          {
+            "name": "Josh Chandler-Semedo",
+            "games": 13,
+            "stats": {
+              "tackles": 105,
+              "sacks": 4,
+              "ints": 2,
+              "tfls": 12
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 165,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Exree Loe",
+            "games": 13,
+            "stats": {
+              "tackles": 88,
+              "sacks": 3,
+              "ints": 1,
+              "tfls": 10
+            },
+            "bonuses": {
+              "nflDraftPick": 185,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Lee Kpogba",
+            "games": 12,
+            "stats": {
+              "tackles": 75,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 7
+            },
+            "bonuses": {
+              "nflDraftPick": 200,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      },
+      "DB": {
+        "school": "West Virginia",
+        "era": "20s",
+        "pos": "DB",
+        "players": [
+          {
+            "name": "Charles Woods",
+            "games": 13,
+            "stats": {
+              "ints": 4,
+              "pbus": 20,
+              "tackles": 55,
+              "ff": 2,
+              "coverageGrade": "A+"
+            },
+            "bonuses": {
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 175,
+              "collegeDominance": "eraDef"
+            }
+          },
+          {
+            "name": "Nicktroy Fortune",
+            "games": 13,
+            "stats": {
+              "ints": 3,
+              "pbus": 16,
+              "tackles": 50,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 195,
+              "collegeDominance": "elite"
+            }
+          },
+          {
+            "name": "Malachi Ruffin",
+            "games": 12,
+            "stats": {
+              "ints": 3,
+              "pbus": 14,
+              "tackles": 48,
+              "ff": 1,
+              "coverageGrade": "A"
+            },
+            "bonuses": {
+              "nflDraftPick": 210,
+              "collegeDominance": "elite"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

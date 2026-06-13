@@ -589,7 +589,7 @@
       "OL": {
         "players": [
           {
-            "name": "Joe Garten",
+            "name": "1989 Colorado OL",
             "games": 12,
             "stats": {
               "sacksAllowedSeason": 15,
@@ -598,8 +598,8 @@
               "runBlockEff": 62
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
+              "conferenceChampionship": true,
+              "collegeDominance": "good"
             }
           }
         ],
@@ -961,7 +961,7 @@
       "OL": {
         "players": [
           {
-            "name": "Chris Naeole",
+            "name": "2002 Colorado OL",
             "games": 12,
             "stats": {
               "sacksAllowedSeason": 15,
@@ -970,8 +970,7 @@
               "runBlockEff": 61
             },
             "bonuses": {
-              "nflDraftPick": 10,
-              "collegeDominance": "elite"
+              "collegeDominance": "good"
             }
           }
         ],
@@ -1333,7 +1332,7 @@
       "OL": {
         "players": [
           {
-            "name": "Nate Solder",
+            "name": "2016 Colorado OL",
             "games": 12,
             "stats": {
               "sacksAllowedSeason": 15,
@@ -1342,8 +1341,7 @@
               "runBlockEff": 56
             },
             "bonuses": {
-              "nflDraftPick": 17,
-              "collegeDominance": "elite"
+              "collegeDominance": "good"
             }
           }
         ],
@@ -1708,7 +1706,7 @@
       "OL": {
         "players": [
           {
-            "name": "Tyler Brown",
+            "name": "2021 Colorado OL",
             "games": 12,
             "stats": {
               "sacksAllowedSeason": 15,
@@ -1717,8 +1715,7 @@
               "runBlockEff": 76
             },
             "bonuses": {
-              "nflDraftPick": 210,
-              "collegeDominance": "elite"
+              "collegeDominance": "average"
             }
           }
         ],

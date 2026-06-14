@@ -84,18 +84,17 @@
             }
           },
           {
-            "name": "Curtis Samuel",
-            "games": 14,
+            "name": "Carlos Hyde",
+            "games": 11,
             "stats": {
-              "rushYds": 771,
-              "rushTDs": 7,
-              "ypc": 8,
-              "recYds": 547
+              "rushYds": 1521,
+              "rushTDs": 15,
+              "ypc": 7.3,
+              "recYds": 147
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 40,
-              "nationalChampionship": true,
+              "firstTeamAllConference": true,
+              "nflDraftPick": 57,
               "collegeDominance": "elite"
             }
           },

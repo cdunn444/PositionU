@@ -1396,21 +1396,18 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Bruce Clark",
-            "games": 12,
+            "name": "Greg Gattuso",
+            "games": 11,
             "stats": {
-              "sacks": 9,
-              "tfls": 14,
-              "hurries": 18,
-              "ff": 2,
-              "dominanceGrade": "A+"
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 11,
+              "ff": 1,
+              "dominanceGrade": "A-"
             },
             "bonuses": {
-              "outland": true,
-              "lombardiAward": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 4,
-              "collegeDominance": "allTime"
+              "nationalChampionship": true,
+              "collegeDominance": "veryGood"
             }
           },
           {

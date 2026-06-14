@@ -477,19 +477,16 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Adrian Peterson",
+            "name": "Kennedy Brooks",
             "games": 13,
             "stats": {
-              "rushYds": 1925,
-              "rushTDs": 15,
-              "ypc": 7.1,
-              "recYds": 232
+              "rushYds": 1056,
+              "rushTDs": 12,
+              "ypc": 8.9,
+              "recYds": 60
             },
             "bonuses": {
-              "doakWalker": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 7,
-              "collegeDominance": "allTime"
+              "collegeDominance": "elite"
             }
           },
           {

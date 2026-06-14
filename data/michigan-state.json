@@ -1172,16 +1172,15 @@
             }
           },
           {
-            "name": "Brian Hoyer",
-            "games": 12,
+            "name": "Brian Lewerke",
+            "games": 13,
             "stats": {
-              "passYds": 2026,
-              "passTDs": 16,
+              "passYds": 2793,
+              "passTDs": 20,
               "intsSeason": 7,
-              "qbr": 145
+              "qbr": 142
             },
             "bonuses": {
-              "nflDraftPick": 210,
               "collegeDominance": "veryGood"
             }
           }

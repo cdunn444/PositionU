@@ -816,17 +816,16 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Paul McDonald",
-            "games": 11,
+            "name": "Todd Marinovich",
+            "games": 12,
             "stats": {
-              "passYds": 1440,
-              "passTDs": 12,
-              "intsSeason": 6,
-              "qbr": 142
+              "passYds": 2578,
+              "passTDs": 16,
+              "intsSeason": 9,
+              "qbr": 145
             },
             "bonuses": {
-              "nflDraftPick": 50,
-              "nationalChampionship": true,
+              "nflDraftPick": 24,
               "collegeDominance": "elite"
             }
           },
@@ -887,19 +886,17 @@
             }
           },
           {
-            "name": "Charles White",
+            "name": "Todd McNair",
             "games": 11,
             "stats": {
-              "rushYds": 1478,
-              "rushTDs": 14,
-              "ypc": 6,
-              "recYds": 88
+              "rushYds": 745,
+              "rushTDs": 6,
+              "ypc": 4.9,
+              "recYds": 295
             },
             "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 27,
-              "collegeDominance": "allTime"
+              "nflDraftPick": 196,
+              "collegeDominance": "veryGood"
             }
           },
           {

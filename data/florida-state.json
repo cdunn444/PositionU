@@ -8,23 +8,16 @@
         "pos": "QB",
         "players": [
           {
-            "name": "Charlie Ward",
-            "games": 12,
+            "name": "Chip Ferguson",
+            "games": 11,
             "stats": {
-              "passYds": 2647,
-              "passTDs": 27,
-              "intsSeason": 4,
-              "qbr": 188,
-              "rushYds": 340,
-              "rushTDs": 7
+              "passYds": 1582,
+              "passTDs": 12,
+              "intsSeason": 6,
+              "qbr": 138
             },
             "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "otherNamedCollegeAward": true,
-              "nflDraftPick": 999,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
+              "collegeDominance": "veryGood"
             }
           },
           {
@@ -858,20 +851,17 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Warrick Dunn",
-            "games": 12,
+            "name": "Greg Jones",
+            "games": 11,
             "stats": {
-              "rushYds": 1242,
+              "rushYds": 978,
               "rushTDs": 9,
-              "ypc": 5.6,
-              "recYds": 462
+              "ypc": 5,
+              "recYds": 180
             },
             "bonuses": {
-              "doakWalker": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 12,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
+              "nflDraftPick": 55,
+              "collegeDominance": "elite"
             }
           },
           {

@@ -467,20 +467,16 @@
             }
           },
           {
-            "name": "Ricky Williams",
+            "name": "Hodges Mitchell",
             "games": 11,
             "stats": {
-              "rushYds": 2124,
-              "rushTDs": 25,
-              "ypc": 6.2,
-              "recYds": 186
+              "rushYds": 1343,
+              "rushTDs": 8,
+              "ypc": 5,
+              "recYds": 250
             },
             "bonuses": {
-              "heisman": true,
-              "doakWalker": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 5,
-              "collegeDominance": "allTime"
+              "collegeDominance": "veryGood"
             }
           },
           {

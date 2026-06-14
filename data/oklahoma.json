@@ -477,15 +477,16 @@
         "pos": "RB",
         "players": [
           {
-            "name": "Kennedy Brooks",
+            "name": "Joe Mixon",
             "games": 13,
             "stats": {
-              "rushYds": 1056,
-              "rushTDs": 12,
-              "ypc": 8.9,
-              "recYds": 60
+              "rushYds": 1274,
+              "rushTDs": 10,
+              "ypc": 6.8,
+              "recYds": 538
             },
             "bonuses": {
+              "nflDraftPick": 48,
               "collegeDominance": "elite"
             }
           },

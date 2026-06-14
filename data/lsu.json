@@ -1590,20 +1590,16 @@
             }
           },
           {
-            "name": "Joe Burrow",
-            "games": 15,
+            "name": "Max Johnson",
+            "games": 12,
             "stats": {
-              "passYds": 5671,
-              "passTDs": 60,
+              "passYds": 2815,
+              "passTDs": 27,
               "intsSeason": 6,
-              "qbr": 202
+              "qbr": 142
             },
             "bonuses": {
-              "heisman": true,
-              "consensusAllAmerican": true,
-              "nflDraftPick": 1,
-              "nationalChampionship": true,
-              "collegeDominance": "allTime"
+              "collegeDominance": "veryGood"
             }
           },
           {

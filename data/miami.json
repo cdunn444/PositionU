@@ -1316,16 +1316,16 @@
             }
           },
           {
-            "name": "Davon Johnson",
-            "games": 12,
+            "name": "Leonard Hankerson",
+            "games": 13,
             "stats": {
-              "rec": 40,
-              "recYds": 608,
-              "recTDs": 5,
-              "yac": 192
+              "rec": 72,
+              "recYds": 1156,
+              "recTDs": 13,
+              "yac": 380
             },
             "bonuses": {
-              "nflDraftPick": 195,
+              "nflDraftPick": 78,
               "collegeDominance": "elite"
             }
           }

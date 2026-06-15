@@ -327,18 +327,17 @@
             }
           },
           {
-            "name": "Lito Sheppard",
+            "name": "Mike Peterson",
             "games": 12,
             "stats": {
-              "tackles": 88,
-              "sacks": 2,
-              "ints": 3,
-              "tfls": 8
+              "tackles": 116,
+              "sacks": 3,
+              "ints": 2,
+              "tfls": 13
             },
             "bonuses": {
               "firstTeamAllAmerican": true,
-              "nflDraftPick": 26,
-              "nationalChampionship": true,
+              "nflDraftPick": 36,
               "collegeDominance": "elite"
             }
           }

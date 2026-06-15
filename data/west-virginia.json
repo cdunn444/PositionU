@@ -95,7 +95,7 @@
             "stats": {
               "rushYds": 760,
               "rushTDs": 7,
-              "ypc": 5.0,
+              "ypc": 5,
               "recYds": 108
             },
             "bonuses": {
@@ -475,7 +475,7 @@
             "stats": {
               "rushYds": 1198,
               "rushTDs": 12,
-              "ypc": 5.0,
+              "ypc": 5,
               "recYds": 165
             },
             "bonuses": {
@@ -1074,17 +1074,17 @@
             }
           },
           {
-            "name": "Pat McAfee",
-            "games": 12,
+            "name": "J.T. Thomas",
+            "games": 13,
             "stats": {
-              "tackles": 75,
-              "sacks": 2,
+              "tackles": 98,
+              "sacks": 4,
               "ints": 1,
-              "tfls": 7
+              "tfls": 11
             },
             "bonuses": {
-              "nflDraftPick": 222,
-              "collegeDominance": "elite"
+              "nflDraftPick": 195,
+              "collegeDominance": "veryGood"
             }
           }
         ]

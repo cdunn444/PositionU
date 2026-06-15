@@ -1424,19 +1424,18 @@
             }
           },
           {
-            "name": "Dion Jordan",
+            "name": "Anthony Chickillo",
             "games": 13,
             "stats": {
               "sacks": 8,
               "tfls": 12,
-              "hurries": 18,
-              "ff": 2,
-              "dominanceGrade": "A+"
+              "hurries": 17,
+              "ff": 1,
+              "dominanceGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 3,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 199,
+              "collegeDominance": "elite"
             }
           },
           {

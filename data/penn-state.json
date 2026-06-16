@@ -1060,17 +1060,17 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Matt Millen",
-            "games": 12,
+            "name": "Greg Buttle",
+            "games": 11,
             "stats": {
-              "tackles": 112,
-              "sacks": 5,
+              "tackles": 165,
+              "sacks": 2,
               "ints": 2,
-              "tfls": 14
+              "tfls": 10
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 43,
+              "consensusAllAmerican": true,
+              "nflDraftPick": 67,
               "collegeDominance": "eraDef"
             }
           },

@@ -340,20 +340,18 @@
         "pos": "DB",
         "players": [
           {
-            "name": "DeAngelo Hall",
-            "games": 12,
+            "name": "Pierson Prioleau",
+            "games": 11,
             "stats": {
-              "ints": 6,
-              "pbus": 36,
-              "tackles": 54,
+              "ints": 4,
+              "pbus": 12,
+              "tackles": 95,
               "ff": 2,
-              "coverageGrade": "A+"
+              "coverageGrade": "A"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "otherNamedCollegeAward": true,
-              "nflDraftPick": 8,
-              "collegeDominance": "allTime"
+              "nflDraftPick": 110,
+              "collegeDominance": "elite"
             }
           },
           {

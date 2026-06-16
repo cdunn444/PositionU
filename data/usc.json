@@ -1461,19 +1461,17 @@
             }
           },
           {
-            "name": "Dion Jordan",
+            "name": "Antwaun Woods",
             "games": 13,
             "stats": {
-              "sacks": 6,
-              "tfls": 9,
-              "hurries": 13,
+              "sacks": 4,
+              "tfls": 8,
+              "hurries": 11,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "A-"
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 3,
-              "collegeDominance": "eraDef"
+              "collegeDominance": "elite"
             }
           }
         ]

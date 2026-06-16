@@ -226,18 +226,18 @@
         "pos": "DL",
         "players": [
           {
-            "name": "Reggie Singletary",
+            "name": "Bob Daniels",
             "games": 11,
             "stats": {
-              "sacks": 6,
-              "tfls": 10,
-              "hurries": 12,
+              "sacks": 5,
+              "tfls": 9,
+              "hurries": 11,
               "ff": 1,
-              "dominanceGrade": "A"
+              "dominanceGrade": "B+"
             },
             "bonuses": {
               "collegeDominance": "veryGood",
-              "note": "Real K-State defensive tackle (early 1980s); pro career with Philadelphia."
+              "note": "Real K-State DE; standout on the 1982 Independence Bowl team (school first bowl)"
             }
           },
           {
@@ -1602,7 +1602,7 @@
             "stats": {
               "rushYds": 1343,
               "rushTDs": 10,
-              "ypc": 6.0,
+              "ypc": 6,
               "recYds": 180
             },
             "bonuses": {

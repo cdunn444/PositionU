@@ -470,7 +470,7 @@
             "stats": {
               "rushYds": 712,
               "rushTDs": 6,
-              "ypc": 5.0,
+              "ypc": 5,
               "recYds": 145
             },
             "bonuses": {
@@ -688,17 +688,18 @@
             }
           },
           {
-            "name": "Dan Conley",
+            "name": "Keith Bulluck",
             "games": 12,
             "stats": {
-              "tackles": 75,
-              "sacks": 2,
-              "ints": 1,
-              "tfls": 7
+              "tackles": 118,
+              "sacks": 5,
+              "ints": 3,
+              "tfls": 14
             },
             "bonuses": {
-              "nflDraftPick": 200,
-              "collegeDominance": "elite"
+              "firstTeamAllAmerican": true,
+              "nflDraftPick": 30,
+              "collegeDominance": "eraDef"
             }
           }
         ]
@@ -849,7 +850,7 @@
             "stats": {
               "rushYds": 712,
               "rushTDs": 6,
-              "ypc": 5.0,
+              "ypc": 5,
               "recYds": 108
             },
             "bonuses": {
@@ -1039,18 +1040,17 @@
         "pos": "LB",
         "players": [
           {
-            "name": "Keith Bulluck",
-            "games": 12,
+            "name": "Kelvin Smith",
+            "games": 13,
             "stats": {
-              "tackles": 118,
-              "sacks": 5,
-              "ints": 3,
-              "tfls": 14
+              "tackles": 102,
+              "sacks": 2,
+              "ints": 1,
+              "tfls": 9
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 30,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 237,
+              "collegeDominance": "elite"
             }
           },
           {

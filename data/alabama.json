@@ -1693,18 +1693,17 @@
             }
           },
           {
-            "name": "Roy Upchurch",
-            "games": 14,
+            "name": "Kenneth Darby",
+            "games": 12,
             "stats": {
-              "rushYds": 855,
-              "rushTDs": 10,
-              "ypc": 5.2,
-              "recYds": 145
+              "rushYds": 1062,
+              "rushTDs": 8,
+              "ypc": 4.8,
+              "recYds": 74
             },
             "bonuses": {
-              "nflDraftPick": 185,
-              "nationalChampionship": true,
-              "collegeDominance": "veryGood"
+              "nflDraftPick": 213,
+              "collegeDominance": "elite"
             }
           }
         ]

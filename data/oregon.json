@@ -908,18 +908,17 @@
         "pos": "TE",
         "players": [
           {
-            "name": "Greg Olsen",
+            "name": "Ed Dickson",
             "games": 12,
             "stats": {
-              "rec": 38,
-              "recYds": 462,
+              "rec": 42,
+              "recYds": 551,
               "recTDs": 5,
-              "yac": 152
+              "yac": 170
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 31,
-              "collegeDominance": "eraDef"
+              "nflDraftPick": 70,
+              "collegeDominance": "elite"
             }
           },
           {

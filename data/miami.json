@@ -421,19 +421,16 @@
             }
           },
           {
-            "name": "Ken Dorsey",
-            "games": 14,
+            "name": "Ryan Clement",
+            "games": 11,
             "stats": {
-              "passYds": 3369,
-              "passTDs": 26,
-              "intsSeason": 9,
-              "qbr": 158
+              "passYds": 1638,
+              "passTDs": 7,
+              "intsSeason": 5,
+              "qbr": 147
             },
             "bonuses": {
-              "firstTeamAllAmerican": true,
-              "nflDraftPick": 188,
-              "nationalChampionship": true,
-              "collegeDominance": "elite"
+              "collegeDominance": "veryGood"
             }
           },
           {
